@@ -1,0 +1,147 @@
+{
+  "generado": "2026-09-13T21:30:01.303714+00:00",
+  "fuente": "laliga.com (oficial)",
+  "jornada": 5,
+  "jornada_nombre": "Jornada 5",
+  "partidos": [],
+  "aplazados": [
+    {
+      "id": "laliga-102296",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-sociedad-atletico-de-madrid-5",
+      "fecha": "2026-09-13T21:00:00+02:00",
+      "estado": "post",
+      "detalle": "0 - 3",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "Real Sociedad",
+        "once": [
+          {
+            "num": 1,
+            "nombre": "A. Remiro"
+          },
+          {
+            "num": 17,
+            "nombre": "Sergio Gómez"
+          },
+          {
+            "num": 34,
+            "nombre": "Beitia"
+          },
+          {
+            "num": 2,
+            "nombre": "Aramburu"
+          },
+          {
+            "num": 19,
+            "nombre": "M.sarr"
+          },
+          {
+            "num": 11,
+            "nombre": "Guedes"
+          },
+          {
+            "num": 18,
+            "nombre": "C.soler"
+          },
+          {
+            "num": 21,
+            "nombre": "Herrera"
+          },
+          {
+            "num": 24,
+            "nombre": "Sucic"
+          },
+          {
+            "num": 7,
+            "nombre": "Barrene"
+          },
+          {
+            "num": 10,
+            "nombre": "Oyarzabal"
+          }
+        ],
+        "formacion": "4231",
+        "logo": "logos/real-sociedad.png"
+      },
+      "visitante": {
+        "equipo": "Atlético de Madrid",
+        "once": [
+          {
+            "num": 13,
+            "nombre": "Oblak"
+          },
+          {
+            "num": 18,
+            "nombre": "Marc Pubill"
+          },
+          {
+            "num": 21,
+            "nombre": "Romero"
+          },
+          {
+            "num": 17,
+            "nombre": "Hancko"
+          },
+          {
+            "num": 22,
+            "nombre": "Grimaldo"
+          },
+          {
+            "num": 14,
+            "nombre": "M. Llorente"
+          },
+          {
+            "num": 20,
+            "nombre": "Giuliano"
+          },
+          {
+            "num": 23,
+            "nombre": "Hjulmand"
+          },
+          {
+            "num": 7,
+            "nombre": "Kang In"
+          },
+          {
+            "num": 10,
+            "nombre": "Álex B."
+          },
+          {
+            "num": 11,
+            "nombre": "Lookman"
+          }
+        ],
+        "formacion": "3421",
+        "logo": "logos/atletico-de-madrid.png"
+      },
+      "aplazado": true
+    },
+    {
+      "id": "laliga-102298",
+      "slug": "temporada-2026-2027-laliga-ea-sports-villarreal-cf-real-betis-5",
+      "fecha": "2026-09-14T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA",
+        "Movistar Plus+",
+        "Orange Fútbol 1"
+      ],
+      "local": {
+        "equipo": "Villarreal CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/villarreal-cf.png"
+      },
+      "visitante": {
+        "equipo": "Real Betis",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-betis.png"
+      },
+      "aplazado": true
+    }
+  ]
+}

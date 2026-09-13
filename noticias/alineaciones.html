@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alineaciones · La Liga</title>
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d2b4e">
+<link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/icon-192.png">
+<script>if('serviceWorker'in navigator){navigator.serviceWorker.register('/sw.js').catch(function(){})}</script>
+<style>
+:root{--bg:#0b0e14;--card:#131a24;--border:#1e2836;--text:#e6edf3;--muted:#8b98a5}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;line-height:1.45}
+header{position:sticky;top:0;z-index:10;background:rgba(11,14,20,.93);backdrop-filter:blur(8px);border-bottom:1px solid var(--border);padding:14px 20px}
+.hd-top{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+h1{font-size:1.15rem}
+h1 .punto{color:#34d399}
+.act{font-size:.78rem;color:var(--muted);margin-top:2px}
+.btn-ventana{background:linear-gradient(135deg,#0ea5e9,#6366f1);color:#fff;text-decoration:none;font-size:.82rem;font-weight:600;border-radius:999px;padding:7px 15px;transition:.15s;white-space:nowrap}
+.btn-ventana:hover{filter:brightness(1.15)}
+main{max-width:1200px;margin:0 auto;padding:20px}
+.cabecera-tema{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.icono{font-size:1.3rem}
+.cabecera-tema h2{font-size:1.05rem}
+.n{background:#1e2836;border-radius:999px;font-size:.75rem;color:var(--muted);padding:2px 10px}
+.seccion-alineaciones{margin-bottom:34px}
+.vacio{grid-column:1/-1;color:var(--muted);font-size:.88rem;padding:18px;text-align:center;border:1px dashed var(--border);border-radius:14px}
+.al-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
+.al-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px}
+.al-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px}
+.al-estado{font-size:.68rem;font-weight:600;border-radius:999px;padding:2px 9px}
+.al-estado.pre{background:#1e2836;color:#8b98a5}
+.al-estado.in{background:rgba(52,211,153,.15);color:#34d399}
+.al-estado.post{background:rgba(251,191,36,.15);color:#fbbf24}
+.al-fecha{font-size:.75rem;color:var(--muted)}
+.al-card h3{font-size:.95rem;margin-bottom:10px}
+.al-canal{display:inline-block;font-size:.72rem;font-weight:600;color:#eab308;background:rgba(234,179,8,.12);border:1px solid rgba(234,179,8,.3);border-radius:999px;padding:2px 9px;margin-bottom:10px}
+.al-marcador{color:#34d399;font-weight:600}
+.al-equipos{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.al-logo{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin-right:6px}
+.al-equipo h4{font-size:.78rem;color:#38bdf8;margin-bottom:6px;border-bottom:1px solid var(--border);padding-bottom:4px}
+.al-formacion{color:var(--muted);font-weight:400;font-size:.72rem}
+.al-once{list-style:none;display:flex;flex-direction:column;gap:2px}
+.al-once li{font-size:.8rem;display:flex;gap:6px}
+.al-num{color:var(--muted);min-width:20px;text-align:right}
+.al-no{color:var(--muted);font-size:.78rem;font-style:italic;padding:4px 0}
+footer{padding:18px 20px 30px;color:#5b6673;font-size:.75rem;text-align:center;border-top:1px solid var(--border)}
+@media (max-width:640px){main{padding:14px}.al-equipos{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="hd-top">
+    <h1>🧾 Alineaciones · La Liga <span class="punto">●</span></h1>
+    <a class="btn-ventana" href="/noticias/" target="_blank" rel="noopener noreferrer">📰 Noticias</a>
+    <a class="btn-ventana" href="/weather.html" target="_blank" rel="noopener noreferrer">☀️ El tiempo</a>
+  </div>
+  <div class="act">Actualizado: 13/09/2026 23:30</div>
+</header>
+<main><section class="seccion-alineaciones"><div class="cabecera-tema"><span class="icono">🧾</span><h2>Próximos partidos · Jornada 5</h2><span class="n">0 partidos</span></div><div class="al-grid"></div></section><section class="seccion-alineaciones"><div class="cabecera-tema"><span class="icono">📌</span><h2>Partidos aplazados</h2><span class="n">2</span></div><div class="al-grid"><article class="al-card"><div class="al-head"><span class="al-estado post">Finalizado</span><span class="al-fecha">🕒 dom 13/09 · 21:00</span></div><h3>Real Sociedad vs Atlético de Madrid <span class="al-marcador">0 - 3</span></h3><div class="al-canal">📺 DAZN</div><div class="al-equipos"><div class="al-equipo"><h4><img class="al-logo" src="logos/real-sociedad.png" alt="" loading="lazy">Real Sociedad <span class="al-formacion">4231</span></h4><ul class="al-once"><li><span class="al-num">1</span>A. Remiro</li><li><span class="al-num">17</span>Sergio Gómez</li><li><span class="al-num">34</span>Beitia</li><li><span class="al-num">2</span>Aramburu</li><li><span class="al-num">19</span>M.sarr</li><li><span class="al-num">11</span>Guedes</li><li><span class="al-num">18</span>C.soler</li><li><span class="al-num">21</span>Herrera</li><li><span class="al-num">24</span>Sucic</li><li><span class="al-num">7</span>Barrene</li><li><span class="al-num">10</span>Oyarzabal</li></ul></div><div class="al-equipo"><h4><img class="al-logo" src="logos/atletico-de-madrid.png" alt="" loading="lazy">Atlético de Madrid <span class="al-formacion">3421</span></h4><ul class="al-once"><li><span class="al-num">13</span>Oblak</li><li><span class="al-num">18</span>Marc Pubill</li><li><span class="al-num">21</span>Romero</li><li><span class="al-num">17</span>Hancko</li><li><span class="al-num">22</span>Grimaldo</li><li><span class="al-num">14</span>M. Llorente</li><li><span class="al-num">20</span>Giuliano</li><li><span class="al-num">23</span>Hjulmand</li><li><span class="al-num">7</span>Kang In</li><li><span class="al-num">10</span>Álex B.</li><li><span class="al-num">11</span>Lookman</li></ul></div></div></article><article class="al-card"><div class="al-head"><span class="al-estado pre">Programado</span><span class="al-fecha">🕒 lun 14/09 · 21:00</span></div><h3>Villarreal CF vs Real Betis</h3><div class="al-canal">📺 Movistar LALIGA · Movistar Plus+ · Orange Fútbol 1</div><div class="al-equipos"><div class="al-equipo"><h4><img class="al-logo" src="logos/villarreal-cf.png" alt="" loading="lazy">Villarreal CF</h4><div class="al-no">Aún sin publicar ⏳</div></div><div class="al-equipo"><h4><img class="al-logo" src="logos/real-betis.png" alt="" loading="lazy">Real Betis</h4><div class="al-no">Aún sin publicar ⏳</div></div></div></article></div></section></main>
+<footer>Se actualiza automáticamente cada 30 min · Datos: LaLiga (oficial)</footer>
+</body>
+</html>

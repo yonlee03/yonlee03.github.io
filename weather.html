@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clima · Sevilla</title>
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d2b4e">
+<link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/icon-192.png">
+<script>if('serviceWorker'in navigator){navigator.serviceWorker.register('/sw.js').catch(function(){})}</script>
+<style>
+  :root {
+    --bg1: #0f2027;
+    --bg2: #203a43;
+    --bg3: #2c5364;
+    --card: rgba(255, 255, 255, 0.09);
+    --card-border: rgba(255, 255, 255, 0.15);
+    --text: #f0f6fa;
+    --muted: #a8c3d4;
+    --accent: #ffd166;
+    --warm: #ff9f43;
+    --cool: #54a0ff;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: linear-gradient(160deg, var(--bg1) 0%, var(--bg2) 55%, var(--bg3) 100%);
+    background-attachment: fixed;
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px 48px;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  header {
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 12px; margin-bottom: 20px;
+  }
+  header h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: 0.5px; }
+  header h1 .pin { font-size: 1.1rem; }
+  .updated { font-size: 0.8rem; color: var(--muted); text-align: right; }
+  .updated button {
+    background: var(--card); color: var(--text); border: 1px solid var(--card-border);
+    border-radius: 8px; padding: 6px 12px; margin-top: 6px; cursor: pointer;
+    font-size: 0.8rem; transition: background .2s;
+  }
+  .updated button:hover { background: rgba(255,255,255,0.2); }
+  .selector select {
+    background: var(--card); color: var(--text); border: 1px solid var(--card-border);
+    border-radius: 10px; padding: 8px 12px; font-size: 0.9rem; cursor: pointer;
+    backdrop-filter: blur(10px); max-width: 260px;
+  }
+  .selector select optgroup { background: #16303e; color: var(--accent); font-weight: 700; font-size: 0.85rem; }
+  .selector select optgroup option { background: #1d3a47; color: var(--text); font-weight: 400; }
+  .selector select option { background: #1d3a47; color: var(--text); }
+
+  .hero {
+    background: var(--card);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 28px;
+    display: flex; align-items: center; gap: 28px;
+    flex-wrap: wrap;
+    backdrop-filter: blur(10px);
+    margin-bottom: 20px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  }
+  .hero .icon { font-size: 5.2rem; line-height: 1; }
+  .hero .temp { font-size: 4.4rem; font-weight: 700; line-height: 1; }
+  .hero .temp small { font-size: 1.8rem; color: var(--muted); font-weight: 400; }
+  .hero .desc { font-size: 1.15rem; color: var(--text); margin-top: 6px; }
+  .hero .feels { font-size: 0.9rem; color: var(--muted); margin-top: 4px; }
+  .hero .meta { margin-left: auto; display: grid; grid-template-columns: repeat(2, auto); gap: 10px 26px; }
+  .hero .meta div { display: flex; align-items: center; gap: 8px; font-size: 0.95rem; }
+  .hero .meta .lbl { color: var(--muted); font-size: 0.8rem; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  }
+  .card h2 { font-size: 1rem; font-weight: 600; color: var(--muted); margin-bottom: 14px; text-transform: uppercase; letter-spacing: 1px; }
+  .card.full { grid-column: 1 / -1; }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 14px; }
+  .stat { text-align: center; }
+  .stat .emoji { font-size: 1.7rem; }
+  .stat .value { font-size: 1.25rem; font-weight: 700; margin-top: 4px; }
+  .stat .label { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+
+  canvas { width: 100%; height: 220px; display: block; }
+
+  .days { display: grid; grid-template-columns: repeat(auto-fit, minmax(115px, 1fr)); gap: 12px; }
+  .day {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid var(--card-border);
+    border-radius: 14px;
+    padding: 14px 8px;
+    text-align: center;
+  }
+  .day .dname { font-size: 0.8rem; color: var(--muted); text-transform: capitalize; }
+  .day .dicon { font-size: 1.8rem; margin: 8px 0; }
+  .day .ddesc { font-size: 0.72rem; color: var(--muted); min-height: 2.2em; }
+  .day .dhi { font-size: 1.05rem; font-weight: 700; }
+  .day .dlo { font-size: 0.85rem; color: var(--muted); }
+  .day .dpop { font-size: 0.72rem; color: var(--cool); margin-top: 4px; }
+
+  footer { text-align: center; font-size: 0.75rem; color: var(--muted); margin-top: 24px; }
+
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+    .hero { flex-direction: column; text-align: center; }
+    .hero .meta { margin-left: 0; grid-template-columns: repeat(2, 1fr); width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1><span class="pin">📍</span> Clima · <span id="cityName">Sevilla</span> <span style="font-size:0.9rem">🇪🇸</span></h1>
+    <div class="selector">
+      <select id="citySelect" onchange="changeCity(this.value)"></select>
+    </div>
+    <div class="updated">
+      <div id="updatedText">Cargando…</div>
+      <button onclick="loadWeather()">🔄 Actualizar</button>
+    </div>
+  </header>
+
+  <!-- CONDICIONES ACTUALES -->
+  <section class="hero" id="hero">
+    <div class="icon" id="curIcon">…</div>
+    <div>
+      <div class="temp"><span id="curTemp">--</span><small>°C</small></div>
+      <div class="desc" id="curDesc">Consultando…</div>
+      <div class="feels" id="curFeels"></div>
+    </div>
+    <div class="meta" id="curMeta"></div>
+  </section>
+
+  <div class="grid">
+    <!-- DETALLES -->
+    <div class="card">
+      <h2>Detalles</h2>
+      <div class="stats" id="detailStats"></div>
+    </div>
+
+    <!-- HOY -->
+    <div class="card">
+      <h2>Sol</h2>
+      <div class="stats" id="sunStats"></div>
+    </div>
+
+    <!-- GRÁFICO HORARIO -->
+    <div class="card full">
+      <h2>Próximas 24 horas · Temperatura y precipitación</h2>
+      <canvas id="hourlyChart"></canvas>
+    </div>
+
+    <!-- 7 DÍAS -->
+    <div class="card full">
+      <h2>Previsión 7 días</h2>
+      <div class="days" id="daysGrid"></div>
+    </div>
+  </div>
+
+  <footer>Datos: Open-Meteo (gratuito) · <span id="coords">Sevilla 37.3828°N, 5.9732°O</span></footer>
+</div>
+
+<script>
+let LAT = 37.3828, LON = -5.9732; // Sevilla por defecto
+const API = "https://api.open-meteo.com/v1/forecast";
+
+const WMO = {
+  0:  ["☀️", "Despejado"],
+  1:  ["🌤️", "Mayormente despejado"],
+  2:  ["⛅", "Parcialmente nublado"],
+  3:  ["☁️", "Nublado"],
+  45: ["🌫️", "Niebla"], 48: ["🌫️", "Niebla"],
+  51: ["🌦️", "Llovizna ligera"], 53: ["🌦️", "Llovizna"], 55: ["🌧️", "Llovizna fuerte"],
+  56: ["🌧️", "Llovizna helada"], 57: ["🌧️", "Llovizna helada"],
+  61: ["🌧️", "Lluvia ligera"], 63: ["🌧️", "Lluvia"], 65: ["🌧️", "Lluvia fuerte"],
+  66: ["🌧️", "Lluvia helada"], 67: ["🌧️", "Lluvia helada"],
+  71: ["🌨️", "Nieve ligera"], 73: ["🌨️", "Nieve"], 75: ["❄️", "Nieve fuerte"],
+  77: ["❄️", "Granos de nieve"],
+  80: ["🌦️", "Chubascos ligeros"], 81: ["🌧️", "Chubascos"], 82: ["⛈️", "Chubascos fuertes"],
+  85: ["🌨️", "Chubascos de nieve"], 86: ["🌨️", "Chubascos de nieve"],
+  95: ["⛈️", "Tormenta"], 96: ["⛈️", "Tormenta y granizo"], 99: ["⛈️", "Tormenta y granizo fuerte"]
+};
+
+const DAYS_ES = ["domingo","lunes","martes","miércoles","jueves","viernes","sábado"];
+const MONTHS_ES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+
+function wmo(code) { return WMO[code] || ["❓", "Desconocido"]; }
+
+async function loadWeather() {
+  const url = `${API}?latitude=${LAT}&longitude=${LON}`
+    + `&current=temperature_2m,apparent_temperature,relative_humidity_2m,is_day,precipitation,weather_code,wind_speed_10m,pressure_msl,uv_index,visibility`
+    + `&hourly=temperature_2m,precipitation_probability,weather_code,is_day`
+    + `&daily=weather_code,temperature_2m_max,temperature_2m_min,sunrise,sunset,precipitation_probability_max,uv_index_max`
+    + `&timezone=Europe/Madrid&forecast_days=7`;
+
+  document.getElementById("updatedText").textContent = "Actualizando…";
+
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const d = await res.json();
+    renderCurrent(d);
+    renderDetails(d);
+    renderSun(d);
+    renderHourly(d);
+    renderDays(d);
+    const now = new Date();
+    document.getElementById("updatedText").textContent =
+      "Actualizado: " + now.toLocaleString("es-ES", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" });
+  } catch (e) {
+    document.getElementById("updatedText").textContent = "Error al cargar: " + e.message;
+    document.getElementById("curDesc").textContent = "No se pudo obtener el clima. ¿Conexión a internet?";
+  }
+}
+
+function renderCurrent(d) {
+  const c = d.current;
+  const [icon, desc] = wmo(c.weather_code);
+  document.getElementById("curIcon").textContent = icon;
+  document.getElementById("curTemp").textContent = Math.round(c.temperature_2m);
+  document.getElementById("curDesc").textContent = desc + (c.is_day ? " · Día" : " · Noche");
+  document.getElementById("curFeels").textContent = "Sensación térmica: " + Math.round(c.apparent_temperature) + " °C";
+}
+
+function renderDetails(d) {
+  const c = d.current;
+  const items = [
+    ["💧", c.relative_humidity_2m + " %", "Humedad"],
+    ["🌬️", c.wind_speed_10m + " km/h", "Viento"],
+    ["🌧️", c.precipitation + " mm", "Precipitación"],
+    ["🕶️", c.uv_index.toFixed(1), "Índice UV"],
+    ["⏱️", Math.round(c.pressure_msl) + " hPa", "Presión"],
+    ["👁️", (c.visibility / 1000).toFixed(1) + " km", "Visibilidad"]
+  ];
+  document.getElementById("detailStats").innerHTML = items.map(([e, v, l]) =>
+    `<div class="stat"><div class="emoji">${e}</div><div class="value">${v}</div><div class="label">${l}</div></div>`
+  ).join("");
+}
+
+function renderSun(d) {
+  const s = d.daily.sunrise[0], ss = d.daily.sunset[0];
+  const fmt = t => t.slice(11, 16);
+  const items = [
+    ["🌅", fmt(s), "Amanecer"],
+    ["🌇", fmt(ss), "Atardecer"],
+    ["☀️", d.daily.uv_index_max[0].toFixed(1), "UV máx."],
+    ["🌧️", d.daily.precipitation_probability_max[0] + " %", "Prob. lluvia"]
+  ];
+  document.getElementById("sunStats").innerHTML = items.map(([e, v, l]) =>
+    `<div class="stat"><div class="emoji">${e}</div><div class="value">${v}</div><div class="label">${l}</div></div>`
+  ).join("");
+}
+
+function renderHourly(d) {
+  const h = d.hourly;
+  const start = h.time.findIndex(t => t >= d.current.time);
+  const idx = start >= 0 ? start : 0;
+  const times = h.time.slice(idx, idx + 24);
+  const temps = h.temperature_2m.slice(idx, idx + 24);
+  const pops = h.precipitation_probability.slice(idx, idx + 24);
+
+  const canvas = document.getElementById("hourlyChart");
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  canvas.width = rect.width * dpr;
+  canvas.height = rect.height * dpr;
+  const ctx = canvas.getContext("2d");
+  ctx.scale(dpr, dpr);
+  const W = rect.width, H = rect.height;
+  const padL = 36, padR = 12, padT = 16, padB = 30;
+  const plotW = W - padL - padR, plotH = H - padT - padB;
+
+  ctx.clearRect(0, 0, W, H);
+
+  const tmin = Math.min(...temps) - 2, tmax = Math.max(...temps) + 2;
+  const span = (tmax - tmin) || 1;
+  const x = i => padL + (i / 23) * plotW;
+  const y = t => padT + (1 - (t - tmin) / span) * plotH;
+
+  // Cuadrícula
+  ctx.strokeStyle = "rgba(255,255,255,0.08)";
+  ctx.fillStyle = "rgba(168,195,212,0.7)";
+  ctx.font = "11px sans-serif";
+  ctx.lineWidth = 1;
+  for (let g = 0; g <= 4; g++) {
+    const gy = padT + (g / 4) * plotH;
+    ctx.beginPath(); ctx.moveTo(padL, gy); ctx.lineTo(W - padR, gy); ctx.stroke();
+    const tv = tmax - (g / 4) * span;
+    ctx.fillText(Math.round(tv) + "°", 4, gy + 4);
+  }
+
+  // Barras de precipitación
+  const maxPop = Math.max(...pops, 1);
+  pops.forEach((p, i) => {
+    if (p <= 0) return;
+    const bw = Math.min(14, (plotW / 24) * 0.5);
+    const bh = (p / maxPop) * plotH * 0.55;
+    ctx.fillStyle = p >= 60 ? "rgba(84,160,255,0.85)" : "rgba(84,160,255,0.45)";
+    ctx.beginPath();
+    ctx.roundRect(x(i) - bw / 2, padT + plotH - bh, bw, bh, 3);
+    ctx.fill();
+  });
+
+  // Línea de temperatura
+  ctx.strokeStyle = "#ffd166";
+  ctx.lineWidth = 2.5;
+  ctx.lineJoin = "round";
+  ctx.beginPath();
+  temps.forEach((t, i) => i === 0 ? ctx.moveTo(x(i), y(t)) : ctx.lineTo(x(i), y(t)));
+  ctx.stroke();
+
+  // Relleno degradado bajo la línea
+  const grad = ctx.createLinearGradient(0, padT, 0, padT + plotH);
+  grad.addColorStop(0, "rgba(255,209,102,0.25)");
+  grad.addColorStop(1, "rgba(255,209,102,0)");
+  ctx.lineTo(x(23), padT + plotH);
+  ctx.lineTo(x(0), padT + plotH);
+  ctx.closePath();
+  ctx.fillStyle = grad;
+  ctx.fill();
+
+  // Puntos + etiquetas de hora
+  ctx.fillStyle = "#ffd166";
+  temps.forEach((t, i) => {
+    ctx.beginPath(); ctx.arc(x(i), y(t), 3, 0, Math.PI * 2); ctx.fill();
+  });
+  ctx.fillStyle = "rgba(168,195,212,0.85)";
+  ctx.font = "10px sans-serif";
+  ctx.textAlign = "center";
+  for (let i = 0; i < 24; i += 3) {
+    const dt = new Date(times[i]);
+    ctx.fillText(String(dt.getHours()).padStart(2, "0") + "h", x(i), H - 10);
+  }
+}
+
+function renderDays(d) {
+  const days = d.daily;
+  const today = new Date();
+  const grid = days.time.map((t, i) => {
+    const [icon, desc] = wmo(days.weather_code[i]);
+    const dt = new Date(t + "T12:00:00");
+    const isToday = i === 0;
+    const name = isToday ? "Hoy" : DAYS_ES[dt.getDay()];
+    return `<div class="day">
+      <div class="dname">${name}${i === 1 ? " · " + dt.getDate() : ""}</div>
+      <div class="dicon">${icon}</div>
+      <div class="ddesc">${desc}</div>
+      <div class="dhi">${Math.round(days.temperature_2m_max[i])}°</div>
+      <div class="dlo">${Math.round(days.temperature_2m_min[i])}°</div>
+      <div class="dpop">🌧 ${days.precipitation_probability_max[i]}%</div>
+    </div>`;
+  }).join("");
+  document.getElementById("daysGrid").innerHTML = grid;
+}
+
+
+// ---- Ciudades de España (coordenadas precisas, agrupadas por provincia) ----
+const CITIES = [
+["Sevilla", 37.3828, -5.9732, "Andalucía"],
+["Almería", 36.8381, -2.4597, "Andalucía"],
+["Cádiz", 36.5267, -6.2891, "Andalucía"],
+["Córdoba", 37.8916, -4.7728, "Andalucía"],
+["Granada", 37.1882, -3.6067, "Andalucía"],
+["Huelva", 37.2664, -6.9400, "Andalucía"],
+["Jaén", 37.7692, -3.7903, "Andalucía"],
+["Jerez de la Frontera", 36.6865, -6.1361, "Andalucía"],
+["Marbella", 36.5154, -4.8858, "Andalucía"],
+["Málaga", 36.7202, -4.4203, "Andalucía"],
+["Tarifa", 36.0139, -5.6070, "Andalucía"],
+["Ceuta", 35.8892, -5.3204, "Ciudad Autónoma de Ceuta"],
+["Melilla", 35.2937, -2.9383, "Ciudad Autónoma de Melilla"],
+["Huesca", 42.1362, -0.4087, "Comunidad Autónoma de Aragón"],
+["Teruel", 40.3456, -1.1065, "Comunidad Autónoma de Aragón"],
+["Zaragoza", 41.6561, -0.8773, "Comunidad Autónoma de Aragón"],
+["Las Palmas de Gran Canaria", 28.1018, -15.4157, "Comunidad Autónoma de Canarias"],
+["Santa Cruz de Tenerife", 28.4682, -16.2546, "Comunidad Autónoma de Canarias"],
+["Santander", 43.4659, -3.8049, "Comunidad Autónoma de Cantabria"],
+["Burgos", 42.3411, -3.7018, "Comunidad Autónoma de Castilla y León"],
+["León", 42.6000, -5.5703, "Comunidad Autónoma de Castilla y León"],
+["Palencia", 42.0095, -4.5241, "Comunidad Autónoma de Castilla y León"],
+["Salamanca", 40.9688, -5.6639, "Comunidad Autónoma de Castilla y León"],
+["Segovia", 40.9481, -4.1184, "Comunidad Autónoma de Castilla y León"],
+["Soria", 41.7640, -2.4688, "Comunidad Autónoma de Castilla y León"],
+["Valladolid", 41.6554, -4.7235, "Comunidad Autónoma de Castilla y León"],
+["Zamora", 41.5063, -5.7446, "Comunidad Autónoma de Castilla y León"],
+["Ávila", 40.6572, -4.6995, "Comunidad Autónoma de Castilla y León"],
+["Albacete", 38.9942, -1.8564, "Comunidad Autónoma de Castilla-La Mancha"],
+["Cuenca", 40.0667, -2.1333, "Comunidad Autónoma de Castilla-La Mancha"],
+["Guadalajara", 40.6286, -3.1618, "Comunidad Autónoma de Castilla-La Mancha"],
+["Toledo", 39.8581, -4.0226, "Comunidad Autónoma de Castilla-La Mancha"],
+["Barcelona", 41.3888, 2.1590, "Comunidad Autónoma de Cataluña"],
+["Lleida", 41.6167, 0.6222, "Comunidad Autónoma de Cataluña"],
+["Tarragona", 41.1191, 1.2454, "Comunidad Autónoma de Cataluña"],
+["Badajoz", 38.8779, -6.9706, "Comunidad Autónoma de Extremadura"],
+["A Coruña", 43.3713, -8.3960, "Comunidad Autónoma de Galicia"],
+["Lugo", 43.0099, -7.5560, "Comunidad Autónoma de Galicia"],
+["Ourense", 42.3367, -7.8641, "Comunidad Autónoma de Galicia"],
+["Santiago de Compostela", 42.8805, -8.5457, "Comunidad Autónoma de Galicia"],
+["Vigo", 42.2328, -8.7226, "Comunidad Autónoma de Galicia"],
+["Logroño", 42.4661, -2.4512, "Comunidad Autónoma de La Rioja"],
+["Madrid", 40.4165, -3.7026, "Comunidad Autónoma de Madrid"],
+["Palma de Mallorca", 39.5694, 2.6502, "Comunidad Autónoma de las Islas Baleares"],
+["Bilbao", 43.2627, -2.9253, "Comunidad Autónoma del País Vasco"],
+["San Sebastián", 43.3128, -1.9750, "Comunidad Autónoma del País Vasco"],
+["Vitoria-Gasteiz", 42.8500, -2.6727, "Comunidad Autónoma del País Vasco"],
+["Pamplona", 42.8169, -1.6432, "Comunidad Foral de Navarra"],
+["Alicante", 38.3452, -0.4815, "Comunidad Valenciana"],
+["Benidorm", 38.5382, -0.1310, "Comunidad Valenciana"],
+["Castellón de la Plana", 39.9857, -0.0493, "Comunidad Valenciana"],
+["Elche", 38.2622, -0.7011, "Comunidad Valenciana"],
+["Valencia", 39.4739, -0.3797, "Comunidad Valenciana"],
+["Gijón", 43.5357, -5.6615, "Principado de Asturias"],
+["Oviedo", 43.3603, -5.8448, "Principado de Asturias"],
+["Cartagena", 37.6020, -0.9840, "Región de Murcia"],
+["Murcia", 37.9870, -1.1300, "Región de Murcia"]
+];
+
+(function populateCities() {
+  const sel = document.getElementById("citySelect");
+  const groups = {};
+  CITIES.forEach((c, i) => {
+    if (!groups[c[3]]) groups[c[3]] = [];
+    groups[c[3]].push([c[0], i]);
+  });
+  for (const [prov, list] of Object.entries(groups)) {
+    const og = document.createElement("optgroup");
+    og.label = prov;
+    list.forEach(([name, idx]) => {
+      const opt = document.createElement("option");
+      opt.value = idx;
+      opt.textContent = name;
+      if (idx === 0) opt.selected = true;
+      og.appendChild(opt);
+    });
+    sel.appendChild(og);
+  }
+})();
+
+function changeCity(idx) {
+  const c = CITIES[idx];
+  LAT = c[1]; LON = c[2];
+  document.getElementById("cityName").textContent = c[0];
+  document.getElementById("coords").textContent = c[0] + " " + Math.abs(LAT).toFixed(4) + "°" + (LAT >= 0 ? "N" : "S") + ", " + Math.abs(LON).toFixed(4) + "°" + (LON >= 0 ? "E" : "O");
+  loadWeather();
+}
+
+loadWeather();
+setInterval(loadWeather, 30 * 60 * 1000); // refresco cada 30 min
+</script>
+</body>
+</html>
