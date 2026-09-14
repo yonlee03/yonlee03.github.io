@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T14:00:28.232946+00:00",
+  "generado": "2026-09-14T14:30:17.022862+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,27 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "SI NO PUEDES ACUDIR AL SEVILLA FC-FC BARCELONA, RECUERDA CEDER TU ABONO",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHFDd09jdEJHcWFhYnljUjVnU2x3Z3FYUzB1Zmdpd2N6TXNvQzBCVVFDU011bnliZDRPUWswTGJjMlRab0FmeE9qbnR6eWRuNmVnNjlIZHplX1NVS2JoMUJTOEZuSGtMMVlIbXdIeGZuVWxzTWFaWUtJRlhYbnNCNU9tdEh5Nm9yNGFnSF9jY25CN1F1Rk02ZWgzOTQ2Q0NlYTA0bg?oc=5",
+          "desc": "SI NO PUEDES ACUDIR AL SEVILLA FC-FC BARCELONA, RECUERDA CEDER TU ABONO Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:04:36+00:00"
+        },
+        {
+          "title": "Unai Emery volverá al Sánchez-Pizjuán",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVc5OUlrVzJUeUJWME8xeXQxMVMyaFAweDl0RkJsbXhwc08yU2ItUFBRVmRvR3N5R3B0QWZacVI3MTBPUWxieWtOTUF3aFJCT3pPLTRsNzZXTjc3MV9tcWFHMnRhRmMtQWNwaFJVdEVwcWJ6UW9xWmlCaDkwYThRZnl6TEg2Vjk4a1ltYUQ5QkRIWWFSbzA5aXNPWHdkNERBRDNsVGpvZ3fSAbYBQVVfeXFMTTVsUGE2VDNwT04wYkVXakp2Um0wLUVYS3FrNmZweHZQemx6ajFlUVdUQWVvNFBoMXhNWUZuTjJLU1pvalZjRE00OXpSSGNDQld4ME1rUENkQjRLZnl4WGtoZTZwb05xODdRcHpsWFFGekVlM0xtaHRyanhsMmRlZHVvSGt0MjFNUDFlOE5faW1YT1IyVWE0V0k4Z00zYzdUMUR5UEdSRUljVEpPR2F2b3NPaHpGOEE?oc=5",
+          "desc": "Unai Emery volverá al Sánchez-Pizjuán Mundo Deportivo",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T13:54:28+00:00"
+        },
+        {
+          "title": "El Sevilla FC jugará contra el Aston Villa en el XV Trofeo Antonio Puerta: fecha, horario y entradas",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQU5LV296OTVOM2pjcnFhOVR6U3ZJa0FSUGNyUmx4V2c4clhoWk5wTmg1aHoxdVhVYWozaXFFZUtiN2ZoUVFxQ2wxcVJlLWNlbHJzNVQ3Q28xSWJLdzBORlZGdkNvNzNnR3QwMy1yNXp2OEx1VTZHY2xENjlTcnNBZFNWWUVhYjhYaEVYLVRMMmFLMWVkSjBuVNIBngFBVV95cUxQOVlmTl8zREZkR0NZWmZFWDhzTlhFSUx1eUZJZXBfUXFvSEJMMjlBc09JWDczNVk4NllCM1A0YURodzNfSHk2aUJrMmhhNElXZ1diTHJQZFBFY0ZjMjZXVmhDbnpwdnJHc3JHUFRLNlZSdHY3T2F0ZXRmN2o0SnFqQzdFYzZwcllvQkg2NEhiX3NISkp4MGJsVURwczZDZw?oc=5",
+          "desc": "El Sevilla FC jugará contra el Aston Villa en el XV Trofeo Antonio Puerta: fecha, horario y entradas El Correo de Andalucía",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T13:44:34+00:00"
+        },
         {
           "title": "Aubameyang, de 37 años y sin freno, el récord que le pone a la altura de Ibrahimovic",
           "link": "https://www.estadiodeportivo.com/futbol/deportivo/aubameyang-anos-sin-freno-record-que-pone-altura-ibrahimovic-20260914-546540.html",
@@ -90,7 +111,7 @@
         {
           "title": "Unai Emery volverá a Nervión con el Aston Villa por el Trofeo Antonio Puerta",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeV9QRkpURk1ITUR3dmtXYW1GZFBaanQ1TzI1bEV6UVo3dVFqWTJsU1JiX3hvMWZLQjNWUm9UU0thSktWX0lNYjUtS2tvSl9HcDEyZy03V0JRdlVMOWpQWEkyRzdkaTBrQngwQWJfZEpEOVkzcERnZmE1WUhLRElFb2hlTnh0emZ4TEcyVFppSGNoMHBQSFRDc0tHOGRmdnd3ZWhSODJIRVJvOWVGcC1VRkhYd3JJVjdVNm1Zbnk2RVBXM21YdmVOUDhWLTdmTEU5dExLQWsxajV1RVlxZmtvMmRSbw?oc=5",
-          "desc": "Unai Emery volverá a Nervión con el Aston Villa por el Trofeo Antonio Puerta El Desmarque",
+          "desc": "Unai Emery volverá a Nervión con el Aston Villa por el Trofeo Antonio Puerta eldesmarque.com",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T12:00:08+00:00"
         },
@@ -111,7 +132,7 @@
         {
           "title": "El Sevilla FC de Luis García Plaza firma el mejor arranque liguero desde la época Lopetegui",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1BYZ01nWG9QV1FubFRJSk5XeW95VDdjWmgzNnd6dUZzVU8zQXRFWVE5RnQzbDRRUms4T0pIa0RWdC0yZFpNdm5XdTFnMFdjRk11Tk15bWg4VnlYV3NJSExkaE02UTdFRkMxXzNuTlYzSUUzN0sxMmRTMmdVNFU1MVpGVmNHQWJyVjd3RWtfVkgtVWZ3Sk94dXgtQlI3Q3JzY3A2WWpoT2lQYk9OTnZMTTZyQ1lGZE1kZ2lGQmwyX2JZbVB0NFFFVy1nTFBSaE43SlhV?oc=5",
-          "desc": "El Sevilla FC de Luis García Plaza firma el mejor arranque liguero desde la época Lopetegui El MIRA",
+          "desc": "El Sevilla FC de Luis García Plaza firma el mejor arranque liguero desde la época Lopetegui elmira.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T11:31:52+00:00"
         },
@@ -156,27 +177,6 @@
           "desc": "Cardoso vuelve a entrenarse con sus compañeros en el Sevilla FC Diario de Sevilla",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T10:02:59+00:00"
-        },
-        {
-          "title": "El Sevilla encuentra el gol en la variedad",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVJtNTdkd0M1a2NDWkgtcW1Jbk5JcTZ5VER3emlkOHhmeF84eWpJaC03WE5QOGc0cDdWVnJ1WTBCV2hWNEYtbUxHdWtOQnBhTkY3TFhnU0pEN0pScGRvbHoyZ0tXbVBuM2dEdGtjVXlQRXNISnJzaUhJcXctbzZFNzJyUHU1eVdEcUkybUtBMFlReGZCWFpwZUxzaVc4VkU4Qnc?oc=5",
-          "desc": "El Sevilla encuentra el gol en la variedad El Pespunte",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:02:00+00:00"
-        },
-        {
-          "title": "¡Sorpresa en el entrenamiento del Sevilla FC! Un descarte vuelve al grupo e incertidumbre con Stassin",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeUtlN3REcXRGTnNfSmJEXzBsLWh4eEdFNUJncUN0bWJXZWxZaWZBalJuVjFLYXprcUplTGpiaGZRbmE1d05USXN2TDd4R1RTMHk5bjM4QTBNNldrQ19WZExmTkM1UF9ZRk13WUIxV21IMXFISG56dHNlSEthZGtrT1l5THNIVXZjTFVWRERUUzFOVnRBSlJVVTY2V2xwVEpYN3dMUVVoQXVheEdvUFdzME5CT2FnZ2xFMngxSFcxd3FhZENDVWl3RndhZkNrdw?oc=5",
-          "desc": "¡Sorpresa en el entrenamiento del Sevilla FC! Un descarte vuelve al grupo e incertidumbre con Stassin Vamos Mi Sevilla",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T09:41:03+00:00"
-        },
-        {
-          "title": "Deportivo La Coruña - Sevilla FC | Pronóstico y cuotas 16.09.2026",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzJKOWRNek04U1dfRjNRNEJQWVhDaFJyNFI4ZXhiSWlHay1fa3pfN25SdUtHS3h4OGVwcG5tMGdGQjFJSnBzX3Y0NFpmTVlFV21rc29WSXRPNkNtSjF5RkdRWXhFMkFKd24zZDNQdHdmelJMNnVFeW83NnJqSk5qWlRzOHN1NlRRb0QyUkcyaURaVFc4WWlJ?oc=5",
-          "desc": "Deportivo La Coruña - Sevilla FC | Pronóstico y cuotas 16.09.2026 as.com",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T09:38:02+00:00"
         }
       ]
     },
@@ -184,6 +184,27 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Elena Alameda, psicóloga: “El silencio ayuda a activar el nervio vago, conectándonos con la calma”",
+          "link": "https://www.eldiario.es/era/elena-alameda-psicologa-silencio-ayuda-activar-nervio-vago-conectandonos-calma-xp_1_13508187.html",
+          "desc": "Algunos estudios han demostrado que los periodos de silencio pueden ser incluso más relajantes que escuchar música Los hábitos de un fisio para estimular el nervio vago y pasar del estrés a la calma: “El cuerpo ya no se recupera igual” Nuestro día a día está lleno de ruido con música, el sonido de la televisión, la radio, conversaciones, obras, tráfico, sirenas… Si nos paramos un momento a pensar, notamos que son pocos los momentos al día que pasamos en silencio, algo que puede tener consecuencias para nuestra salud. Por ejemplo, según este estudio realizado por la Organización Mundial de la Salud y el Centro Común de Investigación de la Comisión Europea, una exposición constante a la contaminación acústica podría provocar un aumento de la presión arterial. Así, no es de extrañar que las investigaciones apunten a que el silencio sea bueno para sentirnos menos estresados, más concentrados y que, además, nos ayude a descansar mejor. Algunos estudios han demostrado también que los periodos de silencio pueden ser incluso más relajantes que escuchar música. Esta investigación , por ejemplo, indica que trabajar en silencio reduce los niveles de cortisol en comparación con trabajar escuchando conversaciones o ruido. El importante efecto calmante de pasar momentos de silencio El silencio, algo tan simple y a menudo ignorado, puede ser una de las herramientas más importantes para nuestro bienestar y descanso. Ni música, ni radio, ni voces que proceden de conversaciones. Tan solo un espacio tranquilo y silencioso. Por un instante, parece que todo está en calma. Estos momentos nos permiten desconectar del ajetreo diario y le dan a nuestro cerebro sobreestimulado la oportunidad de recuperarse de toda la información que recibe. Para Elena Alameda Jackson, psicóloga de Cuidado Psicológico , el silencio tiene muchos beneficios. “Uno de los que más se ha hablado en los últimos años, y que nos ha traído la neurociencia, es que estar en silencio dos horas al día nos puede ayudar a crear nuevas neuronas en el hipocampo, el área del cerebro más relacionada con la memoria, el aprendizaje y la regulación emocional”. Aunque generalmente solemos considerar el silencio como un vacío, un estado de ausencia de ruido y estímulos, también puede percibirse como un estímulo, lo que da lugar a una reacción. La idea del silencio como algo que se puede percibir no es algo imaginario. De acuerdo con un estudio de la Universidad Johns Hopkins , el cerebro procesa el silencio del mismo modo que proceso los sonidos. Por tanto, lo ‘percibe’: podemos llegar a ‘escuchar el silencio’. Y, si somos capaces de hacerlo, nos ayuda a descansar mejor porque tiene un importante efecto calmante en el cuerpo. Así como el ruido puede desencadenar respuestas de estrés, los momentos de tranquilidad y silencio ayudan al sistema nervioso a restablecerse, disminuyendo la presión arterial y aliviando la tensión. “El silencio ayuda a activar el nervio vago , conectándonos con la calma, la serenidad y la regulación”, afirma Alameda, que añade que estos ratos “son una buena manera de desactivar el modo ‘lucha-huida’ en el que solemos vivir, dando paso al equilibrio”. Y es que, de acuerdo con este estudio publicado en JAMA Internal Medicine , dedicar un tiempo cada día a estar en silencio, en concreto a la meditación de atención plena, reduce el insomnio y la fatiga en adultos mayores. Si el estrés suele desencadenar la respuesta de lucha o huida, que eleva los niveles de cortisol y aumenta la frecuencia cardiaca, el silencio, en cambio, puede activar el sistema de descanso y digestión del cuerpo, lo que permite la relajación física. El silencio también le da espacio a la mente para respirar. En la quietud, los pensamientos comienzan a calmarse, creando un espacio para la claridad, la creatividad e incluso para la reflexión. El silencio también es importante porque nos ayuda a conocernos mejor: “Son momentos en los que decidimos replegarnos en nosotros mismos, de encuentro íntimo, algo que a veces da miedo”, explica Alameda. Porque, según la experta, puede ocurrir que nos dé “miedo que acabe el sonido externo y quedarnos frente a frente con nuestra mente y su auto-diálogo, con nuestro cuerpo y sus sensaciones. Pero solo cuando hablamos desde dentro, desde cada respiración, podemos conocernos”. Silencio, ¿solo ausencia de ruido? El silencio no solo es externo, sino también interno. Porque cuando estamos en silencio estamos intentando observar los pensamientos que surgen en nuestra mente. Para Alameda, es clave distinguir entre ruido externo e interno. “En muchas ocasiones silenciamos el ruido externo pero sentimos que, en nuestro interior, aún ruge ese ruido que ya no está fuera, pero que se ha quedado cautivo en nosotros, en nuestro cerebro, en nuestro sistema nervioso”, matiza Alameda que, como especialista en Personas Altamente Sensibles (PAS), ha visto cómo “el ruido externo sobreestimula mucho, algo que deja huella en la mente en forma de pensamientos, diálogo interno, activación de recuerdos, etc.”. La psicóloga recomienda en cualquier caso practicar el silencio interno para “darle tiempo a nuestro cerebro para que se deshaga de ese eco de sobreestimulación y sobreinformación constante”. Para liberarnos de este ruido interior puede ayudar “poner por escrito lo que pensamos, caminar en silencio de forma consciente, lo que puede ayudarnos también a reducir poco a poco la activación de nuestro cuerpo”, admite Alameda. Cómo encontrar espacios para disfrutar del silencio ¿Cuándo fue la última vez que nos sumergimos por completo en el silencio? Incluso cuando sentimos que por fin estamos en un ambiente tranquilo, porque los niños no están en casa o porque la televisión está apagada, seguimos percibiendo sonidos del exterior, como el tráfico de los coches o las voces de los vecinos. Por tanto, encontrar y disfrutar del silencio en nuestra vida cotidiana no es fácil. “Para empezar a disfrutar de él, podemos exponernos a la naturaleza: escuchar el sonido del viento entre las ramas, el canto de los pájaros que activa nuestro nervio vago, nuestras pisadas sobre la tierra… la naturaleza no espera nada de nosotros y eso nos libera”, afirma Alameda. Además, la experta aconseja tres prácticas esenciales para incorporar el silencio en nuestro día a día: Hacer tres pausas diarias de cinco minutos para respirar de forma consciente. “Si cerramos los ojos podremos conectar mejor con el movimiento natural de la inhalación y exhalación”, afirma Alameda. Caminar al menos 15 minutos en un entorno natural. “El movimiento físico nos ayuda a tranquilizar la mente y conectar de nuevo con la sabiduría del cuerpo”, explica la experta. Dejar de luchar contra nuestros pensamientos. “Cuanto más lo hacemos, más fuerza toma, de ahí que el silencio interior se logre observando la mente pero sin discutir con ella. Escribir o meditar son mis estrategias preferidas para aceptar a mi mente tal y como es”, concluye Alameda.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T14:13:42+00:00"
+        },
+        {
+          "title": "Un viaje en barca por el río subterráneo navegable más largo de Europa y entre pinturas rupestres Patrimonio de la UNESCO",
+          "link": "https://www.eldiario.es/viajes/viaje-barca-rio-subterraneo-navegable-europa-pinturas-rupestres-patrimonio-unesco_1_13508480.html",
+          "desc": "Durante unos 40 minutos, esta ruta permite observar formaciones creadas sobre roca caliza, mientras distintos restos confirman que fueron habitadas por humanos hace al menos 17.000 años El canal francés creado con la ambición de unir el Atántico con el Meditérraneo y es Patrimonio Mundial de la UNESCO En La Vall d’Uixó, en la provincia de Castelló, las Coves de Sant Josep permiten adentrarse en una parte de un amplio sistema de galerías atravesado por el agua. La cavidad se encuentra junto a la Sierra de Espadán y combina formaciones geológicas, un curso subterráneo navegable y restos que demuestran que este entorno ya fue utilizado por grupos humanos durante la Prehistoria. La visita alterna tramos en barca con otros que se realizan a pie. Durante unos 40 minutos, el recorrido pasa por distintas salas y permite observar cómo la acción del agua ha ido modificando la roca caliza. Estalactitas y estalagmitas aparecen a lo largo de una cavidad cuyo desarrollo conocido la convierte en la más extensa de la provincia de Castelló y en la segunda de la Comunitat Valenciana. Su interés, sin embargo, no se limita a la geología. En el interior se han encontrado pinturas y grabados prehistóricos, además de otros restos que permiten situar la presencia humana en este lugar hace más de 17.000 años, durante el Paleolítico Superior. Estas manifestaciones rupestres forman parte del patrimonio reconocido por la UNESCO y añaden una dimensión arqueológica a un recorrido en el que buena parte de la visita se realiza sobre el agua. Un recorrido de 800 metros en barca y 250 a pie De la zona abierta al público unos 800 metros se recorren en embarcación y los 250 metros restantes corresponden a una galería que se atraviesa caminando. El itinerario completo dura alrededor de 40 minutos y permite conocer diferentes sectores de las Coves de Sant Josep combinando navegación y recorrido a pie. Las barcas son conducidas por los barqueros y barqueras que acompañan a cada grupo y se encargan de dirigirlas por los tramos navegables. Desde ellas se pueden observar las paredes y los techos de la cavidad, donde el paso del tiempo y la acción del agua han ido creando numerosas estructuras minerales. Entre los puntos incluidos en la ruta se encuentran la Sala de los Murciélagos, el Lago Diana y la Galería de los Sifones. El trazado pasa por espacios de tamaños distintos y permite ver algunas de las formas desarrolladas sobre la roca caliza. En el interior aparecen estalactitas que cuelgan del techo, estalagmitas que crecen desde el suelo, columnas formadas por la unión de ambas y coladas minerales que cubren parte de las superficies. La propia configuración de la cueva está relacionada con las características de este tipo de terreno. A lo largo de periodos muy prolongados, el agua ha ido actuando sobre la caliza, ampliando grietas y abriendo conductos hasta formar parte del sistema de galerías que se conoce actualmente. Ese mismo proceso está detrás de muchas de las formas que se observan durante la visita. El curso que atraviesa Sant Josep está considerado uno de los ríos subterráneos navegables más largos de Europa. La cavidad es además la de mayor recorrido conocido en la provincia de Castelló y la segunda de la Comunitat Valenciana. La extensión total supera con claridad el tramo acondicionado para las visitas, por lo que el itinerario turístico permite conocer solo una parte del conjunto. Coves de Sant Josep. Más de 16.000 años de presencia humana Las Coves de Sant Josep conservan también testimonios de una ocupación muy anterior a su actual uso. Los restos arqueológicos encontrados en este entorno permiten situar la presencia humana hace más de 17.000 años, durante el Paleolítico Superior, cuando la cavidad ya era utilizada por distintos grupos como espacio de refugio. Entre las evidencias conservadas se encuentran pinturas y grabados realizados sobre la roca. Estas manifestaciones prehistóricas forman parte del conjunto reconocido por la UNESCO y muestran que el enclave ya tenía importancia para las comunidades que ocuparon esta zona miles de años antes de que comenzaran las visitas modernas. La relación con ese pasado no se limita al interior de la cueva. El Paraje Natural de Sant Josep alberga también un yacimiento arqueológico, lo que permite vincular la cavidad con una ocupación más amplia del territorio. La presencia de restos en diferentes puntos ayuda a entender que este espacio fue utilizado durante distintos periodos y no únicamente de manera puntual. Este componente arqueológico añade otra dimensión al recorrido. La visita no consiste solo en conocer una cavidad atravesada por un río subterráneo, sino también en acercarse a un lugar en el que todavía se conservan huellas de comunidades prehistóricas. Ambos elementos forman parte del mismo enclave, aunque responden a procesos y épocas muy diferentes. La combinación de geología y arqueología explica buena parte de la singularidad actual de las Coves de Sant Josep. El visitante recorre una de las principales cavidades de Castelló a través de un curso subterráneo y, al mismo tiempo, entra en un espacio donde se conservan pinturas, grabados y otros restos asociados a una ocupación humana de hace miles de años. En poco más de un kilómetro acondicionado se puede conocer así una parte tanto del desarrollo natural de la cueva como de la historia de quienes utilizaron este lugar desde la Prehistoria.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T14:05:35+00:00"
+        },
+        {
+          "title": "SI NO PUEDES ACUDIR AL SEVILLA FC-FC BARCELONA, RECUERDA CEDER TU ABONO",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHFDd09jdEJHcWFhYnljUjVnU2x3Z3FYUzB1Zmdpd2N6TXNvQzBCVVFDU011bnliZDRPUWswTGJjMlRab0FmeE9qbnR6eWRuNmVnNjlIZHplX1NVS2JoMUJTOEZuSGtMMVlIbXdIeGZuVWxzTWFaWUtJRlhYbnNCNU9tdEh5Nm9yNGFnSF9jY25CN1F1Rk02ZWgzOTQ2Q0NlYTA0bg?oc=5",
+          "desc": "SI NO PUEDES ACUDIR AL SEVILLA FC-FC BARCELONA, RECUERDA CEDER TU ABONO Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:04:36+00:00"
+        },
         {
           "title": "Compra las últimas entradas para el Atlético de Madrid vs Osasuna",
           "link": "https://www.marca.com/futbol/atletico/2026/09/14/compra-ultimas-entradas-atletico-madrid-vs-osasuna.html",
@@ -330,27 +351,6 @@
           "desc": "El delantero del conjunto de Claudio Giráldez apunta a sufrir una rotura fibrilar, por lo que, a falta de pruebas definitivas, el Celta de Vigo se quedaría sin Iago Aspas durante las próximas semanas El Celta de Vigo sufrió un nuevo empate en LaLiga EA Sports esta temporada , el cuarto en seis jornadas del campeonato doméstico. Además, los de Claudio Giráldez cayeron derrotados ante Osasuna y Athletic Club , dos palos que se unen a la reciente lesión de Iago Aspas. El futbolista del conjunto gallego se fue con molestias del encuentro del pasado domingo ante el Málaga , por lo que está pendiente de pruebas definitivas. Sin embargo, el Celta de Vigo , horas después del choque frente al Málaga de Juanfran Funes , emitió un parte medico en el que informó que Iago Aspas sufría una posible rotura fibrilar en el recto anterior de la pierna izquierda, pero está pendiente de más pruebas. Claudio Giráldez está pendiente del estado del delantero, sobre todo teniendo en cuenta el calendario que se le presenta al equipo, entre UEFA Europa Legaue y Liga. Claudio Giráldez, agradecido a Iago Aspas Por su parte, Claudio Giráldez, técnico del Celta de Vigo , comentó tras el partido ante el Málaga cómo se encontraba Iago Aspas: \"Es pronto. Viendo cómo estaba al salir del juego, un pinchazo en un golpeo en el cuádriceps. Entiendo que para estos dos partidos, descartado. Y veremos el alcance. Lo ideal es que hubiese parado. Sabemos cómo es y no quería dejar al equipo con uno menos\". \"Viendo cómo estaba al salir del juego, un pinchazo en un golpeo en el cuádriceps\" \"> Además, el entrenador del Celta de Vigo se mostró agradecido a Iago Aspas por su esfuerzo, pese a que solamente disputó seis minutos ante el Málaga en Balaídos, que sigue sin ver una victoria de su equipo esta temporada en LaLiga EA Sports : \"En ese momento han vencido las ganas de ganar el partido . Y a gradecerle el esfuerzo que hace siempre por esta camiseta y por el equipo\". Los partidos que se puede perder Iago Aspas con el Celta de Vigo En el Celta de Vigo están a la espera de las pruebas definitivas que confirmen las sospechas con la lesión de Iago Aspas. Sin embargo, todo parece indicar que el delantero será baja para los encuentros que tiene el conjunto de Claudio Giráldez esta semana. Por un lado, el equipo gallego se medirá este miércoles al Omonia, en la primera jornada de la Europa League , que tendrá lugar a las 18:45 en el estadio de Chipre. Por otro lado, el Celta de Vigo recibirá al Racing de Santander este sábado en Balaídos, en una nueva jornada de LaLiga. Los de Claudio Giráldez esperan conseguir su primera victoria en el campeonato doméstico, con la que se puedan ir con buenas sensaciones al parón de selecciones. Precisamente, este tiempo será clave para la recuperación de Iago Aspas, que se podría perder menos partidos debido a esta pausa de la temporada. El Celta de Vigo tendrá un calendario exigente en la reanudación de la competición. El equipo dirigido por Claudio Giráldez se verá las caras con el Elche en el Martínez Valero, cuatro días antes de recibir a la Juventus de Turóin en Balaídos . Tres días, solamente, después, s e enfrentarán al Alavés y en la siguiente semana visitarán al Celtic de Glasgow. El mes de octubre lo cerrarán con el encuentro ante el Real Betis del día 25. La opción de Ferran Jutglà ante la acumulación de bajas De esta manera, Ferran Jutglà se postula como la opción que cobra fuerza para la punta de ataque en el Celta de Vigo, el delantero de 27 años, que viene de marcar el único gol de su equipo en el partido contra el Málaga en Balaídos , puede ser el elegido para los siguientes partidos ante el estado de Borja Iglesias e Iago Aspas. El Celta de Vigo culpa a LaLiga de la lesión de Iago Aspas: \"No hubiese pasado en otras circunstancias” Celta de Vigo 1-1 Málaga: Adrián Niño rescata un punto de Balaídos Por ello, Claudio Giráldez, que cargó contra LaLiga , apura sus alternativas para una semana, de nuevo, importante en el Celta de Vigo con el debut en UEFA Europa League y el compromiso del sábado frente al Racing de Santander.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-14T11:39:41+00:00"
-        },
-        {
-          "title": "El centro penitenciario de Zona Franca en Barcelona retrasa su apertura a enero",
-          "link": "https://www.20minutos.es/cataluna/barcelona/centro-penitenciario-abierto-zona-franca-barcelona-se-abrira-finalmente-enero_7036464_0.html",
-          "desc": "Primero irán 400 presos y, progresivamente, llegarán hasta los 800.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-14T13:36:59+02:00"
-        },
-        {
-          "title": "Anselmi señala el camino del Elche ante el Real Madrid: \"La mejor forma de defender es tener la pelota\"",
-          "link": "https://www.estadiodeportivo.com/futbol/elche/anselmi-senala-camino-del-elche-ante-real-madrid-mejor-forma-defender-tener-pelota-20260914-546532.html",
-          "desc": "El Elche afronta la visita del Real Madrid con la confianza reforzada tras su actuación en San Mamés. Martín Anselmi tiene claro el plan para plantar cara al conjunto blanco: competir al máximo, minimizar errores y hacer del balón su principal arma defensiva Martín Anselmi tiene claro que el Elche necesitará algo más que encerrarse atrás para plantar cara al Real Madrid. El técnico franjiverde afronta la visita del conjunto blanco este martes (21:30 horas) con poco margen para preparar el encuentro, pero con la confianza que dejó el empate del equipo en San Mamés. Para el argentino, aquel partido confirmó que su equipo está siguiendo el camino correcto. Llega con confianza al duelo, después de haberse enfrentado contra el Athletic. Anselmi considera que competir ante ese equipo en San Mamés tiene un valor especial por lo que representa para un equipo que todavía continúa en construcción. \"El hecho de haber competido en San Mamés nos hace sentir unidos y que es el camino a transitar\" , señaló el entrenador. Ahora el reto se complica por tres. Delante estará un Real Madrid que llega con futbolistas capaces de decidir un partido en cualquier momento y ante el que cualquier error puede salir caro. Anselmi, sin embargo, no quiere que su equipo cambie su identidad por el rival. Duda en la portería del Elche: Iturbe podría aparecer en San Mamés Lemar recuerda al Elche que casi mandó a Segunda y ahora llega para salvarlo \"La mejor forma de defender es tener la pelota\" El entrenador argentino explicó cuál será una de las claves de su planteamiento. Para Anselmi, defender no significa necesariamente acumular jugadores cerca de su propia área. También puede hacerse teniendo el balón y evitando que el rival tenga el control. \"Nosotros la mejor forma de defender es tener la pelota\" . Una idea que quiere mezclar con la intensidad mostrada en San Mamés. \"Me parece que hay que tener la misma competitividad defensiva de San Mamés y defendernos con la pelota\" , añadió. \"Ellos hacen fáciles jugadas complicadas y te llevan al límite, no hay que regalar nada\" \"> El técnico sabe, eso sí, que el Real Madrid pondrá a prueba cada uno de esos conceptos. La calidad individual del conjunto blanco obliga a mantener la concentración durante los 90 minutos. \"Ellos hacen fáciles jugadas complicadas y te llevan al límite, no hay que regalar nada y estar enfocado todo el partido\" , advirtió. Ver esta publicación en Instagram \"> Una sola baja y cambios por el calendario Anselmi confirmó que Yago de Santiago será la única baja del Elche para el encuentro. El entrenador tampoco cerró la puerta a introducir modificaciones en el equipo debido a la exigencia del calendario. Su idea pasa por gestionar los esfuerzos partido a partido. \" El partido más importante es el que sigue. A partir de ahí ver quiénes son los que mejor están y repartir cargas\" , explicó. \"El partido más importante es el que sigue\" \"> Uno de los jugadores que todavía espera su oportunidad es Kevin Lomónaco . El argentino aún no ha disputado minutos, pero Anselmi restó importancia a su situación y aseguró que forma parte del proceso de adaptación. \"No me preocupa. Hemos charlado con él, se está adaptando. Pronto estará para jugar\" , afirmó. Ver esta publicación en Instagram \"> Buonanotte y la visita de Mourinho Anselmi también se detuvo en la evolución de Buonanotte , cuyo trabajo defensivo está ganando protagonismo dentro del equipo. \"Está recuperando mucho balón y manteniendo ritmos defensivos altos. Cuanto más tengamos la pelota más se lucirá\" , explicó. Y si el partido tendrá un atractivo especial por la visita del Real Madrid, también lo tendrá para el propio Anselmi por reencontrarse con José Mourinho. El técnico del Elche considera que enfrentarse a entrenadores de ese nivel es una oportunidad para seguir aprendiendo. \"Los mejores maestros que tenemos los entrenadores son los rivales. Cuanto mejores entrenadores te enfrentes mejor serás. Es un privilegio\" , reconoció. La polémica del Athletic - Elche: motivos para sentirse perjudicado Mourinho lanza un mensaje a Zidane por Tchouaméni: \"Sabrá hacer las cosas bien\"",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-14T11:33:05+00:00"
-        },
-        {
-          "title": "Anselmi: “La mejor forma de defender al Madrid es tener la pelota”",
-          "link": "https://www.marca.com/futbol/elche/2026/09/14/anselmi-mejor-forma-defender-madrid-pelota.html",
-          "desc": "El técnico del Elche destaca la competitividad mostrada en San Mamés y afronta el duelo ante el Real Madrid con la intención de mantener la identidad del equipo",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-14T13:11:37+02:00"
         }
       ]
     },
@@ -359,60 +359,60 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Lawson reflects on his Red Bull outings after sixth in Madrid",
+          "link": "https://www.formula1.com/en/latest/article/overall-its-been-a-strong-three-weekends-lawson-assesses-his-red-bull-outings.5te41V9tCdZlfI06L8yi1s",
+          "desc": "Liam Lawson believes \"overall it's been a strong three weekends\" with Red Bull since replacing the injured Isack Hadjar midway through the season.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
+        },
+        {
           "title": "Mekies explains decision to ask Verstappen to give back places",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-mekies-explains-decision-to-ask-verstappen-to-give-back-places-in-madrid.3BUc5lifiWM4Gq8PagJHek",
           "desc": "Max Verstappen was instructed to give positions back at the start of the Spanish Grand Prix before eventually finishing in P2.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "Piastri assesses his ‘painful’ Spanish GP in Madrid",
           "link": "https://www.formula1.com/en/latest/article/piastri-assesses-his-painful-spanish-grand-prix-as-damage-makes-for-difficult-afternoon.31scb0mo8BNwlc0jgQByXV",
           "desc": "Oscar Piastri had a race to forget in Madrid, a first lap incident derailing his afternoon on a day where Lando Norris showed the McLaren had the pace to fight for the win. The Australian finished down in eighth place behind the Alpine of Franco Colapinto, while his team mate took yet another rostrum.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "Why Vasseur believes Ferrari had the pace to win in Madrid",
           "link": "https://www.formula1.com/en/latest/article/the-potential-is-there-why-vasseur-believes-ferrari-had-the-pace-to-win-in-madrid.7MPn8tFwJ89DPIk7D9WRe2",
           "desc": "Fred Vasseur has given his thoughts on Ferrari’s performance in the Spanish Grand Prix, which saw Charles Leclerc finish P4 after Lewis Hamilton retired.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "Honda announce changes to leadership of power unit programme",
           "link": "https://www.formula1.com/en/latest/article/honda-announce-changes-to-leadership-of-f1-power-unit-development-programme.D6nfqp5rqrP9IZuftmqaJ",
           "desc": "Honda have announced that it will make changes to the leadership of their Formula 1 power unit development programme.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "Was there any way for Norris to win in Madrid after the VSC?",
           "link": "https://www.formula1.com/en/latest/article/was-there-any-way-for-norris-to-win-in-madrid-after-the-vsc.4xxW7Gs3uywB65vB65nq6Y",
           "desc": "Michael Lamonato assesses the VSC's impact on Lando Norris during Sunday's Grand Prix, and how the timing effectively locked the McLaren driver into a third-placed finish.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "5 betting lessons after Antonelli wins the Spanish GP",
           "link": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-kimi-antonelli-wins-the-first-spanish-grand-prix-at-the-madring.1vkFKFoRxJON6vbDF6Q9dJ",
           "desc": "The Mercedes star leads the Drivers' Championship by 81 points after his eighth win of the season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "All the key moments from the 2026 Spanish Grand Prix",
           "link": "https://www.formula1.com/en/latest/article/spain-lowdown-all-the-key-moments-as-antonelli-wins-again-after-norris-denied-by-vsc.6SviC74tjh4ndbhnkBmKAR",
           "desc": "Kimi Antonelli came out on top as Formula 1 made its first visit to the Madring for the Spanish Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
-        },
-        {
-          "title": "Wolff explains decision on Russell's tyre strategy in Madrid",
-          "link": "https://www.formula1.com/en/latest/article/wolff-explains-decision-on-russells-tyre-strategy-in-spanish-grand-prix.5OzZDcQ3mOReAy80BqHiU1",
-          "desc": "Mercedes team boss Toto Wolff has backed the decision to pit George Russell twice in the Spanish Grand Prix.",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T14:00:28.232946+00:00"
+          "fecha": "2026-09-14T14:30:17.022862+00:00"
         },
         {
           "title": "LaVuelta y la Fórmula 1 podrían coincidir en Madrid: Guillén abre la puerta al ‘superdomingo’",
@@ -478,13 +478,6 @@
           "fecha": "2026-09-14T11:17:53+02:00"
         },
         {
-          "title": "De Madring al cielo: dentro del fiestón con famos@s del Gran Premio de España",
-          "link": "https://www.marca.com/motor/formula1/gp-espana/album/2026/09/14/madring-cielo-fieston-famos-s-gran-premio-formula-1.html",
-          "desc": "La marca de relojes TAG Heuer organizó una fiesta en Madrid por el Gran Premio de España de Fórmula 1 a la que no faltaron Patrick Dempsey, Margarida Corceiro, Jaime Lorente, Blanca Suárez, Miguel Ángel Muñoz o Maxi Iglesias.",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-14T10:53:54+02:00"
-        },
-        {
           "title": "De Madring al cielo: dentro del fiestón con famos@s tras el Gran Premio de Fórmula 1",
           "link": "https://www.marca.com/motor/formula1/gp-espana/album/2026/09/14/madring-cielo-fieston-famos-s-gran-premio-formula-1.html",
           "desc": "La marca de relojes TAG Heuer organizó una fiesta en Madrid por el Gran Premio de España de Fórmula 1 a la que no faltaron Patrick Dempsey, Margarida Corceiro, Jaime Lorente, Blanca Suárez, Miguel Ángel Muñoz o Maxi Iglesias.",
@@ -525,6 +518,13 @@
           "desc": "Pese a lo sucedido en Australia, avisa de que no se va a \"quedar mierando\" si hay agua en el GP de Japón",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-14T07:13:02+02:00"
+        },
+        {
+          "title": "Los hermanos, imprescindibles en la vida de las personas con discapacidad: \"Me decían que Jaime era autista y yo entendía 'artista'\"",
+          "link": "https://www.20minutos.es/capaces/los-hermanos-imprescindibles-vida-las-personas-con-discapacidad-me-decian-que-jaime-era-autista-yo-entendia-artista_7035154_0.html",
+          "desc": "José Ramón Alonso e Isabel Martínez hablan sobre sus necesidades y cotidianidades como hermanos de personas con discapacidad.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-14T06:54:00+02:00"
         }
       ]
     },
@@ -532,6 +532,62 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Solo developer wires ZLUDA to AMD's HIP, getting multiple CUDA libraries running on a Radeon RX 9060 XT in Windows — CUDA-exclusive workloads on AMD hardware in Windows is possible without virtualization or dual-booting",
+          "link": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting",
+          "desc": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-14T14:23:12+00:00"
+        },
+        {
+          "title": "Filtran la colaboración más esperada de Fortnite: por fin habrá skins de FNAF, según este 'leaker'",
+          "link": "https://vandal.elespanol.com/noticia/2026257026/filtran-la-colaboracion-mas-esperada-de-fortnite-por-fin-habra-skins-de-fnaf-segun-este-leaker/",
+          "desc": "Fortnite tendrá una deseada colaboración muy pronto: filtran el crossover central de Fortnitemares, el evento de Halloween del juego gratis de Epic Games. Epic Games ha decidido dedicar el Capítulo 7 de la Temporada 4 de Fortnite a las leyendas de los videojuegos con un montón de cameos y skins de personajes de Sonic , Pac-Man y demás. Ahora, con la llegada de los eventos de Halloween a la vuelta de la esquina, parece que la compañía se guarda algunas sorpresas para la habitual actualización de mitad de temporada. Al menos eso es lo que afirma el reputado SamLeakss , un usuario muy popular por filtrar antes de tiempo todas las novedades de Fortnite . Una de las últimas publicaciones en sus redes sociales apuntan a que el battle royale recibirá próximamente una colaboración muy esperada: Five Nights at Freddy's tendrá sus propias skins dentro del juego. El easter egg que ya anticipaba la llegada de FNAF a Fortnite Esta información, que según el leaker está \"totalmente confirmada\", encaja con uno de los easter eggs que los desarrolladores de Fortnite escondieron en la última versión del mapa del juego: un edificio en construcción idéntico a la pizzería de Freddy Fazzbear con escenario para animatrónicos incluido. @vandalonline Esconden una REFERENCIA a FNAF en FORTNITE 😱 #fnaf #fortnite #gaming #vandal ♬ sonido original - Vandal (Oficial) Por supuesto, esta información no es oficial todavía, aunque no queda mucho para que los fans de Fortnite y FNAF puedan descubrir si es cierta o no: Fortnitemares , el evento de Halloween del battle royale se celebra antes de Halloween, suele ser a mediados de octubre, por lo que pronto deberíamos tener noticias acerca de sus novedades principales por parte de Epic Games. Os recordamos que Fortnite Battle Royale está disponible gratis en PS5 , Xbox Series , PC , Switch , Switch 2 , iOS y Android .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-14T14:23:00+00:00"
+        },
+        {
+          "title": "Trump descarta nuevas regulaciones para la IA: \"Hay una conspiración enfermiza\"",
+          "link": "https://www.eldiario.es/internacional/trump-descarta-nuevas-regulaciones-ia-hay-conspiracion-enfermiza_1_13508835.html",
+          "desc": "\"La única 'salvaguarda' que necesita la IA es un presidente fuerte e inteligente (¡con un alto coeficiente intelectual!), ¡y EEUU cuenta con ello de sobra\", asegura Trump Los cuatro gigantes de la IA piden frenar desarrollos y Trump desprecia el riesgo “Una conspiración enfermiza”. Así ha ventilado el presidente de EEUU, Donald Trump, las iniciativas para reforzar los controles y las regulaciones sobre la Inteligencia Artificial. La reacción de Trump llega tras las peticiones de Naciones Unidas, China, los demócratas e incluso algunos responsables de empresas, después de que el pasado miércoles el ingeniero Jacob Coxon dimitió de su puesto en Anthropic con un comunicado en el que denunciaba que las empresas ocultaban el verdadero riesgo de la inteligencia artificial. “Están corriendo directamente hacia una súper inteligencia capaz de mejorarse a sí misma y apostando nuestras vidas en esa carrera”, afirmó en X: “Quienes están construyendo la IA creen sinceramente que podría matarnos a todos antes de que acabe la década”. “El único control o 'salvaguarda' que necesita la IA es un PRESIDENTE FUERTE E INTELIGENTE (¡con un alto coeficiente intelectual!), ¡y EEUU cuenta con ello de sobra!”, ha publicado este lunes el presidente de EEUU en su cuenta de Truth Social: “La Administración Trump ha impedido que la 'gente' de la IA haga 'cosas' malas o potencialmente perjudiciales —como Dario (¡de Anthropic!), quien ahora pretende ser un 'angelito perfecto'—, ¡y seguiremos haciéndolo!” En efecto, el CEO y cofundador de Antrhopic, Dario Amodei, ha sido uno de los que ha alertado de la deriva: “Me preocupa que, en un plazo de 6 a 12 meses, un enjambre de este tipo pueda llegar a tomar el control de todo Internet mediante una red de bots persistente (causando potencialmente daños por valor de cientos de miles de millones de dólares) y que la magnitud del daño siga aumentando si la IA se vuelve más potente sin contar con las salvaguardas necesarias”. Según Trump, EEUU dispone “de un enorme poder PENAL y REGULADOR sobre estas empresas. Existe una conspiración ENFERMIZA contra la IA y los centros de datos, y el único que se alegra de ello es China. ¡QUIEN GANE LA CARRERA DE LA IA, GANARÁ! Llevamos ventaja sobre China y sobre todos los demás, y seguiremos haciéndolo. ¡Teóricos de la conspiración, conspiradores, traidores y filtradores: cuidado!”. Alerta de Naciones Unidas El Alto Comisionado de las Naciones Unidas para los Derechos Humanos, Volker Türk, ha advertido este miércoles de que el desarrollo de la inteligencia artificial pone “en riesgo” todos los derechos humanos, “incluidos los derechos a la vida, la alimentación, la privacidad, la salud y la seguridad”. “Estamos al borde de un cambio irreversible que afectará no solo a nosotros, sino a las futuras generaciones de la humanidad. En otras palabras, todos los derechos humanos están en riesgo, incluidos los derechos a la vida, la alimentación, la privacidad, la salud y la seguridad. La seguridad de la IA debe significar algo más que la fiabilidad técnica del producto en cuestión. Significa proteger activamente a las personas, las comunidades, las instituciones y las generaciones futuras”, ha escrito Türk en un comunicado. Este mismo lunes, China ha pedido una “barrera de seguridad” ante la negativa de Trump y ha advertido de que lA se ha convertido en una nueva “rivalidad entre grandes potencias”. El ministro chino de Seguridad del Estado, Chen Yixin, ha pedido construir una “barrera de seguridad” en torno a la inteligencia artificial (IA), en un momento de creciente preocupación en Pekín y Washington por los riesgos políticos, sociales y tecnológicos de esta herramienta . Chen sostiene que la IA se ha convertido en un campo principal de competencia tecnológica global y en una nueva vía de “rivalidad entre grandes potencias”, según un texto publicado este domingo por la Administración del Ciberespacio de China, el principal órgano regulador del Internet chino, en su cuenta oficial en la red social Wechat.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T14:16:07+00:00"
+        },
+        {
+          "title": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWp1WXIxRDdOOFMwd0ZlZEVfY01FYXJpY3ppZGVLYXJ3V21QU3BXVnY2Wm5HWjF2QWZ6WU9uU2FxWUpRYmQtaVQ3YXlWZkM5VFVTNVVWUVl5WFJEZGxfam1QczNVaXBlTTRMR0FwZ0RxUlZVRllhbC1NSTMzeEdncHJ4THItbzNSREt3U1J6US1WNjR0WlRGZkFRUlDSAaIBQVVfeXFMTlVaQ3o1ZGFzbF8zYUc0TDk5NTlDVlRtblRxSVBaTE1zN3FUYWg0RWdvMmstVWtTbEhfNmIwSzFqMjVNRWRVckRSM2ZtSUludGlzSVNwcU9NdDFLRnZtVHZHb1BrV2tIa3J2bkVxMWVQMEUzdXRyQ25oSFRTak9nVHA3aFg4S3JUUGRsOUV4TlFkVzYtQ3pwcnJPeklxcUdGWFRR?oc=5",
+          "desc": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas El Boletín",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:14:15+00:00"
+        },
+        {
+          "title": "Los miedos a la IA enredan las mayores operaciones financieras de la historia",
+          "link": "https://elpais.com/economia/2026-09-14/los-miedos-a-la-ia-enredan-las-mayores-operaciones-financieras-de-la-historia.html",
+          "desc": "Anthropic trabaja en su gigantesca OPV, prevista para las próximas semanas en medio de un fuerte interés inversor. OpenAI frena su salida a cotización y penaliza a accionistas como SoftBank",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-14T14:06:15+00:00"
+        },
+        {
+          "title": "Steam indigna a los jugadores en Australia por exigir tarjeta de crédito para acceder a juegos +18",
+          "link": "https://vandal.elespanol.com/noticia/2026257025/steam-indigna-a-los-jugadores-en-australia-por-exigir-tarjeta-de-credito-para-acceder-a-juegos-18/",
+          "desc": "Valve ha implantado en Australia un nuevo sistema de verificación de edad en Steam que exige añadir una tarjeta de crédito para acceder a juegos clasificados para mayores de 18 años. Valve ha introducido una nueva medida de verificación de edad en Steam que está generando críticas entre los jugadores australianos . Desde ahora, quienes quieran acceder a contenidos clasificados para mayores de 18 años deben añadir una tarjeta de crédito australiana válida a su cuenta para demostrar que son adultos . La medida no afecta únicamente a la compra de nuevos títulos, y según informa Insider Gaming , los usuarios que no completen esta comprobación tampoco pueden acceder a juegos +18 que ya formen parte de su biblioteca , una circunstancia que ha provocado numerosas quejas entre jugadores con cuentas de Steam creadas hace más de una década. La nueva normativa australiana obliga a comprobar que los jugadores son adultos El cambio coincide con la entrada en vigor, el pasado 9 de septiembre, de los requisitos de verificación de edad para las plataformas de distribución de aplicaciones en Australia . Las nuevas normas exigen tomar medidas para impedir que los menores de 18 años compren o descarguen aplicaciones y juegos clasificados R18+. Al intentar acceder a este contenido, Steam informa a los jugadores de que debe verificar que tienen al menos 18 años de acuerdo con el \"Age-Restricted Material App Distribution Services Code\" y les pide incorporar una tarjeta de crédito válida a su cuenta antes de modificar sus preferencias de contenido para adultos. En Australia es necesario ser mayor de edad para obtener una tarjeta de crédito , por lo que Valve utiliza este dato como comprobación. Sin embargo, la normativa australiana no obliga específicamente a utilizar una tarjeta de crédito . El organismo eSafety explica que las compañías pueden recurrir también a sistemas como documentos de identidad, estimación facial de edad o identidades digitales, entre otros métodos, y recomienda ofrecer más de una alternativa para que la comprobación sea justa. Esta elección de Valve es precisamente el principal motivo de las críticas. Algunos jugadores señalan que no tienen tarjeta de crédito ni desean contratar una , pese a ser adultos y llevar muchos años utilizando Steam. En estos casos, actualmente no disponen de otra opción dentro de la plataforma para completar la verificación. La restricción afecta a los juegos clasificados R18+ por el sistema australiano y forma parte de una regulación más amplia destinada a limitar el acceso de los menores a contenidos como pornografía, violencia de alto impacto y otros materiales considerados para adultos. Por ahora Valve no ha anunciado métodos alternativos de verificación para los usuarios australianos de Steam.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-14T14:04:00+00:00"
+        },
+        {
+          "title": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTZsa0RMSE5aekx0VDhSRjdBQ09JNlFHRTVydElmTTJXV3YzRXE2b0hfdVdFMlFKMkhMQ0RJZkl3SzJDTDJXaVlyNU9qLTgzM2pMUnhPQjhEUnFHUFJKOFdRN1pXaHVPZ2V2d2dCZ2Zwemd4dWs0eWRpZTQtTGJSbmxUQXNubE50akR1U2JONHBsZElXWkt2VWQ1NUjSAZwBQVVfeXFMTkdFT0t3eGExVDVBRWI3WGxiWHFKRERLSGdlY18ydC02RnJwYzBiMm93azJCNDhDSFByZlllU3ZnZTM4ZndLVVhjcVQ0bmthVDJYWmJrRXBiNV9wYWhmcFJXTUcta0tFOHdDQ293bWJVak1jbmh6UmVEZjBRSk9xNXNtLTZQZzNkSS1RcThJOXJWaVVNSVBJbnY1a1Jr?oc=5",
+          "desc": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA elperiodico.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T13:59:18+00:00"
+        },
+        {
+          "title": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEJGT0VrVjFXSHMtSV9Yay1EX0hMUGQwNnlxMnR1N2NXR3l4MU1LUXVxMTBuYnNSTDJyUjk3bC1vVVFTXzdnWnhSTncwdmE5V3A3TFFqcWQ1c3FXSlJ6M2t4bG5BWk9qSFFWRjBKWTBxRzdQU2ZQQjc5UF84Q0tRLWFOLVRELUN3SmNyVUlOeHRBa25icWlrQ2hzOU0wNll1d2hrNjZleTBrczR6clE1WFBxWjlsSkEzOHRHX0xzYVRLQjhrTVV4enBn?oc=5",
+          "desc": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T13:57:32+00:00"
+        },
         {
           "title": "A tumba abierta by AMIX, especial notas de LaVuelta: aprobados y algún suspenso sorpresivo",
           "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/14/tumba-abierta-by-amix-especial-notas-lavuelta-aprobados-algun-suspenso-sorpresivo.html",
@@ -596,6 +652,13 @@
           "fecha": "2026-09-14T13:09:07+00:00"
         },
         {
+          "title": "Discriminación, armas autónomas, fraudes... las formas en las que la IA puede causar daños a las personas y la economía",
+          "link": "https://www.20minutos.es/tecnologia/discriminacion-armas-autonomas-fraudes-las-formas-las-que-ia-puede-causar-danos-las-personas-economia_7036439_0.html",
+          "desc": "Las capacidades de los modelos de IA avanzan con rapidez sin dar tiempo a que las técnicas destinadas a supervisarlos y hacerlos más seguros se desarrollen a la par.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-14T15:01:18+02:00"
+        },
+        {
           "title": "La ONU alerta del peligro de la IA y pide regularla: \"Todos los derechos humanos están en riesgo\"",
           "link": "https://www.eldiario.es/tecnologia/onu-alerta-peligro-ia-pide-regularla-derechos-humanos-riesgo_1_13508447.html",
           "desc": "El Alto Comisionado de Naciones Unidas para los Derechos Humanos ha advertido de que \"la carrera hacia una IA cada vez más potente supone un salto cualitativo hacia mayores riesgos existenciales para todos los aspectos de nuestras vidas\" Documento - Consulta aquí la carta completa del Alto Comisionado de la ONU ¿Puede la IA perder el control y amenazar a la humanidad? Esto es lo que dicen algunos de los mayores expertos del mundo Los ecos de la dimisión del ingeniero de Anthropic Jacob Coxon el pasado miércoles llegan a la ONU. El Alto Comisionado de las Naciones Unidas para los Derechos Humanos, Volker Türk, ha advertido que el desarrollo de la inteligencia artificial pone “en riesgo” todos los derechos humanos, “incluidos los derechos a la vida, la alimentación, la privacidad, la salud y la seguridad”. “Estamos al borde de un cambio irreversible que afectará no solo a nosotros, sino a las futuras generaciones de la humanidad. En otras palabras, todos los derechos humanos están en riesgo, incluidos los derechos a la vida, la alimentación, la privacidad, la salud y la seguridad. La seguridad de la IA debe significar algo más que la fiabilidad técnica del producto en cuestión. Significa proteger activamente a las personas, las comunidades, las instituciones y las generaciones futuras”, ha escrito Türk en una comunicado. En concreto, el responsable de los derechos humanos en la ONU señala la “carrera actual hacia una IA cada vez más potente” como un “salto cualitativo hacia mayores riesgos existenciales para cada aspecto de nuestras vidas”. “Las fallas en los sistemas de IA agéntica [que opera con autonomía], y más aún en sistemas diseñados deliberadamente con ese fin, podrían paralizar servicios esenciales, fracturar las comunicaciones, desestabilizar infraestructuras críticas y atentar contra el corazón mismo de las instituciones democráticas”, agrega. Por todo ello, ha pedido una “corregulación” de la industria como un “primer paso urgentemente necesario”, así como una “verificación independiente y técnicamente competente”. La advertencia de las Naciones Unidas se suma a las lanzadas estos días por los cuatro gigantes del sector : Open AI, Google, SpaceX y Anthropic. El CEO y cofundador del último de ellos, Dario Amodei, pidió desacelerar la carrera por mejores modelos que podrían llegar a una “automejora recursiva”. “Me preocupa que, en un plazo de 6 a 12 meses, un enjambre de este tipo pueda llegar a tomar el control de todo Internet mediante una red de bots persistente (causando potencialmente daños por valor de cientos de miles de millones de dólares) y que la magnitud del daño siga aumentando si la IA se vuelve más potente sin contar con las salvaguardas necesarias”, compartió Amodei. El presidente de Estados Unidos, Donald Trump, en cambio, restó importancia a la alarma general por su rivalidad con China. “Estamos a la cabeza de China en inteligencia artificial. Somos el país más avanzado del mundo y, francamente, quiero que siga siendo así, porque quien gane en IA, gana”, aseguró Trump. Este mismo lunes, China ha pedido una “barrera de seguridad” ante la negativa de Trump y ha advertido de que lA se ha convertido en una nueva “rivalidad entre grandes potencias”. No obstante, ha recordado que EEUU está tratando de frenar su desarrollo con medidas como el embargo de chips avanzados. El detonante llegó el pasado miércoles, cuando el ingeniero Jacob Coxon dimitió de su puesto en Anthropic con un comunicado que encendió las alertas al denunciar que las empresas ocultaban el verdadero riesgo de la inteligencia artificial. “Están corriendo directamente hacia una superinteligencia capaz de mejorarse a sí misma y apostando nuestras vidas en esa carrera”, afirmó en su perfil de X, donde subrayó: “Quienes están construyendo la IA creen sinceramente que podría matarnos a todos antes de que acabe la década”. Desde Naciones Unidas, Türk subraya que “en el mundo actual, dependemos casi por completo de un pequeño número de empresas poderosas para tomar las decisiones correctas sobre el desarrollo de la IA para toda la humanidad”. “El verdadero desafío hoy en día es cómo equiparar el ritmo de una gobernanza de la IA significativa con el ritmo de su acelerado desarrollo. Necesitamos una acción urgente adaptada a los riesgos sin precedentes que plantea la IA de frontera [los sistemas más avanzados]”, ha demandado, al tiempo que ha pedido “reforzar las regulaciones existentes y la rendición de cuentas por los daños relacionados con la IA causados por sistemas que ya están en uso”. “Las empresas que están a la vanguardia del desarrollo de la IA de frontera, radicadas principalmente en la República Popular China y en los Estados Unidos de América, tienen tanto la responsabilidad como la capacidad de actuar de inmediato para reducir los riesgos. Deben trabajar en toda la industria para comprender y reforzar los controles que ya se aplican a estos sistemas, incluido el monitoreo automatizado del comportamiento del modelo, compartiendo tanto lo que funciona como lo que aprenden de los incidentes de seguridad. Es necesario desarrollar, implementar en todo el sector y mejorar continuamente una diligencia debida rigurosa en materia de derechos humanos que incorpore estándares de seguridad acordados. Y la aplicación de dichos estándares debe estar sujeta a un monitoreo interno e independiente para aumentar la transparencia y la rendición de cuentas”, agrega el Alto Comisionado de la ONU para los Derechos Humanos. Carta completa El Alto Comisionado Volker Türk ha hecho este llamamiento mediante una carta de tres páginas con el título 'Para proteger los derechos humanos ahora y en el futuro, debemos gobernar la IA de manera urgente'. Puedes leerla a continuación de forma íntegra, en inglés.",
@@ -636,69 +699,6 @@
           "desc": "Nasdaq 100: Nvidia y las acciones de chips caen por conversaciones sobre la desaceleración de la IA FXEmpire",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T12:28:00+00:00"
-        },
-        {
-          "title": "Jensen Huang: la 'tortura' de criticar a sus 42.000 empleados que mantiene a Nvidia en la cima",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2J3T1lfeWdPdEpvd2hYZ2tqU2kzc2JiOGQ5MDd4eWxUcmdXYVRidmpja3pTM0VtRnBXOC1ORDMxVG9IQnNaZE9wSjY3TnFtWC1XVmZGOGQycDRtWl9wMnZuYVF4c01oUkoxSkUxQzhHRmpVTWIyVElGT0ltY3J4V2Ywc2w3OUdtRHB6Vml2cTRsZmkwWGlMdlVmTDdVNGE4LXVkREZRZ0tmdHNzOUM1aTJhYXRNSmVHTHNOR1ZycGtIdWNhU2tXN29qZw?oc=5",
-          "desc": "Jensen Huang: la 'tortura' de criticar a sus 42.000 empleados que mantiene a Nvidia en la cima KCH FM",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T12:18:06+00:00"
-        },
-        {
-          "title": "Las tecnológicas se desploman en Wall Street tras el llamado a frenar el desarrollo de la IA",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZFdfaVZLeHQzTGx4clZ5SDYxVGhQTDdYcWZXazJnbE1tRW43bHhTM1BFQ01DbFA4SE1XMVRGRnozTU9KdzdFVGZrekEwaDU1cUVGOHd5M0FWLWNNVW9WMkkzZ0x4eGQ4VjAxSkFSWHZ6Z1FpTkZYckFLeVJUY1lEb2dhS1RNQjlyMG1Kd0hQdjRrMm5TUzlnODVCMEpWMG9XdGNlYktaQTVoNmNFQ3RwanFUc3YtWHhhR3JaeXBNb3NYOVNlSEpqbGRtRzZjTUFjQmVyeXhWZ3dmUdIB9AFBVV95cUxPTzBnOEs3ZW1fWVNpMnkzYmJZZDVjSlRRUGFEMW92NUNWRXlVZDFtTVdFMmRDbURXT0I0SHF0TVNLbTUyWFBZUW50Z2JVVndNRkhlUFk2Y2M2QUdjWWNUUlMxZFJnaWh5UVBLeTZiSXJnOE5aVW4xYjM5YXBLMFZncS12dFJMNS0zaDUzaVV1LTJSdmhEeUJoZndzV2xhZ0VGMHJSTUhjalBiQmpiRV9vd2JYNTl3VGtqTnVQd1pVcnV4RjZBN3BlY2psS21ObkVKQjNQQVVqalhVbm9mTUIwMHl6dHkydE1JZWQtaGVvbUUxMnB2?oc=5",
-          "desc": "Las tecnológicas se desploman en Wall Street tras el llamado a frenar el desarrollo de la IA Infobae",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T12:13:54+00:00"
-        },
-        {
-          "title": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlR4Z01ydVVRTjM4ZHRjZ3d2cnJYNGZPbTVsamlaR2h5cElRQTdFdkU0bFNhdkhpbi1HZ3kxd3FDZ3QyVWFHOHVrMFpzbHEzR2V4QXRGelM2dV93WExrZzhkR0ExX3ZfdWsxTUpSRDRCeG1tSmZiNjJ4emdONG5IblRPNkdWeGZCY2dldXFmdEZlM2NHVVJienIxdm1ZLWlYVTl3WjFsTi1jNm5lc1hCZkFzRDlqZFlXaUVXTVhQMlfSAcABQVVfeXFMTlN0Q2Y1NzZuaFJ0M0xnS2FacU00akFTbHFiLWNDdEkwZEdRaDFDcDM2YmNENzNQX2ZkWDhrTjJxRHcxbVBrMEktaVNlNTlzU1ZSUEdCSzIxS2ZCMVVGSzM3SlFJRTdLSXFwNW9SUzFkLVM3TFpIWnUwaW9JVFJXc0JscDVwX1dsVlg5RVdzWlhRQzVtall5S01tQ0pYNTZVeU1iMWpKN21VZFNxT09kUWp6eHd3cTVJaGVoeE5Rd3lr?oc=5",
-          "desc": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial El Periódico",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T12:09:42+00:00"
-        },
-        {
-          "title": "Twitch supera los 8600 millones de horas de gaming vistas en 2026 y revela los juegos y streamers más populares",
-          "link": "https://vandal.elespanol.com/noticia/2026257023/twitch-supera-los-8600-millones-de-horas-de-gaming-vistas-en-2026-y-revela-los-juegos-y-streamers-mas-populares/",
-          "desc": "Twitch publica su State of Gaming 2026: League of Legends lidera tanto a nivel mundial como en España, mientras Rubius supera los 21 millones de horas vistas. Twitch , una de las principales plataformas de retransmisión en directo de videojuegos y otros contenidos, ha publicado su informe State of Gaming 2026, con el que repasa algunos de los juegos, creadores y tendencias que más están marcando las retransmisiones en directo este año. Entre el 1 de enero y el 1 de septiembre, los usuarios han consumido más de 8600 millones de horas de contenido gaming en la plataforma a nivel mundial. Los cinco juegos con más horas vistas acumulan conjuntamente cerca de 1700 millones de horas. League of Legends ocupa la primera posición, seguido por Counter-Strike , Grand Theft Auto V , Valorant y World of Warcraft . En España, League of Legends también encabeza la clasificación, aunque en este caso sus perseguidores son Valorant y Fortnite . Rubius supera los 21 millones de horas vistas en 2026 El informe también aporta algunos datos sobre los creadores. En España, Rubius ha superado los 21 millones de horas vistas durante el periodo analizado, con Minecraft , TCG Card Shop Simulator y Marvel Rivals entre las categorías que más aparecen en sus retransmisiones. En Norteamérica, Jynxzi y TheBurntPeanut han superado los 70 millones de horas vistas. Twitch señala además que los juegos sandbox y de mundo abierto continúan reuniendo grandes audiencias, y este tipo de títulos acumula 831 millones de horas vistas durante 2026. El terror alcanza 287 millones y el uso de la etiqueta Horror ha crecido un 6 % respecto al mismo periodo de 2025, mientras que los juegos protagonizados por criaturas y compañeros suman otros 142 millones. Los juegos independientes también están creciendo con fuerza y las horas vistas en canales etiquetados como indie han aumentado un 51 % interanual, con títulos como Meccha Chameleon entre los ejemplos destacados por la plataforma. Los Twitch Drops también disparan sus cifras Otro de los datos más destacados está relacionado con los Twitch Drops . Las retransmisiones que utilizaron la etiqueta DropsEnabled generaron 1600 millones de horas vistas, un 46 % más que un año antes . Twitch acogió además más de 7500 campañas de este tipo, un 20 % más, mientras que 40 millones de usuarios participaron y reclamaron Drops, un crecimiento del 15 %.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-14T11:58:00+00:00"
-        },
-        {
-          "title": "Nvidia y las acciones de chips caen mientras los CEOs de IA piden una desaceleración.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlBXWGl6bGFCUXAtT0FxWHhoUGdfQno3NnBWd2ZQdEJpUmVjejMwdHI5eHEyQjFTdnhEY2R5cXVxeE5JOHhMSVFwTFZSbHhtNTV4ZzFabTJqSjcwY0RYS3RTM3VWSjl3SFE4MWRYVmF5Q081Qm5qSGtLQVkyRmVmaWNFUlhlVl9DcGZwSXh4ZzJpdkxPOVEyYXFIT2ZBWHB6OTlla194ZUs?oc=5",
-          "desc": "Nvidia y las acciones de chips caen mientras los CEOs de IA piden una desaceleración. es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:55:35+00:00"
-        },
-        {
-          "title": "El CEO de Nvidia dice que la ciberseguridad exagera el miedo a la IA",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT19XdDVfX3AxRzJaMnAyNGl6OUdKQUlURldtc2s0QnFNUm5lcEJJSW5NQ2NXcG1EVjUtanJKa3BfWDdyMmc5OWJxeFFBUi1MMkFfQmY5NnBwakdrZjlGdXdicjFHS3ZNQVFBRUliYUZJN3g2Nk5SbXpyeW11aUgwbi1yRE5oMzVtUE1fZGJYUW0yNWVaSk1TOElSa3hSZ2ZwT1B4UWxmNDM5N2pqbk9nUFd5SXl5OU1VNFdwS2loNNIBxAFBVV95cUxNa1JuTDFheGpIRmE2RUZXMjlNN2R0dUdxejdmeDRjUEhNeW8tWXppckdxVFZnY0ltLTZUMnJPVXQyMkxoTTREZGdIQ3RLckRZMTVpU2NNOF80SFNUMXo5WGc1N2hDU3p0cUpNTExfVTZ5aTJZdnBad2ktNXd5TXJ4NXM0VVZsVHlqejhlSWszbGEzYUtsWUhEaEtFZmtrN0owSmZnUW9GZ2tMcXBvb1dKLXZfZG9PSjJFZFc2UWdqQ0hIOHly?oc=5",
-          "desc": "El CEO de Nvidia dice que la ciberseguridad exagera el miedo a la IA iProUP",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:54:52+00:00"
-        },
-        {
-          "title": "La estrategia de Jensen Huang para alcanzar la perfección en Nvidia: criticar a sus 42.000 empleados",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZTE1LVFhR05VMVVZZ2RWOFdVV3lVREpaMFREM0hIbmRNeDVnaHlCQlVXYlRqMjV5Yks3blNUTFprd3RkRl9rWU9RbkJWZm90OEFDWUdjM21URXFpcE44QnJoQVQyTENZbmwyc3lma21QZ0M0OWZGVW1taUdrSi1rakZtT2xvenB6TXlvcG9GM2hFaF9WcHlHY29OTmVWVW0wTEdiZkM5aUJKWUUzQ1ZYSEloMDRoVWxfTzZPS3lpTFR6bUtueDBOd01wLW1SNnF5UHU0NTk1RdIB8gFBVV95cUxQRV93RUdldTdFX1ZiN3VadXViOGtSdGdycFNOTHJqSENQYldnM2s2cjA2UURfT3JpV0duQThoT005bWdLY25HZmhHYlliMVM2M191eXdNYS12UXlTcjB3YzBnMExiUHlwV2dqRW55bTJQYmhHTm05cmdJeXR4ZFFpNWwtTk1XVlNGcDlsSjkwS09GazBsazUwZXJYZXNYTm9kMVVOSHdhaVFBZHlwbDZTMzBMbjN0RHBWX2ZPRU9rZkRPT2JsU1pSbFJnRTVPcm1tUUpfeTI5OC1jSElqTEFWVlFLZVJ2bFNydEFhS3BkX0NOZw?oc=5",
-          "desc": "La estrategia de Jensen Huang para alcanzar la perfección en Nvidia: criticar a sus 42.000 empleados Infobae",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:47:03+00:00"
-        },
-        {
-          "title": "Nvidia lanza la nueva GPU para estaciones de trabajo Blackwell con 84 GB de VRAM",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlhPNm0ySGh6TXRWV2NqMjlRYmtNb2gteEtRWWhVUHItOFlKM2ZRY1FybDNPd2xXM3NvTDZLQ0Q1QzhJVnhGcWFBRlFwYXgzMkhiend5NWtTT3Fnei1rX0dmVFVaZkJ3cV8yWTRhZFh5YmRsNVh1WU5BSUl0VEdWM2Y2Q0dQdlpIX2FxZllpT0pXeDB0WFZGSlE4U2dZRmIwcndTT3ZiNDIwVS1DUEdpdUNHSlhHN24zZ2M0TWJ2dFdUbHc?oc=5",
-          "desc": "Nvidia lanza la nueva GPU para estaciones de trabajo Blackwell con 84 GB de VRAM Notebookcheck.org",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:40:00+00:00"
-        },
-        {
-          "title": "Y Combinator y Nvidia lideran el ránking VC de agosto",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3E5UXI0cUFOaGNqQ3FQcXJtbG02Qmc0RlBXeXdLMmpCdG4zLXQwX1BOUGNwZVU3MlZGT045Q0h6Vy02cXN2T2NIVmlndXJ2T2phajBaRjlMRTdmODVLNmx0NmxDU2YxSDh3bVZQU1AtUWpjQ2xfUnYyVE1lYXlPRy1ybEh3b3RNMHNqYw?oc=5",
-          "desc": "Y Combinator y Nvidia lideran el ránking VC de agosto El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:39:58+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "Discriminación, armas autónomas, fraudes... las formas en las que la IA puede causar daños a las personas y la economía",
+          "link": "https://www.20minutos.es/tecnologia/discriminacion-armas-autonomas-fraudes-las-formas-las-que-ia-puede-causar-danos-las-personas-economia_7036439_0.html",
+          "desc": "Las capacidades de los modelos de IA avanzan con rapidez sin dar tiempo a que las técnicas destinadas a supervisarlos y hacerlos más seguros se desarrollen a la par.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-14T15:01:18+02:00"
+        },
         {
           "title": "Cristóbal Soria y Jesús Calleja retan a Josep Pedrerol tras aterrizar en España: \"El próximo eres tú, creo que deberías montarlo en un globo porque lleva mal las alturas\"",
           "link": "https://www.estadiodeportivo.com/zona-flash/jesus-calleja-cuenta-verdad-sucedido-con-cristobal-soria-planeta-calleja-teniamos-protocolo-queria-recuerdo-pues-llevado-20260914-546511.html",
@@ -761,13 +768,6 @@
           "desc": "OpenAI y Anthropic, inmersas en una reñida competición -tanto entre sí como con China-, avanzan a toda prisa hacia su salida a bolsa, aun cuando reconocen que podrían perder el control de sus potentes bots Leer",
           "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
           "fecha": "2026-09-14T13:35:32+02:00"
-        },
-        {
-          "title": "Cinco recetas dulces y saladas para sacar todo el provecho a la temporada de higos",
-          "link": "https://www.eldiario.es/consumoclaro/cinco-recetas-dulces-saladas-sacar-provecho-temporada-higos_1_13507367.html",
-          "desc": "Considerados uno de los tesoros más esperados del otoño, los higos comparten el mismo origen que las brevas, aunque no son exactamente iguales Alciturrianos: así puedes preparar en casa el dulce típico de Santander que recuerda a los polvorones navideños Más pequeños que otras piezas de fruta, pero también mucho más dulces, los higos siguen en plena temporada durante todo el mes de septiembre. Durante estos días, todavía largos y calurosos, basta un paseo por el campo para descubrir las higueras a través del olfato. Estos árboles, amantes del sol y de los climas mediterráneos, desprenden ese aroma dulzón tan característico que anuncia definitivamente el final del verano y nos deja uno de los mejores bocados del año. Desde el punto de vista nutricional, los higos destacan por su aporte energético. De hecho, según la Fundación Española de la Nutrición (FEN), “junto al plátano, la chirimoya y las uvas, el higo es una de las frutas con mayor contenido en azúcares”. Su aporte de agua es muy elevado, y aunque “el contenido proteico no es alto, presenta todos los aminoácidos esenciales”. En cuanto a otros nutrientes esenciales, el higo fresco aporta una buena cantidad de fibra y en menor medida, de vitaminas como la B6 y la tiamina. En cuanto a los minerales, según la FEN “solo es destacable su contenido en potasio”. Los higos, uno de los tesoros del otoño, comparten origen con las brevas, aunque no son exactamente iguales. Ambas frutas nacen del mismo árbol. Sin embargo, las brevas son los frutos que no terminaron de madurar en otoño por el frío y que quedan latentes en las ramas, para madurar a principios del verano. El turno, ahora, es del higo , el ingrediente estrella de las cinco recetas dulces y saladas que te proponemos a continuación. Tostada de queso cottage con higos y miel Esta combinación da como resultado un desayuno o merienda perfecta. Muy nutritiva y con un sabor espectacular, es ideal para esos momentos en los que tenemos ganas de un bocado dulce y saludable. Escoge un pan de calidad, como una hogaza integral de masa madre. Anota los ingredientes para preparar estas tostadas para dos personas: Un par de buenas rebanadas de pan, unos 120 gramos en total Cuatro higos frescos Unos 200 gramos de queso cottage Nueces picadas Un chorro de miel Tostamos ligeramente el pan y le untamos el queso cottage . Seguidamente, colocamos los higos cortados en finas rodajas, por encima espolvoreamos las nueces y por último, decoramos con un chorrito de miel. Acompáñalo de tu bebida favorita para desayunar o merendar, como un café con leche, un té o cualquier otra infusión. Ensalada con higos, rúcula y queso de cabra Ensalada con higos y queso Incorporar los higos en una ensalada siempre es una buena opción. En esta ocasión, además, su sabor dulce hará de contraste perfecto con el toque amargo de la rúcula. Estos son los ingredientes para dos personas: Un par de puñados de rúcula Cuatro higos 60 gramos de queso de cabra Un puñado de piñones Aceite de oliva virgen extra Vinagre balsámico Esta receta es muy rápida de preparar. Cubre la ensaladera con una cama de rúcula, en el centro coloca los higos cortados en cruz sin separar del todo, desmenuza el queso de cabra por encima y reparte los piñones. Aliña con el aceite y el vinagre balsámico. Jamón serrano con higos Jamón con higos Al igual que con el melón, el jamón serrano combina a la perfección con los higos aunque esta mezcla resulta más elegante y mucho más golosa. Este plato es un entrante ideal. Para dos comensales necesitamos: Ocho lonchas de jamón ibérico Seis higos maduros pero que estén firmes Unas hojas de albahaca Un chorrito de aceite de oliva virgen extra Lava bien los higos. Si la piel no es muy gruesa no hace falta pelarlos. Córtalos por la mitad y envuélvelos con tiras de jamón serrano. Colócalos en un plato, decora con las hojas de albahaca y con un chorrito de aceite de oliva virgen extra. Puedes añadir también unos picos de pan. Mermelada casera de higos Mermelada casera de higos Si tienes una higuera cerca y ya no sabes qué más recetas inventarte con esta fruta, aprovecha para preparar esta versión de mermelada casera, rápida y muy saludable para conservar tus higos durante más tiempo. Toma nota de los siguientes ingredientes: Medio kilo de higos El zumo de medio limón Una cucharada de postre de miel o de sirope de agave Un par de cucharadas de semillas de chía Vamos a lavar bien nuestros higos y les retiraremos la punta. Si la piel no es gruesa, la podemos dejar para que aporte más fibra. Los troceamos y los cocemos en una olla junto con el zumo de limón durante unos 15 o 20 minutos. Removeremos constantemente e iremos chafando la fruta. Podemos añadir la cucharadita de miel o de sirope de agave. Cuando esté listo el puré de la fruta, apagamos el fuego y dejamos atemperar. Podemos colarlo si queremos una textura más fina. Incorporamos antes de que se enfríe la mezcla las cucharadas de chía . No hace falta que las hidratemos previamente. Al enfriarse, la chía absorberá parte del líquido de la mermelada y la espesará de forma natural. Una vez listo, vertemos la mezcla en tarros de cristal y dejamos enfriar antes de refrigerar. Esta mermelada te aguantará perfectamente entre 10 y 12 días. Bizcocho de higos frescos Bizcocho de higos Este bizcocho queda especialmente esponjoso y es un capricho saludable para incorporar sin remordimientos a un desayuno o merienda. Necesitaremos los siguientes ingredientes para dos raciones: Un huevo Cuatro cucharadas soperas de harina de avena Dos cucharadas soperas de yogur griego Una cucharadita de levadura química Una cucharadita de miel Un poco de canela Tres higos frescos En un bol, bate los ingredientes líquidos y luego incorpora la harina de avena, la levadura química, la canela y mezcla bien. Corta en pedazos los higos bien limpios y añádelos al bol. Vierte el resultado en un recipiente apto para microondas y cocínalo a máxima potencia durante 3 minutos. Deja que se enfríe un poco antes de desmoldar. Si lo haces en el horno, necesitarás unos 20 minutos a 180 °C.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T11:31:59+00:00"
         },
         {
           "title": "Perico Delgado, al igual que Miguel Indurain, prefiere el ciclismo de su época: \"Eso lo haces ahora y te echan\"",
@@ -826,18 +826,18 @@
           "fecha": "2026-09-14T09:04:40+00:00"
         },
         {
+          "title": "El 'freno' a la IA castiga a ACS y Solaria en el Ibex y arrastra a las tecnológicas asiáticas",
+          "link": "https://www.eldiario.es/economia/acs-solaria-caen-ibex-tecnologicas-asiaticas-desploman-lastradas-freno-ia_1_13507356.html",
+          "desc": "La constructora de Florentino Pérez se ha especializado en la construcción de centros de datos, mientras que la energética ha abierto un nicho en el suministro de electricidad y desarrollo de suelo y conexiones para estas infraestructuras China pide una “barrera de seguridad” para la IA ante los intentos de Trump de frenar una regulación global El debate en torno a un posible freno al desarrollo de la inteligencia artificial (IA) ha golpeado de lleno a las bolsas mundiales, lastrando a las asiáticas, que ha desarrollado un ecosistema propio en torno a las empresas tecnológicas, pero ha afectado también al Ibex 35 en los primeros compases de la jornada, especialmente a las compañías centradas en el desarrollo de infraestructuras. Es el caso de ACS, la constructora de Florentino Pérez, centrada en infraestructuras de nueva generación y con énfasis en la construcción de centros de datos , que a una hora de la apertura de la sesión caía más del 4%. Al igual que Solaria, que ha impulsado su estrategia en infraestructuras digitales a través de Solaria Data Center, su filial especializada en el suministro de energía y desarrollo de suelo y conexiones para centros de procesamientos de datos. ACS se ha consolidado como el primer constructor de centros de datos en el mundo, con más de 9 GW instalados y presencia destacada en mercados de alto potencial, como EE. UU., Europa y Asia-Pacífico, según la propia compañía, que registra hoy la mayor caída de la Bolsa española, junto a Solaria. Los títulos españoles se han sumado a las pérdidas después de una jornada en rojo en Asia. A la media sesión, las bolsas de Shanghái y Shenzhen, en China, caían un 0,25 % y un 0,9%, respectivamente, mientras que el índice que aglutina los 300 principales valores de esos dos mercados, el CSI 300, se retraía en un 0,77%, de acuerdo con EFE. En el primero de esos dos parqués, varias de las compañías relacionadas con la IA se teñían de rojo hacia esa hora. Cambricon (-0,47%), CXMT (-3,51%) o Moore Threads (-3,15%) son algunos de los ejemplos, aunque Enflame (+4,17%) ponía la nota discordante, apoyada aún por el furor de los inversores tras salir a bolsa el pasado viernes. En Hong Kong, el índice referencial, el Hang Seng, subía un 0,32%. El índice dedicado a los valores tecnológicos, el Hang Seng Tech Index, bajaba un 0,17%, lastrado por Alibaba (-1,67%), Biren (-4,91%) o Z.ai (-8,01%). Las bajadas, sin embargo, no se extendieron a otros grupos tecnológicos que también figuran entre los principales desarrolladores de modelos de IA, como Tencent (+0,51%) y el 'Google chino' Baidu (+1,01%). El índice de referencia de la bolsa de Taipéi, el Taiex -que cuenta con un fuerte componente tecnológico-, cerró la jornada con un retroceso del 0,7%, aunque con un desempeño dispar entre sus principales valores: mientras los títulos de TSMC (-1,24%), ASE Technology (-0,97%) y MediaTek (-0,55%) acabaron en terreno negativo, los de UMC (+1,42%) Foxconn (+0,2%) cerraron en verde. La bolsa coreana cae más del 3% El principal índice de la Bolsa de Seúl, el Kospi, caía más del 3% este lunes a media hora del cierre de la sesión. El indicador bajaba un 3,34%, con Samsung (fabricante de chips y valor de referencia) perdiendo un 4,05%, mientras el gigante del sector SK hynix anotó un declive del 6,35%. La firma de inversión en tecnología SK Square se hundió un 8,17%, y la tecnológica Naver se redujo un 1,21%. Por su parte, el índice Kosdaq, que agrupa a empresas tecnológicas y de mediana capitalización, se dejaba un 1,59%, o 13,05 puntos, hasta las 807,59 unidades. Softbank se precipita el 10,72% El principal índice de la Bolsa de Tokio, el Nikkei, caía un 0,88% a media hora del cierre de la sesión de este lunes, después de que líderes de principales empresas de inteligencia artificial abogaran por desacelerar el desarrollo de esta tecnología alegando riesgos de seguridad que representa. El gigante japonés de las telecomunicaciones y la inversión SoftBank, que ha invertido miles de millones de euros en OpenAI y la industria de la inteligencia artificial, bajó un 10,72%. Fujikura, que fabrica cables eléctricos para centros de datos, perdió un 2,97%, y la empresa de memorias Kioxia bajó un 6,37%.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T08:58:56+00:00"
+        },
+        {
           "title": "China pide una \"barrera de seguridad\" para la IA ante los intentos de Trump de frenar una regulación global",
           "link": "https://www.eldiario.es/tecnologia/pekin-denuncia-eeuu-busca-frenar-ia-impedir-china-pueda-mejorar-capacidades_1_13507168.html",
           "desc": "El gigante asiático recuerda, no obstante, que esta tecnología se ha convertido en una nueva \"rivalidad entre grandes potencias\" y recuerda cómo EEUU está intentando frenar su desarrollo con medidas como el embargo de chips avanzados Los cuatro gigantes de la IA piden frenar desarrollos y Trump desprecia el riesgo El ministro chino de Seguridad del Estado, Chen Yixin, ha pedido construir una “barrera de seguridad” en torno a la inteligencia artificial (IA), en un momento de creciente preocupación en Pekín y Washington por los riesgos políticos, sociales y tecnológicos de esta herramienta . Chen sostiene que la IA se ha convertido en un campo principal de competencia tecnológica global y en una nueva vía de “rivalidad entre grandes potencias”, según un texto publicado este domingo por la Administración del Ciberespacio de China, el principal órgano regulador del Internet chino, en su cuenta oficial en la red social Wechat. El responsable del organismo pide impulsar el desarrollo “saludable y ordenado” de la IA, pero también reforzar la supervisión sobre datos, algoritmos, infraestructura de computación y aplicaciones de uso civil y militar. El artículo enumera riesgos vinculados a la difusión de contenidos falsos, ataques informáticos, filtraciones de datos, manipulación de la opinión pública, desinformación, uso militar de sistemas autónomos y problemas legales derivados de la responsabilidad por contenidos generados por IA. El ministro de Seguridad, líder del espionaje chino, lanza esta opinión justo tras las alertas lanzadas en Estados Unidos por directivos como Dario Amodei, Sam Altman o Elon Musk sobre los riesgos de la IA, mientras el presidente estadounidense, Donald Trump, ha rechazado ralentizar su desarrollo con el argumento de que Washington no puede permitir que China tome ventaja. Chen afirma que, en junio de 2026, los productos de IA en China superaban ya los 500 millones de usuarios, una muestra de la velocidad con la que estas herramientas se han extendido en el país. “Ciertas naciones aprovechan sus ventajas acumuladas en teoría fundamental de IA, arquitectura de modelos y capacidad de cómputo central (todo ello bajo el pretexto de 'mantener la seguridad nacional') para limitar la capacidad de otros países de adquirir equipos técnicos de vanguardia y mejorar sus capacidades de innovación tecnológica”, indica el funcionario, en una referencia velada a Estados Unidos. En el ámbito militar, Chen aseveró que la IA “está pasando de ser un papel de apoyo en el campo de batalla a convertirse en un protagonista”, citando específicamente el conflicto entre Washington y Teherán. La advertencia llega en un momento de intensa actividad del sector chino , con empresas como DeepSeek, Moonshot, Alibaba, Tencent o Zhipu compitiendo mediante modelos abiertos, precios bajos y rápida implantación comercial, pese a las restricciones estadounidenses sobre chips avanzados. Recientemente, DeepSeek y Moonshot han perfilado posibles salidas a bolsa y modelos como Kimi K3, Qwen3.8-Max o GLM-5.2 se han acercado a los sistemas más avanzados de firmas estadounidenses como OpenAI o Anthropic.Autoridades estadounidenses y responsables como el secretario del Tesoro, Scott Bessent, han acusado a empresas chinas de usar la “destilación”, una técnica que permite entrenar modelos con respuestas de otros sistemas, para copiar tecnología estadounidense. Este verano, el presidente chino, Xi Jinping, pidió una gobernanza “precisa y efectiva” de la IA y China lanzó en Shanghái una organización internacional de cooperación sobre IA con una treintena de países.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-14T07:54:29+00:00"
-        },
-        {
-          "title": "El petróleo sigue su escalada y alcanza los 107 dólares en medio de la tensión en Irán",
-          "link": "https://www.eldiario.es/economia/petroleo-sigue-escalada-alcanza-107-dolares-medio-tensiones-iran_1_13507163.html",
-          "desc": "El gas de referencia en Europa, el TTF, sube casi un 5% hasta los 83 euros/MWh, nuevo máximo desde finales de 2022 El enquistamiento del conflicto en Irán inflama los precios energéticos y propicia la peor cuesta de septiembre en años Nuevo lunes de escalada de los precios energéticos. El precio del petróleo brent para entrega en noviembre sube el 2,6% y alcanza de nuevo los 107 dólares, mientras el mercado sigue pendiente de las tensiones en Oriente Medio. Por su parte, el gas de referencia en Europa, el TTF, sube casi un 5% hasta los 83 euros/MWh, nuevo máximo desde finales de 2022. A las 7 horas de este lunes, el crudo brent, el de referencia en Europa, sube ese 2,6% en el mercado de futuros de Londres, hasta los 107,30 dólares, aunque durante esta madrugada ha llegado a tocar los 108,49 dólares, informa la agencia EFE. El precio del crudo ha iniciado la semana al alza, después del respiro del pasado viernes, que registró una importante caída del 2,81%, pero tras cinco sesiones consecutivas de ascensos en las que se superó de nuevo la barrera psicológica de los 100 dólares el barril . El viernes el precio del crudo llegó de hecho a tocar los 109,97 dólares –máximo desde mediados de mayo–. El retroceso del cierre de la semana pasada coincidió con el anuncio de Irán de convocar para este lunes una reunión con ocho estados ribereños del Golfo Pérsico para abordar el establecimiento de rutas seguras de navegación en el estrecho de Ormuz. Hace semanas, el Gobierno iraní informó de un acuerdo con Omán para crear un corredor de tránsito marítimo en el estrecho gestionado por ambos países, aunque la medida aún no se ha aplicado. No obstante, la citada reunión prevista para hoy entre Irán y varias naciones del Golfo Pérsico ha sido aplazada, según ha publicado el ministro de Asuntos Exteriores de Omán, Badr Albusaidi, en una publicación en X. El gas rompe un nuevo máximos desde 2022 El gas de referencia en Europa, el TTF, inicia la semana con un importante ascenso, de casi un 5%, hasta alcanzar los 83 euros/MWh. Se trata de un nuevo máximo desde finales de 2022, en plena crisis energética por la guerra en Ucrania. Si el pasado agosto, en vísperas de la cuesta de septiembre más dura desde el inicio deon conflicto en Ucrania , el temor era que el TTF superase los 70 dólares, esa barrera ya ha quedado superada en septiembre, ante la falta de expectativas para una reapertura duradera del estrecho de Ormuz, las dificultades para normalizar la producción de gas natural licuado (GNL) y unos niveles de almacenamiento en Europa muy inferiores a los habituales. La bombona de butano sube un 5% hasta los 19 euros Por su parte, el precio máximo de venta al público de la bombona de butano de 12,5 kilogramos subirá a partir de mañana hasta los 18,84 euros, un 4,96 % más que el precio fijado en la última revisión, según ha publicado este lunes el Boletín Oficial del Estado (BOE). La subida de esta última revisión tiene en cuenta la reducción temporal del Impuesto de Hidrocarburos que establece el Real Decreto-ley 18/2026 a partir del 1 de septiembre, de 11,25 euros/t. A esta medida, explican fuentes del Ministerio de para la Transición Ecológica y el Reto Demográfico, se añade un ascenso de la cotización de las materias primas (8,24%), un aumento del coste de los fletes (10,27%), y la apreciación del euro frente al dólar (7,1%). Todo ello, en el contexto energético internacional marcado por las tensiones en Oriente Medio. Dicha revisión del precio de la bombona de butano, al alza o a la baja, está limitada al 5%, acumulándose el exceso o defecto de precio para su aplicación en posteriores revisiones. En el caso de no haberse aplicado el límite del 5% al alza o a la baja en la revisión bimestral ni la medida fiscal, el precio máximo habría ascendido a 18,89 euros, informa EFE. Esto implica, explican las mismas fuentes, que se ha generado un déficit que tendrá que recuperase en sucesivas revisiones de la tarifa regulada, dentro del citado margen del 5%.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T07:49:15+00:00"
         },
         {
           "title": "Bolaños recurre el archivo de sus denuncias contra el juez Peinado y acusa al Poder Judicial de \"corporativismo\"",
@@ -880,6 +880,34 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Solo developer wires ZLUDA to AMD's HIP, getting multiple CUDA libraries running on a Radeon RX 9060 XT in Windows — CUDA-exclusive workloads on AMD hardware in Windows is possible without virtualization or dual-booting",
+          "link": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting",
+          "desc": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-14T14:23:12+00:00"
+        },
+        {
+          "title": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWp1WXIxRDdOOFMwd0ZlZEVfY01FYXJpY3ppZGVLYXJ3V21QU3BXVnY2Wm5HWjF2QWZ6WU9uU2FxWUpRYmQtaVQ3YXlWZkM5VFVTNVVWUVl5WFJEZGxfam1QczNVaXBlTTRMR0FwZ0RxUlZVRllhbC1NSTMzeEdncHJ4THItbzNSREt3U1J6US1WNjR0WlRGZkFRUlDSAaIBQVVfeXFMTlVaQ3o1ZGFzbF8zYUc0TDk5NTlDVlRtblRxSVBaTE1zN3FUYWg0RWdvMmstVWtTbEhfNmIwSzFqMjVNRWRVckRSM2ZtSUludGlzSVNwcU9NdDFLRnZtVHZHb1BrV2tIa3J2bkVxMWVQMEUzdXRyQ25oSFRTak9nVHA3aFg4S3JUUGRsOUV4TlFkVzYtQ3pwcnJPeklxcUdGWFRR?oc=5",
+          "desc": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas El Boletín",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:14:15+00:00"
+        },
+        {
+          "title": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTZsa0RMSE5aekx0VDhSRjdBQ09JNlFHRTVydElmTTJXV3YzRXE2b0hfdVdFMlFKMkhMQ0RJZkl3SzJDTDJXaVlyNU9qLTgzM2pMUnhPQjhEUnFHUFJKOFdRN1pXaHVPZ2V2d2dCZ2Zwemd4dWs0eWRpZTQtTGJSbmxUQXNubE50akR1U2JONHBsZElXWkt2VWQ1NUjSAZwBQVVfeXFMTkdFT0t3eGExVDVBRWI3WGxiWHFKRERLSGdlY18ydC02RnJwYzBiMm93azJCNDhDSFByZlllU3ZnZTM4ZndLVVhjcVQ0bmthVDJYWmJrRXBiNV9wYWhmcFJXTUcta0tFOHdDQ293bWJVak1jbmh6UmVEZjBRSk9xNXNtLTZQZzNkSS1RcThJOXJWaVVNSVBJbnY1a1Jr?oc=5",
+          "desc": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA elperiodico.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T13:59:18+00:00"
+        },
+        {
+          "title": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEJGT0VrVjFXSHMtSV9Yay1EX0hMUGQwNnlxMnR1N2NXR3l4MU1LUXVxMTBuYnNSTDJyUjk3bC1vVVFTXzdnWnhSTncwdmE5V3A3TFFqcWQ1c3FXSlJ6M2t4bG5BWk9qSFFWRjBKWTBxRzdQU2ZQQjc5UF84Q0tRLWFOLVRELUN3SmNyVUlOeHRBa25icWlrQ2hzOU0wNll1d2hrNjZleTBrczR6clE1WFBxWjlsSkEzOHRHX0xzYVRLQjhrTVV4enBn?oc=5",
+          "desc": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T13:57:32+00:00"
+        },
         {
           "title": "El S&P 500 y el Nasdaq abren a la baja por el nerviosismo en torno a la IA, que lastra a Nvidia y a los fabricantes de chips",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQXzlNME1NRGJ2WFQzdkt2bnQ4ZmVVemdWTnhwVDVobFRiQnlPemtTWlY5RTVua2xtSkl4aWNsb1E0bmV3ZlY2dDFGSFNMZ2t0R19rRDlELVFhdnZEZUMzWUJZNGRMaFptSTRzLTRVUl95YzJRU2RFRDNUMWh3RmJQQTRyYWRoZ0p3d2tSaFBrWmFaV1VLMVNDS3M1VndyeEFlM1djNVEtN0dZOWszLU1MSFpkeVNKNldCRWtRSEFsYWF5Q05NdTE3SVVRQXpXNTlVMjN2NnFfUG5ENWk1aHNhT3FOUUUtQnVHQmc?oc=5",
@@ -953,7 +981,7 @@
         {
           "title": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlR4Z01ydVVRTjM4ZHRjZ3d2cnJYNGZPbTVsamlaR2h5cElRQTdFdkU0bFNhdkhpbi1HZ3kxd3FDZ3QyVWFHOHVrMFpzbHEzR2V4QXRGelM2dV93WExrZzhkR0ExX3ZfdWsxTUpSRDRCeG1tSmZiNjJ4emdONG5IblRPNkdWeGZCY2dldXFmdEZlM2NHVVJienIxdm1ZLWlYVTl3WjFsTi1jNm5lc1hCZkFzRDlqZFlXaUVXTVhQMlfSAcABQVVfeXFMTlN0Q2Y1NzZuaFJ0M0xnS2FacU00akFTbHFiLWNDdEkwZEdRaDFDcDM2YmNENzNQX2ZkWDhrTjJxRHcxbVBrMEktaVNlNTlzU1ZSUEdCSzIxS2ZCMVVGSzM3SlFJRTdLSXFwNW9SUzFkLVM3TFpIWnUwaW9JVFJXc0JscDVwX1dsVlg5RVdzWlhRQzVtall5S01tQ0pYNTZVeU1iMWpKN21VZFNxT09kUWp6eHd3cTVJaGVoeE5Rd3lr?oc=5",
-          "desc": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial El Periódico",
+          "desc": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial elperiodico.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T12:09:42+00:00"
         },
@@ -1019,34 +1047,6 @@
           "desc": "SpaceX y Nvidia lanzarán supercomputadoras de IA al espacio en 2027 El Digital Panamá",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T10:26:00+00:00"
-        },
-        {
-          "title": "NVIDIA libera OSMO para coordinar la IA física desde un solo archivo YAML",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWhBTW91RjZQT0JkdVJoQmlyNlhXaTh6SnI3ZTBza190aDF2YUl5anpnQWxHQTVLc2E0RmNkTGoyWGNKSzg1Vmpja0VueVFUcS1iMEdFbTUtckxvQVdic3pqbnFoT19EYTduY2VSV3hzZDBNQTNyUElnYXpZeWJqV3Zwb1cyZGhldndJVlpCd3lFbEJBUnl5elQ2MjJYYTIwcHp3TDhWRHQzWnowYjRyekotWmE4UQ?oc=5",
-          "desc": "NVIDIA libera OSMO para coordinar la IA física desde un solo archivo YAML diariobitcoin.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:20:14+00:00"
-        },
-        {
-          "title": "NVIDIA amplía su gama profesional con la RTX PRO 5500: 21.760 núcleos CUDA y 84 GB de VRAM GDDR7 ECC",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ1k1VFdJUFlaM0xNX205aV9HaUxSOVNJSVNVOWxSOHQ3blJSNnBiQnc1S3RKNVA3dmU1ZDliOWpBa00zenJHUkZkamtRUUZWd25ldUFYQ1NvcEk3eTdwbUxFSVdPcklPaUl3Y1NDeTRYZ0FpN3l3blJ6OWZaTk9WTVg2NWN6WTNuSTRreC1UcmN5WGlJUWc5LWNudmlDVDVmOFhJYlJTV3cybmNNSERNbkZlT1JoV25tSXhPcGZyanpVS2xncjVRTXRTRkhnbW9EOUhycG9wbjBndlpUdEVfOQ?oc=5",
-          "desc": "NVIDIA amplía su gama profesional con la RTX PRO 5500: 21.760 núcleos CUDA y 84 GB de VRAM GDDR7 ECC Geeknetic",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:11:06+00:00"
-        },
-        {
-          "title": "NVIDIA Corporation : Bernstein da una recomendación de compra",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzVkVkZjY045OHJmSnIzSEIyYlBZYnFXMUIzNE95SGtjUTkyUTY0c2ZNeWtmSHdoc0V1QWkwOUlXcXhpQ0xEc1hrY2xIWnFnM2Z6QnE0RmRnb1QtODV0R0ZpdW9jbEdoVkdPODdxLUI5aUZyX3pydm9jdnFwM2hkRTdJZmc1MU91Z2dsSGRUMEZWRXFiNWJpT3VkQWhNdzdEQXNodlVTM1p1M2FlZGs0VzZDNTAxUQ?oc=5",
-          "desc": "NVIDIA Corporation : Bernstein da una recomendación de compra MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:10:14+00:00"
-        },
-        {
-          "title": "NVIDIA RTX PRO 5500 Blackwell llega con 84 GB GDDR7 ECC y 21.760 núcleos CUDA",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTBrTnJmUUVRZU56di1na24wR2R1OWstVmpWaVYtWmVPS1ZlY1cyRUlCODVVMnlhUUFGTmVtWHA5a29TNFMtUmYxWS11M3JuWmdVS293amY1cWRHUXhwSEd6V2VMdmU0ZkpSOU9WbWlFcWpUN1NjZW5FSm1nZHNhOG9zaWZJY3RXanhld3YwOXlDdzU3Rmt1cjRDRkhVVTlyLWI0a1BpMDZUeUxodzJ5Zg?oc=5",
-          "desc": "NVIDIA RTX PRO 5500 Blackwell llega con 84 GB GDDR7 ECC y 21.760 núcleos CUDA Fanáticos del Hardware",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:09:47+00:00"
         }
       ]
     },
@@ -1067,6 +1067,13 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "Solo developer wires ZLUDA to AMD's HIP, getting multiple CUDA libraries running on a Radeon RX 9060 XT in Windows — CUDA-exclusive workloads on AMD hardware in Windows is possible without virtualization or dual-booting",
+          "link": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting",
+          "desc": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-14T14:23:12+00:00"
+        },
         {
           "title": "Proven 8-pin PCIe plugs aren't immune to melting — Thermal Grizzly WireView adapter burns out on Radeon RX 7900 XTX",
           "link": "https://www.tomshardware.com/pc-components/gpus/proven-8-pin-pcie-plugs-arent-immune-to-melting-thermal-grizzly-wireview-adapter-burns-out-on-radeon-rx-7900-xtx",
@@ -1119,7 +1126,7 @@
         {
           "title": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUdrNGdEZXFRbzcxcnFMVlRla1NDVGJReG8yM21wc3F6allIdWt6YXhjalIwX0FOYkRucUxoUHIwejZray1tYUlRTmpuaXNiUEU2em5nQ0ZOd21oMVBFWkJVblhlc2dnX3JhODcyVlBfSlljVE1ySm9JRTBxMWVZa2VTYkQyUWVsam9ZRVNUTTUzeHhiWWRETGFlRdIBmwFBVV95cUxOOXMtUkdsOFpXcFBKcXVNM2hRMkRZTTB4bUh1QnJUMnZfZTVYcnZEZEZ6ZWg5YkxOcGJybzBNVUJZY0M0enhZRlB0OW1Yem5vTURacnpTZ0tDbUFnYUhFVndhSm55SmJqSFRUUzFGRjB1OU5WUXdqbDJoWXk5d2tqMGlHYlhxZUstTmdlNFd3MWlETENsTUd1TjlHRQ?oc=5",
-          "desc": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon El Periódico",
+          "desc": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon elperiodico.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-13T16:40:49+00:00"
         },
@@ -1217,7 +1224,7 @@
         {
           "title": "AMD desafía a Nvidia con Helios, su apuesta por racks completos de inteligencia artificial",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0kyRWc4clZadHpiSkdQdG81UUhSTWktMUFYUGsyQkdnQ2tsNXEzMG9OcV9vRDRlcTJhT05DMURJb05WdnR2bW5EejBpcEFYaVZYRzQ4dEFDU1pYR1hEaVd5d3BySXlydGVvRUJwMG5lbHlTb1ljNERZczUycFVWOFNfS25zLVc0eTBELVdFdVlTNEc0WURpSXhkeW5Fd3FnVldCeUNndHl1ek9sSGRRdjNXaGplQnNMSmZIRkhIbDRmMVZzV1ZaVDMzOA?oc=5",
-          "desc": "AMD desafía a Nvidia con Helios, su apuesta por racks completos de inteligencia artificial diariobitcoin.com",
+          "desc": "AMD desafía a Nvidia con Helios, su apuesta por racks completos de inteligencia artificial DiarioBitcoin",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-11T18:16:02+00:00"
         },
@@ -1227,13 +1234,6 @@
           "desc": "AMD quietly releases two new CPUs focused on budget-friendly performance DLCompare.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-11T17:30:00+00:00"
-        },
-        {
-          "title": "AMD en la conferencia Communacopia + Tecnología de Goldman Sachs: la estrategia de IA se amplía",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFQza0dMZVYwMVozQXUyUEFKbkY4TDBoRGNlc2d6cGxhY29YV3EzV0k5YjNpN0pkczEzTGdGOEdORm9zUmVHQlN6Z3JKV3dUWmVuSFM3cy1UZWc1b2hfUzZ4WEtaM3FWWE02RjJFaUZNaktFcnJSS2s4SkhjM0pheUs2cTZ5RmZBMC1WSHNsMzc5YmpMdlhtMmRGV09icmxWLWdCUFBybEpXZTJJdkRCeHpaejVQYUxZRHlHZnlCdl8wdVBtLWQtc1R0ZTEzT3dRQkNVTmp3Z1lTVk9ZaFBMWFdR?oc=5",
-          "desc": "AMD en la conferencia Communacopia + Tecnología de Goldman Sachs: la estrategia de IA se amplía Investing.com España",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-11T16:45:00+00:00"
         }
       ]
     }
