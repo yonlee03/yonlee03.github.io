@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T15:00:16.815982+00:00",
+  "generado": "2026-09-14T15:30:26.521836+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,27 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "Cañizares se lleva las manos a la cabeza con el fichaje de Braulio Vázquez por el Valencia: \"No sé cómo se mete en este lío\"",
+          "link": "https://www.estadiodeportivo.com/futbol/valencia/canizares-lleva-las-manos-cabeza-con-fichaje-braulio-vazquez-por-valencia-como-mete-este-lio-20260914-546546.html",
+          "desc": "El ex guardameta che no entiende cómo el ya ex director deportivo de Osasuna ha regresado a Mestalla y le advierte sobre lo que se encontrará al tener que trabajar a la sombra de Peter Lim La bomba que se detonó en el Sánchez-Pizjuán el pasado viernes, con una nueva derrota del Valencia , la cuarta en cinco jornadas de LaLiga , acabó por explotar este pasado domingo. El crédito de Carlos Corberán ya estaba bajo mínimos y el técnico de Cheste acabó siendo finalmente destituido . Pero lo que quizás no se esperaba es que Peter Lim deciera cargarse también a Ron Gourlay , CEO de Fútbol y cabeza visible del proyecto, y a toda su dirección deportiva: Lisandro Isei, Hans Gillhaus, Andrés Zamora y Malek Shafei. La sacudida en Mestalla ha sido enorme y el golpe en la mesa ha llegado con l a contratación inmediata de Braulio Vázquez, abonando los 290.000 euros de su cláusula de rescisión para llevárselo de Osasuna , donde trabajaba desde 2017. El gallego, por tanto, regresa a un club che en el que ya estuvo entre 2009 y 2013 (luego pasó por el Valladolid) y donde se encontrará con su hijo y jugador valencianista, Jesús Vázquez (esa era precisamente una de las cuestiones que le hacían dudar). Y nada más llegar deberá tomar una decisión de calado: la elección del nuevo entrenador. El recambio de Corberán para el Valencia de Braulio Incendio en Valencia y Cañizares avisa de un \"levantamiento público\" La primera decisión de Braulio Vázquez: los entrenadores que maneja Al respecto, ya se ha informado de que su candidato número uno es Ernesto Valverde, al que ya contrató mediada la 12/13 para sustituir a Mauricio Pellegrino. Si no logra convencer al 'Txingurri', en paro tras abandonar el Athletic a la conclusión de la pasada campaña, el siguiente en la lista es Jagoba Arrasate, con el que Braulio trabajó codo con con codo durante seis temporadas en Osasuna. El preparador vasco se encuentra igualmente sin equipo tras ser destituido por el Mallorca el pasado mes de febrero. Pero aún hay más opciones sobre la mesa, como la de José Luis Mendilibar, recién cesado en el Olympiacos griego tras hacer historia, o Vicente Moreno , con contrato en vigor en el Al-Rayyan de Qatar. \"En el Valencia no se puede trabajar, no tiene autonomía, no tendrá nada\" La primera decisión que tendrá que tomar el nuevo director deportivo che se antoja crucial, mientras el interino Óscar Sánchez se siente mañana en el banquillo ante el Alavés. Pero un mito del valencianismo como Santiago Cañizares tiene dudas de que Peter Lim , que es quien al final tiene la voz cantante en todo lo que se cuece en Mestalla, le vaya a dejar maniobrar con libertad. \"Ha estado aquí. El salto es al vacío. En Pamplona seguro que ha trabajado bien. Cuando venga aquí va a saber cómo no se puede trabajar aquí. No se puede trabajar y además con el mercado cerrado ya. No se puede trabajar. No tiene autonomía, no tendrá nada \", insistió el ex guardameta en 'El Partidazo' de la Cadena Cope . \" No sé cómo se mete en este lío el bueno de Braulio Vázquez . Es un gran director deportivo. Un buen ejecutivo. No sé cómo se mete en este lío\", recalcó Cañizares, que no espera que las cosas cambien mucho pese a este giro de timón de Meriton. De hecho, recientemente, el ex secretario técnico, Carmelo del Pozo, ya desveló lo difícil que es trabajar en el Valencia porque la decisión la tienen otros. Todos los directores deportivo de Peter Lim Desde que el empresario singapurense llegó al Valencia, lo que supuso el adiós de Rufete como director deportivo, primero fue el portugués Nuno el que ejerció más de manager y no solo de entrenador. Luego se apostó por García Pitarch , que acabó enfrentado con el dueño del club, y el ex azulgrana Alexanco por recomendación de Joan Laporta. Y el último gran éxito, la Copa del Rey, llegó de la Mano de Mateu Alemany , que trajo también a Pablo Longoria . Pero Peter Lim lo desmontó todo para iniciar otro breve camino con César Sánchez, al que el suplió en sus labores el propio Anil Murthy , y un último con Miguel Ángel Corona antes de darle las llaves a Ron Gourlay . Ahora, con Braulio, vuelta a empezar.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-14T15:25:38+00:00"
+        },
+        {
+          "title": "VÍDEO | Deportivo de A Coruña - Sevilla FC",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmt4M2FRR1ZOMUFKWmtXUXNRbHhnMHFwOWNYM0Yxa25PNkYtd09Ub1UzOEUwME5XTV9rRlp5VEhCNjJhNEV5ZEFlaWh2TVN4Ykc0Y0NwcDRERDFnS3pTLUJsNjBaUEN4RFh6NU5mb2stZU1CMG5JTkl6SnNyQUQ3OThHRkhxVlVES1drSDVQQ0c5aXVMdzItVdIBngFBVV95cUxNMEcxbEpLN1c3Q2d6SGpfbGxRMW9RSThEM2VyR3pMNkM4QUhOMGhxX21XRDNfakpnbEJHZUJOcFZlaG9pODZXbnZEMkxWZ0l6amVQYWQzM1hBcFRfTGtoa1VFNXhRajVrMjJBODJMMFg5XzVxdTU4WEdsSG9uWFFUbmQ1VHRpcm1EbEpDdkJlRnRPMFZtZlE5akNXMTIwQQ?oc=5",
+          "desc": "VÍDEO | Deportivo de A Coruña - Sevilla FC El Correo de Andalucía",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:10:34+00:00"
+        },
+        {
+          "title": "¡Ajuste de cuentas! Explosivas declaraciones de Luis Alberto: \"En el Sevilla FC nunca me han querido tanto\"",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVg1RWg2ZXNoYnd4ckgwTk5ITEdqalI5MmNKVXdKWkJMajVqX2UzT3VUaXMybEs0SXRldE5WcjZ1dGZPWnRXZGlvM1lFcTROazNzallWc2Y2Q3ZrY05tSFZnbUhDd0p4SXh3eEo5NGlJNC1KNzFGSHRhZlpNVXYza3EyRXhPcDgtOXFTUzJDcnh1TjVrNzRHM1ByMFNWTVpZMEV5ci1hQzdncGZHOHNCM2R0QW1GUW44Mm11clF1YUo5ajlmM1JCcTBvdHhGa0tLa2c?oc=5",
+          "desc": "¡Ajuste de cuentas! Explosivas declaraciones de Luis Alberto: \"En el Sevilla FC nunca me han querido tanto\" Vamos Mi Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:42:58+00:00"
+        },
         {
           "title": "Cristóbal Soria, tras su accidente, le propone a Jesús Calleja quién debe ser su próximo aventurero: \"El frío lo lleva bien, deberías montarlo en un globo\"",
           "link": "https://www.estadiodeportivo.com/zona-flash/jesus-calleja-cuenta-verdad-sucedido-con-cristobal-soria-planeta-calleja-teniamos-protocolo-queria-recuerdo-pues-llevado-20260914-546511.html",
@@ -156,27 +177,6 @@
           "desc": "CONTIGO SEVILLA. Lunes 14 Septiembre Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T10:25:55+00:00"
-        },
-        {
-          "title": "Sorpresa con Fábio Cardoso en el Sevilla, dos bajas aseguradas y Stassin con un aparatoso vendaje",
-          "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/sorpresa-con-fabio-cardoso-sevilla-dos-bajas-aseguradas-stassin-con-aparatoso-vendaje-20260914-546520.html",
-          "desc": "El central luso, apartado desde pretemporada, trabajó por primera vez con el resto del grupo, mientras que Sangante y Vargas continuaron al margen a dos días de visitar Riazor El entrenamiento matinal del Sevilla en la Ciudad Deportiva José Ramón Cisneros Palacios, el penúltimo para preparar el choque del miércoles contra el Deportivo en Riazor, ha deparado noticias significativas en la actualidad nervionense y no solo a nivel de enfermería. Sin duda, la principal novedad de la sesión de hoy ha sido la presencia en el grupo de Fábio Cardoso , que por primera vez ha entrenado con los compañeros tras ser apartado en pretemporada junto al resto de descartes. Todos los futbolistas señalados por García Plaza hicieron las maletas en el mercado estival, pero el luso, por la falta de acuerdo para su traspaso y para rescindir su contrato ante la nula intención del jugador de renunciar al dinero firmado, permaneció en Nervión a la espera de que se encuentra una solución. La presencia de Cardoso con el grupo no cambia su situación ESTADIO Deportivo reveló recientemente que la vía de la desvinculación continúa abierta , si bien mientras se trata el arreglo definitivo el central portugués se ha reincorporado al grupo para trabajar como uno más aunque sin viso alguno de entrar en los planes de Luis García Plaza. De hecho, en la web oficial de LaLiga consta sin dorsal asignado. Al ser el único descarte a día de hoy y para evitar problemas potenciales se ha apostado por esta medida temporal a la espera de su salida definitiva , en la que se sigue trabajado con el deseo de que avance el diálogo para romper el contrato. Sangante y Vargas, ausentes y sin opciones para Riazor También es noticiable que Arouna Sangante tampoco se entrenó en la sesión de hoy , por lo que no llegará a tiempo para la cita en Riazor debido al esguince de tobillo que arrastra desde el partido contra el Espanyol. El defensa cumplió sanción contra el Valencia, duelo para el que no estaba disponible por dichas molestias, y se perderá también la jornada 6 del campeonato liguero. Tampoco lo hizo una mañana más Rubén Vargas , igualmente tachado para el desplazamiento a tierras gallegas por una persistente dolencia en la rodilla que le ha obligado a realizar una consulta externa. Stassin, vendado tras su dura caída contra el Valencia Además, Lucas Stassin se ejercitó con un aparatoso vendaje en el hombro derecho por la mala caída que sufrió contra el Valencia que le produjo mucho dolor en la articulación. A priori, trabajó con normalidad y no debería tener problemas para entrar en la lista para el choque contra el Deportivo de La Coruña, en la que solo faltarían Sangante y Vargas al margen de Cardoso. Los nervionenses realizarán la última sesión este martes en el Estadio Ramón Sánchez-Pizjuán a partir de las 10:33 horas y las 12:00 horas Luis García Plaza atenderá a los medios de comunicación. Ya por la tarde pondrá rumbo a La Coruña para el partido del miércoles contra el Dépor.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-14T10:21:48+00:00"
-        },
-        {
-          "title": "Cardoso vuelve a entrenar con el grupo y es la principal novedad en el Sevilla FC",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMk9DTGp5R0MxS1F1OUc2VDZtbm1iVTU4RmpFM3p2ZFFFRFZYWmJ4Q21BRmJ3OXRrXy14R3plNEpUdndUcllzMzB1UmhXM1B4T3AwSHN1YWFWOVpEMDJJZF90bDhvUDRqYVpzSE45VHR4LVBhX3VjTjdhYldvb3N3WnhWZzJrSWRnRXRPNk1EckNreFRJc1B2d2RnSE80ZWc?oc=5",
-          "desc": "Cardoso vuelve a entrenar con el grupo y es la principal novedad en el Sevilla FC Diario de Sevilla",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:06:08+00:00"
-        },
-        {
-          "title": "Cardoso vuelve a entrenarse con sus compañeros en el Sevilla FC",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0t2MGdJbW5LNWZ4UUJGeWFsc3JXVzgxNS16Sm1Cakw0RlgwdGw4cmwwV2NlVlZxdy1XaHRiMWJLYjJpNW14U24xWmVDbm8ybkdqOFp6NDdvNnpZaHZtal9LS1BGM2NSdjgyX3daU1lfcFNwdmoxX1d0X3VzTm1zNDg3ZlJxYXpTbElCQ3BFY0dpQkg5TG9ZbE5PNnNmTUNNQVA0M2VzalBCZ9IBrwFBVV95cUxQdl95cHhpOTRzaGFad3dfNTRNeDFubTd0Qm5VcmhZY01EQ1RreDRTSlB0bDVIa01Hd0lPZmtMMG9BVVB3WUlocFMxVy1CS2R4NldfNlk0Y1hxWnVNYnJ6VWtrdjJHNXVfcFV4YmZGa1BxQktNUUN4VnRPaTJlR2JVMnJHU2xUR3p0dUV0TUJJdTMzRC1IMWpUQkhEaW1MZ3RfQnZMbGhldk8zLVYxaXU0?oc=5",
-          "desc": "Cardoso vuelve a entrenarse con sus compañeros en el Sevilla FC Diario de Sevilla",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:02:59+00:00"
         }
       ]
     },
@@ -184,6 +184,55 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Cañizares se lleva las manos a la cabeza con el fichaje de Braulio Vázquez por el Valencia: \"No sé cómo se mete en este lío\"",
+          "link": "https://www.estadiodeportivo.com/futbol/valencia/canizares-lleva-las-manos-cabeza-con-fichaje-braulio-vazquez-por-valencia-como-mete-este-lio-20260914-546546.html",
+          "desc": "El ex guardameta che no entiende cómo el ya ex director deportivo de Osasuna ha regresado a Mestalla y le advierte sobre lo que se encontrará al tener que trabajar a la sombra de Peter Lim La bomba que se detonó en el Sánchez-Pizjuán el pasado viernes, con una nueva derrota del Valencia , la cuarta en cinco jornadas de LaLiga , acabó por explotar este pasado domingo. El crédito de Carlos Corberán ya estaba bajo mínimos y el técnico de Cheste acabó siendo finalmente destituido . Pero lo que quizás no se esperaba es que Peter Lim deciera cargarse también a Ron Gourlay , CEO de Fútbol y cabeza visible del proyecto, y a toda su dirección deportiva: Lisandro Isei, Hans Gillhaus, Andrés Zamora y Malek Shafei. La sacudida en Mestalla ha sido enorme y el golpe en la mesa ha llegado con l a contratación inmediata de Braulio Vázquez, abonando los 290.000 euros de su cláusula de rescisión para llevárselo de Osasuna , donde trabajaba desde 2017. El gallego, por tanto, regresa a un club che en el que ya estuvo entre 2009 y 2013 (luego pasó por el Valladolid) y donde se encontrará con su hijo y jugador valencianista, Jesús Vázquez (esa era precisamente una de las cuestiones que le hacían dudar). Y nada más llegar deberá tomar una decisión de calado: la elección del nuevo entrenador. El recambio de Corberán para el Valencia de Braulio Incendio en Valencia y Cañizares avisa de un \"levantamiento público\" La primera decisión de Braulio Vázquez: los entrenadores que maneja Al respecto, ya se ha informado de que su candidato número uno es Ernesto Valverde, al que ya contrató mediada la 12/13 para sustituir a Mauricio Pellegrino. Si no logra convencer al 'Txingurri', en paro tras abandonar el Athletic a la conclusión de la pasada campaña, el siguiente en la lista es Jagoba Arrasate, con el que Braulio trabajó codo con con codo durante seis temporadas en Osasuna. El preparador vasco se encuentra igualmente sin equipo tras ser destituido por el Mallorca el pasado mes de febrero. Pero aún hay más opciones sobre la mesa, como la de José Luis Mendilibar, recién cesado en el Olympiacos griego tras hacer historia, o Vicente Moreno , con contrato en vigor en el Al-Rayyan de Qatar. \"En el Valencia no se puede trabajar, no tiene autonomía, no tendrá nada\" La primera decisión que tendrá que tomar el nuevo director deportivo che se antoja crucial, mientras el interino Óscar Sánchez se siente mañana en el banquillo ante el Alavés. Pero un mito del valencianismo como Santiago Cañizares tiene dudas de que Peter Lim , que es quien al final tiene la voz cantante en todo lo que se cuece en Mestalla, le vaya a dejar maniobrar con libertad. \"Ha estado aquí. El salto es al vacío. En Pamplona seguro que ha trabajado bien. Cuando venga aquí va a saber cómo no se puede trabajar aquí. No se puede trabajar y además con el mercado cerrado ya. No se puede trabajar. No tiene autonomía, no tendrá nada \", insistió el ex guardameta en 'El Partidazo' de la Cadena Cope . \" No sé cómo se mete en este lío el bueno de Braulio Vázquez . Es un gran director deportivo. Un buen ejecutivo. No sé cómo se mete en este lío\", recalcó Cañizares, que no espera que las cosas cambien mucho pese a este giro de timón de Meriton. De hecho, recientemente, el ex secretario técnico, Carmelo del Pozo, ya desveló lo difícil que es trabajar en el Valencia porque la decisión la tienen otros. Todos los directores deportivo de Peter Lim Desde que el empresario singapurense llegó al Valencia, lo que supuso el adiós de Rufete como director deportivo, primero fue el portugués Nuno el que ejerció más de manager y no solo de entrenador. Luego se apostó por García Pitarch , que acabó enfrentado con el dueño del club, y el ex azulgrana Alexanco por recomendación de Joan Laporta. Y el último gran éxito, la Copa del Rey, llegó de la Mano de Mateu Alemany , que trajo también a Pablo Longoria . Pero Peter Lim lo desmontó todo para iniciar otro breve camino con César Sánchez, al que el suplió en sus labores el propio Anil Murthy , y un último con Miguel Ángel Corona antes de darle las llaves a Ron Gourlay . Ahora, con Braulio, vuelta a empezar.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-14T15:25:38+00:00"
+        },
+        {
+          "title": "Oasis anuncia una gira mundial para 2027 y ofrecerá dos conciertos en julio en Barcelona",
+          "link": "https://www.elmundo.es/cultura/musica/2026/09/14/6aa81004e4d4d8d7638b459a.html",
+          "desc": "Su última actuación en España fue en el Festival Internacional de Benicàssim (FIB) en julio de 2009, apenas un mes antes de que la banda anunciase su separación. Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-14T17:24:53+02:00"
+        },
+        {
+          "title": "Oasis anuncia dos conciertos en Barcelona para 2027",
+          "link": "https://www.eldiario.es/cultura/musica/oasis-anuncia-conciertos-barcelona-2027_1_13508847.html",
+          "desc": "Los hermanos Gallagher actuarán el 10 y 11 de julio en el Estadio Olímpico Lluís Companys de Barcelona; las entradas saldrán a la venta este jueves Las bambalinas de la gira de reencuentro de Oasis con la que Liam y Noel Gallagher dejaron su ira atrás Oasis volverá a España : la banda acaba de anunciar dos conciertos en el Estadio Olímpico de Barcelona para los próximos 10 y 11 de julio de 2027. “Tras un periodo de reflexión, 'la fuerza cultural pop más dañina de la historia reciente británica' se ha declarado en plena forma y volverá a levantar el ánimo del público” ha escrito el dúo Gallagher en redes sociales, donde ha asegurado que será un “espectáculo imperdible”. El grupo regresará a los escenarios el año que viene con una gira mundial que le llevará a actuar en Reino Unido, Europa, EEUU e Irlanda. Para tener acceso a la venta de entradas será necesario registrarse a través del siguiente enlace antes del 17 de septiembre a las 17 horas, puesto que no habrá venta general debido a la alta demanda. La última vez que Oasis estuvo en España fue en julio de 2009, durante su actuación en el Festival Internacional de Benicàssim (FIB). Los hermanos Gallagher comenzaron a insinuar los conciertos de su próxima gira publicando vídeos crípticos a través de redes sociales. Es así cómo los seguidores españoles de la banda se convencieron, antes siquiera del anuncio oficial, de que un anuncio de conciertos en Barcelona era inminente. Oasis publicó un vídeo en el que se podía observar a un hombre tocando la guitarra en una sala con el cartel del pintor catalán Joan Miró, lo que rápidamente se interpretó como una pista obvia de que la ciudad estaba en los planes del nuevo tour. Previamente, la banda había compartido un vídeo en el que dos chicos esperaban en una tienda de patatas fritas mientras sonaba en un televisor su canción Little By Little (2002). Los más observadores se percataron de que los números de los folletos colocados por todo el local sumaban la longitud y la latitud del estadio Celtic Park en Glasgow. Desde entonces, los fans especularon que la pista podría significar que el recinto, con capacidad para 60.000 espectadores, sería la primera parada de la gira. Asimismo, los Gallagher también publicaron otro vídeo que mostraba a dos niños jugando al fútbol contra una pared de ladrillos. Uno de ellos escribía en la pared el número de goles (11), mientras que el otro jugueteaba con el balón. Al final, el niño con el balón marcaba otro gol, lo que llevó a los seguidores del grupo a pensar en una confirmación de 12 noches en el estadio Etihad de Manchester. De hecho, una pequeña luna azul al fondo reforzaba esta teoría, dado que el himno del Manchester City es Blue Moon de The Marcels. El grupo viene de arrasar en el Festival de Venecia con la proyección de su documental Don't look back in anger , en el que cuenta su vuelta al ruedo después de años de separación. El filme llega a las salas el próximo 11 de septiembre trasladando el mensaje de dejar atrás el rencor. Los hermanos muestran en la película que han superado sus diferencias y hacen de esa reflexión una metáfora de la importancia de la empatía en un mundo dividido y cabreado. El documental es un regalo para todo aquel que se ha enamorado de la música de Oasis.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T15:05:07+00:00"
+        },
+        {
+          "title": "Oasis anuncia una gira mundial para 2027 con dos conciertos en Barcelona el 10 y 11 de julio",
+          "link": "https://elpais.com/cultura/2026-09-14/oasis-anuncia-una-gira-mundial-para-2027-con-dos-conciertos-en-barcelona-el-10-y-11-de-julio.html",
+          "desc": "La banda liderada por los hermanos Gallagher, que acaban de presentar un documental sobre su reconciliación, empezará su ‘tour’ en mayo y lo finalizará en septiembre",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-14T15:04:50+00:00"
+        },
+        {
+          "title": "Oasis confirma su gira mundial con la que pasará por España: estas son las fechas",
+          "link": "https://www.20minutos.es/musica/oasis-confirma-su-gira-mundial-con-que-pasara-por-barcelona-sera-un-espectaculo-digno-contemplar_7036583_0.html",
+          "desc": ".",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-14T17:03:33+02:00"
+        },
+        {
+          "title": "Los otros grandes nombres propios que deja la Vuelta a España 2026: los protagonistas de la carrera más allá de Enric Mas",
+          "link": "https://www.eldiario.es/spin/deportes/grandes-nombres-propios-vuelta-espana-2026-protagonistas-carrera-enric-mas-pm_1_13506887.html",
+          "desc": "Desde que se anunció su participación, Tadej Pogacar se convirtió en el único y gran favorito, sin embargo, su abandono en la etapa 8 lo cambió todo Enric Mas se reinvica y deja la vuelta en casa 12 años después de la última victoria española La Vuelta a España 2026 ha puesto punto y final en Granada, donde han terminado tres semanas de competición que han dado para mucho, para que un español, Enric Mas , vuelva a subir a lo más alto 14 años después de la última victoria, que había sido de Alberto Contador en 2014. El corredor del Movistar se ha alzado con el jersey rojo en Granada, con lo que ha hecho valer el hecho de ser el favorito desde el abandono de Tadej Pogacar, lo que supone también su primera victoria general en una grande. De esta forma ha sido el gran protagonista de la edición, pero ha habido más nombres propios en una edición 2026 que arrancó en Mónaco. Tadej Pogacar Desde que se anunció su participación, Tadej Pogacar se convirtió en el único y gran favorito, y su comienzo arrollador siendo jersey rojo desde el primer día vino a confirmarlo. Su dominio era claro y se encaminaba a una victoria sencilla, cuando durante la etapa 8 entre Puçol y Xeraco tropezó con una piedra y se fue al suelo, provocando su abandono. Las diversas lesiones y fracturas, además, hace que se pierda el Mundial y lo que resta de temporada, en la que había conseguido el reto de llegar a los cinco Tours y entrar en el selecto club. Había logrado todo lo que se había prometido, excepto la Paris-Roubaix, donde sucumbió ante Wout van Aert a las puertas de meta. Mikel Landa La etapa reina de la Vuelta a España 2026, la número 20, tenía numerosas sorpresas preparadas. Con final inédito rompepiernas, el Collado del Alguacil , la carrera pasaba antes por tres puertos de primera y uno de tercera, en el que Mikel Landa fue gestando la victoria de etapa y que desató la locura entre los aficionados, emocionados de volver a ver al vasco levantar los brazos en meta tras una temporada difícil por lesión. Santiago Buitrago El ciclista colombiano se ha colocado entre los protagonistas de la Vuelta a España 2026 al ser el campeón de la montaña, del jersey de lunares azules, con lo que más de dos décadas después le da el título a Colombia, siendo el último ganador del país, Félix “El Gato” Cárdenas en 2004. Con 78 puntos finales se ha impuesto a Wout van Aert, que se queda con 62 puntos, que tras ser doble campeón de etapa se colocó como su máximo rival para esta clasificación. Wout van Aert Comenzó más discreto de lo esperado, pero desde que se llevó la etapa 13, Wout van Aert se puso el claro objetivo de ser el campeón del jersey verde de los puntos, tras repetir en la etapa 15. Con un total de 326 puntos, el belga ha logrado con creces la meta, además de también haber conseguido trabajar para su compañero de equipo Matthew Brennan. Matthew Brennan El joven ciclista británico ha sido una de las grandes promesas de esta Vuelta a España 2026 siendo el gran dominador entre los más rápidos, con cinco etapas ganadas, siendo el más joven en ganar este número en una gran vuelta con tan solo 21 años. Las comparaciones con Mark Cavendish no se han hecho esperar, pero el corredor se desmarca: “Somos muy diferentes”, afirma en una entrevista en The Guardian.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T15:00:14+00:00"
+        },
+        {
+          "title": "Cocaína en una bolsa del Real Madrid y una huida a tiros: el entorno de 'La Paca' vuelve al banquillo",
+          "link": "https://www.eldiario.es/illes-balears/sociedad/cocaina-bolsa-real-madrid-huida-tiros-entorno-paca-vuelve-banquillo_1_13508270.html",
+          "desc": "La Policía Nacional siguió los movimientos de la acusada hasta sorprenderla durante la entrega de la droga, lo que desencadenó una persecución con la Guardia Civil, un disparo disuasorio y el hallazgo de cuatro kilos de droga valorados en más de 400.000 euros La Paca, la matriarca de la droga en la que está inspirada la nueva película de Lolita Flores Una bolsa del Real Madrid con cuatro kilos de cocaína, otro paquete oculto en el falso techo de un hotel y una persecución en la que un vehículo embistió a agentes de la Policía Nacional y la Guardia Civil. Así terminó una operación de narcotráfico que este lunes ha sentado en el banquillo de los acusados a la nuera de Francisca Cortés Picazo, 'La Paca' -histórica matriarca del poblado chabolista de Son Banya (Mallorca)-, quien ha reconocido haber introducido cinco kilos de cocaína en el considerado mayor supermercado de la droga de la isla. La confesión se ha producido este lunes durante la primera sesión del juicio celebrado en la Sección Segunda de la Audiencia Provincial de Balears, donde la mujer y otros cuatro procesados han alcanzado un acuerdo de conformidad con la Fiscalía. El sexto inculpado ha eludido pactar con la acusación pública, por lo que el juicio continuará con él como único acusado. Los cinco procesados han reconocido los hechos que les atribuía el Ministerio Público y han respondido a las preguntas del fiscal superior de Balears, Adrián Salazar, y de sus abogados defensores. Está previsto que las condenas sean inferiores a las penas inicialmente solicitadas por la Fiscalía. La principal acusada se enfrentaba a una petición de 16 años y medio de prisión y una multa de 1,3 millones de euros por delitos contra la salud pública, pertenencia a organización criminal, atentado contra agente de la autoridad y contra la seguridad vial. La Fiscalía solicitaba además una indemnización de 3.087 euros. Para otros cuatro procesados, el Ministerio Público reclamaba nueve años y medio de cárcel y una multa de 1,3 millones de euros por delitos contra la salud pública y pertenencia a organización criminal. El juicio continuará contra un sexto acusado, que ha rechazado pactar con la acusación. En su caso, la petición asciende a diez años y medio de prisión al concurrir la agravante de reincidencia. Los hechos se desarrollaron entre junio y noviembre de 2024. Durante ese periodo, la principal acusada, que mantenía una estrecha relación familiar con Son Banya, se desplazó en varias ocasiones hasta el poblado para introducir cocaína y retirar los beneficios económicos derivados de su venta. La investigación policial situó a otros de los acusados, algunos de ellos familiares de la principal procesada, en una operación de transporte de droga desde Alicante hasta Mallorca. El objetivo era realizar una entrega de cocaína en Son Banya. Cocaína en una bolsa del Real Madrid La Fiscalía sostiene que los inculpados transportaron cinco paquetes de aproximadamente un kilo cada uno. Cuatro de ellos fueron entregados a la nuera de 'La Paca' dentro de una bolsa con el escudo del Real Madrid. El quinto paquete quedó en manos del resto del grupo. La operación fue detectada por la Policía Nacional, que vigilaba los movimientos de la acusada. Cuando los agentes observaron la transacción, un vehículo policial trató de bloquear el paso del coche en el que viajaba la mujer. Según el relato del Ministerio Público, la procesada intentó escapar y arremetió a gran velocidad contra los agentes. La huida continuó cuando una patrulla de la Guardia Civil trató de interceptarla. Tras varios intentos de evasión y un disparo disuasorio al aire, los agentes consiguieron detener el vehículo. En su interior encontraron la bolsa con cuatro fardos de cocaína, que pesaban algo más de cuatro kilos y cuyo valor se situaba, según la acusación, por encima de los 400.000 euros. El resto de los acusados fueron detenidos en distintos puntos de la operación. Varios fueron interceptados cuando viajaban en una furgoneta. Otro fue localizado en una habitación de un hotel de s'Arenal, en el municipio de Llucmajor, donde los agentes encontraron el quinto paquete de cocaína escondido en el falso techo. La nuera de la 'Paca' es mujer de Francisco Fernández Cortés, 'El Ico', quien acumula varias condenas a sus espaldas, entre otros numerosos episodios, por asuntos de drogas y por protagonizar un tiroteo en un club de alterne de Palma. Su nombre apareció además en el caso Cursach en 2015, cuando decenas de testigos comenzaron a declarar ante el exjuez Manuel Penalva y el exfiscal Miguel Ángel Subirán sobre supuestas irregularidades en torno al empresario nocturno Bartolomé Cursach, acusaciones que terminaron desvaneciéndose en sede judicial y, finalmente, descartadas.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T14:49:09+00:00"
+        },
         {
           "title": "\"Nuno Tavares tiene nivel para el Real Madrid, pero se gastaría 100 millones en cinco años\"",
           "link": "https://www.estadiodeportivo.com/futbol/real-madrid/nuno-tavares-tiene-nivel-para-real-madrid-pero-gastaria-100-millones-cinco-anos-20260914-546542.html",
@@ -302,55 +351,6 @@
           "desc": "El club castellonense ha anunciado que los dos equipos saltarán este lunes al césped de La Cerámica con una camiseta en señal de apoyo al pueblo ceutí ante su grave situación con un lema directo y transparente Villarreal y Betis han acordado poner en marcha una nueva iniciativa para dar visibilizar a la grave situación de Ceuta por la crisis migratoria y apoyar al pueblo ceutí en estos momentos tan complicados. En este sentido, el club castellonense ha anunciado a través de sus medios oficiales que Ceuta estará presente en la cita de esta noche que enfrenta a amarillos con verdiblancos en el Estadio de La Cerámica, pues los dos equipos saltarán al campo con una camiseta en señal de apoyo a la ciudad autónoma con un lema directo y transparente: \"Ceuta no está sola. Todos somos Caballas\". Mensaje directo de apoyo a Ceuta \"El Villarreal CF y el Real Betis Balompié saltarán esta noche al terreno de juego con camisetas de apoyo a Ceuta , con el lema ‘Todos somos Caballas’, como muestra de solidaridad con la ciudad autónoma y con todos los ciudadanos que están viviendo una situación especialmente compleja en las últimas semanas por la crisis migratoria\", señala el comunicado, que habla en nombre de las dos instituciones. Esta noche, el Villarreal y el Betis saltarán al campo con una camiseta en señal de apoyo al pueblo de Ceuta 𝐂𝐞𝐮𝐭𝐚 𝐧𝐨 𝐞𝐬𝐭𝐚́ 𝐬𝐨𝐥𝐚. 𝐓𝐨𝐝𝐨𝐬 𝐒𝐨𝐦𝐨𝐬 𝐂𝐚𝐛𝐚𝐥𝐥𝐚𝐬. 🔗 https://t.co/nvsP1F0ceg pic.twitter.com/Y0gvrqseVy &mdash; Villarreal CF (@VillarrealCF) September 14, 2026 \\n \\n\\n\",\"proveedor\":4}\"> \"A través de este gesto , ambas entidades quieren trasladar un mensaje de apoyo, unidad y respeto a la población ceutí para que pueda recuperar lo antes posible su actividad cotidiana, social y económica. Ceuta no está sola. Todos Somos Caballas\", apunta el anuncio de una nueva medida en la que el Betis es protagonista para que no se olvide lo que está ocurriendo en la localidad norteafricana. Tercer gesto bético con la población ceutí No en vano, el Betis ya ha mostrado su respaldo a Ceuta con varias iniciativas que han sido muy aplaudidas por la población caballa y su presidente Juan Jesús Vivas, fiel reflejo de la implicación de la entidad heliopolitana. Betis y Ceuta hacen oficial un secreto a voces: amistoso en La Cartuja para llamar la atención de toda España y exigir soluciones El Betis se vuelca con Ceuta con un amistoso como altavoz para la crisis migratoria: \"Si lo hace, es el partido para retirarme\" De este modo, en los prolegómenos del partido contra el Real Madrid, se desplegaron sobre el césped dos enormes banderas de Ceuta y España para apoyar la localidad norteafricana. Esta medida tuvo continuidad con el anuncio oficial del amistoso que el Betis disputará con el Ceuta en el parón internacional , más concretamente el jueves 1 de octubre en La Cartuja a las 20:00 horas. Aplausos y críticas por el amistoso contra el Ceuta Una decisión muy aplaudida por un amplio sector de la afición , que considera un gesto necesario rendir homenaje a Ceuta y tenderle la mano para los focos sigan centrados en lo que está sucediendo. No obstante, también ha habido voces críticas q ue se han posicionado en contra al considerar que supone mezclar fútbol con política a pesar de que supondrá también una ayuda económica para el pueblo ceutí tal y como puntualizó el club. \"Los beneficios obtenidos por la venta de las entradas del partido irán destinados a Cáritas de Ceuta , a petición del Gobierno de la Ciudad Autónoma de Ceuta. Las localidades tienen un precio de 5 euros (más 1,5 euros de gastos de gestión) para socios, que podrán adquirir hasta cuatro localidades adicionales al mismo precio en su misma compra. Para el resto del público, el precio es de 10 euros, más los mencionados gastos de gestión\", explicó el Betis.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-14T12:23:57+00:00"
-        },
-        {
-          "title": "La Federación y la Liga Saudí condenan los lamentables cánticos contra Diogo Jota",
-          "link": "https://www.marca.com/futbol/liga-arabia-saudi/2026/09/14/federacion-liga-saudi-condena-lamentables-canticos-diogo-jota.html",
-          "desc": "Ocurrió durante el partido entre Al-Taawoun y Al-Hilal",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-14T14:06:47+02:00"
-        },
-        {
-          "title": "La Federación y la Liga Saudí condena los lamentables cánticos contra Diogo Jota",
-          "link": "https://www.marca.com/futbol/liga-arabia-saudi/2026/09/14/federacion-liga-saudi-condena-lamentables-canticos-diogo-jota.html",
-          "desc": "Ocurrió durante el partido entre Al-Taawoun y Al-Hilal",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-14T14:06:47+02:00"
-        },
-        {
-          "title": "Arthur Melo, el amuleto del Santos de Neymar: \"Uno recoge lo que cultiva\"",
-          "link": "https://www.marca.com/futbol/2026/09/14/arthur-melo-amuleto-santos-neymar-recoge-cultiva.html",
-          "desc": "El 'Peixe' cuenta sus partidos por victorias (3) desde la llegada del ex del Barcelona",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-14T14:02:51+02:00"
-        },
-        {
-          "title": "Roberto lanza su candidatura a De la Fuente: \"Ojalá me llame, es un sueño\"",
-          "link": "https://www.estadiodeportivo.com/futbol/espanyol/roberto-lanza-candidatura-fuente-ojala-llame-sueno-20260914-546534.html",
-          "desc": "Roberto Fernández, el delantero del Espanyol firmó un doblete ante Osasuna y ya suma cinco goles en las cinco primeras jornadas, unos números que le permiten soñar con la Selección. Su nombre está sonando mucho y el cordobés lo tiene claro: \"Ojalá me llame De la Fuente\" Roberto Fernández está viviendo un inicio de temporada difícil de igualar. Sus cifras explican por sí solas el momento que atraviesa el delantero cordobés: cinco remates a puerta y cinco goles . Su doblete en Pamplona llegó además en apenas 17 minutos . El primer tanto apareció en el minuto 3, cuando Marcos Fernández puso un centro raso desde la derecha y Roberto atacó el corazón del área para adelantarse a la defensa. El segundo llegó poco después. En el 17', Omar El Hilali encontró al delantero con otro envío raso al área. Catena dejó pasar el balón y Roberto, atento a cualquier error, apareció para volver a castigar a Osasuna. \"Yo espero al fallo del defensa\" \"> El propio atacante explicó después cómo vivió la acción. \"Yo espero al fallo, como delantero que soy, tengo que esperar el fallo del defensa\" . Y eso es justo lo que está haciendo. Roberto está jugando con una confianza que parece haber cambiado por completo su relación con el gol. Osasuna 0-2 Espanyol: Roberto aprovecha los errores Vallecas tendrá que esperar y el Espanyol se queda sin entradas Un arranque que recuerda a Marañón Cinco goles en cinco jornadas y dos dobletes colocan al delantero en un territorio reservado a muy pocos jugadores en la historia reciente del Espanyol. Ningún futbolista perico había firmado un comienzo de Liga tan espectacular desde Rafa Marañón en la temporada 1979/80 , según los datos aportados por el club. Una comparación de mucho peso para un jugador que apenas necesita oportunidades para hacer daño. La diferencia con su temporada anterior también resulta significativa. El curso pasado necesitó 23 remates para conseguir siete goles . Ahora ha necesitado únicamente cinco disparos a puerta para alcanzar cinco tantos. Roberto lo atribuye, en parte, a una cuestión sencilla: está recibiendo más balones. \"Me están llegando más balones, y estoy muy contento con todos\" . Ver esta publicación en Instagram \"> El sueño de la Selección ya aparece Su rendimiento empieza a generar inevitablemente otra conversación. Con el primer parón internacional de la temporada cada vez más cerca, el nombre de Roberto Fernández empieza a aparecer entre las posibles novedades de Luis de la Fuente . El delantero no esconde que sería uno de los grandes sueños de su carrera. Preguntado por la posibilidad de recibir una llamada de la Selección española, su respuesta fue inmediata: \"Ojalá, ojalá. Por mí ojalá. Es un sueño para mí\" . Mientras tanto, la afición del Espanyol ya ha tomado partido. Los seguidores blanquiazules desplazados hasta Pamplona no dudaron en corear \" ¡Roberto, Selección!\" durante la celebración de su doblete. \"Para mí sería un sueño estar en la selección\" \"> El delantero recibió la ovación con una sonrisa difícil de esconder. Y razones no le faltan. Roberto Fernández ha comenzado la temporada lanzado y, por ahora, nadie parece capaz de ponerle freno. El '9' de España para Morata: cinco elegidos para Luis de la Fuente Manolo González aprieta al Espanyol antes de El Sadar: \"La única cosa que nos vale es ganar\"",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-14T12:02:03+00:00"
-        },
-        {
-          "title": "Vuelco mundial de las remesesas: América Latina crece un 132% en 10 años y los envíos digitales se disparan",
-          "link": "https://elpais.com/planeta-futuro/2026-09-14/vuelco-mundial-de-las-remesesas-america-latina-crece-un-132-en-10-anos-y-los-envios-digitales-se-disparan.html",
-          "desc": "Las transferencias de dinero que las personas migrantes envían a sus familias se han duplicado entre 2016 y 2025, según el nuevo informe del Fondo Internacional de Desarrollo Agrícola (FIDA)",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-14T12:00:00+00:00"
-        },
-        {
-          "title": "La pareja del filántropo propalestino detenido en España a petición de EEUU se reúne con los partidos y pide a Sánchez su libertad",
-          "link": "https://www.eldiario.es/internacional/theguardian/pareja-activista-propalestino-reclama-eeuu-reune-sumar-pide-sanchez-liberacion_1_13507961.html",
-          "desc": "Ambos partidos se oponen a entregar al Gobierno de Trump al filántropo Fergie Chambers por un supuesto apoyo a Hamás Angela Davis, Richard Gere, Alberto San Juan y Carlos Bardem, entre los más de 100 firmantes por la libertad del activista propalestino Fergie Chambers Los abogados de James Fergie Chambers, el millonario filántropo de izquierdas detenido en Madrid tras la petición de extradición que formuló EEUU por un supuesto apoyo a Hamás, han escrito al Gobierno para reclamar que rechace la solicitud estadounidense. La pareja de Chambers, la actriz y activista Stella Schnabel, se reunió la semana pasada con diputados de Sumar y Podemos para defender su inocencia. Entre los argumentos del equipo jurídico, dirigido por Baltasar Garzón, figura que el Gobierno de EEUU no ha identificado actos concretos de violencia ni daños achacables personalmente a Chambers, y que lo que realmente pretende es criminalizar la protesta política. También afirman que al menos uno de los conceptos del Derecho estadounidense en los que se basa la solicitud —“conspiración para cometer disturbios”— no tiene equivalente en la legislación española, lo que también contribuiría a invalidar la extradición. Se trata del primer caso conocido en el que EEUU solicita la extradición de un ciudadano por un supuesto apoyo a Hamás. La defensa de Chambers ha presentado su escrito al Gobierno antes de la reunión del Consejo de Ministros del 22 de septiembre. El Consejo puede decidir si permite o no que prosiga la solicitud de extradición de EEUU, basándose en parte en el análisis de los documentos justificativos que el Gobierno de Trump facilitó al Ejecutivo español el 26 de agosto. La defensa del activista, de 41 años y declarado antiimperialista, también sostiene que los cargos adicionales de \"blanqueo de capitales internacional\" presentados por el Gobierno de Trump no se sostienen porque, como heredero de una de las familias más ricas de EEUU, obtuvo su fortuna personal por medios legales El Consejo de Ministros tiene la facultad legal de denegar la solicitud en fase administrativa antes de que pase a la fase judicial. El Gobierno estadounidense argumenta que Chambers blanqueó presuntamente 7,5 millones de dólares que transfirió hace varios años desde una cuenta bancaria estadounidense a Túnez, donde residía en aquel momento, y utilizó el dinero para financiar al grupo palestino Hamás. Los detalles exactos de la acusación contra Chambers siguen siendo secretos. Stella Schnabel, la pareja del activista propalestino norteamericano Fergie Chambers (tercera por la derecha), la semana pasada en el exterior del Congreso junto a la diputada de Podemos Ione Belarra (tercera por la izquierda) y Baltasar Garzón (derecha), junto a otros miembros del equipo legal de Chambers. El equipo de Chambers afirma que lo que el millonario ha hecho es contribuir con ayuda humanitaria y otros proyectos. La defensa del activista, de 41 años y declarado antiimperialista, también sostiene que los cargos adicionales de “blanqueo de capitales internacional” presentados por el Gobierno Trump no se sostienen porque, como heredero de una de las familias más ricas de EEUU, obtuvo su fortuna personal por medios legales. Chambers ha hecho donaciones a unos 100 proyectos en 20 países a lo largo de varios años, incluido el Proyecto Sameer de ayuda humanitaria a Gaza. “Supondría un precedente alarmante en toda Europa que España permitiera a la Administración Trump criminalizar la oferta de ayuda humanitaria vital al pueblo palestino y la defensa de sus derechos”, afirmó Garzón. “Eso es lo que ha financiado Fergie: ayuda humanitaria y apoyo a personas en situación de gran necesidad”, señaló, y añadió: “Eso no es terrorismo, según los criterios jurídicos españoles y europeos”. Mientras tanto, Schnabel se ha reunido con miembros de Sumar y Podemos y ha escrito una carta de una página al presidente del Gobierno, Pedro Sánchez, pidiéndole que tome “la única decisión moralmente aceptable”, la de denegar la extradición. Schnabel también ha tenido encontronazos con la autoridad desde la detención de su pareja el 10 de julio en Ibiza. En un reciente viaje a Nueva York, el FBI la apartó a un lado en el aeropuerto JFK y le confiscó el teléfono, según ha declarado. El apoyo a Chambers en vísperas de la reunión del 20 de septiembre ha venido de la mano de Ione Bellara, líder de Podemos, quien inauguró la reunión trimestral del partido el pasado sábado con una declaración en contra de la solicitud de extradición en la que afirmó que Chambers está “del lado correcto de la historia” con su apoyo financiero a los palestinos de Gaza. La eurodiputada Irene Montero declaró a The Guardian: “Nuestras leyes no contemplan los hechos de los que se le acusa [y] no podemos convertirnos en un vasallo de EEUU”. Sumar, por su parte, ha presentado una moción en el Congreso en la que insta al Gobierno a denegar la petición, “dado que el objetivo de la solicitud de extradición […] es criminalizar, perseguir o castigar a [Chambers] por sus opiniones políticas, su actividad pública o su participación en movimientos políticos —en este caso, en apoyo al pueblo palestino—”. En los últimos días se han organizado manifestaciones en al menos seis ciudades de toda España en apoyo a Chambers, y hay planes para más. Otras muestras de apoyo procedentes de más lejos han incluido una petición entregada al Gobierno español firmada por actores, académicos, activistas y otras personalidades , entre ellas Richard Gere, Greta Thunberg y Angela Davis. En Túnez, los seguidores del equipo de fútbol Club Africain exhibieron pancartas y camisetas en un partido reciente en las que se leía: “Liberen a Fergie”. En Portugal, en la Festa do Avante , uno de los festivales culturales más grandes del país, organizado por el Partido Comunista, los aficionados levantaron una pancarta que decía: “Liberen a Fergie: apoyar a Palestina no es un delito”. Schnabel declaró a The Guardian el mes pasado que los 7,5 millones de dólares en disputa se destinaron a apoyar al Club Africain. Hamed Mbarek, uno de los seguidores del club y organizador de la iniciativa de los aficionados en el partido del pasado sábado, afirmó que el Club Africain era “propalestino” y que Chambers y el club estaban en “sincronía”. El dinero de Chambers procede de un acuerdo alcanzado a mediados de 2023 con su familia, propietaria del conglomerado de las telecomunicaciones Cox Communications, con sede en Atlanta, en el que vendió a su familia acciones por un valor aproximado de 250 millones de dólares. Sus familiares rompieron todo contacto con él desde entonces. Las opiniones y donaciones del filántropo gozan de amplia cobertura en los medios de comunicación estadounidenses. A finales de 2023 fue entrevistado en una cadena de noticias de televisión del estado de New Hampshire sobre una acción activista contra Elbit Systems, un contratista de defensa israelí, organizada por un grupo al que él pagó los gastos legales, entonces llamado Palestine Action —un grupo ahora proscrito de forma polémica en el Reino Unido por su supuesto carácter “terrorista”—. Los comentarios públicos de Chambers sobre Israel y Gaza también han suscitado polémica. Una semana después de los ataques de Hamás contra Israel del 7 de octubre de 2023, reaccionó así en X a la respuesta de Israel: “Dejad de llamarlo ”castigo colectivo“/ No hay nada por lo que ”castigar“/ Ninguna facción de la resistencia palestina, ni Hamás ni ninguna otra, ha hecho *nada* malo/ Es simplemente un genocidio/ Como lo ha sido siempre”. También es un acérrimo crítico de EEUU. En 2024 declaró a un periodista : “Creo que lo más importante para la prosperidad de la humanidad es la destrucción de EEUU”.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T11:58:59+00:00"
-        },
-        {
-          "title": "Twitch supera los 8600 millones de horas de gaming vistas en 2026 y revela los juegos y streamers más populares",
-          "link": "https://vandal.elespanol.com/noticia/2026257023/twitch-supera-los-8600-millones-de-horas-de-gaming-vistas-en-2026-y-revela-los-juegos-y-streamers-mas-populares/",
-          "desc": "Twitch publica su State of Gaming 2026: League of Legends lidera tanto a nivel mundial como en España, mientras Rubius supera los 21 millones de horas vistas. Twitch , una de las principales plataformas de retransmisión en directo de videojuegos y otros contenidos, ha publicado su informe State of Gaming 2026, con el que repasa algunos de los juegos, creadores y tendencias que más están marcando las retransmisiones en directo este año. Entre el 1 de enero y el 1 de septiembre, los usuarios han consumido más de 8600 millones de horas de contenido gaming en la plataforma a nivel mundial. Los cinco juegos con más horas vistas acumulan conjuntamente cerca de 1700 millones de horas. League of Legends ocupa la primera posición, seguido por Counter-Strike , Grand Theft Auto V , Valorant y World of Warcraft . En España, League of Legends también encabeza la clasificación, aunque en este caso sus perseguidores son Valorant y Fortnite . Rubius supera los 21 millones de horas vistas en 2026 El informe también aporta algunos datos sobre los creadores. En España, Rubius ha superado los 21 millones de horas vistas durante el periodo analizado, con Minecraft , TCG Card Shop Simulator y Marvel Rivals entre las categorías que más aparecen en sus retransmisiones. En Norteamérica, Jynxzi y TheBurntPeanut han superado los 70 millones de horas vistas. Twitch señala además que los juegos sandbox y de mundo abierto continúan reuniendo grandes audiencias, y este tipo de títulos acumula 831 millones de horas vistas durante 2026. El terror alcanza 287 millones y el uso de la etiqueta Horror ha crecido un 6 % respecto al mismo periodo de 2025, mientras que los juegos protagonizados por criaturas y compañeros suman otros 142 millones. Los juegos independientes también están creciendo con fuerza y las horas vistas en canales etiquetados como indie han aumentado un 51 % interanual, con títulos como Meccha Chameleon entre los ejemplos destacados por la plataforma. Los Twitch Drops también disparan sus cifras Otro de los datos más destacados está relacionado con los Twitch Drops . Las retransmisiones que utilizaron la etiqueta DropsEnabled generaron 1600 millones de horas vistas, un 46 % más que un año antes . Twitch acogió además más de 7500 campañas de este tipo, un 20 % más, mientras que 40 millones de usuarios participaron y reclamaron Drops, un crecimiento del 15 %.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-14T11:58:00+00:00"
         }
       ]
     },
@@ -363,56 +363,56 @@
           "link": "https://www.formula1.com/en/latest/article/what-we-learned-from-f1s-first-visit-to-the-madring.7gkOP8vYszgWmb9e2SyfgD",
           "desc": "Plenty of talking points emerged as the Madring made its debut on the Formula 1 calendar.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "Lawson reflects on his Red Bull outings after sixth in Madrid",
           "link": "https://www.formula1.com/en/latest/article/overall-its-been-a-strong-three-weekends-lawson-assesses-his-red-bull-outings.5te41V9tCdZlfI06L8yi1s",
           "desc": "Liam Lawson believes \"overall it's been a strong three weekends\" with Red Bull since replacing the injured Isack Hadjar midway through the season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "Mekies explains decision to ask Verstappen to give back places",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-mekies-explains-decision-to-ask-verstappen-to-give-back-places-in-madrid.3BUc5lifiWM4Gq8PagJHek",
           "desc": "Max Verstappen was instructed to give positions back at the start of the Spanish Grand Prix before eventually finishing in P2.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "Piastri assesses his ‘painful’ Spanish GP in Madrid",
           "link": "https://www.formula1.com/en/latest/article/piastri-assesses-his-painful-spanish-grand-prix-as-damage-makes-for-difficult-afternoon.31scb0mo8BNwlc0jgQByXV",
           "desc": "Oscar Piastri had a race to forget in Madrid, a first lap incident derailing his afternoon on a day where Lando Norris showed the McLaren had the pace to fight for the win. The Australian finished down in eighth place behind the Alpine of Franco Colapinto, while his team mate took yet another rostrum.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "Why Vasseur believes Ferrari had the pace to win in Madrid",
           "link": "https://www.formula1.com/en/latest/article/the-potential-is-there-why-vasseur-believes-ferrari-had-the-pace-to-win-in-madrid.7MPn8tFwJ89DPIk7D9WRe2",
           "desc": "Fred Vasseur has given his thoughts on Ferrari’s performance in the Spanish Grand Prix, which saw Charles Leclerc finish P4 after Lewis Hamilton retired.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "Honda announce changes to leadership of power unit programme",
           "link": "https://www.formula1.com/en/latest/article/honda-announce-changes-to-leadership-of-f1-power-unit-development-programme.D6nfqp5rqrP9IZuftmqaJ",
           "desc": "Honda have announced that it will make changes to the leadership of their Formula 1 power unit development programme.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "Was there any way for Norris to win in Madrid after the VSC?",
           "link": "https://www.formula1.com/en/latest/article/was-there-any-way-for-norris-to-win-in-madrid-after-the-vsc.4xxW7Gs3uywB65vB65nq6Y",
           "desc": "Michael Lamonato assesses the VSC's impact on Lando Norris during Sunday's Grand Prix, and how the timing effectively locked the McLaren driver into a third-placed finish.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "The 2026 Qualifying and race head-to-heads so far",
           "link": "https://www.formula1.com/en/latest/article/in-numbers-the-qualifying-and-race-head-to-heads-between-team-mates-so-far-in-2026.D8AYcVEPGOs8OjIiVisZw",
           "desc": "This is how each team mate pairing has stacked up against each other so far during the 2026 F1 season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-14T15:00:16.815982+00:00"
+          "fecha": "2026-09-14T15:30:26.521836+00:00"
         },
         {
           "title": "LaVuelta y la Fórmula 1 podrían coincidir en Madrid: Guillén abre la puerta al ‘superdomingo’",
@@ -429,7 +429,7 @@
           "fecha": "2026-09-14T13:21:48+00:00"
         },
         {
-          "title": "Parecen zapatillas de andar por casa, pero cuestan 1.000 €: el capricho de Victoria Federica en la F1",
+          "title": "Parecen zapatillas de casa, pero cuestan 1.000 euros: el capricho de Victoria Federica en la F1",
           "link": "https://www.20minutos.es/mujer/moda/parecen-zapatillas-andar-casa-cuestan-1-000-euros-capricho-victoria-federica-formula-1_7036476_0.html",
           "desc": "La prima de la princesa Leonor no se perdió el Gran Premio de España de Fórmula 1, llevando un 'total look' firmado por Louis Vuitton.",
           "source": "https://www.20minutos.es/rss/",
@@ -533,11 +533,116 @@
       "icono": "💻",
       "items": [
         {
+          "title": "NVIDIA factura más que sus 9 rivales juntos en fables Q2 2026",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVRZbTVoU04wN2RlV3E2MFUtMHZkLXNnblE4TGlTeUNPQkFSSXZMZTdPN1lSS0NRV0IwUmFsQ3pqdjFOcmc3M3M3MVAzclBfYjhoUFR5SmV6bUVqczV4R0ZDYUdZM1RaXzl2NkJZSy1hckllMHVzMXV6NlNwRFQzM00xZFRVZFVNYWQ0S01HRXVHRDlKZjBHQjJBeE54RmNKVGV1V2Rtcm4?oc=5",
+          "desc": "NVIDIA factura más que sus 9 rivales juntos en fables Q2 2026 El Chapuzas Informático",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:23:34+00:00"
+        },
+        {
+          "title": "Hyundai retrasa el software de asistencia al conductor interno, se asocia con Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUZ6ZjlwcGdsWFdxSUhIM01NY19kcnJ5ZU1WcnE4eERPNWdDTUxPZWlWbnFiVEVMdEdUeXRCR3FySUVib2tXWVZlaXFxSVNhc3RrWVBTUkN0NnFkd2RHQ3o0WURnanQ3TjZmN0RBT1ZSWExjVGktektDbWRpZ0RXSnNCVlFETEY0RUE?oc=5",
+          "desc": "Hyundai retrasa el software de asistencia al conductor interno, se asocia con Nvidia es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:22:30+00:00"
+        },
+        {
+          "title": "Nvidia reduce de cinco meses a tres semanas el diseño cuántico de Fermilab",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUQyZXZ0eWJOSzE0T2R3OGloZm5mcklXbjZpMFVXb3pMN0d4NG41Y1lqYi05MnN2MHhKdTFoM20tbm5aTEtOeGxXMDRSQVFqSHBLNHdKSi1Jd2NVSjN5dHpWN1FhSW1fZlFvWWc0bmgyQ2hMZ3U1LW9iUm9hVmY2c2x2SHFxaGxUWUhEMnNUSnJJSE9IRjc1MkhVZUxtbEtrQUJYRTNwZVpDZGZBdXh3blh4WnJ1Wnc?oc=5",
+          "desc": "Nvidia reduce de cinco meses a tres semanas el diseño cuántico de Fermilab DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:22:30+00:00"
+        },
+        {
+          "title": "Perplexity y NVIDIA llevan la IA agéntica a Windows",
+          "link": "https://www.muycomputer.com/2026/09/14/perplexity-y-nvidia-llevan-la-ia-agentica-a-windows/",
+          "desc": "Durante los últimos años nos hemos acostumbrado a pensar en la inteligencia artificial como algo que sucede lejos de nosotros. Escribimos una consulta, adjuntamos un documento y, en algún punto que normalmente no vemos, una infraestructura remota se encarga del resto. Sin embargo, el PC sigue teniendo mucho que decir en esta historia. Perplexity y […] La entrada Perplexity y NVIDIA llevan la IA agéntica a Windows se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-14T15:20:20+00:00"
+        },
+        {
+          "title": "Avance esperanzador: un implante cerebral traduce a la vez palabras y gestos de personas con parálisis",
+          "link": "https://www.20minutos.es/salud/un-avance-muy-esperanzador-un-implante-cerebral-traduce-vez-palabras-gestos-personas-con-paralisis_7036603_0.html",
+          "desc": "El descubrimiento abre una nueva vía para desarrollar interfaces cerebro-ordenador que permitan una comunicación más completa y natural.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-14T17:15:09+02:00"
+        },
+        {
+          "title": "Nvidia: Jensen Huang tilda de marketing el miedo a la IA",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjllcEo3VnJZVWZiV1E3TUQ0ekt5VXBaV3JwdEkwNXRNQjVEeEJONjVDQ3dtZFlZUDFZYzhZclhMYUdfMmtZcUlUZkFWX3VtVXRGUlBEbFRZdVFWUmNKU1lRSGNRQ0NZMTFNd0VOeXVOWlJoZmE0OEV0a2xoYUR1YXlQejlmNlg2Xy1kVWMwUQ?oc=5",
+          "desc": "Nvidia: Jensen Huang tilda de marketing el miedo a la IA El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:10:04+00:00"
+        },
+        {
+          "title": "Palantir y Nvidia limitan el uso de modelos de IA por temor al uso indebido de sus datos, según The Information",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZEl1UFpxcS0zRTBuaGhRSk9jTVJmWVJCRkhIRHNiSk9tSEU4em9JckVnV0otc2FuQkh6VHNISEl1OU5hRlRIbnJuWGx2VWpQalFYN3JldkM4Si1VUmVYYk50X1V3aExYQ0Vhd2J4XzNrOG9oSUR0RGpEcVJCX1hKVDlvTFcwb19mMEowQ1lyRGZsMjA0VGNRSTQ2NUFPeDRyenBFY2UxS01LWEEtQXVkbHk1cU1XQUZScGZqbXkzQXcxSjI0b3hBdkZFMjlRWXFaNFlfSkdSbFFGT3Q0UUlhVU1DdndaWGREenc?oc=5",
+          "desc": "Palantir y Nvidia limitan el uso de modelos de IA por temor al uso indebido de sus datos, según The Information MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:09:20+00:00"
+        },
+        {
+          "title": "Palantir y Nvidia restringen el uso de modelos de IA ante la preocupación por los datos, según informa The Information",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zV0sxNUJPNWlaTmRWOWFBQWs2REFZbjBaakVkbmtlc2VTU2lybkhyamI1TXdSbDBobVcwQkxCZ3hCR2RERzlhYVVjenZiX0loVzBDNkNzd0hGS184QlQ4SmRSSEo1enFkTDBTaTk4YU40OXhlZ0FZ?oc=5",
+          "desc": "Palantir y Nvidia restringen el uso de modelos de IA ante la preocupación por los datos, según informa The Information es.tradingview.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:08:01+00:00"
+        },
+        {
+          "title": "SpaceX prevé lanzar en 2027 primeros satélites con tecnología de Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllSaktoU29nbGtXQ0dkSDV3YjhXd0Q4S01OZFVkbng3c2JKZ21kb2RNUDk0NXVyVDhlZVJJTkhzdlY5dV94b2NKQ01EWmd2cTRLeXUydWJxYkg3bGZXZFVMUW44ZGJ4YXc5TEJTaXYwd19Ddzhoa3lhMlNqZUN2QUpYN2FhOFZHNG5wbTEzWDgzTUdDb2ZJTF9OUFRlOE5ZdWJrVjAwM01wbXdfOVhkX0dvMNIBuAFBVV95cUxNTl82TDNIQy1UckV4X0VmaGRlWndrdjloallFRVdpbHh4T0hHNWVXakxjc3NScWtoWV9tXy1oRVM1OFFLcjY1WkJtUDlTaXBVV0xqNi14aDFRZXhHZkRDckVDX3NoTURLNjJFMVFveE1vLUJZd1ZfM2dsVGtOR2IwYUtZVC1JUWZVX1pKWnJfeDhJMnJWVWUwek5ZSGRIaC1SRnZOYmE5WWIxU1dFU1hRa2t5dHVMV19G?oc=5",
+          "desc": "SpaceX prevé lanzar en 2027 primeros satélites con tecnología de Nvidia Diario Las Américas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:03:00+00:00"
+        },
+        {
+          "title": "Nasdaq lastra a Wall Street; temor a desaceleración del sector IA golpea a Nvidia y fabricantes de chips",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0tUcGs3c0NyUWdpT2tpVElTdmtBTE1fUnZFekFMeUxFQ3I3RzNHZGgzZzVxWUZoNU1SZERsaHp2SEVfSDNUS0haaTR2ejdmMWFfaTdmRXhXVW1aYWRZZGhnOHVPcTR6MkRKanBiT0dJcmFFWjNteEJBcUp3cExXM1BtMW12NTdKZ3ZIbkJKb3UzZmxrN2ItQ0hZS1FKMFkxVjJiTklpb1FUc21kNkJZN3haZVNLNC1hcWh2MmFGNi0xZXdDYTh6clZiMDRxSlllaFg1MzdZTEdsS29heXA4aXlrcmZWZlhZZGxj?oc=5",
+          "desc": "Nasdaq lastra a Wall Street; temor a desaceleración del sector IA golpea a Nvidia y fabricantes de chips MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:02:33+00:00"
+        },
+        {
+          "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+          "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+          "desc": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+          "source": "https://blogs.nvidia.com/feed/",
+          "fecha": "2026-09-14T15:00:52+00:00"
+        },
+        {
+          "title": "Los otros grandes nombres propios que deja la Vuelta a España 2026: los protagonistas de la carrera más allá de Enric Mas",
+          "link": "https://www.eldiario.es/spin/deportes/grandes-nombres-propios-vuelta-espana-2026-protagonistas-carrera-enric-mas-pm_1_13506887.html",
+          "desc": "Desde que se anunció su participación, Tadej Pogacar se convirtió en el único y gran favorito, sin embargo, su abandono en la etapa 8 lo cambió todo Enric Mas se reinvica y deja la vuelta en casa 12 años después de la última victoria española La Vuelta a España 2026 ha puesto punto y final en Granada, donde han terminado tres semanas de competición que han dado para mucho, para que un español, Enric Mas , vuelva a subir a lo más alto 14 años después de la última victoria, que había sido de Alberto Contador en 2014. El corredor del Movistar se ha alzado con el jersey rojo en Granada, con lo que ha hecho valer el hecho de ser el favorito desde el abandono de Tadej Pogacar, lo que supone también su primera victoria general en una grande. De esta forma ha sido el gran protagonista de la edición, pero ha habido más nombres propios en una edición 2026 que arrancó en Mónaco. Tadej Pogacar Desde que se anunció su participación, Tadej Pogacar se convirtió en el único y gran favorito, y su comienzo arrollador siendo jersey rojo desde el primer día vino a confirmarlo. Su dominio era claro y se encaminaba a una victoria sencilla, cuando durante la etapa 8 entre Puçol y Xeraco tropezó con una piedra y se fue al suelo, provocando su abandono. Las diversas lesiones y fracturas, además, hace que se pierda el Mundial y lo que resta de temporada, en la que había conseguido el reto de llegar a los cinco Tours y entrar en el selecto club. Había logrado todo lo que se había prometido, excepto la Paris-Roubaix, donde sucumbió ante Wout van Aert a las puertas de meta. Mikel Landa La etapa reina de la Vuelta a España 2026, la número 20, tenía numerosas sorpresas preparadas. Con final inédito rompepiernas, el Collado del Alguacil , la carrera pasaba antes por tres puertos de primera y uno de tercera, en el que Mikel Landa fue gestando la victoria de etapa y que desató la locura entre los aficionados, emocionados de volver a ver al vasco levantar los brazos en meta tras una temporada difícil por lesión. Santiago Buitrago El ciclista colombiano se ha colocado entre los protagonistas de la Vuelta a España 2026 al ser el campeón de la montaña, del jersey de lunares azules, con lo que más de dos décadas después le da el título a Colombia, siendo el último ganador del país, Félix “El Gato” Cárdenas en 2004. Con 78 puntos finales se ha impuesto a Wout van Aert, que se queda con 62 puntos, que tras ser doble campeón de etapa se colocó como su máximo rival para esta clasificación. Wout van Aert Comenzó más discreto de lo esperado, pero desde que se llevó la etapa 13, Wout van Aert se puso el claro objetivo de ser el campeón del jersey verde de los puntos, tras repetir en la etapa 15. Con un total de 326 puntos, el belga ha logrado con creces la meta, además de también haber conseguido trabajar para su compañero de equipo Matthew Brennan. Matthew Brennan El joven ciclista británico ha sido una de las grandes promesas de esta Vuelta a España 2026 siendo el gran dominador entre los más rápidos, con cinco etapas ganadas, siendo el más joven en ganar este número en una gran vuelta con tan solo 21 años. Las comparaciones con Mark Cavendish no se han hecho esperar, pero el corredor se desmarca: “Somos muy diferentes”, afirma en una entrevista en The Guardian.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T15:00:14+00:00"
+        },
+        {
+          "title": "Nasdaq lastra a Wall Street; temor a desaceleración del sector de IA pega a Nvidia y fabricantes de chips",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOTBfdkRVc005aDA3dVdPV3F4NHVycHJYMmNjWU54X3o1czdWT3lSejEycUJsVWlsWTMtTE5zZ0xmR2RPbkpSTHZOWlQ4S2NnMzBfbW00UW1PTUNtZUJUM09xeFh0MnJDNEJVUXczd19lWklBUUNnWmtNYTZYTVpTdVZ6ZHJQSlpKQlVnMmNRdnVzOXRlTVZmNnBjNHliMW9HZnRGMi0zSG80QmY4eWxwQlpxWjdhZkpnYWhfZGZMR296d0tzZlNrRTZlbXk2ZmM5dlJEckNOU0FmNnZwWTVHaGxB0gHnAUFVX3lxTE9rX2E1MmN3V0JoR0d2NzZ5ZU1JUTBVbDVidGpRVzhUUXU2cnFOWi0yWGVfdjVPUF9McU9aTTNkS0c1Y1g0WXlGcGkweWpqRXMtZE0zQmtlYnI4YlZUa1BKV3V5LXJqRHd6WllNZTJfWkJGd0pfUGNEVUJqeUZGejVkX2NobzRBWG5qVXV0U04tNDB4SFU1T2ZtNUU1dmdKSjF5aGoyVkl0amZQd1RiWUtxekpHcWZ0dDU2OHVzUy1UeU9SM0xKOHoxSVFpVGxYOUViajFfQjFTV0xQNUxYWGJZZDQ5U2dUVQ?oc=5",
+          "desc": "Nasdaq lastra a Wall Street; temor a desaceleración del sector de IA pega a Nvidia y fabricantes de chips eleconomista.com.mx",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:57:50+00:00"
+        },
+        {
+          "title": "NVIDIA presenta la GPU RTX PRO 5500 Blackwell: una RTX 5090 con más VRAM",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGY5SGQ4YUxNYVVpY3ZXZmFxZjA2Vm84Q19MUXNDVUR5Rm5MVF9ROXhNRlE2ZENMdXFRc1M5d2ppd0M0NVV1MVVLMkxZQlE4NEVUdl9HME8xbTVBVFpYTG8wQ0tDb1hQNm5GWmowWTZNM24wb0VTekw1eUlWbDExRzlCaEhPSzVheVNZN3ZVM3ZKZHE3N3JIakFMNEpmSmcyek9GNjR2Z041dkFzRUZGQ3FrUnJ6Wl8w0gG-AUFVX3lxTFBJTUFIZUVvOGJZai1DTkR1VEdWc2hIdDNNN19lTXhpVm8xQTl3Rmg4cVZnTlVHSzRVQ3Y4TnZZd1FMNVhRVEFkMTNlb1VHY2FMUGJmeFlPNG80X3RScmp2Q2duUEdiOU4yYkhuSjBESmd6bktaWUVPSlhuZElFd201OFE0THZjSGV3b1YzVUkzcU1fLXAzWW5rS2hDdGhjbkN0R3ctd3lmaHdFLWh2dlFaVGJTLTdGajJvNDhtcVE?oc=5",
+          "desc": "NVIDIA presenta la GPU RTX PRO 5500 Blackwell: una RTX 5090 con más VRAM Profesional Review",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:55:08+00:00"
+        },
+        {
           "title": "XBOX aclara una duda importante sobre Fable en PC: sus objetivos de rendimiento no utilizan reescalado",
           "link": "https://vandal.elespanol.com/noticia/2026257028/xbox-aclara-una-duda-importante-sobre-fable-en-pc-sus-objetivos-de-rendimiento-no-utilizan-reescalado/",
           "desc": "XBOX confirma que las resoluciones y tasas de imágenes indicadas en los requisitos de Fable se alcanzan sin recurrir a DLSS, FSR o XeSS. Hace unas semanas se publicaron los requisitos oficiales de Fable para PC , detallando cuatro configuraciones que abarcan desde los 1080p y 30 FPS con ajustes bajos hasta los 4K y 60 FPS en Ultra. Sin embargo, quedaba una incógnita importante, y es que no se había especificado si esas cifras presuponían el uso de tecnologías de reescalado como DLSS o FSR. Ahora XBOX ha despejado esa duda y la compañía ha confirmado a PC Gamer que los objetivos de resolución y tasa de imágenes indicados en los requisitos se han establecido sin utilizar reescalado . Es decir, los 1080p y 30 FPS de la configuración mínima o los 1440p y 30 FPS de la recomendada no dependen de estas tecnologías para alcanzar las cifras anunciadas. DLSS, FSR y XeSS podrán utilizarse para mejorar el rendimiento La aclaración es importante porque, como os contamos cuando se publicaron los requisitos de Fable , Playground Games había detallado las configuraciones mínimas, recomendadas, altas y Ultra, pero no había explicado si los objetivos tenían en cuenta sistemas como DLSS o FSR . Esa era precisamente una de las dudas que dejaban las especificaciones originales. Vídeo: XBOX ha actualizado ahora la información para confirmar además que Fable será compatible con NVIDIA DLSS 4.5, AMD FSR 3 y FSR 4 e Intel XeSS 2.1 . Al no formar parte del cálculo utilizado para establecer los objetivos oficiales, quienes recurran a estas tecnologías deberían disponer de margen adicional para mejorar la tasa de imágenes o reducir la carga sobre la tarjeta gráfica. Como referencia, la configuración mínima utiliza una RTX 2060, RTX 5050, Radeon RX 6600 o Intel Arc A580 para alcanzar 1080p y 30 FPS con calidad baja . La recomendada apunta a 1440p y 30 FPS o 1200p y 60 FPS en calidad media con una RTX 3060 Ti o RTX 5060, entre otras alternativas. En todos los casos se necesita un SSD y 135 GB de espacio libre . Fable llegará el 23 de febrero a PS5 , XBOX Series y PC .",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-09-14T14:55:00+00:00"
+        },
+        {
+          "title": "De Nvidia a AMD: las acciones de IA más golpeadas del S&P 500 y qué está pasando",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjRSa2JZdm43R0dlVjJocS1fZkRUd0YwcHdITTA0Y2E0WnBBX1NIdFRWVEh6bTByQjdfQjllejNyd0kybDQxSU5wODdwVE01MHREMHVURjNKLVdETUlrU2F5MkkwdUluVlhXX2c2eFQzV1B2ZUozN3l0dThGT3h3SklWTWxneThmOUFCREVYaFAzckRQUWlIRnpPQ05aNGJUZGhNVzF4RExNYVZndWhNZE1WRE41VURScmNV0gHPAUFVX3lxTE5XclVUei1pTHdmVU9DMldUaFhyOVRENmpDYlV5bjA1Z1NHVjRSVnJVXzhqRzBDQVh3UmdJSW5Va2xNVW1FMHgwTFU3cVRKazRwRm1wbVdWcTMtYnY3cGZNQm9jR3VrTVU3Y2U0QXlJRldLMVdPY3BGNlREOERfOVNFNzRJdy1kV281ZXR4UjB0NExBc19sNDRCTFlyVVdNMl9MQk5YNTFHdUxScG1QMkdEQmQ2eGU3RlhxRzU3amlfX1BJX2ZvOVVWdzRZazFfOA?oc=5",
+          "desc": "De Nvidia a AMD: las acciones de IA más golpeadas del S&P 500 y qué está pasando Bloomberg Línea",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:50:18+00:00"
         },
         {
           "title": "Filtran la colaboración más esperada de Fortnite: por fin habrá skins de FNAF, según este 'leaker'",
@@ -575,13 +680,6 @@
           "fecha": "2026-09-14T14:16:07+00:00"
         },
         {
-          "title": "El Nasdaq lastra a Wall Street, mientras los temores a una desaceleración en el sector de la IA golpean duramente a Nvidia y a los fabricantes de chips",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dDZEcmJVRmFYc3hERlRuZllVVmFkRFNIa21ZZ2JQeGdsSTVtQ1NlX1ppTmNyVGpDaUVpc3QwSjV4UkE0by1KWjBlSmxib1J4aE1NVUwzd2lyMUdKQ2tKbVktMFpRdmdQQnJtdnZtN1c5ODNoZDFF?oc=5",
-          "desc": "El Nasdaq lastra a Wall Street, mientras los temores a una desaceleración en el sector de la IA golpean duramente a Nvidia y a los fabricantes de chips TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T14:15:09+00:00"
-        },
-        {
           "title": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWp1WXIxRDdOOFMwd0ZlZEVfY01FYXJpY3ppZGVLYXJ3V21QU3BXVnY2Wm5HWjF2QWZ6WU9uU2FxWUpRYmQtaVQ3YXlWZkM5VFVTNVVWUVl5WFJEZGxfam1QczNVaXBlTTRMR0FwZ0RxUlZVRllhbC1NSTMzeEdncHJ4THItbzNSREt3U1J6US1WNjR0WlRGZkFRUlDSAaIBQVVfeXFMTlVaQ3o1ZGFzbF8zYUc0TDk5NTlDVlRtblRxSVBaTE1zN3FUYWg0RWdvMmstVWtTbEhfNmIwSzFqMjVNRWRVckRSM2ZtSUludGlzSVNwcU9NdDFLRnZtVHZHb1BrV2tIa3J2bkVxMWVQMEUzdXRyQ25oSFRTak9nVHA3aFg4S3JUUGRsOUV4TlFkVzYtQ3pwcnJPeklxcUdGWFRR?oc=5",
           "desc": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas El Boletín",
@@ -601,104 +699,6 @@
           "desc": "Anthropic trabaja en su gigantesca OPV, prevista para las próximas semanas en medio de un fuerte interés inversor. OpenAI frena su salida a cotización y penaliza a accionistas como SoftBank",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-14T14:06:15+00:00"
-        },
-        {
-          "title": "Steam indigna a los jugadores en Australia por exigir tarjeta de crédito para acceder a juegos +18",
-          "link": "https://vandal.elespanol.com/noticia/2026257025/steam-indigna-a-los-jugadores-en-australia-por-exigir-tarjeta-de-credito-para-acceder-a-juegos-18/",
-          "desc": "Valve ha implantado en Australia un nuevo sistema de verificación de edad en Steam que exige añadir una tarjeta de crédito para acceder a juegos clasificados para mayores de 18 años. Valve ha introducido una nueva medida de verificación de edad en Steam que está generando críticas entre los jugadores australianos . Desde ahora, quienes quieran acceder a contenidos clasificados para mayores de 18 años deben añadir una tarjeta de crédito australiana válida a su cuenta para demostrar que son adultos . La medida no afecta únicamente a la compra de nuevos títulos, y según informa Insider Gaming , los usuarios que no completen esta comprobación tampoco pueden acceder a juegos +18 que ya formen parte de su biblioteca , una circunstancia que ha provocado numerosas quejas entre jugadores con cuentas de Steam creadas hace más de una década. La nueva normativa australiana obliga a comprobar que los jugadores son adultos El cambio coincide con la entrada en vigor, el pasado 9 de septiembre, de los requisitos de verificación de edad para las plataformas de distribución de aplicaciones en Australia . Las nuevas normas exigen tomar medidas para impedir que los menores de 18 años compren o descarguen aplicaciones y juegos clasificados R18+. Al intentar acceder a este contenido, Steam informa a los jugadores de que debe verificar que tienen al menos 18 años de acuerdo con el \"Age-Restricted Material App Distribution Services Code\" y les pide incorporar una tarjeta de crédito válida a su cuenta antes de modificar sus preferencias de contenido para adultos. En Australia es necesario ser mayor de edad para obtener una tarjeta de crédito , por lo que Valve utiliza este dato como comprobación. Sin embargo, la normativa australiana no obliga específicamente a utilizar una tarjeta de crédito . El organismo eSafety explica que las compañías pueden recurrir también a sistemas como documentos de identidad, estimación facial de edad o identidades digitales, entre otros métodos, y recomienda ofrecer más de una alternativa para que la comprobación sea justa. Esta elección de Valve es precisamente el principal motivo de las críticas. Algunos jugadores señalan que no tienen tarjeta de crédito ni desean contratar una , pese a ser adultos y llevar muchos años utilizando Steam. En estos casos, actualmente no disponen de otra opción dentro de la plataforma para completar la verificación. La restricción afecta a los juegos clasificados R18+ por el sistema australiano y forma parte de una regulación más amplia destinada a limitar el acceso de los menores a contenidos como pornografía, violencia de alto impacto y otros materiales considerados para adultos. Por ahora Valve no ha anunciado métodos alternativos de verificación para los usuarios australianos de Steam.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-14T14:04:00+00:00"
-        },
-        {
-          "title": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTZsa0RMSE5aekx0VDhSRjdBQ09JNlFHRTVydElmTTJXV3YzRXE2b0hfdVdFMlFKMkhMQ0RJZkl3SzJDTDJXaVlyNU9qLTgzM2pMUnhPQjhEUnFHUFJKOFdRN1pXaHVPZ2V2d2dCZ2Zwemd4dWs0eWRpZTQtTGJSbmxUQXNubE50akR1U2JONHBsZElXWkt2VWQ1NUjSAZwBQVVfeXFMTkdFT0t3eGExVDVBRWI3WGxiWHFKRERLSGdlY18ydC02RnJwYzBiMm93azJCNDhDSFByZlllU3ZnZTM4ZndLVVhjcVQ0bmthVDJYWmJrRXBiNV9wYWhmcFJXTUcta0tFOHdDQ293bWJVak1jbmh6UmVEZjBRSk9xNXNtLTZQZzNkSS1RcThJOXJWaVVNSVBJbnY1a1Jr?oc=5",
-          "desc": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA elperiodico.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:59:18+00:00"
-        },
-        {
-          "title": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEJGT0VrVjFXSHMtSV9Yay1EX0hMUGQwNnlxMnR1N2NXR3l4MU1LUXVxMTBuYnNSTDJyUjk3bC1vVVFTXzdnWnhSTncwdmE5V3A3TFFqcWQ1c3FXSlJ6M2t4bG5BWk9qSFFWRjBKWTBxRzdQU2ZQQjc5UF84Q0tRLWFOLVRELUN3SmNyVUlOeHRBa25icWlrQ2hzOU0wNll1d2hrNjZleTBrczR6clE1WFBxWjlsSkEzOHRHX0xzYVRLQjhrTVV4enBn?oc=5",
-          "desc": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:57:32+00:00"
-        },
-        {
-          "title": "A tumba abierta by AMIX, especial notas de LaVuelta: aprobados y algún suspenso sorpresivo",
-          "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/14/tumba-abierta-by-amix-especial-notas-lavuelta-aprobados-algun-suspenso-sorpresivo.html",
-          "desc": "Escúchalo gratis en Ivoox, Spotify, Apple Podcast, Omny o MARCA.com",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-14T15:44:52+02:00"
-        },
-        {
-          "title": "Need for Speed Underground 2 now runs directly on Nintendo Switch — other Classic Windows titles playable thanks to custom firmware boot",
-          "link": "https://www.tomshardware.com/video-games/retro-gaming/need-for-speed-underground-2-now-runs-directly-on-nintendo-switch-other-classic-windows-titles-playable-thanks-to-custom-firmware-boot",
-          "desc": "Retro gaming fans who own Nintendo Switch consoles now have several classic Windows titles they can now enjoy.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-14T13:36:24+00:00"
-        },
-        {
-          "title": "El S&P 500 y el Nasdaq abren a la baja por el nerviosismo en torno a la IA, que lastra a Nvidia y a los fabricantes de chips",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQXzlNME1NRGJ2WFQzdkt2bnQ4ZmVVemdWTnhwVDVobFRiQnlPemtTWlY5RTVua2xtSkl4aWNsb1E0bmV3ZlY2dDFGSFNMZ2t0R19rRDlELVFhdnZEZUMzWUJZNGRMaFptSTRzLTRVUl95YzJRU2RFRDNUMWh3RmJQQTRyYWRoZ0p3d2tSaFBrWmFaV1VLMVNDS3M1VndyeEFlM1djNVEtN0dZOWszLU1MSFpkeVNKNldCRWtRSEFsYWF5Q05NdTE3SVVRQXpXNTlVMjN2NnFfUG5ENWk1aHNhT3FOUUUtQnVHQmc?oc=5",
-          "desc": "El S&P 500 y el Nasdaq abren a la baja por el nerviosismo en torno a la IA, que lastra a Nvidia y a los fabricantes de chips MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:35:58+00:00"
-        },
-        {
-          "title": "Palantir y Nvidia restringen el uso de modelos de Anthropic y OpenAI por temor a la filtración de datos de sus clientes",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSm5EMFYyZEl3Qy1NZzFNZkd6dlhZVmdzanRKNjBSek9rNGxmdWU0bjY4c2V3Y2NRbjRKMFlCcFJTOGZGQ0dJbGRhamY0TjJsbGFkMjlGdDM3eWtPMVZFdm9LbU9Ra1NySHQ5TUs3T09TSmtWaTJWa25PdnM5WVpFcHc5dkY0bGN6Zk9welVUcHplNWMxemNvdmlUYVM3NHhxU2dtMzR1TkJVcUdjYWNoNVNHcDNzcGFzX1BDa0NBUjdRalRwWW43a2VXclBZN2xwU2J3aEI0Q3Zxel8yTVNSMV9uQXpTMWZrTUlUSA?oc=5",
-          "desc": "Palantir y Nvidia restringen el uso de modelos de Anthropic y OpenAI por temor a la filtración de datos de sus clientes MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:33:57+00:00"
-        },
-        {
-          "title": "Palantir y Nvidia restringen el uso de modelos de Anthropic y OpenAI por temor a la seguridad de los datos, según The Information",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSGZIM0tJMkhncWtBR1ZnaDU3dURNa0dKU2k0ckNCTHlJQVA1WXhyV0s0bXVwcHlGNXVJX2liVmw2MTRCVXBjLUFsYTMyZE41TFpZVWlfVkEwbjJrclh5WWRHN0hTblA2US13U0xiZFVFWnRIRUJpTzIwX1Q0YmpGcGkxdDljSUdESHlKdS1hNUpoRWcxNk1CQ2ZReFFReldLbUZtZWllZ3Y2c3BTTjl1S1lmYzBScVJaZkVMY3JqUVFJbm9HSEltS2FyUk1tZF95aU9DbmtpRno3UlJlM1dCOGZKZXRYY21xb20yYQ?oc=5",
-          "desc": "Palantir y Nvidia restringen el uso de modelos de Anthropic y OpenAI por temor a la seguridad de los datos, según The Information MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:32:37+00:00"
-        },
-        {
-          "title": "Díaz Ayuso denuncia el comportamiento de los políticos de Pedro Sánchez tras el Gran Premio de España de Fórmula 1 celebrado en Madring",
-          "link": "https://www.estadiodeportivo.com/motor/formula-1/diaz-ayuso-ataca-pedro-sanchez-tras-ocurrido-gran-premio-espana-formula-celebrado-madring-odia-todo-que-tiene-que-ver-con-espana-20260914-546533.html",
-          "desc": "La presidenta de la Comunidad de Madrid se ha quejado abiertamente con la actitud mostrada por los gobernantes españoles durante el fin de semana en el trazado madrileño La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, criticó este lunes que ninguno de los 22 ministros del Gobierno de España acudieran este fin de semana al Gran Premio de Fórmula 1 porque \"odia\" todo lo que tenga que ver con España, y que se hayan dedicado a \"deslucirlo constantemente, buscándole siempre los fallos, los peros\". Así lo manifestó Ayuso a su llegada al desayuno con el alcalde de Madrid, José Luis Martínez Almeida, en el Club Siglo XXI, donde, a preguntas de los periodistas, afirmó que este Gran Premio de España de Fórmula Uno es el \"premio de todos los españoles\". \"Se ha visto una ciudad abierta, acogedora, bien organizada, con unos grandes servicios públicos que permitían ir al centro de la ciudad en 15 minutos, al lado del aeropuerto, donde ha habido mucha flexibilidad por parte de la gente que ha colaborado para que todo fuera un éxito\", apuntó. En este sentido, afirmó que el Gobierno de Pedro Sánchez \"odia\" todo lo que tenga que ver con España, con un éxito nacional o con algo que le venga a Madrid; y que si hubiera acudido alguno de sus miembros hubiera sido un \"detalle\". Un mensaje directo a Óscar Puente Además, la presidenta regional se refirió al ministro Óscar Puente, quien criticó en redes algunos aspectos del circuito Madring y a quien invitó a que sea él quien organice un Gran Premio de Fórmula 1. \"No ha tenido el más mínimo interés en el Gran Premio de Fórmula Uno, teniendo en cuenta, insisto, que es el de España. No entiendo para qué tenemos 22 ministerios y ninguno ni siquiera se ha molestado en acercarse. Y lo único que han intentado es deslucirlo constantemente, buscándole siempre los fallos, los peros, como hicieron con la Vuelta ciclista a España, y esto solamente porque se organiza en Madrid\", afeó. El Rey sí acudió a la cita y le entregó el trofeo a Antonelli Quien no quiso perdérselo fue el rey de España Felipe VI, que acudió con toda su familia al certamen dominical celebrado en el circuito de Madring para presenciar en directo la primera carrera de la historia de la Fórmula Uno en este trazado madrileño. Además, participó activamente entregando el trofeo que acreditó al italiano Andrea Kimi Antonelli (Mercedes) como ganador del primer Gran Premio de España celebrado en Madring. El Gran Premio de España en Madring vuelve a estar en peligro a falta de una semana De hecho, Felipe VI acudió al trazado a dos horas del comienzo de la carrera , programada para las 15.00 horas, acompañado de sus hijas, la princesa Leonor y la infanta Sofía , y fueron recibidos por la plana mayor de la Federación Internacional de Automovilismo (FIA), Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, y José Luis Martínez-Almeida, alcalde de Madrid. Tras esto, vieron de cerca las entrañas del circuito semiurbano construido entre IFEMA y Valdebebas, que cuenta con 5,4 kilómetros y 22 curvas, acompañados por Stefano Domenicali, CEO de la Fórmula 1, y Manuel Aviñó, presidente de la Real Federación Española de Automovilismo. Además, llevaron a cabo un encuentro con los dos pilotos españoles en Fórmula Uno, Fernando Alonso (Aston Martin) y Carlos Sainz (Williams), antes de que se metieran en sus garajes para comenzar a preparar la carrera en un circuito de Madring que recupera a la F1 45 años después, cuando en 1981 el canadiense Gilles Villeneuve cruzó primero la bandera de cuadros en el último Gran Premio de Fórmula 1 disputado en la capital de España. Fernando Alonso no se muerde la lengua en Madring: \"Mi jefe de prensa podría correr aquí\" Su relevo lo tomó Antonelli al cruzar la meta primero tras completar en primera posición las 57 vueltas del primer Gran Premio de España de Fórmula 1 disputado en Madring. El líder del Mundial se impuso por delante del neerlandés Max Verstappen (Red Bull) y del británico Lando Norris (McLaren) y ya ha dejado casi sentenciado el Mundial con apenas 20 años y en su segundo año íntegro en la Fórmula 1.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-14T13:21:48+00:00"
-        },
-        {
-          "title": "Nvidia amplía su plataforma cuántica con una capa tolerante a fallos",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDlDVE5MWlNOV3l6MEVDeWxQblFjdHV1UEpjZGFsVWdwa0VSWVVwRzJtVDBTQjh2Ukc0cnF6RkVIOWhEbUtJLXR1SU5XSGxuVkVOSTFxQUhwZlRiV2xmeVFQR1ZCM2VUOUMyQXBKVFpVTXBkb1NfaWVEOG5lQkFQT2xJSEw5R3R0dTU5bVVVTkZCeC1zUHFyWkpDYTZqQkxKaGdLQ1p5c2kteExuaEp0OWtUR1VDbWFXWTYxMExQMFMtUQ?oc=5",
-          "desc": "Nvidia amplía su plataforma cuántica con una capa tolerante a fallos Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:13:00+00:00"
-        },
-        {
-          "title": "Infleqtion integra la biblioteca qLDPC con NVIDIA CUDA-Q Logical",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcjdKSEkyaEJKTDkwTXY3d0paY2JhN2pmc3BrTjJqNVI0RERPcl9sRkhsMWpLaEQ1Nm9XZk4ydWdRSV9LalNNZGZNOGtuUUQ4Nzh3U3c4aUc5aGptbk9VNkJaTDNERlU5eVFnUUFFclUyYUNTV3hhZFF5ako4c2FTU0lfRlJmUjNyNWR6SFQ2ZGJzT0tOWHY2dGtpYmdOTEFKNG9aaWFOc19qbmRUTlpMSGZSU194WmU2d1RJ?oc=5",
-          "desc": "Infleqtion integra la biblioteca qLDPC con NVIDIA CUDA-Q Logical Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:13:00+00:00"
-        },
-        {
-          "title": "Lo que los CMO deben saber sobre IA en retail según NVIDIA: personalización, agentes autónomos y publicidad adaptativa",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlp6czE2bXg2TlJWRVR5NjVCdktubmhmd1BjWWRHTkF6aW9IaWFxR1VnbzNKTWI1N3FRclZWU1VSWHQ1RmhFZVJGZkhSRU1zRkFJel9FdUFfeld4MFEyRHZjN3o5Ymw2X2Q5bTRpZnh1bzZtY3dXLW5tTG9QUy1Hd0dqcTJRTGd5UGNtV21FUThzMUNKcVBuT2dkeXJzQTFRLTBoX0Y4SkRkaldVRlEwTjRJbGsxWnEtWHZuMUlvNkdzVUtzS3A5c1dLRXp3UUJKeTFfQkhCdEw?oc=5",
-          "desc": "Lo que los CMO deben saber sobre IA en retail según NVIDIA: personalización, agentes autónomos y publicidad adaptativa Revista Merca2.0",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:09:07+00:00"
-        },
-        {
-          "title": "Discriminación, armas autónomas, fraudes... las formas en las que la IA puede causar daños a las personas y ala economía",
-          "link": "https://www.20minutos.es/tecnologia/discriminacion-armas-autonomas-fraudes-las-formas-las-que-ia-puede-causar-danos-las-personas-economia_7036439_0.html",
-          "desc": "Las capacidades de los modelos de IA avanzan con rapidez sin dar tiempo a que las técnicas destinadas a supervisarlos y hacerlos más seguros se desarrollen a la par.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-14T15:01:18+02:00"
-        },
-        {
-          "title": "La ONU alerta del peligro de la IA y pide regularla: \"Todos los derechos humanos están en riesgo\"",
-          "link": "https://www.eldiario.es/tecnologia/onu-alerta-peligro-ia-pide-regularla-derechos-humanos-riesgo_1_13508447.html",
-          "desc": "El Alto Comisionado de Naciones Unidas para los Derechos Humanos ha advertido de que \"la carrera hacia una IA cada vez más potente supone un salto cualitativo hacia mayores riesgos existenciales para todos los aspectos de nuestras vidas\" Documento - Consulta aquí la carta completa del Alto Comisionado de la ONU ¿Puede la IA perder el control y amenazar a la humanidad? Esto es lo que dicen algunos de los mayores expertos del mundo Los ecos de la dimisión del ingeniero de Anthropic Jacob Coxon el pasado miércoles llegan a la ONU. El Alto Comisionado de las Naciones Unidas para los Derechos Humanos, Volker Türk, ha advertido que el desarrollo de la inteligencia artificial pone “en riesgo” todos los derechos humanos, “incluidos los derechos a la vida, la alimentación, la privacidad, la salud y la seguridad”. “Estamos al borde de un cambio irreversible que afectará no solo a nosotros, sino a las futuras generaciones de la humanidad. En otras palabras, todos los derechos humanos están en riesgo, incluidos los derechos a la vida, la alimentación, la privacidad, la salud y la seguridad. La seguridad de la IA debe significar algo más que la fiabilidad técnica del producto en cuestión. Significa proteger activamente a las personas, las comunidades, las instituciones y las generaciones futuras”, ha escrito Türk en una comunicado. En concreto, el responsable de los derechos humanos en la ONU señala la “carrera actual hacia una IA cada vez más potente” como un “salto cualitativo hacia mayores riesgos existenciales para cada aspecto de nuestras vidas”. “Las fallas en los sistemas de IA agéntica [que opera con autonomía], y más aún en sistemas diseñados deliberadamente con ese fin, podrían paralizar servicios esenciales, fracturar las comunicaciones, desestabilizar infraestructuras críticas y atentar contra el corazón mismo de las instituciones democráticas”, agrega. Por todo ello, ha pedido una “corregulación” de la industria como un “primer paso urgentemente necesario”, así como una “verificación independiente y técnicamente competente”. La advertencia de las Naciones Unidas se suma a las lanzadas estos días por los cuatro gigantes del sector : Open AI, Google, SpaceX y Anthropic. El CEO y cofundador del último de ellos, Dario Amodei, pidió desacelerar la carrera por mejores modelos que podrían llegar a una “automejora recursiva”. “Me preocupa que, en un plazo de 6 a 12 meses, un enjambre de este tipo pueda llegar a tomar el control de todo Internet mediante una red de bots persistente (causando potencialmente daños por valor de cientos de miles de millones de dólares) y que la magnitud del daño siga aumentando si la IA se vuelve más potente sin contar con las salvaguardas necesarias”, compartió Amodei. El presidente de Estados Unidos, Donald Trump, en cambio, restó importancia a la alarma general por su rivalidad con China. “Estamos a la cabeza de China en inteligencia artificial. Somos el país más avanzado del mundo y, francamente, quiero que siga siendo así, porque quien gane en IA, gana”, aseguró Trump. Este mismo lunes, China ha pedido una “barrera de seguridad” ante la negativa de Trump y ha advertido de que lA se ha convertido en una nueva “rivalidad entre grandes potencias”. No obstante, ha recordado que EEUU está tratando de frenar su desarrollo con medidas como el embargo de chips avanzados. El detonante llegó el pasado miércoles, cuando el ingeniero Jacob Coxon dimitió de su puesto en Anthropic con un comunicado que encendió las alertas al denunciar que las empresas ocultaban el verdadero riesgo de la inteligencia artificial. “Están corriendo directamente hacia una superinteligencia capaz de mejorarse a sí misma y apostando nuestras vidas en esa carrera”, afirmó en su perfil de X, donde subrayó: “Quienes están construyendo la IA creen sinceramente que podría matarnos a todos antes de que acabe la década”. Desde Naciones Unidas, Türk subraya que “en el mundo actual, dependemos casi por completo de un pequeño número de empresas poderosas para tomar las decisiones correctas sobre el desarrollo de la IA para toda la humanidad”. “El verdadero desafío hoy en día es cómo equiparar el ritmo de una gobernanza de la IA significativa con el ritmo de su acelerado desarrollo. Necesitamos una acción urgente adaptada a los riesgos sin precedentes que plantea la IA de frontera [los sistemas más avanzados]”, ha demandado, al tiempo que ha pedido “reforzar las regulaciones existentes y la rendición de cuentas por los daños relacionados con la IA causados por sistemas que ya están en uso”. “Las empresas que están a la vanguardia del desarrollo de la IA de frontera, radicadas principalmente en la República Popular China y en los Estados Unidos de América, tienen tanto la responsabilidad como la capacidad de actuar de inmediato para reducir los riesgos. Deben trabajar en toda la industria para comprender y reforzar los controles que ya se aplican a estos sistemas, incluido el monitoreo automatizado del comportamiento del modelo, compartiendo tanto lo que funciona como lo que aprenden de los incidentes de seguridad. Es necesario desarrollar, implementar en todo el sector y mejorar continuamente una diligencia debida rigurosa en materia de derechos humanos que incorpore estándares de seguridad acordados. Y la aplicación de dichos estándares debe estar sujeta a un monitoreo interno e independiente para aumentar la transparencia y la rendición de cuentas”, agrega el Alto Comisionado de la ONU para los Derechos Humanos. Carta completa El Alto Comisionado Volker Türk ha hecho este llamamiento mediante una carta de tres páginas con el título 'Para proteger los derechos humanos ahora y en el futuro, debemos gobernar la IA de manera urgente'. Puedes leerla a continuación de forma íntegra, en inglés.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T13:00:46+00:00"
         }
       ]
     },
@@ -707,11 +707,32 @@
       "icono": "📈",
       "items": [
         {
+          "title": "Cañizares se lleva las manos a la cabeza con el fichaje de Braulio Vázquez por el Valencia: \"No sé cómo se mete en este lío\"",
+          "link": "https://www.estadiodeportivo.com/futbol/valencia/canizares-lleva-las-manos-cabeza-con-fichaje-braulio-vazquez-por-valencia-como-mete-este-lio-20260914-546546.html",
+          "desc": "El ex guardameta che no entiende cómo el ya ex director deportivo de Osasuna ha regresado a Mestalla y le advierte sobre lo que se encontrará al tener que trabajar a la sombra de Peter Lim La bomba que se detonó en el Sánchez-Pizjuán el pasado viernes, con una nueva derrota del Valencia , la cuarta en cinco jornadas de LaLiga , acabó por explotar este pasado domingo. El crédito de Carlos Corberán ya estaba bajo mínimos y el técnico de Cheste acabó siendo finalmente destituido . Pero lo que quizás no se esperaba es que Peter Lim deciera cargarse también a Ron Gourlay , CEO de Fútbol y cabeza visible del proyecto, y a toda su dirección deportiva: Lisandro Isei, Hans Gillhaus, Andrés Zamora y Malek Shafei. La sacudida en Mestalla ha sido enorme y el golpe en la mesa ha llegado con l a contratación inmediata de Braulio Vázquez, abonando los 290.000 euros de su cláusula de rescisión para llevárselo de Osasuna , donde trabajaba desde 2017. El gallego, por tanto, regresa a un club che en el que ya estuvo entre 2009 y 2013 (luego pasó por el Valladolid) y donde se encontrará con su hijo y jugador valencianista, Jesús Vázquez (esa era precisamente una de las cuestiones que le hacían dudar). Y nada más llegar deberá tomar una decisión de calado: la elección del nuevo entrenador. El recambio de Corberán para el Valencia de Braulio Incendio en Valencia y Cañizares avisa de un \"levantamiento público\" La primera decisión de Braulio Vázquez: los entrenadores que maneja Al respecto, ya se ha informado de que su candidato número uno es Ernesto Valverde, al que ya contrató mediada la 12/13 para sustituir a Mauricio Pellegrino. Si no logra convencer al 'Txingurri', en paro tras abandonar el Athletic a la conclusión de la pasada campaña, el siguiente en la lista es Jagoba Arrasate, con el que Braulio trabajó codo con con codo durante seis temporadas en Osasuna. El preparador vasco se encuentra igualmente sin equipo tras ser destituido por el Mallorca el pasado mes de febrero. Pero aún hay más opciones sobre la mesa, como la de José Luis Mendilibar, recién cesado en el Olympiacos griego tras hacer historia, o Vicente Moreno , con contrato en vigor en el Al-Rayyan de Qatar. \"En el Valencia no se puede trabajar, no tiene autonomía, no tendrá nada\" La primera decisión que tendrá que tomar el nuevo director deportivo che se antoja crucial, mientras el interino Óscar Sánchez se siente mañana en el banquillo ante el Alavés. Pero un mito del valencianismo como Santiago Cañizares tiene dudas de que Peter Lim , que es quien al final tiene la voz cantante en todo lo que se cuece en Mestalla, le vaya a dejar maniobrar con libertad. \"Ha estado aquí. El salto es al vacío. En Pamplona seguro que ha trabajado bien. Cuando venga aquí va a saber cómo no se puede trabajar aquí. No se puede trabajar y además con el mercado cerrado ya. No se puede trabajar. No tiene autonomía, no tendrá nada \", insistió el ex guardameta en 'El Partidazo' de la Cadena Cope . \" No sé cómo se mete en este lío el bueno de Braulio Vázquez . Es un gran director deportivo. Un buen ejecutivo. No sé cómo se mete en este lío\", recalcó Cañizares, que no espera que las cosas cambien mucho pese a este giro de timón de Meriton. De hecho, recientemente, el ex secretario técnico, Carmelo del Pozo, ya desveló lo difícil que es trabajar en el Valencia porque la decisión la tienen otros. Todos los directores deportivo de Peter Lim Desde que el empresario singapurense llegó al Valencia, lo que supuso el adiós de Rufete como director deportivo, primero fue el portugués Nuno el que ejerció más de manager y no solo de entrenador. Luego se apostó por García Pitarch , que acabó enfrentado con el dueño del club, y el ex azulgrana Alexanco por recomendación de Joan Laporta. Y el último gran éxito, la Copa del Rey, llegó de la Mano de Mateu Alemany , que trajo también a Pablo Longoria . Pero Peter Lim lo desmontó todo para iniciar otro breve camino con César Sánchez, al que el suplió en sus labores el propio Anil Murthy , y un último con Miguel Ángel Corona antes de darle las llaves a Ron Gourlay . Ahora, con Braulio, vuelta a empezar.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-14T15:25:38+00:00"
+        },
+        {
+          "title": "“No hay ningún problema”: el rey Carlos III intercede y Uganda volverá a participar en los Juegos Invictus",
+          "link": "https://elpais.com/gente/2026-09-14/no-hay-ningun-problema-el-rey-carlos-iii-intercede-y-uganda-volvera-a-participar-en-los-juegos-invictus.html",
+          "desc": "Tras una llamada telefónica del secretario privado del monarca al jefe militar ugandés, otro alto mando del país africano ha comunicado a través de la red social X que formarán parte de la competición impulsada por Enrique de Inglaterra, que se celebrará en julio de 2027 en Birmingham",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-14T15:00:32+00:00"
+        },
+        {
           "title": "El dineral que se lleva Enric Mas por ganar la Vuelta a España: lejos de lo que da el Tour de Francia",
           "link": "https://www.estadiodeportivo.com/ciclismo/dineral-que-lleva-enric-mas-por-ganar-vuelta-espana-lejos-que-tour-francia-20260914-546544.html",
-          "desc": "El ciclista de Movistar se ha proclamado campeón de la edición 2026 de la ronda española lo que le permite embolsarse una cantidad de dinero extra. Un montante que ni siquiera se acerca a lo que le da el Tour de Francia al vencedor de la clasificación general Enric Mas ha sido el gran triunfador de la Vuelta a España 2026 . El mallorquín ha ahuyentado a sus fantasmas y ha recuperado su mejor nivel para cumplir las expectativas que había depositadas en él desde el año 2018. El ciclista de Movistar Team ha ganado su primera gran vuelta por etapas de tres semanas y se ha consolidado, a sus 31 años , como uno de los mejores del mundo. Un triunfo que le ha aportado un ingreso extra al margen del sueldo que le da el equipo telefónico, ya que la Vuelta a España le da una buena cantidad de dinero al vencedor de la clasificación general la cual, sin embargo, está lejos de lo que recibe el ganador del Tour de Francia . Enric Mas se embolsa 150.000 euros por ganar la Vuelta a España Enric Mas ha justificado plenamente el sueldo de jefe de filas que tiene en Movistar Team , el cual le abona anualmente unos 1'2 millones de euros , después de ganar la Vuelta a España 2026 . Un triunfo que devuelve al equipo español a la élite del deporte de las ruedas después de que en el pasado haya contado en sus filas con campeones como Alejandro Valverde, Miguel Indurain o Pedro Delgado. A ese salario se le añadirá ahora los 150.000 euros que se ha embolsado el de Artà por ganar la Vuelta a España . Una cantidad de dinero que normalmente el vencedor suele repartir con sus compañeros de equipo por la ayuda prestado. Sin embargo, ese lucrativo premio por ganar la clasificación general de la ronda española está muy lejos de que le otorga el Tour de Francia al vencedor final en su prueba. Enric Mas gana la Vuelta a España y Johannessen se lleva la última etapa en Granada La diferencia de premios entre ganar el Tour de Francia y la Vuelta a España En la actualidad, la Vuelta a España , y ninguna prueba ciclista para ser sinceros, puede competir con los premios que se dan en el Tour de Francia . Mientras que Enric Mas ha recibido esos 150.000 euros por ganar la Vuelta a España , el vencedor del Tour de Francia , que este año ha sido Tadej Pogacar , que en la vuelta se terminó retirando en la octava etapa, se embolsó un total de casi 600.000 euros por ser el mejor de la clasificación general. El ganador de la clasificación general del Tour de Francia se embolsa unos 600.000 euros \"> Esta diferencia de premios supone un gran lastre para la Vuelta a España ya que simplemente por los premios económicos muchos son los corredores que declinan aparecer en la ronda español y centrarse en intentar rascar algo en la ronda francesa. La Vuelta a España se caracteriza por ir creciendo poco a poco y por ir atrayendo a grandes corredores, siendo uno de los mayores ejemplos Primoz Roglic , sin jugar la baza del dinero. De hecho, se espera que Tadej Pogacar vuelva a competir en la Vuelta a España en el futuro ya que el esloveno aún no ha ganado la prueba española, siendo la Vuelta la única de las tres grandes que no tiene en su palmarés ya que sí que ha ganado el Tour de Francia y el Giro de Italia .",
+          "desc": "El ciclista de Movistar se ha proclamado campeón de la edición 2026 de la ronda española lo que le permite embolsarse una cantidad de dinero extra. Un montante que ni siquiera se acerca a lo que le da el Tour de Francia al vencedor de la clasificación general Enric Mas ha sido el gran triunfador de la Vuelta a España 2026 . El mallorquín ha ahuyentado a sus fantasmas y ha recuperado su mejor nivel para cumplir las expectativas que había depositadas en él desde el año 2018. El ciclista de Movistar Team ha ganado su primera gran vuelta por etapas de tres semanas y se ha consolidado, a sus 31 años , como uno de los mejores del mundo. Un triunfo que le ha aportado un ingreso extra al margen del sueldo que le da el equipo telefónico, ya que la Vuelta a España le da una buena cantidad de dinero al vencedor de la clasificación general la cual, sin embargo, está lejos de lo que recibe el ganador del Tour de Francia . Enric Mas se embolsa 150.000 euros por ganar la Vuelta a España Enric Mas ha justificado plenamente el sueldo de jefe de filas que tiene en Movistar Team , el cual le abona anualmente unos 1,2 millones de euros , después de ganar la Vuelta a España 2026 . Un triunfo que devuelve al equipo español a la élite del deporte de las ruedas después de que en el pasado haya contado en sus filas con campeones como Alejandro Valverde, Miguel Indurain o Pedro Delgado. A ese salario se le añadirá ahora los 150.000 euros que se ha embolsado el de Artà por ganar la Vuelta a España . Una cantidad de dinero que normalmente el vencedor suele repartir con sus compañeros de equipo por la ayuda prestada. Sin embargo, ese lucrativo premio por ganar la clasificación general de la ronda española está muy lejos de que le otorga el Tour de Francia al vencedor final en su prueba. Enric Mas gana la Vuelta a España y Johannessen se lleva la última etapa en Granada La diferencia de premios entre ganar el Tour de Francia y la Vuelta a España En la actualidad, la Vuelta a España , y ninguna prueba ciclista para ser sinceros, puede competir con los premios que se dan en el Tour de Francia . Mientras que Enric Mas ha recibido esos 150.000 euros por ganar la Vuelta a España , el vencedor del Tour de Francia , que este año ha sido Tadej Pogacar , que en la vuelta se terminó retirando en la octava etapa, se embolsó un total de casi 600.000 euros por ser el mejor de la clasificación general. El ganador de la clasificación general del Tour de Francia se embolsa unos 600.000 euros \"> Esta diferencia de premios supone un gran lastre para la Vuelta a España ya que simplemente por los premios económicos muchos son los corredores que declinan aparecer en la ronda española y centrarse en intentar rascar algo en la ronda francesa. La Vuelta a España se caracteriza por ir creciendo poco a poco y por ir atrayendo a grandes corredores, siendo uno de los mayores ejemplos Primoz Roglic , sin jugar la baza del dinero. De hecho, se espera que Tadej Pogacar vuelva a competir en la Vuelta a España en el futuro ya que el esloveno aún no ha ganado la prueba española, siendo la Vuelta la única de las tres grandes que no tiene en su palmarés ya que sí que ha ganado el Tour de Francia y el Giro de Italia .",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-14T14:50:49+00:00"
+        },
+        {
+          "title": "Cocaína en una bolsa del Real Madrid y una huida a tiros: el entorno de 'La Paca' vuelve al banquillo",
+          "link": "https://www.eldiario.es/illes-balears/sociedad/cocaina-bolsa-real-madrid-huida-tiros-entorno-paca-vuelve-banquillo_1_13508270.html",
+          "desc": "La Policía Nacional siguió los movimientos de la acusada hasta sorprenderla durante la entrega de la droga, lo que desencadenó una persecución con la Guardia Civil, un disparo disuasorio y el hallazgo de cuatro kilos de droga valorados en más de 400.000 euros La Paca, la matriarca de la droga en la que está inspirada la nueva película de Lolita Flores Una bolsa del Real Madrid con cuatro kilos de cocaína, otro paquete oculto en el falso techo de un hotel y una persecución en la que un vehículo embistió a agentes de la Policía Nacional y la Guardia Civil. Así terminó una operación de narcotráfico que este lunes ha sentado en el banquillo de los acusados a la nuera de Francisca Cortés Picazo, 'La Paca' -histórica matriarca del poblado chabolista de Son Banya (Mallorca)-, quien ha reconocido haber introducido cinco kilos de cocaína en el considerado mayor supermercado de la droga de la isla. La confesión se ha producido este lunes durante la primera sesión del juicio celebrado en la Sección Segunda de la Audiencia Provincial de Balears, donde la mujer y otros cuatro procesados han alcanzado un acuerdo de conformidad con la Fiscalía. El sexto inculpado ha eludido pactar con la acusación pública, por lo que el juicio continuará con él como único acusado. Los cinco procesados han reconocido los hechos que les atribuía el Ministerio Público y han respondido a las preguntas del fiscal superior de Balears, Adrián Salazar, y de sus abogados defensores. Está previsto que las condenas sean inferiores a las penas inicialmente solicitadas por la Fiscalía. La principal acusada se enfrentaba a una petición de 16 años y medio de prisión y una multa de 1,3 millones de euros por delitos contra la salud pública, pertenencia a organización criminal, atentado contra agente de la autoridad y contra la seguridad vial. La Fiscalía solicitaba además una indemnización de 3.087 euros. Para otros cuatro procesados, el Ministerio Público reclamaba nueve años y medio de cárcel y una multa de 1,3 millones de euros por delitos contra la salud pública y pertenencia a organización criminal. El juicio continuará contra un sexto acusado, que ha rechazado pactar con la acusación. En su caso, la petición asciende a diez años y medio de prisión al concurrir la agravante de reincidencia. Los hechos se desarrollaron entre junio y noviembre de 2024. Durante ese periodo, la principal acusada, que mantenía una estrecha relación familiar con Son Banya, se desplazó en varias ocasiones hasta el poblado para introducir cocaína y retirar los beneficios económicos derivados de su venta. La investigación policial situó a otros de los acusados, algunos de ellos familiares de la principal procesada, en una operación de transporte de droga desde Alicante hasta Mallorca. El objetivo era realizar una entrega de cocaína en Son Banya. Cocaína en una bolsa del Real Madrid La Fiscalía sostiene que los inculpados transportaron cinco paquetes de aproximadamente un kilo cada uno. Cuatro de ellos fueron entregados a la nuera de 'La Paca' dentro de una bolsa con el escudo del Real Madrid. El quinto paquete quedó en manos del resto del grupo. La operación fue detectada por la Policía Nacional, que vigilaba los movimientos de la acusada. Cuando los agentes observaron la transacción, un vehículo policial trató de bloquear el paso del coche en el que viajaba la mujer. Según el relato del Ministerio Público, la procesada intentó escapar y arremetió a gran velocidad contra los agentes. La huida continuó cuando una patrulla de la Guardia Civil trató de interceptarla. Tras varios intentos de evasión y un disparo disuasorio al aire, los agentes consiguieron detener el vehículo. En su interior encontraron la bolsa con cuatro fardos de cocaína, que pesaban algo más de cuatro kilos y cuyo valor se situaba, según la acusación, por encima de los 400.000 euros. El resto de los acusados fueron detenidos en distintos puntos de la operación. Varios fueron interceptados cuando viajaban en una furgoneta. Otro fue localizado en una habitación de un hotel de s'Arenal, en el municipio de Llucmajor, donde los agentes encontraron el quinto paquete de cocaína escondido en el falso techo. La nuera de la 'Paca' es mujer de Francisco Fernández Cortés, 'El Ico', quien acumula varias condenas a sus espaldas, entre otros numerosos episodios, por asuntos de drogas y por protagonizar un tiroteo en un club de alterne de Palma. Su nombre apareció además en el caso Cursach en 2015, cuando decenas de testigos comenzaron a declarar ante el exjuez Manuel Penalva y el exfiscal Miguel Ángel Subirán sobre supuestas irregularidades en torno al empresario nocturno Bartolomé Cursach, acusaciones que terminaron desvaneciéndose en sede judicial y, finalmente, descartadas.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-14T14:49:09+00:00"
         },
         {
           "title": "Cristóbal Soria, tras su accidente, le propone a Jesús Calleja quién debe ser su próximo aventurero: \"El frío lo lleva bien, deberías montarlo en un globo\"",
@@ -852,27 +873,6 @@
           "desc": "El gigante asiático recuerda, no obstante, que esta tecnología se ha convertido en una nueva \"rivalidad entre grandes potencias\" y recuerda cómo EEUU está intentando frenar su desarrollo con medidas como el embargo de chips avanzados Los cuatro gigantes de la IA piden frenar desarrollos y Trump desprecia el riesgo El ministro chino de Seguridad del Estado, Chen Yixin, ha pedido construir una “barrera de seguridad” en torno a la inteligencia artificial (IA), en un momento de creciente preocupación en Pekín y Washington por los riesgos políticos, sociales y tecnológicos de esta herramienta . Chen sostiene que la IA se ha convertido en un campo principal de competencia tecnológica global y en una nueva vía de “rivalidad entre grandes potencias”, según un texto publicado este domingo por la Administración del Ciberespacio de China, el principal órgano regulador del Internet chino, en su cuenta oficial en la red social Wechat. El responsable del organismo pide impulsar el desarrollo “saludable y ordenado” de la IA, pero también reforzar la supervisión sobre datos, algoritmos, infraestructura de computación y aplicaciones de uso civil y militar. El artículo enumera riesgos vinculados a la difusión de contenidos falsos, ataques informáticos, filtraciones de datos, manipulación de la opinión pública, desinformación, uso militar de sistemas autónomos y problemas legales derivados de la responsabilidad por contenidos generados por IA. El ministro de Seguridad, líder del espionaje chino, lanza esta opinión justo tras las alertas lanzadas en Estados Unidos por directivos como Dario Amodei, Sam Altman o Elon Musk sobre los riesgos de la IA, mientras el presidente estadounidense, Donald Trump, ha rechazado ralentizar su desarrollo con el argumento de que Washington no puede permitir que China tome ventaja. Chen afirma que, en junio de 2026, los productos de IA en China superaban ya los 500 millones de usuarios, una muestra de la velocidad con la que estas herramientas se han extendido en el país. “Ciertas naciones aprovechan sus ventajas acumuladas en teoría fundamental de IA, arquitectura de modelos y capacidad de cómputo central (todo ello bajo el pretexto de 'mantener la seguridad nacional') para limitar la capacidad de otros países de adquirir equipos técnicos de vanguardia y mejorar sus capacidades de innovación tecnológica”, indica el funcionario, en una referencia velada a Estados Unidos. En el ámbito militar, Chen aseveró que la IA “está pasando de ser un papel de apoyo en el campo de batalla a convertirse en un protagonista”, citando específicamente el conflicto entre Washington y Teherán. La advertencia llega en un momento de intensa actividad del sector chino , con empresas como DeepSeek, Moonshot, Alibaba, Tencent o Zhipu compitiendo mediante modelos abiertos, precios bajos y rápida implantación comercial, pese a las restricciones estadounidenses sobre chips avanzados. Recientemente, DeepSeek y Moonshot han perfilado posibles salidas a bolsa y modelos como Kimi K3, Qwen3.8-Max o GLM-5.2 se han acercado a los sistemas más avanzados de firmas estadounidenses como OpenAI o Anthropic.Autoridades estadounidenses y responsables como el secretario del Tesoro, Scott Bessent, han acusado a empresas chinas de usar la “destilación”, una técnica que permite entrenar modelos con respuestas de otros sistemas, para copiar tecnología estadounidense. Este verano, el presidente chino, Xi Jinping, pidió una gobernanza “precisa y efectiva” de la IA y China lanzó en Shanghái una organización internacional de cooperación sobre IA con una treintena de países.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-14T07:54:29+00:00"
-        },
-        {
-          "title": "Bolaños recurre el archivo de sus denuncias contra el juez Peinado y acusa al Poder Judicial de \"corporativismo\"",
-          "link": "https://www.eldiario.es/politica/bolanos-recurre-archivo-denuncias-juez-peinado-acusa-judicial-corporativismo_1_13507172.html",
-          "desc": "El ministro inicia la vía para acudir al Supremo y denuncia la “hostilidad” y la “actitud intimidatoria” del interrogatorio al que le sometió el juez del caso contra Begoña Gómez Las hostilidades entre progresistas y conservadores amenazan con llevar al Poder Judicial a la parálisis El ministro de Justicia, Félix Bolaños, ha presentado un recurso de alzada contra la decisión del Consejo General del Poder Judicial (CGPJ) de archivar las quejas que presentó ante este mismo órgano contra el juez Juan Carlos Peinado, instructor del caso contra Begoña Gómez. En el recurso, al que ha tenido acceso elDiario.es, el ministro sostiene que la actuación del órgano de gobierno de los jueces no representa los estándares de agilidad y rigor exigibles y critica que “bien por conservadurismo, bien por corporativismo” haya sido incapaz de corregir las “irregularidades” denunciadas “y reponer así el prestigio y la reputación del Poder Judicial”. Bolaños denunció la “hostilidad” y la “actitud intimidatoria” del juez cuando le interrogó como testigo en la Moncloa en el caso contra la esposa del presidente del Gobierno y cuando, después, pidió sin éxito al Tribunal Supremo que abriera una causa contra él. El magistrado exigió una tarima para poder colocarse en un plano superior al del ministro, le acusó de contestar con “evasivas” y le llegó a reprochar que sonriera. El pasado julio, los cuatro vocales conservadores de la Comisión Permanente y el consejero elegido a iniciativa de Sumar Carlos Hugo Preciado respaldaron la propuesta del Promotor de la Acción Disciplinaria de archivar las diligencias abiertas a raíz de las quejas de Bolaños. Esa misma Comisión Permanente es competente para decidir sobre los recursos de alzada impuestos frente a decisiones de la autoridad disciplinaria, lo que augura que este recurso tiene pocas opciones de prosperar. De hecho, el propio Bolaños admite que no confía en que ese órgano revoque su propia decisión y anuncia que su objetivo es agotar la vía administrativa antes de acudir a la Sala Tercera del Tribunal Supremo, de la que dice que está seguro de que “hará el trabajo que correspondía al CGPJ: defender y proteger el buen nombre de la judicatura”. A juicio de Bolaños, la resolución del Promotor carece de “motivación”, dado que no realiza “un análisis verdaderamente individualizado de las actuaciones denunciadas” y tampoco explica “por qué todas quedarían comprendidas en el núcleo irreductible de la potestad jurisdiccional”. Por ejemplo, limitó a calificar como una “situación puntual de cierta tirantez dialéctica” lo que el ministro considera que fue “una actitud objetivamente intimidatoria e injustificadamente hostil, incompatible con la posición que le correspondía” durante el interrogatorio. Así, en la grabación consta que apenas iniciado el interrogatorio, el juez advirtió a Bolaños que en cualquier momento de la declaración podría modificar su condición procesal de testigo a investigado. También que le reprendió por usar expresiones como “creo que” o “en términos generales” o le reprochó que discrepara de la calificación de determinadas respuestas como “evasivas”. En su escrito, el ministro denuncia que pasaron 427 días entre que presentó la primera de las denuncias en junio de 2025 y se le notificó el archivo el pasado 5 de agosto. Todo ello a pesar de que, a su juicio, se trataba de unas pesquisas sobre “actuaciones muy concretas, perfectamente identificadas y de muy sencilla comprobación”. Además, sostiene que durante ese tiempo la investigación fue “limitada” y se llevaron a cabo “un número muy reducido de diligencias de investigación”.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T07:44:21+00:00"
-        },
-        {
-          "title": "El precio del petróleo roza los 110 dólares en medio de las amenazas de Trump de quedarse con el crudo de Irán",
-          "link": "https://www.20minutos.es/lainformacion/mercados-y-bolsa/petroleo-cae-tensiones-oriente-proximo_7036279_0.html",
-          "desc": "La cotización del oro negro rebota desde máximos de mayo.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-14T09:34:44+02:00"
-        },
-        {
-          "title": "Renault inicia con la Trafic eléctrica una ofensiva de cinco nuevas furgonetas para una \"nueva etapa\"",
-          "link": "https://www.eldiario.es/motor/sector_y_mercado/renault-inicia-trafic-electrica-ofensiva-cinco-nuevas-furgonetas-nueva-etapa_1_13506830.html",
-          "desc": "La marca francesa promete una autonomía de hasta 470 kilómetros y un ahorro de costes del 10% respecto al diésel con la nueva generación eléctrica de la popular furgoneta Trafic presentada en el Salón IAA de Hannover François Provost, CEO de Renault: “No estamos en España solo para fabricar” Renault ha elegido el Salón IAA Transportation 2026 de Hannover para abrir una nueva etapa en su estrategia de vehículos comerciales ligeros con la presentación del nuevo Trafic Furgón E-Tech eléctrico. La popular furgoneta francesa estrena generación con una autonomía de hasta 470 kilómetros, una arquitectura eléctrica de 800 voltios para una recarga ultrarrápida y la promesa de reducir hasta un 10% el coste total de propiedad frente a una versión diésel equivalente. El modelo es, además, el primero de una ofensiva que llevará a la marca a lanzar cinco nuevos vehículos comerciales ligeros hasta 2028. La nueva Trafic llega en un momento de crecimiento para la división de vehículos comerciales de Renault. La compañía mantiene la segunda posición en el mercado europeo de vehículos comerciales ligeros y asegura que sus ventas crecieron un 12% durante el primer semestre, frente al 2% del conjunto del mercado. Al mismo tiempo, las matriculaciones de vehículos eléctricos de Renault aumentaron un 40%, frente al 25% del mercado. Master lidera el segmento europeo de las furgonetas grandes, mientras que Kangoo y Trafic ocupan posiciones de podio en sus respectivas categorías. La ofensiva contempla cinco nuevos productos y dos nuevas plataformas durante los próximos tres años. Renault ya ha avanzado con el pick-up Niágara, destinado a los mercados latinoamericanos y fabricado en Argentina, y ahora sitúa a la Trafic E-Tech como una de las piezas centrales de esta renovación de su gama profesional. La nueva Trafic eléctrica conserva el nombre de uno de los modelos con mayor recorrido de la marca. Desde su lanzamiento en 1980 se han vendido más de 2,8 millones de unidades, muchas de ellas fabricadas durante una época en Barcelona, y Renault la considera una referencia en el segmento de las furgonetas medianas. La nueva generación se fabrica en Europa, en la planta francesa de Sandouville, y estará disponible inicialmente como furgón antes de finales de este año. En 2027 llegarán las variantes chasis-cabina y doble cabina. “El nuevo Trafic Furgón E-Tech eléctrico es mucho más que un nuevo modelo en nuestra gama. Supone un auténtico cambio de paradigma en el mercado europeo de vehículos comerciales ligeros”, indicó Jan Ptacek, vicepresidente vehículos comerciales de Renault, durante la presentación en Alemania. Hasta 470 kilómetros de autonomía y carga rápida La autonomía se convierte en uno de los principales argumentos de la nueva Trafic E-Tech. Renault anuncia más de 470 kilómetros de autonomía, aunque la homologación WLTP todavía está pendiente. En uso urbano, la cifra puede elevarse hasta casi 690 kilómetros, una capacidad que, según la marca, permitiría cubrir hasta cinco jornadas laborales sin necesidad de recargar. La furgoneta utiliza una nueva plataforma para vehículos comerciales medianos y una arquitectura eléctrica de 800 voltios. Con ella puede recuperar hasta 280 kilómetros de autonomía en apenas 20 minutos de carga rápida, una cifra que alcanza los 380 kilómetros cuando se circula en entorno urbano. Renault sitúa esta capacidad como una de las grandes ventajas competitivas del modelo para profesionales que necesitan minimizar los tiempos de parada. Parte posterior de la nueva Renault Trafic eléctrica La marca vincula directamente esta mejora de autonomía y carga con la rentabilidad de las empresas. Según sus cálculos, el coste total de propiedad de la Trafic eléctrica será hasta un 10% inferior al de una furgoneta equivalente con motor de combustión. El equilibrio entre batería, peso y autonomía se completa con una batería de 81 kWh, una aerodinámica optimizada y una cadena cinemática con una eficiencia superior al 90%. Una furgoneta eléctrica pensada como un ordenador Más allá de la electrificación, Renault quiere convertir a la nueva Trafic en una furgoneta definida por software. El modelo es el primer vehículo del Grupo Renault y, según la compañía, el primer vehículo comercial ligero en Europa en incorporar una arquitectura Software-Defined Van (SDV). Esta tecnología sustituye las 80 unidades de control electrónico de un vehículo convencional por dos superordenadores capaces de centralizar las funciones del vehículo. El sistema operativo CAR OS, basado en Android y desarrollado junto a Google, permitirá actualizar funciones y añadir nuevas prestaciones durante toda la vida útil del vehículo, de una forma similar a la evolución de un ordenador o un teléfono móvil. El planteamiento también busca mejorar las condiciones de trabajo. La Trafic eléctrica ofrece un radio de giro de 10,3 metros, una altura de 1,89 metros para facilitar el acceso a aparcamientos subterráneos y una suspensión trasera multibrazo que, según Renault, proporciona un confort de marcha similar al de un turismo. La visibilidad frontal y lateral se ha reforzado para facilitar las maniobras y mejorar la seguridad. Pero la electrificación no ha supuesto renunciar a las capacidades habituales de una furgoneta profesional. La nueva Trafic ofrece hasta 5,8 metros cúbicos de volumen de carga, 1,3 toneladas de carga útil, una capacidad de remolque de dos toneladas y espacio para tres europalés. También dispone de una altura de carga de 53 centímetros. La furgoneta incorpora además tecnología Vehicle-to-Load (V2L), que permite utilizar la batería para alimentar equipos eléctricos desde una toma situada en el compartimento de carga. Renault prevé también incorporar una toma de fuerza eléctrica (ePTO) para alimentar transformaciones con mayores necesidades energéticas, como equipos frigoríficos o ambulancias. Renault amplía el negocio con servicios La estrategia comercial de Renault no se limita al lanzamiento de nuevos vehículos. La marca ha estructurado su oferta de transformaciones en tres niveles: conversiones realizadas directamente bajo la denominación Converted by Renault, soluciones personalizadas a través de Qstomize y una red de 300 carroceros certificados en Europa. El objetivo es adaptar cada vehículo a las necesidades específicas de los clientes profesionales. A esta oferta se añadirá en 2027 Renault Uptimize, un programa basado en los datos de los vehículos conectados, la inteligencia artificial y el mantenimiento predictivo. La compañía pretende reducir hasta un 50% los tiempos de inmovilización de los vehículos comerciales en caso de incidencia, mediante la anticipación de averías, la optimización de las visitas al taller y una atención prioritaria de posventa. El sistema permitirá además a los gestores de flotas controlar desde una plataforma aspectos como el kilometraje, el consumo energético, las rutas, la recarga o los indicadores de conducción eficiente y seguridad. Renault incorporará asimismo una aplicación de control de energía y seguridad capaz de aplicar automáticamente los parámetros definidos por el gestor de la flota, con el objetivo de mejorar la autonomía y la eficiencia.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T07:30:56+00:00"
         }
       ]
     },
@@ -881,6 +881,90 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "NVIDIA factura más que sus 9 rivales juntos en fables Q2 2026",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVRZbTVoU04wN2RlV3E2MFUtMHZkLXNnblE4TGlTeUNPQkFSSXZMZTdPN1lSS0NRV0IwUmFsQ3pqdjFOcmc3M3M3MVAzclBfYjhoUFR5SmV6bUVqczV4R0ZDYUdZM1RaXzl2NkJZSy1hckllMHVzMXV6NlNwRFQzM00xZFRVZFVNYWQ0S01HRXVHRDlKZjBHQjJBeE54RmNKVGV1V2Rtcm4?oc=5",
+          "desc": "NVIDIA factura más que sus 9 rivales juntos en fables Q2 2026 El Chapuzas Informático",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:23:34+00:00"
+        },
+        {
+          "title": "Hyundai retrasa el software de asistencia al conductor interno, se asocia con Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUZ6ZjlwcGdsWFdxSUhIM01NY19kcnJ5ZU1WcnE4eERPNWdDTUxPZWlWbnFiVEVMdEdUeXRCR3FySUVib2tXWVZlaXFxSVNhc3RrWVBTUkN0NnFkd2RHQ3o0WURnanQ3TjZmN0RBT1ZSWExjVGktektDbWRpZ0RXSnNCVlFETEY0RUE?oc=5",
+          "desc": "Hyundai retrasa el software de asistencia al conductor interno, se asocia con Nvidia es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:22:30+00:00"
+        },
+        {
+          "title": "Nvidia reduce de cinco meses a tres semanas el diseño cuántico de Fermilab",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUQyZXZ0eWJOSzE0T2R3OGloZm5mcklXbjZpMFVXb3pMN0d4NG41Y1lqYi05MnN2MHhKdTFoM20tbm5aTEtOeGxXMDRSQVFqSHBLNHdKSi1Jd2NVSjN5dHpWN1FhSW1fZlFvWWc0bmgyQ2hMZ3U1LW9iUm9hVmY2c2x2SHFxaGxUWUhEMnNUSnJJSE9IRjc1MkhVZUxtbEtrQUJYRTNwZVpDZGZBdXh3blh4WnJ1Wnc?oc=5",
+          "desc": "Nvidia reduce de cinco meses a tres semanas el diseño cuántico de Fermilab DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:22:30+00:00"
+        },
+        {
+          "title": "Perplexity y NVIDIA llevan la IA agéntica a Windows",
+          "link": "https://www.muycomputer.com/2026/09/14/perplexity-y-nvidia-llevan-la-ia-agentica-a-windows/",
+          "desc": "Durante los últimos años nos hemos acostumbrado a pensar en la inteligencia artificial como algo que sucede lejos de nosotros. Escribimos una consulta, adjuntamos un documento y, en algún punto que normalmente no vemos, una infraestructura remota se encarga del resto. Sin embargo, el PC sigue teniendo mucho que decir en esta historia. Perplexity y […] La entrada Perplexity y NVIDIA llevan la IA agéntica a Windows se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-14T15:20:20+00:00"
+        },
+        {
+          "title": "Nvidia: Jensen Huang tilda de marketing el miedo a la IA",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjllcEo3VnJZVWZiV1E3TUQ0ekt5VXBaV3JwdEkwNXRNQjVEeEJONjVDQ3dtZFlZUDFZYzhZclhMYUdfMmtZcUlUZkFWX3VtVXRGUlBEbFRZdVFWUmNKU1lRSGNRQ0NZMTFNd0VOeXVOWlJoZmE0OEV0a2xoYUR1YXlQejlmNlg2Xy1kVWMwUQ?oc=5",
+          "desc": "Nvidia: Jensen Huang tilda de marketing el miedo a la IA El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:10:04+00:00"
+        },
+        {
+          "title": "Palantir y Nvidia limitan el uso de modelos de IA por temor al uso indebido de sus datos, según The Information",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZEl1UFpxcS0zRTBuaGhRSk9jTVJmWVJCRkhIRHNiSk9tSEU4em9JckVnV0otc2FuQkh6VHNISEl1OU5hRlRIbnJuWGx2VWpQalFYN3JldkM4Si1VUmVYYk50X1V3aExYQ0Vhd2J4XzNrOG9oSUR0RGpEcVJCX1hKVDlvTFcwb19mMEowQ1lyRGZsMjA0VGNRSTQ2NUFPeDRyenBFY2UxS01LWEEtQXVkbHk1cU1XQUZScGZqbXkzQXcxSjI0b3hBdkZFMjlRWXFaNFlfSkdSbFFGT3Q0UUlhVU1DdndaWGREenc?oc=5",
+          "desc": "Palantir y Nvidia limitan el uso de modelos de IA por temor al uso indebido de sus datos, según The Information MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:09:20+00:00"
+        },
+        {
+          "title": "Palantir y Nvidia restringen el uso de modelos de IA ante la preocupación por los datos, según informa The Information",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zV0sxNUJPNWlaTmRWOWFBQWs2REFZbjBaakVkbmtlc2VTU2lybkhyamI1TXdSbDBobVcwQkxCZ3hCR2RERzlhYVVjenZiX0loVzBDNkNzd0hGS184QlQ4SmRSSEo1enFkTDBTaTk4YU40OXhlZ0FZ?oc=5",
+          "desc": "Palantir y Nvidia restringen el uso de modelos de IA ante la preocupación por los datos, según informa The Information es.tradingview.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:08:01+00:00"
+        },
+        {
+          "title": "SpaceX prevé lanzar en 2027 primeros satélites con tecnología de Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllSaktoU29nbGtXQ0dkSDV3YjhXd0Q4S01OZFVkbng3c2JKZ21kb2RNUDk0NXVyVDhlZVJJTkhzdlY5dV94b2NKQ01EWmd2cTRLeXUydWJxYkg3bGZXZFVMUW44ZGJ4YXc5TEJTaXYwd19Ddzhoa3lhMlNqZUN2QUpYN2FhOFZHNG5wbTEzWDgzTUdDb2ZJTF9OUFRlOE5ZdWJrVjAwM01wbXdfOVhkX0dvMNIBuAFBVV95cUxNTl82TDNIQy1UckV4X0VmaGRlWndrdjloallFRVdpbHh4T0hHNWVXakxjc3NScWtoWV9tXy1oRVM1OFFLcjY1WkJtUDlTaXBVV0xqNi14aDFRZXhHZkRDckVDX3NoTURLNjJFMVFveE1vLUJZd1ZfM2dsVGtOR2IwYUtZVC1JUWZVX1pKWnJfeDhJMnJWVWUwek5ZSGRIaC1SRnZOYmE5WWIxU1dFU1hRa2t5dHVMV19G?oc=5",
+          "desc": "SpaceX prevé lanzar en 2027 primeros satélites con tecnología de Nvidia Diario Las Américas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:03:00+00:00"
+        },
+        {
+          "title": "Nasdaq lastra a Wall Street; temor a desaceleración del sector IA golpea a Nvidia y fabricantes de chips",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa0tUcGs3c0NyUWdpT2tpVElTdmtBTE1fUnZFekFMeUxFQ3I3RzNHZGgzZzVxWUZoNU1SZERsaHp2SEVfSDNUS0haaTR2ejdmMWFfaTdmRXhXVW1aYWRZZGhnOHVPcTR6MkRKanBiT0dJcmFFWjNteEJBcUp3cExXM1BtMW12NTdKZ3ZIbkJKb3UzZmxrN2ItQ0hZS1FKMFkxVjJiTklpb1FUc21kNkJZN3haZVNLNC1hcWh2MmFGNi0xZXdDYTh6clZiMDRxSlllaFg1MzdZTEdsS29heXA4aXlrcmZWZlhZZGxj?oc=5",
+          "desc": "Nasdaq lastra a Wall Street; temor a desaceleración del sector IA golpea a Nvidia y fabricantes de chips MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T15:02:33+00:00"
+        },
+        {
+          "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+          "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+          "desc": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+          "source": "https://blogs.nvidia.com/feed/",
+          "fecha": "2026-09-14T15:00:52+00:00"
+        },
+        {
+          "title": "Nasdaq lastra a Wall Street; temor a desaceleración del sector de IA pega a Nvidia y fabricantes de chips",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOTBfdkRVc005aDA3dVdPV3F4NHVycHJYMmNjWU54X3o1czdWT3lSejEycUJsVWlsWTMtTE5zZ0xmR2RPbkpSTHZOWlQ4S2NnMzBfbW00UW1PTUNtZUJUM09xeFh0MnJDNEJVUXczd19lWklBUUNnWmtNYTZYTVpTdVZ6ZHJQSlpKQlVnMmNRdnVzOXRlTVZmNnBjNHliMW9HZnRGMi0zSG80QmY4eWxwQlpxWjdhZkpnYWhfZGZMR296d0tzZlNrRTZlbXk2ZmM5dlJEckNOU0FmNnZwWTVHaGxB0gHnAUFVX3lxTE9rX2E1MmN3V0JoR0d2NzZ5ZU1JUTBVbDVidGpRVzhUUXU2cnFOWi0yWGVfdjVPUF9McU9aTTNkS0c1Y1g0WXlGcGkweWpqRXMtZE0zQmtlYnI4YlZUa1BKV3V5LXJqRHd6WllNZTJfWkJGd0pfUGNEVUJqeUZGejVkX2NobzRBWG5qVXV0U04tNDB4SFU1T2ZtNUU1dmdKSjF5aGoyVkl0amZQd1RiWUtxekpHcWZ0dDU2OHVzUy1UeU9SM0xKOHoxSVFpVGxYOUViajFfQjFTV0xQNUxYWGJZZDQ5U2dUVQ?oc=5",
+          "desc": "Nasdaq lastra a Wall Street; temor a desaceleración del sector de IA pega a Nvidia y fabricantes de chips eleconomista.com.mx",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:57:50+00:00"
+        },
+        {
+          "title": "NVIDIA presenta la GPU RTX PRO 5500 Blackwell: una RTX 5090 con más VRAM",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGY5SGQ4YUxNYVVpY3ZXZmFxZjA2Vm84Q19MUXNDVUR5Rm5MVF9ROXhNRlE2ZENMdXFRc1M5d2ppd0M0NVV1MVVLMkxZQlE4NEVUdl9HME8xbTVBVFpYTG8wQ0tDb1hQNm5GWmowWTZNM24wb0VTekw1eUlWbDExRzlCaEhPSzVheVNZN3ZVM3ZKZHE3N3JIakFMNEpmSmcyek9GNjR2Z041dkFzRUZGQ3FrUnJ6Wl8w0gG-AUFVX3lxTFBJTUFIZUVvOGJZai1DTkR1VEdWc2hIdDNNN19lTXhpVm8xQTl3Rmg4cVZnTlVHSzRVQ3Y4TnZZd1FMNVhRVEFkMTNlb1VHY2FMUGJmeFlPNG80X3RScmp2Q2duUEdiOU4yYkhuSjBESmd6bktaWUVPSlhuZElFd201OFE0THZjSGV3b1YzVUkzcU1fLXAzWW5rS2hDdGhjbkN0R3ctd3lmaHdFLWh2dlFaVGJTLTdGajJvNDhtcVE?oc=5",
+          "desc": "NVIDIA presenta la GPU RTX PRO 5500 Blackwell: una RTX 5090 con más VRAM Profesional Review",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:55:08+00:00"
+        },
+        {
           "title": "XBOX aclara una duda importante sobre Fable en PC: sus objetivos de rendimiento no utilizan reescalado",
           "link": "https://vandal.elespanol.com/noticia/2026257028/xbox-aclara-una-duda-importante-sobre-fable-en-pc-sus-objetivos-de-rendimiento-no-utilizan-reescalado/",
           "desc": "XBOX confirma que las resoluciones y tasas de imágenes indicadas en los requisitos de Fable se alcanzan sin recurrir a DLSS, FSR o XeSS. Hace unas semanas se publicaron los requisitos oficiales de Fable para PC , detallando cuatro configuraciones que abarcan desde los 1080p y 30 FPS con ajustes bajos hasta los 4K y 60 FPS en Ultra. Sin embargo, quedaba una incógnita importante, y es que no se había especificado si esas cifras presuponían el uso de tecnologías de reescalado como DLSS o FSR. Ahora XBOX ha despejado esa duda y la compañía ha confirmado a PC Gamer que los objetivos de resolución y tasa de imágenes indicados en los requisitos se han establecido sin utilizar reescalado . Es decir, los 1080p y 30 FPS de la configuración mínima o los 1440p y 30 FPS de la recomendada no dependen de estas tecnologías para alcanzar las cifras anunciadas. DLSS, FSR y XeSS podrán utilizarse para mejorar el rendimiento La aclaración es importante porque, como os contamos cuando se publicaron los requisitos de Fable , Playground Games había detallado las configuraciones mínimas, recomendadas, altas y Ultra, pero no había explicado si los objetivos tenían en cuenta sistemas como DLSS o FSR . Esa era precisamente una de las dudas que dejaban las especificaciones originales. Vídeo: XBOX ha actualizado ahora la información para confirmar además que Fable será compatible con NVIDIA DLSS 4.5, AMD FSR 3 y FSR 4 e Intel XeSS 2.1 . Al no formar parte del cálculo utilizado para establecer los objetivos oficiales, quienes recurran a estas tecnologías deberían disponer de margen adicional para mejorar la tasa de imágenes o reducir la carga sobre la tarjeta gráfica. Como referencia, la configuración mínima utiliza una RTX 2060, RTX 5050, Radeon RX 6600 o Intel Arc A580 para alcanzar 1080p y 30 FPS con calidad baja . La recomendada apunta a 1440p y 30 FPS o 1200p y 60 FPS en calidad media con una RTX 3060 Ti o RTX 5060, entre otras alternativas. En todos los casos se necesita un SSD y 135 GB de espacio libre . Fable llegará el 23 de febrero a PS5 , XBOX Series y PC .",
@@ -888,18 +972,18 @@
           "fecha": "2026-09-14T14:55:00+00:00"
         },
         {
+          "title": "De Nvidia a AMD: las acciones de IA más golpeadas del S&P 500 y qué está pasando",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjRSa2JZdm43R0dlVjJocS1fZkRUd0YwcHdITTA0Y2E0WnBBX1NIdFRWVEh6bTByQjdfQjllejNyd0kybDQxSU5wODdwVE01MHREMHVURjNKLVdETUlrU2F5MkkwdUluVlhXX2c2eFQzV1B2ZUozN3l0dThGT3h3SklWTWxneThmOUFCREVYaFAzckRQUWlIRnpPQ05aNGJUZGhNVzF4RExNYVZndWhNZE1WRE41VURScmNV0gHPAUFVX3lxTE5XclVUei1pTHdmVU9DMldUaFhyOVRENmpDYlV5bjA1Z1NHVjRSVnJVXzhqRzBDQVh3UmdJSW5Va2xNVW1FMHgwTFU3cVRKazRwRm1wbVdWcTMtYnY3cGZNQm9jR3VrTVU3Y2U0QXlJRldLMVdPY3BGNlREOERfOVNFNzRJdy1kV281ZXR4UjB0NExBc19sNDRCTFlyVVdNMl9MQk5YNTFHdUxScG1QMkdEQmQ2eGU3RlhxRzU3amlfX1BJX2ZvOVVWdzRZazFfOA?oc=5",
+          "desc": "De Nvidia a AMD: las acciones de IA más golpeadas del S&P 500 y qué está pasando Bloomberg Línea",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:50:18+00:00"
+        },
+        {
           "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows —  CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting",
           "link": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting",
           "desc": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
           "source": "https://www.tomshardware.com/feeds.xml",
           "fecha": "2026-09-14T14:23:12+00:00"
-        },
-        {
-          "title": "El Nasdaq lastra a Wall Street, mientras los temores a una desaceleración en el sector de la IA golpean duramente a Nvidia y a los fabricantes de chips",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dDZEcmJVRmFYc3hERlRuZllVVmFkRFNIa21ZZ2JQeGdsSTVtQ1NlX1ppTmNyVGpDaUVpc3QwSjV4UkE0by1KWjBlSmxib1J4aE1NVUwzd2lyMUdKQ2tKbVktMFpRdmdQQnJtdnZtN1c5ODNoZDFF?oc=5",
-          "desc": "El Nasdaq lastra a Wall Street, mientras los temores a una desaceleración en el sector de la IA golpean duramente a Nvidia y a los fabricantes de chips TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T14:15:09+00:00"
         },
         {
           "title": "La IA golpea las bolsas: SoftBank, SK Hynix y Nvidia lideran las caídas",
@@ -918,7 +1002,7 @@
         {
           "title": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTZsa0RMSE5aekx0VDhSRjdBQ09JNlFHRTVydElmTTJXV3YzRXE2b0hfdVdFMlFKMkhMQ0RJZkl3SzJDTDJXaVlyNU9qLTgzM2pMUnhPQjhEUnFHUFJKOFdRN1pXaHVPZ2V2d2dCZ2Zwemd4dWs0eWRpZTQtTGJSbmxUQXNubE50akR1U2JONHBsZElXWkt2VWQ1NUjSAZwBQVVfeXFMTkdFT0t3eGExVDVBRWI3WGxiWHFKRERLSGdlY18ydC02RnJwYzBiMm93azJCNDhDSFByZlllU3ZnZTM4ZndLVVhjcVQ0bmthVDJYWmJrRXBiNV9wYWhmcFJXTUcta0tFOHdDQ293bWJVak1jbmh6UmVEZjBRSk9xNXNtLTZQZzNkSS1RcThJOXJWaVVNSVBJbnY1a1Jr?oc=5",
-          "desc": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA elperiodico.com",
+          "desc": "Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA El Periódico",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T13:59:18+00:00"
         },
@@ -927,7 +1011,7 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEJGT0VrVjFXSHMtSV9Yay1EX0hMUGQwNnlxMnR1N2NXR3l4MU1LUXVxMTBuYnNSTDJyUjk3bC1vVVFTXzdnWnhSTncwdmE5V3A3TFFqcWQ1c3FXSlJ6M2t4bG5BWk9qSFFWRjBKWTBxRzdQU2ZQQjc5UF84Q0tRLWFOLVRELUN3SmNyVUlOeHRBa25icWlrQ2hzOU0wNll1d2hrNjZleTBrczR6clE1WFBxWjlsSkEzOHRHX0xzYVRLQjhrTVV4enBn?oc=5",
           "desc": "Nvidia y Palantir restringen modelos de Anthropic y OpenAI por temor al uso de datos DiarioBitcoin",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:57:32+00:00"
+          "fecha": "2026-09-14T13:57:43+00:00"
         },
         {
           "title": "El S&P 500 y el Nasdaq abren a la baja por el nerviosismo en torno a la IA, que lastra a Nvidia y a los fabricantes de chips",
@@ -963,90 +1047,6 @@
           "desc": "Infleqtion integra la biblioteca qLDPC con NVIDIA CUDA-Q Logical Investing.com España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T13:13:00+00:00"
-        },
-        {
-          "title": "Lo que los CMO deben saber sobre IA en retail según NVIDIA: personalización, agentes autónomos y publicidad adaptativa",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlp6czE2bXg2TlJWRVR5NjVCdktubmhmd1BjWWRHTkF6aW9IaWFxR1VnbzNKTWI1N3FRclZWU1VSWHQ1RmhFZVJGZkhSRU1zRkFJel9FdUFfeld4MFEyRHZjN3o5Ymw2X2Q5bTRpZnh1bzZtY3dXLW5tTG9QUy1Hd0dqcTJRTGd5UGNtV21FUThzMUNKcVBuT2dkeXJzQTFRLTBoX0Y4SkRkaldVRlEwTjRJbGsxWnEtWHZuMUlvNkdzVUtzS3A5c1dLRXp3UUJKeTFfQkhCdEw?oc=5",
-          "desc": "Lo que los CMO deben saber sobre IA en retail según NVIDIA: personalización, agentes autónomos y publicidad adaptativa Revista Merca2.0",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:09:07+00:00"
-        },
-        {
-          "title": "Portable Computer llega a Windows con IA local acelerada por RTX",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFnc1RsRXZHcFhNWmJmaHVXTmdlUENGQnBXT2lCaUVoeXVfSFFoRGdrWlBFM1E2N1hHcHJxQ09RaFZRdWIzcUMzMHdvODZ2TUJDTGlVVUhmM3N3bFB5Z3lxN1BTRGtlR0NGZXl4NmstWk8taGcyMlpHdmFlTmp0STd3eTJCdi14MElKcUtVamZ5cjNFaUE?oc=5",
-          "desc": "Portable Computer llega a Windows con IA local acelerada por RTX hardwarepremium.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T13:00:00+00:00"
-        },
-        {
-          "title": "Nasdaq 100: Nvidia y las acciones de chips caen por conversaciones sobre la desaceleración de la IA",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZzNwdVc2OWk2cWJoUkxaa0JxdmNRVFdxUlRmOFZaY0s3d2VKSnIwakhjazZGTEluakFwRnpBQmQtWkRKcUR5ZllyazhsblRFaE1JNGRpX3VkWGxIaDFlVVRMXzRFUHZmX1FhR2o1TENHR1RTcFhGVlpObHBRZEMyT3ltLUZDMHlPYkp6YXdRVktrTnpJNmNzZnQ1SGJwVE5BNWMtMGdzUVBpVXZSczlEQ3ZydkFfck9xTXBWUWhXaWhoTFNGS3FvbE4xSlBUNzIyNlFabDJteUhZemZaSlBXMHFWR2hWcXBqc3Ewb1lnU1k2bTA?oc=5",
-          "desc": "Nasdaq 100: Nvidia y las acciones de chips caen por conversaciones sobre la desaceleración de la IA FXEmpire",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T12:28:00+00:00"
-        },
-        {
-          "title": "Jensen Huang: la 'tortura' de criticar a sus 42.000 empleados que mantiene a Nvidia en la cima",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2J3T1lfeWdPdEpvd2hYZ2tqU2kzc2JiOGQ5MDd4eWxUcmdXYVRidmpja3pTM0VtRnBXOC1ORDMxVG9IQnNaZE9wSjY3TnFtWC1XVmZGOGQycDRtWl9wMnZuYVF4c01oUkoxSkUxQzhHRmpVTWIyVElGT0ltY3J4V2Ywc2w3OUdtRHB6Vml2cTRsZmkwWGlMdlVmTDdVNGE4LXVkREZRZ0tmdHNzOUM1aTJhYXRNSmVHTHNOR1ZycGtIdWNhU2tXN29qZw?oc=5",
-          "desc": "Jensen Huang: la 'tortura' de criticar a sus 42.000 empleados que mantiene a Nvidia en la cima KCH FM",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T12:18:06+00:00"
-        },
-        {
-          "title": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlR4Z01ydVVRTjM4ZHRjZ3d2cnJYNGZPbTVsamlaR2h5cElRQTdFdkU0bFNhdkhpbi1HZ3kxd3FDZ3QyVWFHOHVrMFpzbHEzR2V4QXRGelM2dV93WExrZzhkR0ExX3ZfdWsxTUpSRDRCeG1tSmZiNjJ4emdONG5IblRPNkdWeGZCY2dldXFmdEZlM2NHVVJienIxdm1ZLWlYVTl3WjFsTi1jNm5lc1hCZkFzRDlqZFlXaUVXTVhQMlfSAcABQVVfeXFMTlN0Q2Y1NzZuaFJ0M0xnS2FacU00akFTbHFiLWNDdEkwZEdRaDFDcDM2YmNENzNQX2ZkWDhrTjJxRHcxbVBrMEktaVNlNTlzU1ZSUEdCSzIxS2ZCMVVGSzM3SlFJRTdLSXFwNW9SUzFkLVM3TFpIWnUwaW9JVFJXc0JscDVwX1dsVlg5RVdzWlhRQzVtall5S01tQ0pYNTZVeU1iMWpKN21VZFNxT09kUWp6eHd3cTVJaGVoeE5Rd3lr?oc=5",
-          "desc": "Hyundai desarrolla su conducción autónoma con NVIDIA y su propia inteligencia artificial elperiodico.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T12:09:42+00:00"
-        },
-        {
-          "title": "Nvidia y las acciones de chips caen mientras los CEOs de IA piden una desaceleración.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlBXWGl6bGFCUXAtT0FxWHhoUGdfQno3NnBWd2ZQdEJpUmVjejMwdHI5eHEyQjFTdnhEY2R5cXVxeE5JOHhMSVFwTFZSbHhtNTV4ZzFabTJqSjcwY0RYS3RTM3VWSjl3SFE4MWRYVmF5Q081Qm5qSGtLQVkyRmVmaWNFUlhlVl9DcGZwSXh4ZzJpdkxPOVEyYXFIT2ZBWHB6OTlla194ZUs?oc=5",
-          "desc": "Nvidia y las acciones de chips caen mientras los CEOs de IA piden una desaceleración. es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:55:35+00:00"
-        },
-        {
-          "title": "El CEO de Nvidia dice que la ciberseguridad exagera el miedo a la IA",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT19XdDVfX3AxRzJaMnAyNGl6OUdKQUlURldtc2s0QnFNUm5lcEJJSW5NQ2NXcG1EVjUtanJKa3BfWDdyMmc5OWJxeFFBUi1MMkFfQmY5NnBwakdrZjlGdXdicjFHS3ZNQVFBRUliYUZJN3g2Nk5SbXpyeW11aUgwbi1yRE5oMzVtUE1fZGJYUW0yNWVaSk1TOElSa3hSZ2ZwT1B4UWxmNDM5N2pqbk9nUFd5SXl5OU1VNFdwS2loNNIBxAFBVV95cUxNa1JuTDFheGpIRmE2RUZXMjlNN2R0dUdxejdmeDRjUEhNeW8tWXppckdxVFZnY0ltLTZUMnJPVXQyMkxoTTREZGdIQ3RLckRZMTVpU2NNOF80SFNUMXo5WGc1N2hDU3p0cUpNTExfVTZ5aTJZdnBad2ktNXd5TXJ4NXM0VVZsVHlqejhlSWszbGEzYUtsWUhEaEtFZmtrN0owSmZnUW9GZ2tMcXBvb1dKLXZfZG9PSjJFZFc2UWdqQ0hIOHly?oc=5",
-          "desc": "El CEO de Nvidia dice que la ciberseguridad exagera el miedo a la IA iProUP",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:54:52+00:00"
-        },
-        {
-          "title": "La estrategia de Jensen Huang para alcanzar la perfección en Nvidia: criticar a sus 42.000 empleados",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZTE1LVFhR05VMVVZZ2RWOFdVV3lVREpaMFREM0hIbmRNeDVnaHlCQlVXYlRqMjV5Yks3blNUTFprd3RkRl9rWU9RbkJWZm90OEFDWUdjM21URXFpcE44QnJoQVQyTENZbmwyc3lma21QZ0M0OWZGVW1taUdrSi1rakZtT2xvenB6TXlvcG9GM2hFaF9WcHlHY29OTmVWVW0wTEdiZkM5aUJKWUUzQ1ZYSEloMDRoVWxfTzZPS3lpTFR6bUtueDBOd01wLW1SNnF5UHU0NTk1RdIB8gFBVV95cUxQRV93RUdldTdFX1ZiN3VadXViOGtSdGdycFNOTHJqSENQYldnM2s2cjA2UURfT3JpV0duQThoT005bWdLY25HZmhHYlliMVM2M191eXdNYS12UXlTcjB3YzBnMExiUHlwV2dqRW55bTJQYmhHTm05cmdJeXR4ZFFpNWwtTk1XVlNGcDlsSjkwS09GazBsazUwZXJYZXNYTm9kMVVOSHdhaVFBZHlwbDZTMzBMbjN0RHBWX2ZPRU9rZkRPT2JsU1pSbFJnRTVPcm1tUUpfeTI5OC1jSElqTEFWVlFLZVJ2bFNydEFhS3BkX0NOZw?oc=5",
-          "desc": "La estrategia de Jensen Huang para alcanzar la perfección en Nvidia: criticar a sus 42.000 empleados Infobae",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:47:03+00:00"
-        },
-        {
-          "title": "HP ZGX Fury: GB300, 748GB unificada y plan con Red Hat",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejdXYjd1WnRXa25BaDduN2VicHgtaXJ2Yk52bUt4enVEbjUxemhXdVhuNFJzZ0RjQlRGMk9VRmVMQ1Q1QUV4ZkxkSHRXdGlpS2Y5VXZPS0xiX1U0eHBuMHRhTE41WnBOYzZCNTRZRDRoV1BYVjZDSERUUWtWWUV1Wkl5ajVkR0hrUFYw?oc=5",
-          "desc": "HP ZGX Fury: GB300, 748GB unificada y plan con Red Hat El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:42:48+00:00"
-        },
-        {
-          "title": "Nvidia lanza la nueva GPU para estaciones de trabajo Blackwell con 84 GB de VRAM",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlhPNm0ySGh6TXRWV2NqMjlRYmtNb2gteEtRWWhVUHItOFlKM2ZRY1FybDNPd2xXM3NvTDZLQ0Q1QzhJVnhGcWFBRlFwYXgzMkhiend5NWtTT3Fnei1rX0dmVFVaZkJ3cV8yWTRhZFh5YmRsNVh1WU5BSUl0VEdWM2Y2Q0dQdlpIX2FxZllpT0pXeDB0WFZGSlE4U2dZRmIwcndTT3ZiNDIwVS1DUEdpdUNHSlhHN24zZ2M0TWJ2dFdUbHc?oc=5",
-          "desc": "Nvidia lanza la nueva GPU para estaciones de trabajo Blackwell con 84 GB de VRAM Notebookcheck.org",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:40:00+00:00"
-        },
-        {
-          "title": "Y Combinator y Nvidia lideran el ránking VC de agosto",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3E5UXI0cUFOaGNqQ3FQcXJtbG02Qmc0RlBXeXdLMmpCdG4zLXQwX1BOUGNwZVU3MlZGT045Q0h6Vy02cXN2T2NIVmlndXJ2T2phajBaRjlMRTdmODVLNmx0NmxDU2YxSDh3bVZQU1AtUWpjQ2xfUnYyVE1lYXlPRy1ybEh3b3RNMHNqYw?oc=5",
-          "desc": "Y Combinator y Nvidia lideran el ránking VC de agosto El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:39:58+00:00"
-        },
-        {
-          "title": "Análisis de rendimiento de NVIDIA DLSS 5 en NBA 2K27",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0hBYTVJRlk2UzFqSmNQWG15QU82d3lLcE9NSmZKWTJaS2hSZlQzbHNibHR2RV9Zb3JPX21mSUp1Tnp6eEhNOHk0dUpWekNhN0FNTFlnUEJqUkJrU3EtemUya0hncnE0bGZQNTFwWlJqcDJNOTlWRUN5d3ZtTzBzRWxGeFI0RVdyNFIzZmxnSHdwX1dBbkE?oc=5",
-          "desc": "Análisis de rendimiento de NVIDIA DLSS 5 en NBA 2K27 HardZone",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T11:30:31+00:00"
         }
       ]
     },
@@ -1057,7 +1057,7 @@
         {
           "title": "Sharon AI to Announce Second Quarter 2026 Results",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3R2TTNCbHIxbVhTQjJHbnl3QWZ4VTNZRDBYcU1ITGFzWHZWSjNrTTF4NF9fRHd4UFZ3YVBIY0luY3lRbU5RYXFlQUJYRVNYZmk0VTFLa2VzSTJ5VWxLNU55X0d6WG5QZXlGRFE2R3NmOUdyYXdxZWVtTjRkSm1zbGxXNDdqX3RXdjRjNGVjX3dndlVMLTluRnJiWUIzREhWdmNjX2YtdXRuVHhBeEE?oc=5",
-          "desc": "Sharon AI to Announce Second Quarter 2026 Results TradingView",
+          "desc": "Sharon AI to Announce Second Quarter 2026 Results es.tradingview.com",
           "source": "https://news.google.com/rss/search?q=SHAZ+Sharon+AI&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-07-27T07:00:00+00:00"
         }
@@ -1073,6 +1073,13 @@
           "desc": "XBOX confirma que las resoluciones y tasas de imágenes indicadas en los requisitos de Fable se alcanzan sin recurrir a DLSS, FSR o XeSS. Hace unas semanas se publicaron los requisitos oficiales de Fable para PC , detallando cuatro configuraciones que abarcan desde los 1080p y 30 FPS con ajustes bajos hasta los 4K y 60 FPS en Ultra. Sin embargo, quedaba una incógnita importante, y es que no se había especificado si esas cifras presuponían el uso de tecnologías de reescalado como DLSS o FSR. Ahora XBOX ha despejado esa duda y la compañía ha confirmado a PC Gamer que los objetivos de resolución y tasa de imágenes indicados en los requisitos se han establecido sin utilizar reescalado . Es decir, los 1080p y 30 FPS de la configuración mínima o los 1440p y 30 FPS de la recomendada no dependen de estas tecnologías para alcanzar las cifras anunciadas. DLSS, FSR y XeSS podrán utilizarse para mejorar el rendimiento La aclaración es importante porque, como os contamos cuando se publicaron los requisitos de Fable , Playground Games había detallado las configuraciones mínimas, recomendadas, altas y Ultra, pero no había explicado si los objetivos tenían en cuenta sistemas como DLSS o FSR . Esa era precisamente una de las dudas que dejaban las especificaciones originales. Vídeo: XBOX ha actualizado ahora la información para confirmar además que Fable será compatible con NVIDIA DLSS 4.5, AMD FSR 3 y FSR 4 e Intel XeSS 2.1 . Al no formar parte del cálculo utilizado para establecer los objetivos oficiales, quienes recurran a estas tecnologías deberían disponer de margen adicional para mejorar la tasa de imágenes o reducir la carga sobre la tarjeta gráfica. Como referencia, la configuración mínima utiliza una RTX 2060, RTX 5050, Radeon RX 6600 o Intel Arc A580 para alcanzar 1080p y 30 FPS con calidad baja . La recomendada apunta a 1440p y 30 FPS o 1200p y 60 FPS en calidad media con una RTX 3060 Ti o RTX 5060, entre otras alternativas. En todos los casos se necesita un SSD y 135 GB de espacio libre . Fable llegará el 23 de febrero a PS5 , XBOX Series y PC .",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-09-14T14:55:00+00:00"
+        },
+        {
+          "title": "De Nvidia a AMD: las acciones de IA más golpeadas del S&P 500 y qué está pasando",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjRSa2JZdm43R0dlVjJocS1fZkRUd0YwcHdITTA0Y2E0WnBBX1NIdFRWVEh6bTByQjdfQjllejNyd0kybDQxSU5wODdwVE01MHREMHVURjNKLVdETUlrU2F5MkkwdUluVlhXX2c2eFQzV1B2ZUozN3l0dThGT3h3SklWTWxneThmOUFCREVYaFAzckRQUWlIRnpPQ05aNGJUZGhNVzF4RExNYVZndWhNZE1WRE41VURScmNV0gHPAUFVX3lxTE5XclVUei1pTHdmVU9DMldUaFhyOVRENmpDYlV5bjA1Z1NHVjRSVnJVXzhqRzBDQVh3UmdJSW5Va2xNVW1FMHgwTFU3cVRKazRwRm1wbVdWcTMtYnY3cGZNQm9jR3VrTVU3Y2U0QXlJRldLMVdPY3BGNlREOERfOVNFNzRJdy1kV281ZXR4UjB0NExBc19sNDRCTFlyVVdNMl9MQk5YNTFHdUxScG1QMkdEQmQ2eGU3RlhxRzU3amlfX1BJX2ZvOVVWdzRZazFfOA?oc=5",
+          "desc": "De Nvidia a AMD: las acciones de IA más golpeadas del S&P 500 y qué está pasando Bloomberg Línea",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:50:18+00:00"
         },
         {
           "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows —  CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting",
@@ -1133,7 +1140,7 @@
         {
           "title": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUdrNGdEZXFRbzcxcnFMVlRla1NDVGJReG8yM21wc3F6allIdWt6YXhjalIwX0FOYkRucUxoUHIwejZray1tYUlRTmpuaXNiUEU2em5nQ0ZOd21oMVBFWkJVblhlc2dnX3JhODcyVlBfSlljVE1ySm9JRTBxMWVZa2VTYkQyUWVsam9ZRVNUTTUzeHhiWWRETGFlRdIBmwFBVV95cUxOOXMtUkdsOFpXcFBKcXVNM2hRMkRZTTB4bUh1QnJUMnZfZTVYcnZEZEZ6ZWg5YkxOcGJybzBNVUJZY0M0enhZRlB0OW1Yem5vTURacnpTZ0tDbUFnYUhFVndhSm55SmJqSFRUUzFGRjB1OU5WUXdqbDJoWXk5d2tqMGlHYlhxZUstTmdlNFd3MWlETENsTUd1TjlHRQ?oc=5",
-          "desc": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon elperiodico.com",
+          "desc": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon El Periódico",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-13T16:40:49+00:00"
         },
@@ -1147,7 +1154,7 @@
         {
           "title": "Las actualizaciones de septiembre de Windows 11 desatan fallos en equipos AMD",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1Q5WWoxUE9jdVRNUFR0RWJfMFhuTEhvY3dJMjJ2cWp3VDJZSHJiNlFHNWRiRXVITGZOSjZya1oxMUJWQzNTXzNGYUtmSEdKa1lxeXEza05VQ1R1UnZ5bDFnVVJldEdQZ2xZdzdyWUV4NHI3S1BBVjk5ZjBPNW11U1dWelNKZnBwbUh0a2lQYTE?oc=5",
-          "desc": "Las actualizaciones de septiembre de Windows 11 desatan fallos en equipos AMD hardwarepremium.com",
+          "desc": "Las actualizaciones de septiembre de Windows 11 desatan fallos en equipos AMD Hardware Premium",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-13T12:00:00+00:00"
         },
@@ -1196,7 +1203,7 @@
         {
           "title": "AMD fija el precio del Ryzen 5 5500F en 103,34 euros y presenta el 7500",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWldlakEyT2l1Nl8zMGdVRG1aeVZJN0dHWVR2QnhwWXM0c1JlZTA5cGpMSkk4SURBSkE4dDU1N01IMzI4WW4tMnZiRWVvUkVJcjlsUzVsSUdmd3JwS21FQVNySmNBSzEyODlzUUxPVThPQVlmQ1p4Q1RSQlc1NDNYel9aZGM3M3U3aUgyeHFn?oc=5",
-          "desc": "AMD fija el precio del Ryzen 5 5500F en 103,34 euros y presenta el 7500 hardwarepremium.com",
+          "desc": "AMD fija el precio del Ryzen 5 5500F en 103,34 euros y presenta el 7500 Hardware Premium",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-12T12:00:00+00:00"
         },
@@ -1227,13 +1234,6 @@
           "desc": "Aoostar presenta un potente mini PC con tecnología AMD y hasta 192 GB de RAM Notebookcheck.org",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-11T23:40:00+00:00"
-        },
-        {
-          "title": "AMD desafía a Nvidia con Helios, su apuesta por racks completos de inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0kyRWc4clZadHpiSkdQdG81UUhSTWktMUFYUGsyQkdnQ2tsNXEzMG9OcV9vRDRlcTJhT05DMURJb05WdnR2bW5EejBpcEFYaVZYRzQ4dEFDU1pYR1hEaVd5d3BySXlydGVvRUJwMG5lbHlTb1ljNERZczUycFVWOFNfS25zLVc0eTBELVdFdVlTNEc0WURpSXhkeW5Fd3FnVldCeUNndHl1ek9sSGRRdjNXaGplQnNMSmZIRkhIbDRmMVZzV1ZaVDMzOA?oc=5",
-          "desc": "AMD desafía a Nvidia con Helios, su apuesta por racks completos de inteligencia artificial DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-11T18:16:02+00:00"
         }
       ]
     }
