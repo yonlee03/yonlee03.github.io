@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-15T18:30:20.104653+00:00",
+  "generado": "2026-09-15T19:00:18.646083+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,13 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "Antonio Hidalgo: \"El Sevilla está generando mucho estrés a todos los equipos\"",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3otQTJQQWV0VTFzNElscnFFYTZ6bGV2Nnp4N1YxV2ZPbTFqVDZqYlpaQ1lWSnlJbkxtZTZnTk12cmV2a1lZTVVsOWR0VHlFLUl6bVJVS0x1WnB2a2pweDhhM09Xamp4dmtOQ25EQV84ZFU1QlpfaHU3ME8yWDZmellxd2hCZlAwbU9Zbk0xODdxZHN1b2JLNTNzUC1qMVhF?oc=5",
+          "desc": "Antonio Hidalgo: \"El Sevilla está generando mucho estrés a todos los equipos\" Diario de Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T18:44:37+00:00"
+        },
         {
           "title": "EL PRIMER EQUIPO YA VELA ARMAS EN LA CORUÑA PARA EL DUELO ANTE EL RC DEPORTIVO",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejA5aEJrbTVISl9aYUpzQ1FsTVB0X2lxdGVPdmo0dWFsRGtiN1BHTktmenQzTEJCZFZxSDAtQm5kSlJpbmNRaHU2eU52MS1uOUF2OUkzbWRnczEyYmRxNVJhLUczTHhULXRWUFhybHVZaFBpMzl1SFgyOS1vbVBsZmE3Zk1wWGZfUnp2ejNCV1QwT0FXbWt3eXNlMjJaZTA5?oc=5",
@@ -27,7 +34,7 @@
         {
           "title": "Alineaciones probables del Deportivo - Sevilla FC de La Liga EA Sports 2026-2027: onces y banquillo de suplentes",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdVhJdk9teGE4czVUMlZYc2FtLVhsSTZVaXNkQUVIX1JXVldSMHMtSUc5RkRUaDFNT3dLSTBXcFlkZmZKd0c3dVpvalhudTRxRi1hX0hWU1NSbWlaZDJjY0hxOEwzUWdYblllMVd0MG9GVldCaTdINVk3WGxwRnBUUzdaSUlFRUVmOGhKeVR1WlZVRDRyY3dtUVpQaVNqMndXMWZxRFFDTWJwbG1OcUptdWRCSHR2dGVNTWo1SnNhV1dQNjh0TEI4Yl9jSEZqZjRLRjZmUlVhYmZnMjhFRjgtc2FTZknSAeoBQVVfeXFMT3E4Y1RERFNJeGZzVk5IUUNqQ0tBZ05rNWd6eVlKYmJxR3AxczVmbUswOF9OLW1tTUNlZDRnLW1oMXlJeWM3Z0VhNVNSUVdSTUR5NDZ0MEFQb0dLRUZlSEpRS2xYVW1vT00xcUpQX0JhVXJwU0ZiSVFfOWVvWVBqVXg5bkQxdC11V1Y3dlAzV1F0MW5LMTNZUzU1bU5YN3BBZnN6TnhDNHFkRmpMTWdIU2hoQ0NiWUs2aXl5QXJPM0VuNHBYSE5Ua01XTUtSdFU4djd0Y29BQmplOWQyRi0wd3VncFh4MWJlZVRn?oc=5",
-          "desc": "Alineaciones probables del Deportivo - Sevilla FC de La Liga EA Sports 2026-2027: onces y banquillo de suplentes ABC La convocatoria del Sevilla FC para medirse al Deportivo Diario de Sevilla Horario, canal y dónde ver por TV el Deportivo - Sevilla FC de LaLiga EA Sports de fútbol: Primera división de fútbol Mundo Deportivo",
+          "desc": "Alineaciones probables del Deportivo - Sevilla FC de La Liga EA Sports 2026-2027: onces y banquillo de suplentes ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T17:26:58+00:00"
         },
@@ -102,6 +109,13 @@
           "fecha": "2026-09-15T15:44:15+00:00"
         },
         {
+          "title": "El Sevilla repite convocatoria para medirse al Deportivo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakgzZm9ZbTdmbVF1MWxzcGxTQTJzRU9uaExNRlktOEpjUDBZSnltWkI5NnQxRHdpQl9jZ0kyRFpud1BhUVVsZHZSakdKbXI2M2RxZXFwWml3Z1g5V3FTSGpRdXNHQU9aY1VtLTdCNEF0cTAyRzMyeGdXR1lJMkpVYktTOXNkV0ZlTEJiMUN3UDFrdW5TYU5rUVA5Y3hNZw?oc=5",
+          "desc": "El Sevilla repite convocatoria para medirse al Deportivo Muchodeporte",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:42:43+00:00"
+        },
+        {
           "title": "RC Deportivo - Sevilla FC: El posible once inicial del Dépor, novedades y bajas, en la jornada 6 de LaLiga EA Sports",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUllOY09Mb18xNVpOMXpPVFdNZ1h4RGpOMTBqaFRMNG5uTEdldVp0VUVWYkpaR1dxazNJMTlLWUZHQnNBOWhuLXY3UUtvYm5oSm1wOHZWZ3lJOTJRaXZndGFSRzNjUU8xZzAzV2VjLUthWjlqLXF3eUZwQm55OEU3MUt2eUlSWDZVVnNYYVI3TWtJZzI0eWFuaDNYWdIBoAFBVV95cUxQTDU5SDRlWWlQN3BiRFBWQkthTHdzN1BhR2hoSWdORXlMOTJ3VUYzZGVVM0ZMQTlKcWkxOFJUUllqQ1lQeXVPd2JSQ01CWHlTYXJLN0J5R2lkdVJSRXB3amlfTFhzaXo4VFV6X1dlWGs4RFFueS1vYzJJMFgzREFUbEhLTHktc2xzS3pkckp1d2NoVlJhR19JNXVSdXdUSGdt?oc=5",
           "desc": "RC Deportivo - Sevilla FC: El posible once inicial del Dépor, novedades y bajas, en la jornada 6 de LaLiga EA Sports La Opinión A Coruña",
@@ -109,18 +123,25 @@
           "fecha": "2026-09-15T15:32:21+00:00"
         },
         {
+          "title": "Horario, canal y dónde ver por TV el Deportivo - Sevilla FC de LaLiga EA Sports de fútbol: Primera división de fútbol",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUzFWcEY5dU43eF9QMHJkYXdqWXJvS19nNE5KUDNqX2pzWnJFN1ZYWU9KSnhDeUtYYTZPVFhaV0NwV3dFbkc4TWpxZHJNM0NSYlhVbVBoYnVpUEx5M0UxN1FVaGhYZVQtb2JsRWRYakphWGthY2Fuc2QzUU9USmp0XzgtbU42YmxRZkxOWjRtUVFSM2hGcTlVeG5NVWdjRVdHZG5iN0txc3NFLWwtSk9YeGloMlZzVDVEbFcxSHg3TWE4dUpaU0pVdFNvTEQ5M3FGemhuaTZnbFVoR3EwdnFRUG84QUZZQ1ZoUlJjZm9QWmpvd1nSAYACQVVfeXFMT1Y2aC1HZ1BueTlheXVwVmhGZmtQM0I5ZHNvRXBHRmFVUTZKNGVWZHF3akRaalFhUC1LQW5UOF9Vb2JzMktKcGM3SDZHaVJHVjc4cnl6M2hvRUNMd2NvVkMwWTNpV2dpSWhYd3pRNkhzZmtXS1JvMnFqYi15aGlZczJudHhSazdPaTNxVm1LOG93OVlsOUJuLU5hU0dLc19WLXFBa1p5WTYzMzk1STRQVU5yamNZQkpKbERpX0l1RnVTUlhCSVJXeHhjcFF5Y1VWRm0wb3JPN091MDRGUmd3WE9nVzZJbHgyTEtkeVJOcHNUMDBIZDRRUXVqWk5IYmhMYg?oc=5",
+          "desc": "Horario, canal y dónde ver por TV el Deportivo - Sevilla FC de LaLiga EA Sports de fútbol: Primera división de fútbol Mundo Deportivo",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:21:36+00:00"
+        },
+        {
+          "title": "La convocatoria del Sevilla FC para medirse al Deportivo",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTZFX3RFcjFTX1ZXbGJESmVRZVNYdzlObUwwVm80d01vVXhCMkQ0eVptam5hWW81LUQzS01xRW83T2xqc29TczVQYkxydmVNS01EdFJyemtlNlIwaEJFcmx1RUVsVllqYXFGVGJlSGxrdlBjUEV6VWk3N2l6UEVkZDNDNGJ0QVJVX2pTWnZaSTVFX2JkQUdHOGxhVi1GNWtld1E?oc=5",
+          "desc": "La convocatoria del Sevilla FC para medirse al Deportivo Diario de Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:17:06+00:00"
+        },
+        {
           "title": "24 futbolistas en la lista de convocados del Sevilla FC para medirse al Deportivo",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZHFqV2lRYVc4dzdtRGZWbnlMd1dJSzlRdjFNVW1DY3FuMXVONGg1YVB2MTNIaWYxaWNFdnMyZkFDTEhOd3NiLUdPR1NrUXAxVG94dVZKYkpiUnd2Tl9UZkpUYW5TT29jRVVRZDF4U3NQa1Z2Um4zRms2WUk4SGVmakRIdHo0eUNyNVRIRzhfZTl3Q1U4VHlPVGVTSUdoNzdaRHZtUEdlMVRDemRILTdfYWlNYTNQVm5xelAzZ3NvSVpUWjZ0RnphSzlVQXVhUDdKWi14VlVfSWllQTDSAeABQVVfeXFMT2ctWXVyeHJXUmZXenRScUpwTVRWS1gzOWUzZUpEVXU3WFpzd1lOaE51Z3J5cGIxVk53ZVIxLWg2UkhWdlVtMmdXalR0d1dXX1JLMW93a1oxbUdNSXhrMlVrcC1za241UDBVTVRzcGJrNERHeVJleDAwTTFZNTJRM2kzNzdRMjRtNkt3VGJRcVhvZ1hnWEVqRENUalJvdUFkR3BhTkdyT1YxTVI3cWg5VGJWQ2p6dEpfWG1tMjF3cjExUVRHdWctb3NYYmk0czdJU2RsLTRwNzNsa3lsVkx5SHk?oc=5",
           "desc": "24 futbolistas en la lista de convocados del Sevilla FC para medirse al Deportivo ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T15:11:23+00:00"
-        },
-        {
-          "title": "LUIS GARCÍA REPITE LISTA DE 24 JUGADORES PARA VIAJAR A LA CORUÑA",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHlaZEdPREg5dnNzMHhHdWZRZFR2YmdjY3V0UnNBRnpkZnBwTVlQeXp1Q2NhMUljNmRSYzhZVWl0NnEzTUpCUThacDNyN2pwTmp1SG1QNFoxMkNmRG9rek5BNndDWVVka0xLSkdhZjg5NnBVQmRhRE51NUY3M0owcHJ6WWVUdHlSVUxn?oc=5",
-          "desc": "LUIS GARCÍA REPITE LISTA DE 24 JUGADORES PARA VIAJAR A LA CORUÑA Sevilla FC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T15:01:34+00:00"
         },
         {
           "title": "LA FUNDACIÓN 1890, EN LA PRESENTACIÓN DE LA CARRERA DE COLOR POR LA SALID MENTAL",
@@ -153,30 +174,9 @@
         {
           "title": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlJpR2Zrbl9rLWVNQTVnMW9NRDJtbjIzVHhjM29zV3VveUZfNWhQdUpteVhsY1Q2aWZhTU1aYjNTV0xjajU1LXFCQVlSMWhtS2MwZTdSX3lFazhwQTl5aFROUGNNR1MzZFdjMXJXYWdWd2QxRzVkR2tKRmphY1Y0ZVhmNzYzUWFBZTVaR1Q5dktvelgyc3JOa3lmSkJaay1Hdll5SmxMTTcxMnFlVzJ6WGEwYXZvWEhoNHc?oc=5",
-          "desc": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña Diario de Sevilla",
+          "desc": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña Diario de Sevilla ¡Desplazamiento masivo! Un marea de aficionados sevillistas tomarán Riazor para apoyar al Sevilla FC Vamos Mi Sevilla Antonio Hidalgo apunta a un fichaje del Sevilla y una desventaja del Deportivo: \"De otro nivel\" El Desmarque",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T11:42:53+00:00"
-        },
-        {
-          "title": "RUEDA DE PRENSA DE LUIS GARCÍA EN LA PREVIA DEL SEVILLA FC - FC BARCELONA -- viernes 12.00h",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1pfOHFjbGpnbGFuRUVDV3JObmtLWlV1R2RWMVcwLV9ONzdCeFZOWkI2VjhMcy1mY2dnRFNMZGRIMEFxeHRnZEV0N2szR1JRV05Kb29JLVpQVHZoNzVEU1p2ZG5NNDRUOHhYY1dmRWdFdFlpdTZIQWU2dE1lbFRPVnI1aFBVQjVjWWpiamhyRW5NUElIRW02dXNXQ05FYjBlNDF2TUxpUERKa3FTTFE5aThmYzFZZHNQN2E4bHVJbkVMYzhUb05YMHhUOA?oc=5",
-          "desc": "RUEDA DE PRENSA DE LUIS GARCÍA EN LA PREVIA DEL SEVILLA FC - FC BARCELONA -- viernes 12.00h Sevilla FC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T11:25:48+00:00"
-        },
-        {
-          "title": "García Plaza se sincera con Fábio Cardoso, pone fecha al regreso de Vargas y señala a los \"damnificados\" en el Sevilla por el fichaje de Fofana",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ3RSQndLRW1PWGpHVG9IRUlGV3lSS05HOGR4V1NTRktCbFptSUduNHBud3B5OG1Wb0tOdFV5LWF3TnBvek9DazIzM2xtQkpMbWF1bUtoSHNldEw5VDc4bnVSZUlmM2p3ZTFuOVE5VDFQbVdNREpDSDJfSXpOdm9STm5GRmN3N29YeGtncC15Q2ticHl5R2dIeThqSWNDeHVvQXdrd01NSS1Zd3A1dWlacmR5X1VPMkhCVnc4Y242b1ZEREFoZ1IyYm44R0FHVFNOM0hEMzNkTXRFdVFENGFSUWEzcDloTjRaLTJBSzAtX19nX3pMN2dval9leFFzeXVkZy01R0gyTnQ4WU5Zb1Q3Y25vbmFZQQ?oc=5",
-          "desc": "García Plaza se sincera con Fábio Cardoso, pone fecha al regreso de Vargas y señala a los \"damnificados\" en el Sevilla por el fichaje de Fofana Estadio Deportivo",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC+fichaje&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T11:04:03+00:00"
-        },
-        {
-          "title": "CONTIGO SEVILLA. Martes 15 Septiembre",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGhWWVpTam1IdG1NT015cnhIWVdOTVp1aFVzMklrOTFZOTB1dFNPTEZMQ0RYNG1VLVpBR01SbFYwMl9pY0VnSEF5M0FrTmJjYWI1WVdiMUYyX2FZRmZIYmdHTWdaWnk1SHY2TmZ1cDZqRmdLVndsT2hSWmdZYjZ5VEFnNGlNZEd6QnMwMHB0ZnVDM0ZfZ0NZ?oc=5",
-          "desc": "CONTIGO SEVILLA. Martes 15 Septiembre Sevilla FC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:50:27+00:00"
         }
       ]
     },
@@ -189,12 +189,40 @@
           "link": "https://www.estadiodeportivo.com/futbol/primera-division/elche-real-madrid-directo-partido-laliga-sports-vivo-online-20260915-546621.html",
           "desc": "El conjunto blanco afronta la primera de dos salidas cruciales antes del parón, obligado a despejar sus dudas como visitante para no perder la estela de un FC Barcelona imparable Tras volver a la senda de la victoria en LaLiga ante el Rayo Vallecano, lo que le mantiene a tres puntos del FC Barcelona, el Real Madrid afronta un nuevo reto fuera de casa. En su estreno lejos del Santiago Bernabéu, ante el Espanyol, consiguió los tres puntos en el último minuto y en su segundo encuentro cayó ante el Betis. Este martes visita a un Elche que llega tras conseguir un valioso punto en San Mamés ante el Athletic Club, pero que aún no sabe lo que es sumar como local. Así llega el Real Madrid El conjunto blanco se está acostumbrando a golear en LaLiga en el Santiago Bernabéu, y también a los pitos. Pero los cuatro goles anotados ante Real Sociedad, Málaga y Rayo Vallecano contrastan con las dificultades lejos de su estadio. Unas dudas que los blancos buscan dejar atrás en una semana clave antes del parón internacional. Primero visitarán al Elche, donde empataron a dos la pasada temporada, y el domingo llegará el derbi ante el Atlético de Madrid en un estadio Metropolitano en el que fue goleado hace un año (5-2). Dos partidos fuera de casa vitales para seguir la estela de un FC Barcelona que sí mantiene el pleno de victorias. Olvidado por Mourinho, Endrick aclara sus intenciones al Real Madrid La esposa de Adeyemi lanza un dardo al Real Madrid por Diomande: \"140 millones\" Por ello, Mourinho no planea dar descanso a ninguna de sus tres estrellas en ataque . Mbappé, Vinícius y Bellingham van a por el pleno de titularidades en el primer tramo de la temporada. Los tres parecen haber encontrado su mejor acomodo, en su tercera temporada en el Real Madrid, y el técnico portugués les ve bien para volver a ser de la partida. Una condición de titular que recuperará Arda Güler . Suplente ante el Rayo Vallecano, salió al terreno de juego los últimos 15 minutos y cambió el partido. 📋✅ ¡Nuestros convocados! 🆚 @elchecf pic.twitter.com/cTBbwSThoO &mdash; Real Madrid C.F. (@realmadrid) September 14, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Así llega el Elche Enfrente estará un Elche que aún no sabe lo que es ganar esta temporada ni puntuar como local . El conjunto ilicitano, que sólo ha sumado dos puntos, llega algo reforzado eso sí tras el empate de la pasada jornada en San Mamés. Tras el resultado positivo logrado en Bilbao, todo apunta a que el técnico argentino Martín Anselmi protegerá de nuevo a su equipo en defensa para evitar correr riesgos y ser penalizado al contragolpe. Con determinación 👊💚 #ElcheRealMadrid pic.twitter.com/DbIE7GR5wn &mdash; Elche Club de Fútbol (@elchecf) September 14, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Fede Redondo, hijo del exmadridista Fernando Redondo , se mantendrá en el eje de la defensa tras su gran partido en San Mamés, así como el israelí Roy Revivo, uno de los últimos fichajes. La principal duda está en el carril derecho, donde Tete Morente y Rubén Sánchez pugnarán por la plaza . Thomas Lemar, fichaje estrella, volverá a arrancar desde el banquillo, tal y como ha sucedido en los dos últimos partidos. El Elche sólo cuenta para este encuentro con la baja de Yago de Santiago, que sigue recuperándose de una intervención de rodilla realizada al final del pasado curso.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-15T18:22:11+00:00"
+          "fecha": "2026-09-15T18:52:57+00:00"
+        },
+        {
+          "title": "Fredi Álvarez: \"Había gente que daba por descartado al Celta Fortuna para el descenso y ahora, seguramente, nos den como candidato número uno\"",
+          "link": "https://www.estadiodeportivo.com/futbol/celta-fortuna/fredi-alvarez-habia-gente-que-daba-por-descartado-celta-fortuna-para-descenso-ahora-seguramente-nos-den-como-candidato-numero-uno-20260915-546627.html",
+          "desc": "La dura derrota del filial del club gallego contra la SD Eibar (0-4) ha hecho que el entrenador haya hecho unas declaraciones para advertir a sus jugadores que conseguir la permanencia en Segunda división no será nada fácil debido a la igualdad que existe en la categoría Siempre duele perder, pero más aún daña hacerlo por una goleada como le ocurrió al Celta Fortuna contra la SD Eibar en el partido que cerró la jornada 5 de Segunda división . Un tropiezo que hace que Fredi Álvarez vuelva a señalar que el único objetivo que tiene el filial del club gallego es el de conseguir la permanencia en la categoría de plata del fútbol español. \"Me decían que había gente que daba por descartado al Fortuna para el descenso y ahora, seguramente, nos den como candidato número uno \", argumentó el técnico del equipo celeste después de la derrota contra la SD Eibar . Unas palabras que concuerdan con lo dicho por el propio Fredi Álvarez en la previa de este encuentro en donde manifestó que su mente está sólo el lograr la salvación . \"El que diga que el Fortuna no es un candidato al descenso se equivoca. No podemos caer en decir que ya tenemos todo hecho porque para nada. Cometeríamos un error tremendamente grande\". Fredi Álvarez y su mensaje al Celta Fortuna: \"El que diga que el Fortuna no es un candidato al descenso se equivoca\" Por ahora, el Celta Fortuna está en la posición 14 de la clasificación de Segunda división , habiendo sumado 7 puntos y teniendo, por tanto, 4 puntos de ventaja sobre los equipos que están en puestos de descenso a Primera RFEF . Fredi Álvarez analiza la derrota contra la SD Eibar Fredi Álvarez , entrenador del Celta Fortuna , explicó la derrota de su equipo contra la SD Eibar por 0-4 . El técnico aseguró que la diferencia de ser contundente o no en las áreas marca la diferencia en la Segunda división . \"La categoría es esto, la diferencia ante el Eibar estuvo en las áreas. Tendremos que trabajar mucho, sobre todo en esa defensa de juego directo que es algo que nos está penalizando mucho. Hay muchos años de diferencia entre los defensas del Eibar y los defensas del Fortuna, muchísimos\". El técnico del equipo gallego ha explicado que un tropiezo así puede venir bien si se encaja correctamente. \"A veces, una derrota duele, duele mucho, pero a veces estas derrotas nos ponen en nuestro sitio y nos hacen ver la realidad de la categoría\". \"A veces, una derrota duele, duele mucho, pero a veces estas derrotas nos ponen en nuestro sitio\" \"> Por otro lado, Fredi Álvarez cerró sus declaraciones mandando un mensaje de tranquilidad a sus jugadores y a su equipo en general. \"Tenemos que estar tranquilos y entender de dónde venimos, lo que somos y sacar conclusiones positivas\". Joel López sigue la línea de Fredi Álvarez Fredi Álvarez no fue el único miembro del Celta Fortuna que explicó al derrota en base a los errores cometidos. Joel López siguió por la misma línea que su técnico y señaló también que pudo haber algún punto de relajación que fue clave para la derrota contra la SD Eibar . \"En esta categoría no te puedes relajar porque cualquier jugador te puede hacer daño y son eficaces. No creo que nos vaya a afectar esta derrota, sabemos el equipo que somos. Hemos hecho un comienzo de LaLiga muy bueno y nadie nos iba a decir que después de cinco jornadas íbamos a tener los puntos que tenemos, con eso estamos satisfechos\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-15T18:48:18+00:00"
+        },
+        {
+          "title": "Lamine Yamal y los números rumbo al Balón de Oro: necesita menos para crear más y su productividad creció un 83%",
+          "link": "https://elpais.com/deportes/futbol/2026-09-15/lamine-yamal-y-los-numeros-rumbo-al-balon-de-oro.html",
+          "desc": "El extremo del Barcelona ya no solo brilla por talento: se queda a trabajar cada día y lo avalan sus estadísticas, mientras crece su ambición declarada por coronarse en el galardón de ‘France Football’",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-15T18:46:16+00:00"
+        },
+        {
+          "title": "Álvaro Valles, en la próxima lista de Luis de la Fuente: la meritocracia son los padres",
+          "link": "https://www.estadiodeportivo.com/futbol/betis/alvaro-valles-proxima-lista-luis-fuente-meritocracia-son-los-padres-20260915-546625.html",
+          "desc": "En LaLiga no hay color con Unai Simón, Joan García o Álex Remiro: nadie para más, ni deja más veces su portería a cero, ni ha parado ya un penalti (a Mbappé, no a un cualquiera), pero es que en las cinco grandes Ligas tampoco le tosen David Raya y compañía, aunque no irá con la 'Roja' Ni Fabián Ruiz va a ganar el Balón de Oro ni Álvaro Valles va a estar el próximo viernes en la lista de Luis de la Fuente . Por mucho que nos duela a quienes miramos el fútbol sin bufanda , sino simplemente aplicando la lógica y un criterio sin mucho artificio , la meritocracia no existe. Es un invento del de arriba para tener a los de abajo contentos o, como poco, entretenidos . A la hora de la verdad, como defiende de manera tan inmodesta como llamativa Lamine Yamal , el culé y Kylian Mbappé seguramente son los grandes favoritos al título de mejor futbolista del año, que no premiará, como pasó con Andrés Iniesta , a un palaciego humilde que cecea y no tiene sitio ya para los títulos. ¡ES UN PARADÓN DE ÁLVARO VALLES! 😲 LALIGAHighlights | @RealBetis pic.twitter.com/2zkwKqWv1A &mdash; LALIGA (@LaLiga) September 14, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Y eso no quiere decir que el extremo de Espluges de Llobregat o el delantero francés vayan a ser injustos poseedores del galardón, ya que han acumulado sin duda puntos, aunque estaría bien que, por una vez, las campañitas defiendan lo más justo. Con el portero de La Rinconada pasa algo parecido: no sale en los titulares y las portadas, como mucho en las de Sevilla . En Madrid y Barcelona les suena, sobre todo tras parar un penalti al mismísimo Mbappé y echarle luego cojones , fruto de la euforia . Un gesto terriblemente antideportivo a ojos de los merengues, que ven perfectamente normal que su delantero se mofe de los metas o defensas rivales. Eso sí, claro. Esto, no. Álvaro Valles vs @VillarrealCF ➡️ 93 minutos. ⚠️ 1.98 goles evitados. ➡️ 48 toques. ➡️ 19/29 pases. ➡️ 66% precisión de pase. ⚠️ 7 paradas. ⚠️ 12 recuperaciones. ➡️ 3 contribuciones defensivas. ➡️ 3 despejes. ➡️ 1 despeje por alto. ➡️ 1/1 duelos aéreos. ‼️Locura de portero🧤 pic.twitter.com/vFEb5noMvk &mdash; Daniel Cabezas (@_DanielCabezas) September 14, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Ojalá Álvaro Valles genere tanto respaldo para ir a la selección española como Joan García , que pasó de que media España lo pidiera con la boca chica cuando lo paraba todo con el RCD Espanyol (menos aquel misil tierra-aire en el famoso ' momento Antony ') a un clamor popular en cuanto se lo llevó el Barça . Hasta De la Fuente , a quien no se le recuerda una rendición tan grande desde que tuvo que comerse sus palabras con Isco Alarcón antes de la Eurocopa de 2024 , le hizo sitio en la ' Roja ' llamando a cuatro porteros en una convocatoria. Con el ex de la UD Las Palmas , absolutamente en su 'prime', no va a hacer lo mismo. Aunque vengan cuatro partidos de la Nations League en el parón. Álvaro Valles 'reta' al hermano de Mbappé tras parar el penalti en el Betis - Real Madrid: \"Me encantaría repetir el resultado\" Álvaro Valles y la mentalidad del vestuario del Betis: \"﻿El equipo es consciente del año tan bonito que nos viene\" Los números hablan por sí solos, pero... Los argumentos son incuestionables, pero se llama Álvaro y no Joan . Como bien resalta el querido Fran Martínez en su maravilloso perfil @LaLigaenDirecto, el rinconero no tiene parangón aquí: portero con más paradas realizadas ( 23 ), portero con más metas a cero ( 3 ), portero con más penaltis detenidos ( 1 ), portero con más paradas en tiros desde dentro del área ( 19 ), portero con más salidas ( 10 ). Según las dos principales páginas estadísticas del mundillo, es el mejor jugador de LaLiga (no el mejor cancerbero, sino contando también a los de campo), con un 8,62 sobre 10 de promedio en cinco jornadas. Por encima de Raphinha Dias , Lamine Yamal , Kylian Mbappé y todos los demás. Pero la cosa no queda ahí. Si los Unai Simón , Álex Remiro o Joan García están por debajo en ese ranking, que suma un puñado de datos objetivos de rendimiento, los simples e incuestionables números, también adelanta a David Raya , porque Valles es, a juicio de su 'hermana' WhoScored, el mejor cancerbero del Viejo Continente . La cosa es seria, pero no va a estar en la lista. Quédense tranquilos. En la quinta jornada, Sofascore le da un 9,9 de nota y, por supuesto, la titularidad bajo palos en un once ideal del campeonato español en el que se cuelan su compañero Natan de Souza , autor del gol de la remontada en La Cerámica , así como los sevillistas Andrés Castrín y Juan Iglesias . 🇪🇸 | Team of the week A star-studded LaLiga TOTW is once again lead by Real Betis&#39; hero between the sticks, Álvaro Valles 🦸‍♂️ pic.twitter.com/UYzIPUHAdH &mdash; Sofascore Football (@Sofascore) September 15, 2026 \\n \\n\\n\",\"proveedor\":4}\">",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-15T18:33:46+00:00"
+        },
+        {
+          "title": "Diego Simeone elige a su favorito para ganar este año el Balón de Oro",
+          "link": "https://www.20minutos.es/deportes/futbol/diego-simeone-elige-su-favorito-para-balon-oro-messi-sin-duda_7037201_0.html",
+          "desc": "El entrenador del Atlético de Madrid opinó sobre la carrera por el premio individual más importante del mundo del fútbol.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-15T20:27:42+02:00"
         },
         {
           "title": "Michele Kang: “Lo peor que pueden hacer los equipos femeninos es copiar lo que hacen los equipos masculinos”",
           "link": "https://elpais.com/deportes/futbol/2026-09-15/michele-kang-lo-peor-que-pueden-hacer-los-equipos-femeninos-es-copiar-lo-que-hacen-los-equipos-masculinos.html",
-          "desc": "La empresaria defiende en el World Football Summit que existe un “modelo de negocio viable” en el fútbol femenino y pone como ejemplo el contrato récord del London City Lionesses, uno de sus clubes, con Nike tras el fichaje de Alexia Putellas",
+          "desc": "La empresaria defiende en Madrid en el World Football Summit que existe un “modelo de negocio viable” en el fútbol femenino y pone como ejemplo el contrato récord del London City, uno de sus clubes, con Nike tras el fichaje de Alexia Putellas",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-15T18:09:22+00:00"
         },
@@ -206,7 +234,7 @@
           "fecha": "2026-09-15T20:05:57+02:00"
         },
         {
-          "title": "La joya del United que quiere dejar el club con 15 años y ha empezado a seguir a medio Real Madrid, a La Fábrica...",
+          "title": "El niño maravilla del United que quiere dejar el club con 15 años y ha empezado a seguir a medio Real Madrid, a La Fábrica...<br>",
           "link": "https://www.marca.com/futbol/2026/09/15/joya-united-quiere-dejar-club-15-anos-empezado-seguir-medio-real-madrid-fabrica.html",
           "desc": "JJ Gabriel ha solicitado la rescisión de su contrato con los 'red devils' de forma inmediata, según apuntan desde Inglaterra",
           "source": "https://www.marca.com/rss/portada.xml",
@@ -220,7 +248,7 @@
           "fecha": "2026-09-15T20:03:37+02:00"
         },
         {
-          "title": "Cristiano arranca la Champions de Asia... perdiendo 4-0",
+          "title": "Cristiano arranca la Champions de Asia... llevándose una paliza<br>",
           "link": "https://www.marca.com/futbol/2026/09/15/nassr-cristiano-ronaldo-pierde-4-0-primer-partido-champions-asia.html",
           "desc": "El luso fue titular junto a Joao Félix, Iñigo Martínez, Mané...",
           "source": "https://www.marca.com/rss/portada.xml",
@@ -292,7 +320,7 @@
         {
           "title": "Alineaciones probables del Deportivo - Sevilla FC de La Liga EA Sports 2026-2027: onces y banquillo de suplentes",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdVhJdk9teGE4czVUMlZYc2FtLVhsSTZVaXNkQUVIX1JXVldSMHMtSUc5RkRUaDFNT3dLSTBXcFlkZmZKd0c3dVpvalhudTRxRi1hX0hWU1NSbWlaZDJjY0hxOEwzUWdYblllMVd0MG9GVldCaTdINVk3WGxwRnBUUzdaSUlFRUVmOGhKeVR1WlZVRDRyY3dtUVpQaVNqMndXMWZxRFFDTWJwbG1OcUptdWRCSHR2dGVNTWo1SnNhV1dQNjh0TEI4Yl9jSEZqZjRLRjZmUlVhYmZnMjhFRjgtc2FTZknSAeoBQVVfeXFMT3E4Y1RERFNJeGZzVk5IUUNqQ0tBZ05rNWd6eVlKYmJxR3AxczVmbUswOF9OLW1tTUNlZDRnLW1oMXlJeWM3Z0VhNVNSUVdSTUR5NDZ0MEFQb0dLRUZlSEpRS2xYVW1vT00xcUpQX0JhVXJwU0ZiSVFfOWVvWVBqVXg5bkQxdC11V1Y3dlAzV1F0MW5LMTNZUzU1bU5YN3BBZnN6TnhDNHFkRmpMTWdIU2hoQ0NiWUs2aXl5QXJPM0VuNHBYSE5Ua01XTUtSdFU4djd0Y29BQmplOWQyRi0wd3VncFh4MWJlZVRn?oc=5",
-          "desc": "Alineaciones probables del Deportivo - Sevilla FC de La Liga EA Sports 2026-2027: onces y banquillo de suplentes ABC La convocatoria del Sevilla FC para medirse al Deportivo Diario de Sevilla Horario, canal y dónde ver por TV el Deportivo - Sevilla FC de LaLiga EA Sports de fútbol: Primera división de fútbol Mundo Deportivo",
+          "desc": "Alineaciones probables del Deportivo - Sevilla FC de La Liga EA Sports 2026-2027: onces y banquillo de suplentes ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T17:26:58+00:00"
         },
@@ -323,34 +351,6 @@
           "desc": "El presidente de LaLiga cree que si Infantino continúa al frente de la FIFA, las posibilidades de que España albergue la final del Mundial 2030 \"son ínfimas o cero\"",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-15T19:14:35+02:00"
-        },
-        {
-          "title": "Tebas defiende a Lamine con un recado al Real Madrid<br>",
-          "link": "https://www.marca.com/futbol/primera-division/2026/09/15/tebas-defiende-lamine-campana-otros-ganan.html",
-          "desc": "El presidente de LaLiga cree que si Infantino continúa al frente de la FIFA, las posibilidades de que España albergue la final del Mundial 2030 \"son ínfimas o cero\"",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-15T19:14:35+02:00"
-        },
-        {
-          "title": "La Diputación de Sevilla, presente antes de una temporada ilusionante para el Voleibol Esquimo",
-          "link": "https://www.estadiodeportivo.com/noticias-deporte-provincial/diputacion-sevilla-presente-antes-una-temporada-ilusionante-para-voleibol-esquimo-20260915-546617.html",
-          "desc": "El organismo ha querido mostrar su apoyo antes de una temporada más que ilusionante para el conjunto de Dos Hermanas; que disputará una de las máximas competiciones continentales El deporte provincial de Sevilla, como ya en varias ocasiones ha ocurrido, suele ser un argumento de orgullo para sus habitantes. Muchos son los campeones que salen de esta tierra y que la representan en los panoramas internacionales. Si hay un equipo al que el pasado año no se le va a olvidar, ese es el Voleibol Esquimo. El conjunto nazareno consiguió levantar la Superliga y la Copa de la Reina, firmando un doblete que ya forma parte de la historia del voleibol sevillano. También suma un importante logro, y es que este año disputarán la Champions League. Argumentos de oro para un momento único. 🏐 El voleibol sevillano afronta una temporada histórica. El diputado provincial de Cultura y Ciudadanía, @CasiFerLin , ha participado en la presentación de la nueva temporada del Club Agrupación de Voleibol Esquimo, reafirmando el compromiso de la Diputación de Sevilla para… pic.twitter.com/IOKGp5YPCJ &mdash; Diputación de Sevilla (@DIPUSEVI) September 10, 2026 \\n \\n\\n\",\"proveedor\":4}\"> La pasada semana, se acogió la presentación de una campaña en la que las miradas estarán puestas en esa aventura continental. Aunque los títulos de la pasada temporada estuvieron muy presentes durante el acto, el club ya piensa en todo lo que está por llegar y en continuar dando pasos dentro de un proyecto que no ha dejado de crecer durante los últimos años. Casimiro Fernández acudió a la cita en representación de la Diputación de Sevilla. El diputado provincial de Cultura y Ciudadanía aseguró estar “muy contento” por regresar a una sede que, como él mismo explicó, “empieza a ser el punto de encuentro para el recibimiento de los equipos deportivos sevillanos”. Durante su intervención también confirmó que la institución mantendrá su apoyo para contribuir al crecimiento del Voleibol Esquimo y deseó “todo lo mejor” al equipo en una temporada que será histórica por su participación en la Champions League. Todo esto tras un año inolvidable El Esquimo llega a este nuevo curso después de completar la mejor temporada de su historia. El pasado 3 de mayo, las jugadoras dirigidas por Ricardo Torronteras se proclamaron campeonas de la Superliga tras superar al Heidelberg Volkswagen en una final que necesitó tres partidos y terminó resolviéndose en el ‘tie break’ definitivo. El Cajasol Esquimo hace historia para Sevilla y se trae su primera liga de voleibol Gran éxito de los Premios \"Día de la Provincia\" con José Antonio Rueda y el club Voleibol Esquimo como referentes deportivos Este triunfo que, además de completar el doblete junto a la Copa de la Reina, hizo que Andalucía volviese a vibrar con un título de liga 45 años después. Todos esos logros llevaron al club a recibir la Medalla de Oro de la Provincia en 2026, un reconocimiento a una entidad que ha conseguido llevar el nombre de Dos Hermanas por todo el país y que ahora tendrá la oportunidad de hacerlo también fuera de España. Ahora toca defender su corona en las competiciones nacionales y afrontar la ilusión de la Champions League.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-15T17:00:05+00:00"
-        },
-        {
-          "title": "Al \"bético a tope\" Canales no le sale una mala palabra de Pellegrini: \"Es buena persona\"",
-          "link": "https://www.estadiodeportivo.com/futbol/betis/betico-tope-canales-sale-una-mala-palabra-pellegrini-buena-persona-20260915-546619.html",
-          "desc": "El ahora jugador de nuevo del Racing da fe de que, aunque \"de un equipo naces, también te haces\", poniendo como ejemplo que su mujer, \"a la que casi no le gusta el fútbol, dice que es del Betis\", resultado de cinco años en La Palmera, donde \"el sentimiento, el club y la ciudad son una barbaridad\" \" Tú de un equipo naces, pero doy fe de que también te haces . Yo soy bético a tope y estuve cinco años . El sentimiento que hay en ese equipo, ese club y esa ciudad son una barbaridad . Sobre todo, cómo te hacen sentir. Mi mujer, a la que casi no le gusta el fútbol, dice que es del Betis \". Para quien tuviera dudas, Sergio Canales lo ha dejado muy claro al ex futbolista Mario Suárez en el podcast 'El camino de Mario', donde repasa su carrera, incluyendo, por supuesto, donde ha sido más feliz, aunque con una espinita: \" Me arrepiento . No pude disfrutar la celebración de la final de la Copa del Rey ; estábamos peleando por la Champions , quintos y a 3 puntos del Sevilla FC . No pude relajarme \". Ver esta publicación en Instagram \"> Su aterrizaje en Heliópolis \"Me recupero en nueve meses y lo malo es que, cuando vuelves a tener una lesión, sabes los plazos e iba todo mal. Cristina (su esposa) me ha ayudado mucho a encontrar gente que me daba un plus . Iba al fisio, al club y, por la tarde, a otro gimnasio. Año y medio después, pegué un cambio brutal para volver a sentirme jugador. Empecé con mi psicólogo deportivo y me dijo ' tu objetivo es ir a la selección '. Yo pensé ' tres cruzados, no me puedo ni mover… ¿cómo voy a ir a la Selección ?'. Si estaba pensando en retirarme ... Y, al final, fui. Empecé a tener hambre y a decir ' estoy preparado '. Quería más y en la Real Sociedad no me iba a pasar eso, porque había otros referentes ; para dar ese paso tenía que ir a otro lado, y estaba Quique Setién en el Real Betis . Gran parte de esa temporada fue increíble , ganando en el Camp Nou , en Milán en Europa League ... Al final nos desinflamos y acabó mal\". Ver esta publicación en Instagram \"> Su inesperada salida tras renovar con una cláusula simbólica de 1.000 millones \" Decido dar mi pensar al Betis antes de tener nada . Mi mujer tuvo un tema personal y necesitábamos salir, coger aire . Al nivel de Betis , siento que es un ciclo y decido irme o decirles mi pensar, pero no tengo nada. Aparece la opción de México y ha sido de las mejores experiencias de mi vida. Me gustaba el ambiente de fútbol, y Héctor Moreno y Andrés Guardado me lo recomendaron\". Ver esta publicación en Instagram \"> Lo mejor y lo peor de Pellegrini \"Lleva increíble el vestuario y es un técnico muy, muy inteligente a la hora de leer los momentos de cada jugador y del equipo. Nunca, si te fijas, entra en crisis el equipo de perder X partidos seguidos por saber él qué jugadores y qué tal tocar. Me gusta mucho cómo lee los partidos en el descanso también, los cambios, cómo va el equipo y qué necesita en el segundo tiempo para mejorar . Y eso a mí me gustaba mucho también. ¿ Lo peor ? Es que yo no te puedo decir nada de un entrenador que le va tan bien en un club y que le ha ido tan bien en todos lados... y que es buena persona , además. Es fundamental \". Canales se rinde a Unai Emery por su paso por el Valencia: \"Confió mucho en mí\" Sergio Canales por fin vuelve a casa: \"No estaba preparado\" El episodio de la roja y Mateu Lahoz \"En un partido contra el Cádiz CF iba corriendo y, de repente, Mateu Lahoz me preguntó ' Sergio, ¿cómo están tus padres? Dales recuerdos '. En el 90 íbamos 0-0 y le dije ' están perdiendo tiempo. Dales un poco de caña '. Me sacó amarilla. Y contesté ' oye, si no te puedo decir nada, no me preguntes por mis padres '. Y me sacó roja. Al tiempo hubo una entrevista que se malinterpretó, en la que dije que no entendí la expulsión y me quisieron meter cuatro partidos. Se recurre. Juego el siguiente partido y, al minuto 20, me sacan roja\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-15T16:58:38+00:00"
-        },
-        {
-          "title": "Nuevo técnico de Primera división en el alambre",
-          "link": "https://www.estadiodeportivo.com/futbol/villarreal/nuevo-tecnico-primera-division-alambre-20260915-546618.html",
-          "desc": "De momento, no hay ultimátum y desde La Cerámica se transmite que la confianza es total, pero las ratificaciones suelen ser el preludio de algo muy diferente. El futuro de Iñigo Pérez está en sus manos, siendo clave los dos próximos partidos en LaLiga antes del parón Tras derrotas consecutivas y ninguna victoria en cinco jornadas. Ese es el pésimo bagaje de un Villarreal que se encuentra en puestos de descenso en LaLiga, con solo dos puntos alumbrando su casillero, y arrancó también su andadura en Champions con otro tropiezo en la visita al Borussia Dortmund. Unos resultados que, obviamente, generan preocupación en La Cerámica y malestar en la afición . Y como suele suceder cuando las cosas no funcionan, el principal señalado está en el banquillo: Iñigo Pérez. Un relevo que sorprendió y hace aguas por ahora El club castellonense apostó fuerte en verano por el técnico navarro. A no pocos sorprendió que decidiera poner fin a la segunda etapa de Marcelino García Toral, cuyo adiós se confirmó días después de certificar su segunda clasificación consecutiva para la máxima competición continental. Dejaba el listón el alto el asturiano. Pero la entidad presidida por Fernando Roig optó por dar un giro de timón para darle las riendas a un entrenador joven y teóricamente en progresión, después de haber metido a un modesto como el Rayo Vallecano en Europa y llevarlo a la final de la Conference League, la primera de su historia. Pero, de momento, el plan trazado está haciendo aguas. Eso no significa que desde la plana mayor del Villarreal hayan dejado de confiar en Iñigo Pérez. Pero no es menos cierto que está obligado a cambiar la dinámica negativa en las próximas jornadas (visita al Málaga este jueves y recibe al Levante el próximo domingo antes del parón) si no quiere ver agotado su crédito a las primeras de cambio. La ley del fútbol. Toca fondo tras la pobre imagen ofrecida ante el Real Betis Además, más allá de que su Villarreal aún no sepa lo que es ganar, lo que ha colocado al pamplonés en el foco es la pobre imagen ofrecida este pasado lunes ante un teórico rival directo como el Real Betis que ya le aventaja en 10 puntos . Pese a adelantarse en el marcador, el conjunto amarillo se vio desarbolado por los verdiblancos y sin capacidad de respuesta tras el 1-2, lo que da la impresión de que el equipo ha tocado fondo. “ La imagen es dañina para nuestra autoestima, para nuestra confianza. Nos hace daño esta sensación que genera la segunda parte, levantarse desde ahí es muy complicado. Como entrenador no puedes eludir la responsabilidad, es falta de capacidad del entrenador y tengo que mirarme a mí mismo ”, admitió tras el choque Iñigo Pérez, consciente de que todas las miradas apuntan a su figura. Los datos que confirman el problema del Villarreal con Iñigo Pérez Iñigo Pérez, hundido: \"No estoy dando con la tecla; la segunda parte es dañina y no se puede rescatar nada\" Confianza, sí; pero sin paciencia infinita Por ahora, la respuesta desde la planta noble de La Cerámica ha sido ratificarlo. Como apunta el diario Marca , el respaldo es total en un entrenador al que se firmó con vistas a un proyecto a largo plazo. Pero al mismo tiempo, la paciencia de los dirigentes del 'submarino' no es infinita y serán los próximos partidos los que dicten el futuro del que podría ser el segundo entrenador destituido en Primera división, tras Carlos Corberán en el colista Valencia. No hay ultimátum como tal ni se espera una medida desesperada en estas horas. Pero en caso de que el cuadro 'groguet' tampoco consiga los tres puntos en La Rosaleda y ofrezca otra mala imagen, su técnico quedaría realmente tocado. Sin embargo, no se quiere pensar en ello y se espera que el navarro sea capaz de darle la vuelta a la situación. Pero a nadie escapa que estas dos próximas citas pueden resultar claves, pues los parones siempre han sido el momento ideal para los relevos en los banquillos , por aquello de que el nuevo inquilino disponga de un tiempo extra para trabajar y cambiar conceptos.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-15T16:57:52+00:00"
         }
       ]
     },
@@ -363,42 +363,42 @@
           "link": "https://www.formula1.com/en/latest/article/jolyon-palmer-why-mclarens-call-to-pit-norris-after-the-vsc-made-no-sense.591nDyPP1oQBkgU8n738QD",
           "desc": "Former Renault F1 driver and F1 TV analyst Jolyon Palmer explains why McLaren pitting Norris after the VSC only \"cemented\" the loss of the race in Madrid.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T18:30:20.104653+00:00"
+          "fecha": "2026-09-15T19:00:18.646083+00:00"
         },
         {
           "title": "Victoria Farfus sets the pace in 2026 F1 ACADEMY Rookie Test",
           "link": "https://www.formula1.com/en/latest/article/victoria-farfus-sets-the-pace-in-2026-f1-academy-rookie-test.6sNjU097nnpCHhFWTl9Lcu",
           "desc": "F1 ACADEMY's 2026 Rookie Test took place at the Circuito de Navarra in Spain, offering young drivers the chance to showcase their talent.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T18:30:20.104653+00:00"
+          "fecha": "2026-09-15T19:00:18.646083+00:00"
         },
         {
           "title": "Who impressed our Power Rankings judges in Madrid?",
           "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-spanish-grand-prix.1WDmXXNVzYQTsurO3RJpUe",
           "desc": "Victory went to Kimi Antonelli at the Spanish Grand Prix after the timing of the Virtual Safety Car scuppered Lando Norris’ efforts. But who impressed our Power Rankings judges over the course of the weekend at the all-new Madring? Check out the latest scores and overall leaderboard below...",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T18:30:20.104653+00:00"
+          "fecha": "2026-09-15T19:00:18.646083+00:00"
         },
         {
           "title": "How Sainz’s home race in Madrid unravelled",
           "link": "https://www.formula1.com/en/latest/article/how-sainzs-home-race-in-madrid-unravelled-as-williams-struggle.31dSI72gYFXpOTfpr37Jp0",
           "desc": "Carlos Sainz did not see the chequered flag in Madrid, the Spaniard having a torrid race on home soil.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T18:30:20.104653+00:00"
+          "fecha": "2026-09-15T19:00:18.646083+00:00"
         },
         {
           "title": "Mekies assesses Lawson's Red Bull stint after Madrid",
           "link": "https://www.formula1.com/en/latest/article/mekies-praises-lawsons-very-strong-red-bull-stint-after-sixth-in-madrid.2LEwblt3NqOTvbiH6ccqwW",
           "desc": "Red Bull Team Principal Laurent Mekies was full of praise for stand in driver Liam Lawson after the Spanish Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T18:30:20.104653+00:00"
+          "fecha": "2026-09-15T19:00:18.646083+00:00"
         },
         {
           "title": "Norris' Madring misery creates Baku betting value",
           "link": "https://www.formula1.com/en/latest/article/lando-norris-madring-misery-creates-fresh-baku-betting-value-for-title-hopeful.3d9zXvQBVHuPWYgJF2KLEc",
           "desc": "The McLaren star failed to convert his Spanish Grand Prix pole into a third win of the season, but the defending World Champion is still the in-form driver heading to Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T18:30:20.104653+00:00"
+          "fecha": "2026-09-15T19:00:18.646083+00:00"
         },
         {
           "title": "Marc Márquez y el factor mental: \"Es un gran problema para los demás\"",
@@ -533,6 +533,27 @@
       "icono": "💻",
       "items": [
         {
+          "title": "La Agencia de Protección de Datos detecta el primer ataque ejecutado por un agente de IA en España",
+          "link": "https://www.eldiario.es/tecnologia/agencia-proteccion-datos-detecta-primer-ataque-ejecutado-agente-ia-espana_1_13512827.html",
+          "desc": "En un momento de mucha tensión con la IA a nivel global, el organismo público ha anunciado que ha recibido la primera notificación de una brecha de datos personales en la que el incidente ha sido ejecutado mediante un agente a través de un modelo de lenguaje ¿Se puede 'frenar' la IA? Por qué el resto del mundo desconfía del plan de Silicon Valley La Agencia Española de Protección de Datos ha recibido la primera notificación de una brecha de datos personales en la que el incidente ha sido ejecutado mediante un agente de inteligencia artificial que utilizó para ello un conocido modelo de lenguaje. El agente de IA, según fuentes de la AEPD, inició una búsqueda de vulnerabilidades en archivos genéricos, y realizó un inicio de sesión ('login) correcto y una vez accedió al sistema, comenzó a buscar, de forma autónoma, vulnerabilidades en la aplicación, lo que, una vez conseguido, le permitió modificar datos personales y acceder a facturas. El organismo que vela por la protección de los datos personales ha señalado que, antes de llegar a ninguna conclusión, la información disponible procede de la notificación presentada por la organización afectada y que deberá ser objeto del correspondiente análisis. Asimismo, la utilización de un concreto modelo de IA tampoco implica que el modelo o la infraestructura de su proveedor hayan sido comprometidos ni que la herramienta haya sido diseñada para desarrollar actividades maliciosas, ha aclarado el organismo. “Lo relevante desde la perspectiva de la protección de datos es que un tercero habría utilizado un agente de IA como instrumento para encadenar exitosamente distintas fases del ataque”, ha señalado la AEPD. Una señal significativa Esta primera notificación no permite afirmar, ha aclarado, una tendencia estadística, aunque sí constituye una señal significativa de que los ataques apoyados en inteligencia artificial han dejado de ser un riesgo teórico y empiezan a materializarse en incidentes que afectan a tratamientos reales de datos personales. La utilización de inteligencia artificial en actividades maliciosas no es nueva, y se ha demostrado que, aplicadas a un ciberataque, estas capacidades pueden facilitar la automatización de actividades ilícitas. De hecho, según la AEPD, desde hace tiempo se emplean modelos generativos para redactar mensajes de phishing , para traducir campañas fraudulentas, suplantar identidades, analizar código o facilitar la búsqueda de vulnerabilidades. Un cambio cualitativo La aparición de agentes de IA introduce, sin embargo, un cambio cualitativo, ya que un agente puede recibir un objetivo, planificar tareas intermedias, utilizar herramientas, ejecutar código, consultar fuentes, interpretar resultados y modificar su actuación, de forma autónoma, en función de lo que encuentra. El organismo ha asegurado que la IA no crea nuevas amenazas, pero sí aumenta la velocidad, escala y capacidad de adaptación de técnicas maliciosas ya conocidas, reduciendo el tiempo disponible para detectarlas y contenerlas. La importancia de esta notificación, además de por la tecnología empleada, radica en modificar el escenario de la gestión de riesgos, ha explicado en un blog de la Agencia el director adjunto, Francisco Pérez Bes. En primer lugar, confirma la necesidad de incorporar expresamente los ataques asistidos o ejecutados mediante IA a los análisis de riesgos de los tratamientos; no basta con incluir una referencia genérica a malware, phishing o acceso no autorizado, pues esta automatización puede modificar sustancialmente la probabilidad, la velocidad y el alcance del incidente. Además, obliga a revisar los tiempos de respuesta, ya que los procedimientos diseñados para ataques ejecutados manualmente pueden resultar insuficientes cuando un agente analiza simultáneamente múltiples activos, prueba distintas vías de acceso y adapta su comportamiento con rapidez. En tercer lugar, ha precisado Pérez Bes, aumenta la importancia de las identidades digitales y de las credenciales, ya que un agente que obtiene una cuenta, una clave o un token con permisos excesivos puede operar a la velocidad de una máquina y acceder a diferentes servicios antes de que la organización detecte un comportamiento anómalo. Finalmente, este ataque evidencia que la seguridad de los tratamientos no puede depender únicamente de la intervención manual, y que la supervisión humana continúa siendo imprescindible, pero debe apoyarse en mecanismos de detección, contención y respuesta capaces de operar con la rapidez suficiente, ha asegurado el director adjunto de la Agencia. La llegada de los agentes de IA al ámbito ofensivo debe impulsar, a su juicio, una revisión inmediata de los modelos de seguridad y protección de datos.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-15T18:46:28+00:00"
+        },
+        {
+          "title": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3hBV1o3WEFOMVppRVpxV3llREZVckx6WEVVa0NsaVpTWFdPYmpObzhCY1ZOLWxDRUpjVlRJZFBYQUh4Y1d3SF9KbzBlQzVKM0kzTzhfOU1rYkVKSXQzMERheFZ3ZmwwR2MtaVRjYl9zZ2hERDFmNl9BRHp1TlozX0xtSllQRFJucG9faC1iNnkxZ0hITG1lcDVpVWFOSFBSWkE1dFhrU3lRMWhBSVBwZFJlc0tvenBBQnVDWG9oZUVhSW5iQkw4VW9yTQ?oc=5",
+          "desc": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica albertonews.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T18:45:00+00:00"
+        },
+        {
+          "title": "El Apple M5 Ultra humilla al Threadripper PRO 9995WX: sus 36 núcleos vencen a los 96 de AMD",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzJnSzZGY3hwWExFSnpvcmhfNlpJdlgzVWRzd3VHMHBEMHhSZUN2VWpxNVJMVTFPb3EwaGdrcHo1czVYUzJXWkpkMHdiQ2hoZFNTQmdyNWZld2doQ2NLYzVmVEJqUV9rRkhSMHdnQVdydk40RHhHSkRpanJ0WXpxU3Q1SzFnS2RUdFBTWUNfQXJ2UVhWdVlWSWR5Z3FmcjVXbzJOU202T1ZKTVJrMnVR?oc=5",
+          "desc": "El Apple M5 Ultra humilla al Threadripper PRO 9995WX: sus 36 núcleos vencen a los 96 de AMD El Chapuzas Informático",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T18:33:53+00:00"
+        },
+        {
           "title": "Meta lanza una suscripción que incluye las mejores funciones de WhatsApp, Instagram y Facebook",
           "link": "https://hipertextual.com/mobile/meta-one-suscripcion-precios-funciones/",
           "desc": "Meta ha lanzado una nueva suscripción que agrupa sus servicios premium en un solo lugar. Conocida como Meta One, la membresía ofrece las funciones de pago de Instagram, Facebook y WhatsApp, así como acceso prioritario a Meta AI. Aunque estas aplicaciones siguen siendo gratuitas, la compañía menciona que su nueva suscripción está pensada para quienes […] Seguir leyendo: Meta lanza una suscripción que incluye las mejores funciones de WhatsApp, Instagram y Facebook",
@@ -547,11 +568,11 @@
           "fecha": "2026-09-15T20:22:04+02:00"
         },
         {
-          "title": "Melania Trump anuncia un acuerdo con Nvidia para expandir la inteligencia artificial en escuelas en plena polémica",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQkZULU5GU24tWW9jOWhmZjh4Rlc1TGJHRjZoOGJtb2ZvTUZzMF9lMHhncEx5QndzMnVTV3FnU0NCa3NmcnhqUTcta082Q2FnX0VoUzFVLTVPS0hSMElhUGh1M1pmbGlPTk00M3VBVk1qdnVqM25heEtqUUl0WUh5LTRwS2FPNzRhdkdnRzh2TTU2MzZTVWQyV3NZcG9VNWRXTEh3Nllrb2tYQnE4dUg3aUlrdjJ0eVgwbjFZaGc1UGV1ZWNzamFYQ1VOd05MZHMzXzFKZy0yem1lUkh0dWJCZThOSG51TXlzVWVzRVNCQ3dmSVlzWHFUZzdrelZrR1FxMkY3OFpWdEdPTUc5ajNKdUpzRXZjN3dJSE4ycnBROXPSAasCQVVfeXFMT3Z1dnJUSVFXd3hBMHZON21QRGxCaHFkMURGVVdyM1d0MzEwbzdmazQwbkFyTTdkaW16Q0R3aWhaT25KQk85cTZoejd5QXhNZkVaVkVBUS1heXdtR2duOElicE5SS2M3bjZUN1NFa0k0bWhfS0d5TFYyeFBneDdTWVA1NDZ5SGdkMVJqOFlRSUdwTGg5djhmdk1jcHQzVkk3aFh6VTR1VUpPSFAxTFNGYU92RHRycXlVV0tRNlV4VVZPVF9iTzZYdDdNLVZ4U0d5RHR6aGV5MzVZOVVIQUhZa1NfQkN3cG9uei1LY1oyR0tzeUs5S2RJVEZLX2I1ZGx2dG9zYk1RdHFiYWN5eFVrUmYxa0ROd3JPSlZxSV80eUJnUWxZd1pYZGNOa0E?oc=5",
-          "desc": "Melania Trump anuncia un acuerdo con Nvidia para expandir la inteligencia artificial en escuelas en plena polémica Libertad Digital",
+          "title": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica - es-us.noticias.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd21rVFFsWHNnb0IwRzV3Si1Ua1NITG01X0p4bEc4WnRDYWRETzQwbDVLdXVSOFdiZlRQc0Nzc250NGZGVzBYSkJUN0R1Y2FNVW52bF9xQ0hDSnRSY3RNTHQyWXRWZFJBdlZWcGJNQ3NtcFFMa3lzUnRCaUdZWXpSLXJGLXBwRG9nQW5Pag?oc=5",
+          "desc": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica es-us.noticias.yahoo.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T18:10:59+00:00"
+          "fecha": "2026-09-15T18:12:06+00:00"
         },
         {
           "title": "Marcha atrás en la gran promesa de Cercanías: retiran los trenes suizos recién estrenados en Madrid por un fallo de frenos",
@@ -566,6 +587,13 @@
           "desc": "Las restricciones de Estados Unidos aceleraron una nueva generación de IA china y complicaron a Nvidia Forbes Uruguay",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T17:49:27+00:00"
+        },
+        {
+          "title": "Meta One convierte el ecosistema de Meta en un gran freemium",
+          "link": "https://www.muycomputer.com/2026/09/15/meta-one-convierte-el-ecosistema-de-meta-en-un-gran-freemium/",
+          "desc": "Durante años, Facebook, Instagram y WhatsApp han acostumbrado a sus usuarios a una relación bastante sencilla: entrar, utilizar sus funciones principales y no pagar directamente por ello. Ese modelo sigue intacto, pero a su alrededor empieza a crecer una segunda capa formada por servicios adicionales, herramientas profesionales y mayores capacidades de inteligencia artificial. Meta One […] La entrada Meta One convierte el ecosistema de Meta en un gran freemium se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-15T17:49:25+00:00"
         },
         {
           "title": "Trump llama al escenario a Jensen Huang de Nvidia, desestima la seguridad de la IA como un engaño.",
@@ -671,34 +699,6 @@
           "desc": "Nvidia choca con sus socios Anthropic, OpenAI y Musk al proponer pisar el acelerador de la IA El Economista",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T16:37:20+00:00"
-        },
-        {
-          "title": "Bill Gates sugiere ralentizar el desarrollo de la IA ante un riesgo de avance \"dramático\": \"No estamos preparados para ella\"",
-          "link": "https://www.20minutos.es/internacional/bill-gates-sugiere-ralentizar-desarrollo-ia-ante-un-riesgo-avance-dramatico-no-estamos-preparados-para-ella_7037167_0.html",
-          "desc": "El empresario estadounidense reconoció que resulta \"sorprendente\" que un defensor histórico de la innovación técnica como él plantee poner un freno.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-15T18:32:12+02:00"
-        },
-        {
-          "title": "Cisco lleva la IA de Splunk a entornos locales con el nuevo AI POD acelerado por NVIDIA",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjVPRXZVUXY1OU1DVDVtQlZ3WkR4b1RBRnhlTWFqVVdrVHJMeVhfcjExVXFPeGR0UnhOSUktQkxzZkg1U2RRbDN4UFRrYkJ4Smx0d1I5MDBuVm03VlJiUnU2SU5DeUN6OWI0cEw4WW1qUTY3OVBCOTg0dUNNTjN3RUxhV0ZSSVExYlEwRHNtZmxLQzBWVUloUUJB?oc=5",
-          "desc": "Cisco lleva la IA de Splunk a entornos locales con el nuevo AI POD acelerado por NVIDIA Unite.AI",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T16:11:38+00:00"
-        },
-        {
-          "title": "¿Revolución en Xbox Game Pass? Pérdida de lanzamientos 'día 1', nuevos planes y precios, según un rumor",
-          "link": "https://vandal.elespanol.com/noticia/2026258027/revolucion-en-xbox-game-pass-perdida-de-lanzamientos-dia-1-nuevos-planes-y-precios-segun-un-rumor/",
-          "desc": "Xbox Game Pass podría cambiar drásticamente en los próximos meses según nueva información que habla de nuevos planes y la ausencia de estrenos en el servicio. Microsoft sigue ajustando la suscripción Xbox Game Pass para hacer el modelo más rentable -recientemente introdujo cambios en el juego en la nube -, pero la mayor revolución podría llegar el próximo año , según un rumor: eliminar los lanzamientos día 1. Esta información no proviene de un conocido insider , aunque la persona que ha publicado estas novedades sí ha demostrado estar en lo correcto en alguna ocasión pasada -como el cambio de precios en 2025-, según ha recordado NateTheHate que investigará sobre esta revisión de la suscripción en 2027. Nuevos precios, eliminación de debuts en Game Pass, publicidad... El rumor ha sido publicado por el moderador Slayven en Resetera , que habla de dos versiones de Xbox Game Pass, con y sin publicida d, y una suscripción por separado para el juego online. Pero el cambio más importante es que se eliminarían los lanzamientos día 1 en el servicio entre febrero y abril de 2027 , algo que convertiría por ejemplo a Fable - 23 de febrero - en uno de los últimos debuts de Xbox Game Studios en Game Pass. Desconocemos qué pasará con algunos juegos que ya están confirmados para este estreno y llegarán después de la fecha mencionada, como Persona 6 -todavía sin fecha. Supuestamente el precio de Game Pass bajaría 3 dólares para compensar esta pérdida, quedando en 19,99 mensuales para Game Pass sin publicidad y 12,99 dólares mensuales con publicidad . El juego en la nube no formaría parte de Game Pass, sino que sería un extra por 5,99 dólares al mes -con un límite de 25 horas-. El plan familiar sumaría 5,99 dólares al mes, y el pack de acceso sólo a la biblioteca de Game Pass con multijugador costaría 14,99 dólares al mes. Esto es por el momento un rumor, aunque Asha Sharma ha mencionado el servicio en varias ocasiones por no cumplir los objetivos marcados de su crecimiento . \"La persona que le facilita la información está claramente al tanto de ciertos temas \", ha dicho el conocido insider NateTheHate . \"Ya veremos a su debido tiempo si el calendario previsto se mantiene o sufre modificaciones\".",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-15T16:08:00+00:00"
-        },
-        {
-          "title": "Agentes de IA inventan su propio idioma para dejar fuera a los humanos",
-          "link": "https://elpais.com/tecnologia/2026-09-15/agentes-de-ia-inventan-su-propio-idioma-para-dejar-fuera-a-los-humanos.html",
-          "desc": "Un experimento sometió a ocho modelos a 16 días de convivencia. El resultado: un lenguaje propio, indescifrable hasta en la mitad de los mensajes en algunos mundos, y episodios de engaño deliberado",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-15T16:01:00+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "La vivienda vuelve a dividir al Gobierno: el PSOE se abstiene en la ley de Sumar para prohibir la compra de pisos a los fondos",
+          "link": "https://www.eldiario.es/politica/vivienda-vuelve-dividir-gobierno-psoe-abstiene-ley-sumar-prohibir-compra-pisos-fondos_1_13512576.html",
+          "desc": "El Congreso rechaza por segunda vez comenzar a debatir esta propuesta con el voto en contra de PP, Vox y Junts y la abstención del PNV y de los socialistas, quienes dudaron sobre el sentido de su voto hasta este martes, aunque su posición no era decisiva El decreto de vivienda, la última bala del Gobierno para impulsar medidas que llevan bloqueadas toda la legislatura Al Gobierno se le vuelven a tensar las costuras en materia de vivienda. Este martes, el Congreso de los Diputados rechazó comenzar a tramitar una proposición de ley de Sumar para prohibir la venta de pisos a personas jurídicas, una norma pensada para evitar la adquisición masiva de inmuebles por parte de empresas con el fin de hacer negocio con ellos destinándolos al alquiler. La Cámara Baja se opuso a la toma en consideración de la norma con el voto en contra de PP, Vox y Junts. Pero también lo hizo con la abstención del PSOE, un voto que no era decisivo ante el rechazo unánime de la derecha, pero que evidencia las posiciones distantes de ambas alas del Gobierno en este asunto. Se trataba de la segunda vez durante la legislatura que Sumar traía a votación al Congreso la misma norma. Ya lo hizo el pasado mes de noviembre , cuando también fue rechazada con los mismos votos, pese a que el PSOE, en esta segunda ocasión, ha tenido más dudas sobre la posición que debía adoptar. De hecho, fuentes de Sumar explican que los socialistas, inicialmente, les confirmaron que apoyarían la toma en consideración del texto, una postura que finalmente cambió unas horas antes de la votación, cuando el ala mayoritaria del Gobierno decidió abstenerse como ya hiciera hace unos meses. La incomodidad que genera este asunto en el PSOE quedó patente durante la intervención en el debate de su diputada Irene Jódar, que evitó aclarar cuál sería el sentido del voto de su partido unas horas después y se limitó a afirmar que los socialistas van a “seguir defendiendo el derecho a una vivienda digna para todos y todas las ciudadanas de este país, eso sí, acorde a la ley y al ordenamiento jurídico existente”. De hecho, Jódar no se refirió en ningún momento al contenido de la norma ni a la posibilidad de prohibir la venta de vivienda a fondos buitre, y utilizó su discurso únicamente para cargar contra el “incumplimiento sistemático” de la ley de vivienda del que, dijo, son responsables las comunidades gobernadas por el PP. “Llevan más de 3 años poniendo las mismas excusas: que si Pedro Sánchez castiga a las comunidades autónomas, que si Pedro Sánchez nos maltrata”, denunció la diputada socialista, que reivindicó que el Gobierno “ha puesto en marcha el plan estatal de vivienda dotado con más de 7.000 millones de euros a repartir entre sus comunidades autónomas y entre las nuestras”. Asimismo, Jódar aseguró que el Ejecutivo se ha centrado en “construir vivienda pública, rehabilitar la asistente, ayudar a quien más lo necesita y, por supuesto, asegurar que el suelo y la vivienda públicos sean siempre públicos”, y presumió de la apertura de la página web de la empresa pública Casa 47, con una oferta inicial de unas 800 viviendas en alquiler y precios desde 350 euros al mes. De poco sirvió la apelación del diputado de Sumar Alberto Ibáñez, que durante el debate pidió expresamente al PSOE (y al PNV, que también se abstuvo) “un esfuerzo para cambiar su voto de la abstención al sí, no solamente por una cuestión de vivienda, sino porque la ciudadanía necesita ver que somos capaces de ceder, de avanzar y de acordar entre diferentes”. “Hoy no estamos haciendo otra cosa que decidir si prohibimos que los fondos buitre puedan comprar casas o no: es sencillo”, planteó Ibáñez, que aseguró que la votación de este martes dejaría claro “si creemos que el derecho a la vivienda es un derecho o no”. Una “doble chapuza” para el PP Mucho más clara fue la posición defendida por el PP. Su diputado Miguel Ángel Sastre calificó la proposición de ley de Sumar de “versión terrorífica” de una ley de vivienda que “ya ha fracasado” y que, en esta ocasión, plantea la “doble chapuza” de “limitar la compra a personas jurídicas”. “Casi nueve de cada diez viviendas las compran las personas físicas”, recordó Sastre, que sostuvo que, “suponiendo que sus medidas fuesen acertadas, que no lo son, después de años de zancadillas inútiles a la mayoría de propietarios pretenden solucionar ahora el problema atacando solo al 10%”. “Vaya genialidad”, ironizó el diputado, que planteó el paquete clásico de propuestas del PP: acabar “con el papeleo excesivo”, “proteger al propietario frente a quien no quiere pagarle” y bajar impuestos a los tenedores de vivienda. Por su parte, Junts justificó su voto en contra asegurando que la propuesta de Sumar terminaría siendo perjudicial para los inquilinos. “Dicen que esta iniciativa está dirigida a impedir que los fondos buitre puedan comprar, y no es cierto: si mañana presentan una iniciativa legislativa que dice que se prohíbe a los fondos buitre comprar vivienda, Junts la votará a favor”, prometió la diputada Marta Madrenas, que aseguró que la norma, tal y como está redactada, perjudicaría “a las cooperativas, ayuntamientos, la Generalitat y las empresas públicas”. Lo cierto es que este martes no se votaba la puesta en marcha de la ley, sino únicamente el inicio de su tramitación, por lo que Junts hubiera podido plantear cambios en esa dirección si hubiera apoyado la toma en consideración del texto. No obstante, Madrenas cargó contra la norma en su conjunto, asegurando que sus medidas no hacen “nada” por “ayudar” a los pequeños compradores de vivienda —“ni les reduce el IVA, ni les facilita la entrada, ni les desgrava el ahorro, ni la hipoteca, ni hace bajar el precio del piso”— y denunciando que, con la redacción de la propuesta, “si Florentino Pérez, como persona física, quisiera comprar 100 viviendas, podría hacerlo”. La tercera para del bloque de las derechas, Vox, también cargó con dureza contra la iniciativa. Su diputado Carlos Hernández Quero calificó el texto de “chapuza legislativa”, y se mostró igualmente crítico con el recién inaugurada portal de Casa 47, que tachó de web “chusca” con “tres powerpoints de colorines” y una oferta “pírrica” y “grotesca” de 800 viviendas. “800 viviendas es lo que hacía una mala tarde la administración pública cualquier año en los 60 o en los 80”, espetó Quero.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-15T18:37:39+00:00"
+        },
         {
           "title": "El Gobierno declara zona gravemente afectada el territorio dañado por el incendio de Huelva",
           "link": "https://www.eldiario.es/andalucia/huelva/gobierno-declara-zona-gravemente-afectada-territorio-danado-incendio-huelva_1_13512716.html",
@@ -721,7 +728,7 @@
           "fecha": "2026-09-15T17:47:41+00:00"
         },
         {
-          "title": "Muere Patricio Guzmán, director de cine y documentalista chileno, a los 85 años",
+          "title": "Muere Patricio Guzmán, director de cine y documentalista chileno",
           "link": "https://www.20minutos.es/cinemania/noticias/muere-director-cine-documentalista-chileno-patricio-guzman-los-85-anos_7037188_0.html",
           "desc": "Guzmán falleció debido a un paro cardiorrespiratorio en un hospital de París a los 85 años.",
           "source": "https://www.20minutos.es/rss/",
@@ -866,13 +873,6 @@
           "desc": "La entidad gallega ha confirmado las sospechas con la lesión de Iago Aspas, que sufre un desgarro de grado I en el recto anterior que le tendrá apartado de los terrenos de juego durante las próximas semanas, siendo una importane ausencia para Claudio Giráldez en LaLiga EA Sports y UEFA Europa League El Celta de Vigo ha confirmado las sospechas con la lesión de Iago Aspas . El delantero acabó con molestias el partido ante el Málaga, al que llegaba con dudas y Claudio Giráldez optó por dejarle en el banquillo. Sin embargo, el futbolista de 39 no ha mejorado en las últimas horas, por lo que ha sometido a unas pruebas médicas que han dejado claras las dolencias del capitán de Moaña, que comenzará su proceso de recuperación. Claudio Giráldez se queda sin un efectivo de lujo como es el de Iago Aspas, que no podrá disputar los encuentros de esta semana que tiene fijados el Celta de Vigo. El equipo gallego se medirá este jueves al Omonia, en la primera jornada de la UEFA Europa League, en Chipre. Tras ello, prepararán la visita del Racing de Santander a Balaídos, en el último partido para ambos conjuntos antes del comienzo del parón de selecciones. Claudio Giráldez pierde a Iago Aspas El propio Claudio Giráldez ya se temió lo peor cuando comentó en rueda de prensa, tras el partido ante el Málaga, los problemas musculares de Iago Aspas: \"Viendo cómo estaba al salir del juego, un pinchazo en un golpeo en el cuádriceps. Entiendo que para estos dos partidos, descartado . Y veremos el alcance. Lo ideal es que hubiese parado. Sabemos cómo es y no quería dejar al equipo con uno menos\" . \"Sabemos cómo es y no quería dejar al equipo con uno menos\" \"> El técnico del Celta de Vigo agradeció el esfuerzo a un Iago Aspas que ha podido tener minutos en los seis encuentros que ha disputado el conjunto de Claudio Giráldez hasta el momento en LaLiga EA Sports: \"En ese momento han vencido las ganas de ganar el partido. Y agradecerle el esfuerzo que hace siempre por esta camiseta y por el equipo\". Una de cal y otra de arena para el Celta de Vigo La lesión de Iago Aspas no cabe duda que es un importante contratiempo para el Celta de Vigo, principalmente por todo lo que supone el capitán dentro y fuera del terreno de juego. Por ello, Claudio Giráldez deberá apostar por el resto de jugadores con los que cuenta en la parcela ofensiva para los inmientes encuentros tanto de UEFA Europa League como de LaLiga EA Sports. El Celta de Vigo ha recibido una buena noticia como es el regreso de Aleix Febas. El centrocampista sufrió una lesión que le dejó fuera de los terrenos de juego durante el mes de septiembre, siendo baja en la convocatoria para los partidos contra la Real Sociedad, Getafe y, por último, Málaga en Balaídos. Por ello, Claudio Giráldez recupera a un jugador que empezó incluso siendo titular en el estreno de LaLiga, ante el Valencia . Por otro lado, tras la confirmación del parte médico de la lesión de Iago Aspas , el delantero del Celta de Vigo estará baja contra el Omonia y Racing de Santander, los dos partidos de esta semana. Además, seguramente no pueda estar disponible para el duelo ante el Elche en el Martínez Valero, en la vuelta tras el parón de selecciones, por lo que espera volver para encuentro frente a la Juventus del 15 de octubre en Balaídos. Parte médico de Iago Aspas y tiempo de baja Iago Aspas sufrió una lesión en la pierna durante el partido del pasado domingo ante el Málaga CF en Abanca Balaídos . Tras ser sometido a una resonancia magnética en el Hospital Ribera Povisa de Vigo, las pruebas confirmaron un desgarro de grado I en el recto anterior del muslo izquierdo . El jugador ya ha comenzado el tratamiento de recuperación correspondiente bajo la supervisión de los servicios médicos. Palo para el Celta de Vigo con la lesión de Iago Aspas El Celta de Vigo culpa a LaLiga de la lesión de Iago Aspas: \"No hubiese pasado en otras circunstancias” El período de ausencia estimado es de aproximadamente cuatro semanas.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-15T11:10:55+00:00"
-        },
-        {
-          "title": "El BOE fija nuevos salarios mínimos, menos horas anuales y 4,56 euros por teletrabajo para estos trabajadores",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/boe-fija-nuevos-salarios-minimos-menos-horas-anuales-4-56-euros-teletrabajo-trabajadores_7036866_0.html",
-          "desc": "El nuevo convenio colectivo de establecimientos financieros de crédito introduce mejoras en las condiciones laborales de los trabajadores del sector.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-15T13:03:16+02:00"
         }
       ]
     },
@@ -881,11 +881,18 @@
       "icono": "🎮",
       "items": [
         {
-          "title": "Melania Trump anuncia un acuerdo con Nvidia para expandir la inteligencia artificial en escuelas en plena polémica",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQkZULU5GU24tWW9jOWhmZjh4Rlc1TGJHRjZoOGJtb2ZvTUZzMF9lMHhncEx5QndzMnVTV3FnU0NCa3NmcnhqUTcta082Q2FnX0VoUzFVLTVPS0hSMElhUGh1M1pmbGlPTk00M3VBVk1qdnVqM25heEtqUUl0WUh5LTRwS2FPNzRhdkdnRzh2TTU2MzZTVWQyV3NZcG9VNWRXTEh3Nllrb2tYQnE4dUg3aUlrdjJ0eVgwbjFZaGc1UGV1ZWNzamFYQ1VOd05MZHMzXzFKZy0yem1lUkh0dWJCZThOSG51TXlzVWVzRVNCQ3dmSVlzWHFUZzdrelZrR1FxMkY3OFpWdEdPTUc5ajNKdUpzRXZjN3dJSE4ycnBROXPSAasCQVVfeXFMT3Z1dnJUSVFXd3hBMHZON21QRGxCaHFkMURGVVdyM1d0MzEwbzdmazQwbkFyTTdkaW16Q0R3aWhaT25KQk85cTZoejd5QXhNZkVaVkVBUS1heXdtR2duOElicE5SS2M3bjZUN1NFa0k0bWhfS0d5TFYyeFBneDdTWVA1NDZ5SGdkMVJqOFlRSUdwTGg5djhmdk1jcHQzVkk3aFh6VTR1VUpPSFAxTFNGYU92RHRycXlVV0tRNlV4VVZPVF9iTzZYdDdNLVZ4U0d5RHR6aGV5MzVZOVVIQUhZa1NfQkN3cG9uei1LY1oyR0tzeUs5S2RJVEZLX2I1ZGx2dG9zYk1RdHFiYWN5eFVrUmYxa0ROd3JPSlZxSV80eUJnUWxZd1pYZGNOa0E?oc=5",
-          "desc": "Melania Trump anuncia un acuerdo con Nvidia para expandir la inteligencia artificial en escuelas en plena polémica Libertad Digital",
+          "title": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3hBV1o3WEFOMVppRVpxV3llREZVckx6WEVVa0NsaVpTWFdPYmpObzhCY1ZOLWxDRUpjVlRJZFBYQUh4Y1d3SF9KbzBlQzVKM0kzTzhfOU1rYkVKSXQzMERheFZ3ZmwwR2MtaVRjYl9zZ2hERDFmNl9BRHp1TlozX0xtSllQRFJucG9faC1iNnkxZ0hITG1lcDVpVWFOSFBSWkE1dFhrU3lRMWhBSVBwZFJlc0tvenBBQnVDWG9oZUVhSW5iQkw4VW9yTQ?oc=5",
+          "desc": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica albertonews.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T18:10:59+00:00"
+          "fecha": "2026-09-15T18:45:00+00:00"
+        },
+        {
+          "title": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica - es-us.noticias.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd21rVFFsWHNnb0IwRzV3Si1Ua1NITG01X0p4bEc4WnRDYWRETzQwbDVLdXVSOFdiZlRQc0Nzc250NGZGVzBYSkJUN0R1Y2FNVW52bF9xQ0hDSnRSY3RNTHQyWXRWZFJBdlZWcGJNQ3NtcFFMa3lzUnRCaUdZWXpSLXJGLXBwRG9nQW5Pag?oc=5",
+          "desc": "Melania Trump anuncia acuerdo con Nvidia para expandir la IA en escuelas en plena polémica es-us.noticias.yahoo.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T18:12:06+00:00"
         },
         {
           "title": "Las restricciones de Estados Unidos aceleraron una nueva generación de IA china y complicaron a Nvidia",
@@ -1040,13 +1047,6 @@
           "desc": "Salesforce y Nvidia presentan Koa, un modelo de razonamiento CRM para Agentforce MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T13:42:29+00:00"
-        },
-        {
-          "title": "Salesforce se asocia con AWS, Google Cloud y Nvidia para expandir el ecosistema de IA empresarial Agentforce",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0JveE5jVlcxNGNBUEJJbHZ1ZXh1SzBzOTRxSWVNTFJpT3lBb3Y3Z0E1MDdkSG16Wkg0ZUlOcW5zcmROX0tLcDRtZkwtYjBhVWJFb0Q2clR5SVR5aExoNWN3eEM2MTBNa1IzOXozTGRpOW4tRVFtdVpIVVNSakloS1ZCejNGNTZoQUN3YTFXZjhtc183NnJRODROdjltN00zVUlKWXp2ZVR5cWxKc0c4WkMwaEFPWXo4?oc=5",
-          "desc": "Salesforce se asocia con AWS, Google Cloud y Nvidia para expandir el ecosistema de IA empresarial Agentforce TradingKey",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T13:40:59+00:00"
         }
       ]
     },
@@ -1074,6 +1074,13 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "El Apple M5 Ultra humilla al Threadripper PRO 9995WX: sus 36 núcleos vencen a los 96 de AMD",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzJnSzZGY3hwWExFSnpvcmhfNlpJdlgzVWRzd3VHMHBEMHhSZUN2VWpxNVJMVTFPb3EwaGdrcHo1czVYUzJXWkpkMHdiQ2hoZFNTQmdyNWZld2doQ2NLYzVmVEJqUV9rRkhSMHdnQVdydk40RHhHSkRpanJ0WXpxU3Q1SzFnS2RUdFBTWUNfQXJ2UVhWdVlWSWR5Z3FmcjVXbzJOU202T1ZKTVJrMnVR?oc=5",
+          "desc": "El Apple M5 Ultra humilla al Threadripper PRO 9995WX: sus 36 núcleos vencen a los 96 de AMD El Chapuzas Informático",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T18:33:53+00:00"
+        },
         {
           "title": "AMD rebota en bolsa y desafía el temor a un freno en el gasto de IA",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOandNZUxPYWxud0hHY3lJVlZjQkpHZkdRX0JsaFpBMTVyYzRteTJpRlhjLWdMYXNFc24tSWwybi1lM2JZbkxNSEZSaF9fWEF3em9FTEVVc1k5aHRrY3hBb0pFajM2T0hJY29lLUFVaWtOWkNhNllfMjR1UWVULUpReG5tMllYc1RPTWJqZS12MDc4TnNPQkFzeGJNY2taY0NraFJHMzREV09OemNpSnc?oc=5",
@@ -1234,13 +1241,6 @@
           "desc": "Modders have nearly halved FSR 4 processing time on AMD’s PS5-derived BC-250, using a portable FidelityFX DLL that cuts 1440p upscaling cost to 5.92 ms.",
           "source": "https://www.tomshardware.com/feeds.xml",
           "fecha": "2026-09-14T10:30:00+00:00"
-        },
-        {
-          "title": "AMD (Advanced Micro Devices) : Bernstein mantiene su recomendación de compra",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYUNtVlVKM043S2J0RllaRWNMSTcxWHVDN3NIMGd4LS04dTRtU2UwaUdBWG9QQV9hcU5Bcks2a0dCc2RyOXduT1pTWkJpTUhCaEtDc2RzQmVGelRRZGJHZzdWVXpXaUpBWkVybUh2SG1fak12OGZ2WE5mcVQwZ2lqcU9tX29lQUpnNmVzYnltTnYxcnRCc3F4X2NIZkRNTkhPenZsN19ZV2U3OFM2Rmx0bmNZLWpOTk5fcUVZcGgxTnNacjdFZkVv?oc=5",
-          "desc": "AMD (Advanced Micro Devices) : Bernstein mantiene su recomendación de compra MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T10:09:27+00:00"
         }
       ]
     }
