@@ -1,8 +1,332 @@
 {
-  "generado": "2026-09-15T08:00:01.423284+00:00",
+  "generado": "2026-09-15T08:30:01.877343+00:00",
   "fuente": "laliga.com (oficial)",
-  "jornada": 5,
-  "jornada_nombre": "Jornada 5",
-  "partidos": [],
+  "jornada": 6,
+  "jornada_nombre": "Jornada 6",
+  "partidos": [
+    {
+      "id": "laliga-102308",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-sociedad-rc-celta-6",
+      "fecha": "2026-09-03T21:00:00+02:00",
+      "estado": "post",
+      "detalle": "0 - 0",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Real Sociedad",
+        "once": [
+          {
+            "num": 1,
+            "nombre": "A. Remiro"
+          },
+          {
+            "num": 6,
+            "nombre": "Jon Martín"
+          },
+          {
+            "num": 2,
+            "nombre": "Aramburu"
+          },
+          {
+            "num": 17,
+            "nombre": "Sergio Gómez"
+          },
+          {
+            "num": 5,
+            "nombre": "Zubeldia"
+          },
+          {
+            "num": 14,
+            "nombre": "Take"
+          },
+          {
+            "num": 21,
+            "nombre": "Herrera"
+          },
+          {
+            "num": 10,
+            "nombre": "Oyarzabal"
+          },
+          {
+            "num": 7,
+            "nombre": "Barrene"
+          },
+          {
+            "num": 8,
+            "nombre": "Turrientes"
+          },
+          {
+            "num": 9,
+            "nombre": "Oskarsson"
+          }
+        ],
+        "formacion": "4231",
+        "logo": "logos/real-sociedad.png"
+      },
+      "visitante": {
+        "equipo": "Celta",
+        "once": [
+          {
+            "num": 13,
+            "nombre": "Radu"
+          },
+          {
+            "num": 3,
+            "nombre": "M. Alonso"
+          },
+          {
+            "num": 18,
+            "nombre": "Yoel Lago"
+          },
+          {
+            "num": 15,
+            "nombre": "Álvaro N.c."
+          },
+          {
+            "num": 17,
+            "nombre": "Javi Rueda"
+          },
+          {
+            "num": 8,
+            "nombre": "M. Román"
+          },
+          {
+            "num": 6,
+            "nombre": "Moriba"
+          },
+          {
+            "num": 5,
+            "nombre": "Carreira"
+          },
+          {
+            "num": 9,
+            "nombre": "Jutgla"
+          },
+          {
+            "num": 19,
+            "nombre": "Williot"
+          },
+          {
+            "num": 28,
+            "nombre": "Antañon"
+          }
+        ],
+        "formacion": "343",
+        "logo": "logos/celta.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102307",
+      "slug": "temporada-2026-2027-laliga-ea-sports-rayo-vallecano-rcd-espanyol-de-barcelona-6",
+      "fecha": "2026-09-15T19:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Rayo Vallecano",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rayo-vallecano.png"
+      },
+      "visitante": {
+        "equipo": "RCD Espanyol de Barcelona",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rcd-espanyol-de-barcelona.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102299",
+      "slug": "temporada-2026-2027-laliga-ea-sports-deportivo-alaves-valencia-cf-6",
+      "fecha": "2026-09-15T20:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "Deportivo Alavés",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/deportivo-alaves.png"
+      },
+      "visitante": {
+        "equipo": "Valencia CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/valencia-cf.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102303",
+      "slug": "temporada-2026-2027-laliga-ea-sports-elche-cf-real-madrid-6",
+      "fecha": "2026-09-15T21:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA",
+        "Movistar Plus+",
+        "Orange Fútbol 1"
+      ],
+      "local": {
+        "equipo": "Elche CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/elche-cf.png"
+      },
+      "visitante": {
+        "equipo": "Real Madrid",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-madrid.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102300",
+      "slug": "temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-ca-osasuna-6",
+      "fecha": "2026-09-16T19:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Atlético de Madrid",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/atletico-de-madrid.png"
+      },
+      "visitante": {
+        "equipo": "CA Osasuna",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/ca-osasuna.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102302",
+      "slug": "temporada-2026-2027-laliga-ea-sports-rc-deportivo-sevilla-fc-6",
+      "fecha": "2026-09-16T19:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN",
+        "DAZN EN ABIERTO"
+      ],
+      "local": {
+        "equipo": "RC Deportivo",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rc-deportivo.png"
+      },
+      "visitante": {
+        "equipo": "Sevilla FC",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/sevilla-fc.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102304",
+      "slug": "temporada-2026-2027-laliga-ea-sports-fc-barcelona-r-racing-club-6",
+      "fecha": "2026-09-16T21:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "FC Barcelona",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/fc-barcelona.png"
+      },
+      "visitante": {
+        "equipo": "R. Racing Club",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/r-racing-club.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102305",
+      "slug": "temporada-2026-2027-laliga-ea-sports-levante-ud-athletic-club-6",
+      "fecha": "2026-09-16T21:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Levante UD",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/levante-ud.png"
+      },
+      "visitante": {
+        "equipo": "Athletic Club",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/athletic-club.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102301",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-betis-getafe-cf-6",
+      "fecha": "2026-09-17T19:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "Real Betis",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-betis.png"
+      },
+      "visitante": {
+        "equipo": "Getafe CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/getafe-cf.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102306",
+      "slug": "temporada-2026-2027-laliga-ea-sports-malaga-cf-villarreal-cf-6",
+      "fecha": "2026-09-17T21:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "Málaga CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/malaga-cf.png"
+      },
+      "visitante": {
+        "equipo": "Villarreal CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/villarreal-cf.png"
+      },
+      "aplazado": false
+    }
+  ],
   "aplazados": []
 }
