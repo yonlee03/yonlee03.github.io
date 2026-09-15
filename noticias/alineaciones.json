@@ -1,34 +1,8 @@
 {
-  "generado": "2026-09-14T15:30:01.890435+00:00",
+  "generado": "2026-09-15T07:00:01.134638+00:00",
   "fuente": "laliga.com (oficial)",
   "jornada": 5,
   "jornada_nombre": "Jornada 5",
   "partidos": [],
-  "aplazados": [
-    {
-      "id": "laliga-102298",
-      "slug": "temporada-2026-2027-laliga-ea-sports-villarreal-cf-real-betis-5",
-      "fecha": "2026-09-14T21:00:00+02:00",
-      "estado": "pre",
-      "detalle": "",
-      "canal": [
-        "Movistar LALIGA",
-        "Movistar Plus+",
-        "Orange Fútbol 1"
-      ],
-      "local": {
-        "equipo": "Villarreal CF",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/villarreal-cf.png"
-      },
-      "visitante": {
-        "equipo": "Real Betis",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/real-betis.png"
-      },
-      "aplazado": true
-    }
-  ]
+  "aplazados": []
 }
