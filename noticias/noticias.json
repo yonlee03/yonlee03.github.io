@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-15T15:00:17.814509+00:00",
+  "generado": "2026-09-15T15:30:20.828507+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,13 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "LUIS GARCÍA REPITE LISTA DE 24 JUGADORES PARA VIAJAR A LA CORUÑA",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHlaZEdPREg5dnNzMHhHdWZRZFR2YmdjY3V0UnNBRnpkZnBwTVlQeXp1Q2NhMUljNmRSYzhZVWl0NnEzTUpCUThacDNyN2pwTmp1SG1QNFoxMkNmRG9rek5BNndDWVVka0xLSkdhZjg5NnBVQmRhRE51NUY3M0owcHJ6WWVUdHlSVUxn?oc=5",
+          "desc": "LUIS GARCÍA REPITE LISTA DE 24 JUGADORES PARA VIAJAR A LA CORUÑA Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:01:34+00:00"
+        },
         {
           "title": "LA FUNDACIÓN 1890, EN LA PRESENTACIÓN DE LA CARRERA DE COLOR POR LA SALID MENTAL",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUtuOW1HU0NRcllmSlNOeVlCZzFZd3dtSE16VE1qdG9nXzZ1c1lMUXpTeXVBX0k1cWIzeTJKY3A4Q3A1VHhua3FsazBnWENTcWY5QXVWOFEzbWRrSk1XODVjT0UteWlUUUQxV05qVmdUNHR2a2lZSVFJRWM2WnppdUhmbF8ySXk4cDM4cU8xZ1FITDJvODZGcUFRVW1TNy0tMm50SmVpM0dESS1HeE1yNA?oc=5",
@@ -39,9 +46,16 @@
           "fecha": "2026-09-15T12:22:46+00:00"
         },
         {
+          "title": "La recuperación de Vargas, dos consultas médicas y un plan del Sevilla FC: «Va a tener que hacer una minipretemporada»",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJEcmZHODIwOTlKQlYtaHItamUtaG84RHJFdXhmc3NDU2F4ajZRWkd1NU1pUm1EMHJLVVFkeGc1a0V5M2VPSzZxREE5VXRQRDYtXzFLcnU1RGhZLUd2b3RvUzlDSUdaa2FFRG1nOGNXbkk2QnpoQVlaNE5CRld5NHV4MWlMaGg5ODNxdVdmQWZ3S2R3dzVpRWhlWGQzSEhWcWltajRiT2FRMFZKZTlBVmNaZWJCZDk3eElnZGllQTJ4RnBBSlFreHlQT2FadURMdEEtZ2hXRy1zZHR1STBZM25ZU0h3ZmRX0gHuAUFVX3lxTFBQQ3JjS0ZxNTlpdG1KRndkVTM2a0xkMzFMMU1VVWl0OTg1NFhzWHY1cHNzZGo1MmdrUGpmZUJySHJsRjljLWduYTUwZFktb2w5SHhtelFJbUUtR1ZMWEFHNU02anZIVG41V2szcGY2WFlxbzA3WEl2RXcxYUpQYmRWME1PY0gzaWh3aVJyZ0gyblpKV3pjN0ktaktpVVJycWdBZVE2S3lNa01JUWRqa3MwTGdvRlFTM0xMX18zcFZZd093TVFPZXJDWUhCU2lhS25haElBemwyVW5odFFzSGY5T0xZTS1qMWRuMGstWHc?oc=5",
+          "desc": "La recuperación de Vargas, dos consultas médicas y un plan del Sevilla FC: «Va a tener que hacer una minipretemporada» ABC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T11:51:01+00:00"
+        },
+        {
           "title": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlJpR2Zrbl9rLWVNQTVnMW9NRDJtbjIzVHhjM29zV3VveUZfNWhQdUpteVhsY1Q2aWZhTU1aYjNTV0xjajU1LXFCQVlSMWhtS2MwZTdSX3lFazhwQTl5aFROUGNNR1MzZFdjMXJXYWdWd2QxRzVkR2tKRmphY1Y0ZVhmNzYzUWFBZTVaR1Q5dktvelgyc3JOa3lmSkJaay1Hdll5SmxMTTcxMnFlVzJ6WGEwYXZvWEhoNHc?oc=5",
-          "desc": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña Diario de Sevilla ¿Qué pasa con Rubén Vargas? El Desmarque La recuperación de Vargas, dos consultas médicas y un plan del Sevilla FC: «Va a tener que hacer una minipretemporada» ABC",
+          "desc": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña Diario de Sevilla",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T11:42:53+00:00"
         },
@@ -93,6 +107,13 @@
           "desc": "El nuevo director deportivo del conjunto che recibe otra negativa mientras sigue buscando al sustituto de Carlos Corberán; a Valverde, su primera opción, se le suma negativa de Mendilibar Nuevo contratiempo para Braulio Vázquez en su misión de encontrar un entrenador para el Valencia, una vez que haya arribado a Mestalla con la clara misión de revitalizar al equipo, que actualmente es colista, y salvar la temporada che. El Valencia está en pleno proceso de reconstrucción, comenzando por un recambio en el banquillo para el destituido Carlos Corberán. Ya con un técnico de su cuerda, el nuevo director deportivo valencianista tendrá que afrontar un llamativo mercado de enero, siendo ese el plan establecido por Peter Lim y los suyos. Tras Valverde, Mendilibar también le dice 'no' a Braulio Lo primero, el entrenador. Y no le está resultando sencillo a un Braulio que tenía como primera opción a Ernesto Valverde, a quien ya contrató para el Valencia en 2012. Su amistad era el principal argumento para tratar de convencerlo, aunque no ha sido posible. El ‘Txingurri’ ha dicho ‘no’ a la propuesta che y seguirá sin equipo, rumoreándose, incluso, que tiene decidido retirarse de los banquillos. Tras ello, tal y como avanzó ESTADIO Deportivo , el entrenador que había ganado enteros en la agenda de Braulio para hacerse con el banquillo valencianista fue José Luis Mendilibar. Recientemente destituido en Grecia, el vasco se presentaba como una opción de garantías para tratar de sacar al Valencia de los puestos de descenso. Algo similar a lo que ya hizo con el Sevilla FC años atrás, cuando relanzó su carrera a nivel europeo, consiguiendo dos Europa Leagues. Braulio sigue buscando entrenador para el Valencia en su agenda personal: \"El barco lo pilota el capitán, que es Jagoba Arrasate\" Santiago Cañizares (56 años) avisa a Braulio Vázquez de lo que le espera en el Valencia de Peter Lim: \"No sé cómo se mete en este lío\" Sin embargo, Mendilibar no lo acaba de ver claro y, según las informaciones procedentes de la capital del Turia, también habría rechazado la propuesta che. Su intención, por ahora, es esperar y no hacerse con ningún banquillo con la temporada ya empezada. Entre los nombres que valora Braulio también se encuentran otros técnicos de su confianza como Jagoba Arrasate y Vicente Moreno , con los que ha contado anteriormente durante su etapa en Osasuna como director deportivo. Javier Aguirre se ofrece al Valencia CF Pese a ello, también se ha colado en el casting che el mexicano Javier Aguirre, quien se habría posicionado ante Braulio tras abandonar la selección de México, mostrándose interesado en hacerse con las riendas del Valencia CF. El nuevo director deportivo che maneja la posibilidad , aunque de momento no se habría acabado de decidir. Mientras esto ocurre, al frente del primer equipo che se encuentra el técnico del filial Óscar Sánchez, quien se sentará en el banquillo este martes ante el Alavés. La intención inicial es que el nuevo técnico de Braulio esté para la próxima jornada, ante la Real Sociedad en Mestalla, pudiendo aprovechar luego el parón de selecciones para llevar a cabo una mini pretemporada con su nuevo equipo. Por ahora no le está resultando sencillo a Braulio.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-15T10:34:40+00:00"
+        },
+        {
+          "title": "Deportivo La Coruña - Sevilla FC | Pronóstico y cuotas 16.09.2026",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzJKOWRNek04U1dfRjNRNEJQWVhDaFJyNFI4ZXhiSWlHay1fa3pfN25SdUtHS3h4OGVwcG5tMGdGQjFJSnBzX3Y0NFpmTVlFV21rc29WSXRPNkNtSjF5RkdRWXhFMkFKd24zZDNQdHdmelJMNnVFeW83NnJqSk5qWlRzOHN1NlRRb0QyUkcyaURaVFc4WWlJ?oc=5",
+          "desc": "Deportivo La Coruña - Sevilla FC | Pronóstico y cuotas 16.09.2026 Diario AS",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T10:23:46+00:00"
         },
         {
           "title": "ESCOCIA CITA POR PRIMERA VEZ A ROBBIE URE",
@@ -156,27 +177,6 @@
           "desc": "El Dépor recibe al Sevilla FC invicto y con el goleador Aubameyang ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T07:48:23+00:00"
-        },
-        {
-          "title": "Respuesta a las dudas por el debut de Félix Correia: \"El Sevilla ha fichado a un gran jugador\"",
-          "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/respuesta-las-dudas-por-debut-felix-correia-sevilla-fichado-gran-jugador-20260915-546586.html",
-          "desc": "Tozé Marreco, exentrenador del extremo en su mejor momento en Portugal, pide tranquilidad al sevillismo y asegura en ESTADIO Deportivo que reúne las condiciones necesarias para que \"estén muy ilusionados con su fichaje\" Firmado en el último día de mercado, Félix Correia no pudo debutar contra el Espanyol por la expulsión de Sangante y lo hizo como titular en la victoria contra el Valencia . Un debut que generó dudas en el sevillismo e, incluso, críticas por sus prestaciones sobre el terreno de juego, especialmente en la primera media hora del encuentro. El extremo comenzó el choque nervioso y muy desacertado, si bien con el paso de los minutos se asentó y en la segunda mitad transmitió sensación de peligro , lo que no frenó la inquietud de la afición por esta incorporación debido a su puesta en escena. Dudas a las que responde con contundencia una voz más que autorizada por su conocimiento de primera mano de lo que puede aportar el lisboeta tras disfrutar su mejor versión en el fútbol uso. Tozé Marreco, su exentrenador, pide tranquilidad con Félix Correia: \"Es un gran jugador\" En este sentido, Tozé Marreco , que lo tuvo a sus órdenes en su notable paso por el Gil Vicente de la máxima categoría portuguesa, pide tranquilidad al sevillismo en declaraciones a ESTADIO Deportivo y destaca que hay razones de sobra para que en Nervión se ilusionen con la llegada de Félix Correia. Aplauso unánime al Sevilla por el fichaje de Félix Correia: \"Tiene todo lo necesario para encajar en un gran club\" Duda resuelta con Félix Correia: el Lille revela el motivo de su sorprendente cesión al Sevilla \"No hay dudas que el Sevilla ha contratado un gran jugador . Es un extremo, como decimos aquí en Portugal, de uno para uno, que conoce muy bien la parte táctica del partido, que sabe cuando jugar por dentro y más por la banda cuando es necesario. Sabe escoger el camino correcto para generar peligro\", asegura el exentrenador del futbolista sevillista, que destaca su capacidad para maximizar sus recursos: \"Tiene una velocidad simple, pero muy efectiva\". Destaca una cualidad de Correia muy valorada por García Plaza Además, pone en valor una cualidad muy demandada por Luis García Plaza en los costados. \"Es un jugador con mucho carácter y eso se ve en la manera en la que trabaja defensivamente. Siempre está disponible para ayudar al equipo en la faceta defensiva\", señaló Tozé Marreco, convencido de que tanto el Sevilla como Félix salen ganando con su cesión en el Ramón Sánchez-Pizjuán. \"Creo que en Sevilla tienen que estar muy ilusionados con Félix , porque ha contratado un jugador diferente para bien. Es un jugador que puede dar muchísimas cosas diferentes a un gran club como el Sevilla\", apunta el míster luso, que celebran que este cruce de caminos se ha producido en el momento justo. Beneficio mutuo con el fichaje oportuno de Félix Correia \"Están en un momento en el que Félix y el Sevilla pueden salir muy beneficiados por esta operación, porque os aseguro que el Sevilla ha contratado un gran jugador y para Félix es el club ideal para dar un paso más en su carrera y seguir creciendo como futbolista\", afirma a esta redacción Marreco, convencido de que el extremo le dará la vuelta a las sensaciones dejadas en su debut como nervionense por sus condiciones y virtudes en los dos flancos del ataque.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-15T07:39:05+00:00"
-        },
-        {
-          "title": "El Sevilla hace de la intensidad una de sus señas de identidad",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTEY2bVU3UGVtZGR0YnpPa2tpcm1OVnNXb3NmcVBCaks0LTh5MU5MOERxQlRORWpnM1hNNERPU3hLMXNsZTdBUnoxWXhyZWVhX2ExZEhDRXVvWUxneDhiMzZ3WlVnRVNwZVd1WDloeC1lbDdoYVMyemVra2tzb1pnMlJZaXF5Y09XNW11dHhLVGFXRWJiT1ZoWWJ4Slp5V096cUxtbDVsbVJ2LWlpNUE?oc=5",
-          "desc": "El Sevilla hace de la intensidad una de sus señas de identidad El Pespunte",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T07:12:18+00:00"
-        },
-        {
-          "title": "El Sevilla crece desde la presión alta",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmxUZnhYTE8tUWh3RTJ6N0NmbTc0ZHZidVZZUW4yZFpINW9WVk56aDYzVnNOOG02RGRFcW8yY1lpZ2g2Mmh3bzc0LXVmZlRYSjRTZHR5b2NPSFJuSUQtdjh0QVNNdHFzZjFMUXJJcWt2TG1NSGF5ZnNpNnF2LXRGemd0dVdTd9IBhgFBVV95cUxPQWkxRkpZS0E0X3YxX0VrU1hkeVl1d2VfaC1rdHVpWTJWNlktVVBzM0xla0JGMEtjSWxvTEkyZ2xHbGt4VEdHRFNHVVpLVzhEdWsya0lvVEhZTEp5OWVKWGxfQ1JsU291ZGdQaWIxWkJ0czl0MUpIaHF5STVKWjM2cXh0ZmJMQQ?oc=5",
-          "desc": "El Sevilla crece desde la presión alta MARCA",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T06:34:10+00:00"
         }
       ]
     },
@@ -184,6 +184,34 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Take Kubo, jugador de la Real Sociedad, desvela su gran afición: \"Me sumergí 15 metros y para bucear más abajo necesitas un certificado que me gustaría sacar\"",
+          "link": "https://www.estadiodeportivo.com/futbol/real-sociedad/take-kubo-jugador-real-sociedad-desvela-gran-aficion-sumergi-metros-para-bucear-mas-abajo-necesitas-certificado-que-gustaria-sacar-20260915-546610.html",
+          "desc": "El japonés se encuentra feliz en el conjunto donostiarra, \"más tranquilo\" tras conquistar la Copa del Rey, y se muestra ambicioso de cara al regreso txuri urdin a la Europa League: \"El objetivo es intentar ganarla\" La Real Sociedad ha arrancando de manera irregular la temporada, con dos victorias y tres derrotas en las seis jornadas que ha disputado. De ellas, Take Kubo solo ha partido como titular en la mitad , quedándose además sin minutos en una de ellas. Y es que, el rendimiento del japonés, como el del equipo en general, no está siendo el esperado hasta la fecha. Una situación que ni mucho menos frena la ambición del japonés, que tiene entre ceja y ceja el regreso del cuadro txuri urdin a competiciones europeas. A por todas en la Europa League Tras el paréntesis del pasado curso, los donostiarras volverán a competir en el el Viejo Continente y la primera parada será este mismo jueves ante el Bournemouth en Anoeta (a las 21:00 horas), en el arranque de la Fase Liga de la Europa League. A priori, uno de los rivales más potentes de esta fase para el equipo dirigido por Pellegrino Matarazzo , que deberá recibir también al Olympique de Lyon o visitar a la Juventus y el Crystal Palace, completando la nómina de adversarios el Viktoria Plzen checo y el Torreense portugues (en casa), así como el Union St. Gilloise belga y el Lillestrom sueco (fuera). Matarazzo advierte a Take Kubo y explica la salida de Mikel Goti: \"Nunca echo a ningún jugador\" El futuro de Kubo en la Real Sociedad: \"Si el club no me quiere echar, lo normal es que me quede en San Sebastián\" En el recuerdo de todos está la eliminación en octavos de esta misma competición hace dos temporadas, frente al Manchester United . Pero Kubo va mucho más allá de esa barrera y sueña a lo grande. \"Nuestro objetivo va a ser intentar ganar la Europa League\", ha asegurado en la web oficial de una Real Sociedad en la que cumple ya su quinta temporada. Contento de echar raíces en la Real Sociedad “Yo era un jugador que me movía año tras año de un equipo al otro y, al final, aquí estoy repitiendo un año tras otro \", ha asegurado el extremo sobre su situación en el conjunto vasco, con el que tiene contrato hasta 2029 . Aunque ha sido habitual que cada verano su nombre haya estado en el escaparate del mercado , con clubes interesados especialmente en la Primera League , al final está echando raíces en Donostia, admitiendo que la Copa del Rey conquistada esta pasada campaña ha calmado sus ansias y le ha servido para relajarse. \"De pequeño sí que lo gané todo, y me muevo al fútbol profesional y, de repente, las cosas cambian un poco. No tenía ningún trofeo como profesional hasta ahora. Estoy contento y a la vez me quité un peso de encima con la Copa ganada. Tener un trofeo en la vitrina ya te deja más tranquilo \", señaló sobre el título conquistado en La Cartuja ante el Atlético de Madrid el pasado mes de abril. Siempre se ha sentido aceptado en el fútbol español A sus 25 años, Kubo está perfectamente aclimatado a nuestro país, donde tuvo un primer paso muy joven por la cantera del FC Barcelona . Luego tuvo que regresar a Japón y el Real Madrid adquirió su pase cuando cumplió la mayoría de edad, pero nunca llegó a debutar de forma oficial con la camiseta blanca. Dos cesiones en el Mallorca y entre medias otra campaña a préstamo entre Villarreal y Getafe le sirvieron para madurar, afirmando que nunca se ha sentido rechazado en España . “Siempre tuve en mi mente el querer venir al fútbol europeo cuanto antes y en mi caso sólo podía ser a partir de los 18 años. Y en la Real, cuando llegas, lo que importa es el talento que tienes. También es importante la cultura, pero creo que los compañeros te aceptan porque eres buen jugador de fútbol. Creo que ahí no importa de qué país seas; mientras seas buen jugador, te aceptan. Y eso también une a los extranjeros”, explicó. La afición por el mar de Take Kubo Por otro lado, el futbolista nacido en Kawasaki, que elige su debut con Japón como su momento más \"bonito\" con su selección, desveló algunos de sus gustos más allá del fútbol, sorprendiendo con su objetivo en este sentido. \" A mí me gusta mucho el mar, tanto bucear como ver peces, pescar o tirarme al agua. Me gusta mucho. Siempre voy; este verano también fui. Me gustaría algún día bucear más al fondo, porque este verano me sumergí como mucho 15 metros y para bucear más abajo necesitas un certificado. Me gustaría sacármelo y ver mantas y otras cosas”, destacó.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-15T15:22:11+00:00"
+        },
+        {
+          "title": "Lamine Yamal y los números rumbo al Balón de Oro",
+          "link": "https://elpais.com/deportes/futbol/2026-09-15/lamine-yamal-y-los-numeros-rumbo-al-balon-de-oro.html",
+          "desc": "El extremo del Barcelona ya no solo brilla por talento: se queda a trabajar cada día y lo avalan sus estadísticas, mientras crece su ambición declarada por coronarse en el galardón de ‘France Football’",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-15T15:19:52+00:00"
+        },
+        {
+          "title": "Consigue una entrada doble gratis para el Atlético-Real Madrid del domingo",
+          "link": "https://www.marca.com/futbol/atletico/2026/09/15/consigue-entrada-doble-gratis-atletico-real-madrid-domingo.html",
+          "desc": "Entra en el Club MARCA y no te pierdas el derbi en el Metropolitano",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-15T17:03:50+02:00"
+        },
+        {
+          "title": "El emotivo regreso de Celine Dion a los escenarios: seis años de espera tras ser diagnosticada con una enfermedad rara",
+          "link": "https://www.eldiario.es/spin/emotivo-regreso-celine-dion-escenarios-seis-anos-espera-diagnosticada-enfermedad-rara-pm_1_13509821.html",
+          "desc": "Fue en la ceremonia de apertura de los Juegos Olímpicos de París 2024 donde la artista canadiense volvió a brillar interpretando una versión del ‘Hymne a l’amour’ en plena Torre Eiffel La canción que es la adaptación “más apasionada y romántica” de Cumbres Borrascosas: un éxito de Celine Dion de hace 30 años Frente a 30.000 personas en La Defense de París, el sábado 12 de septiembre, Celine Dion puso fin a seis años alejada de los escenarios con el primero de sus conciertos que ofrecerá en una residencia en la capital francesa que tendrá una primera tanda este otoño 2026 y una segunda en la primavera de 2027. Con ‘On Ne Change Pas’, la canción que abrió el concierto, la emoción ya estaba a flor de piel, y la cantante apenas pudo terminar los primeros versos de una actuación en la que solo estaba acompañada por un piano. “Prometí volver a los escenarios y aquí estoy” dijo la intérprete. Una vuelta que ya se gestó en París La ciudad de París está teniendo un significado especial en esta etapa de Celine Dion , siendo donde ha regresado después de una pausa de seis años debido a una enfermedad rara que le impedía cantar y actuar con normalidad, pero también fue el primer lugar donde se dio el primer paso para una vuelta que se ha confirmado este septiembre. Fue en la ceremonia de apertura de los Juegos Olímpicos de París 2024 donde la artista canadiense volvió a brillar interpretando una versión del ‘Hymne a l’amour’ en plena Torre Eiffel. Ya en ese momento afirmó que su intención era volver: “Estoy lista para hacerlo”. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-9wQ-GYnKPYM-9865', 'youtube', '9wQ-GYnKPYM', document.getElementById('yt-9wQ-GYnKPYM-9865')); }]); Y es que eran ya varios años los que llevaba lejos de los escenarios, primero debido a la pandemia de Covid-19 y luego por el diagnóstico de una enfermedad crónica y neurológica llamada ‘síndrome de la persona rígida’ , que definitivamente la llevó a cancelar su gira mundial ‘Courage World Tour’. Esta enfermedad rara afecta especialmente al control muscular, lo que lleva a sufrir crisis físicas severas, y que en el caso de Celine Dion, no permite poder cantar con normalidad al no tener el control de las cuerdas vocales. Sin embargo, años de duro entrenamiento y tratamiento le han hecho poder cumplir su promesa de regresar, y el público ha respondido con gran efusividad, con varios conciertos con entradas agotadas. La locura de la vuelta de Celine Dion La respuesta del público al regreso de Celine Dion ha sido importante, y esto se ha dejado también ver en las calles. De hecho, antes del primer concierto se instaló un karaoke gigante en la plaza de la Batalla de Stalingrado, en el distrito 19 de la capital francesa, con sesiones de DJs que acompañan el evento que está poniendo la banda sonora a la ciudad. Pero hasta incluso los medios de transporte están afectados por este evento musical, pues, por ejemplo, un estudio del portal Trainline recogido por Los 40 principales, aseguraba que la conexión aérea y ferroviaria entre España y Francia había crecido un 200% durante las fechas de la residencia de la cantante. Lista de canciones de los conciertos de Celine Dion en París On Ne Change Pas Destin Because You Loved Me Encore Un Soir Les Derniers Seront Les Premiers Tout L’or Des Hommes The Power Of Love My Heart Will Go On Beauty And The Beast She Chase J’irai Ou Tu Iras Ne Bouge Pas Dans Un Autre Monde Medley: I Feel Love / I’m Alive / That’s The Way It Is / Sweet Dreams Dansons Un Garçon Pas Comme Les Autres Courage Love Can Move Mountains The Prayer It’s All Coming Back To Me Now Je Chanterai Ebben? Ne Andró Lontana BIS All By Myself Pour Que Tu M’aimes Encore S’il Suffisait D’aimer",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-15T15:00:48+00:00"
+        },
         {
           "title": "Palo al Almería por el límite salarial: \"Eso es mentira o es verdad pero no transmite toda la realidad\"",
           "link": "https://www.estadiodeportivo.com/futbol/ud-almeria/palo-almeria-por-limite-salarial-eso-mentira-verdad-pero-transmite-toda-realidad-20260915-546609.html",
@@ -197,6 +225,13 @@
           "desc": "",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-15T16:44:24+02:00"
+        },
+        {
+          "title": "La subcontrata de Meta justifica el despido de 2.000 personas en Barcelona por causas “organizativas”",
+          "link": "https://elpais.com/espana/catalunya/2026-09-15/la-subcontrata-de-meta-justifica-el-despido-de-2000-personas-en-barcelona-por-causas-organizativas.html",
+          "desc": "Rechaza que el ERE respondiera a las demandas judiciales de los trabajadores y lo ciñe a una decisión del gigante tecnológico",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-15T14:40:41+00:00"
         },
         {
           "title": "Zubeldia se apunta al estreno europeo",
@@ -316,41 +351,6 @@
           "desc": "Rumesh Pathirage, ganador de los Juegos de la Commonwealth y la Liga de Diamante, va a denunciar a la compañía aérea por la rotura de cinco jabalinas: \"Fue un shock\", dijo su técnico",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-15T13:56:00+02:00"
-        },
-        {
-          "title": "Lily Allen habla sobre su primera vez sobria en una gira mundial: “No extraño las jodidas resacas ni apestar a alcohol”",
-          "link": "https://elpais.com/gente/2026-09-15/lily-allen-habla-sobre-su-primera-vez-sobria-en-una-gira-mundial-no-extrano-las-jodidas-resacas-ni-apestar-a-alcohol.html",
-          "desc": "La cantante británica ha revelado que esta nueva etapa en su vida la siente “distinta” tras haber dejado las drogas, la bebida y haber relatado el fracaso de su matrimonio con el actor David Harbour en su último disco",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-15T11:54:04+00:00"
-        },
-        {
-          "title": "Jacobo Ramón ya es el 'sheriff' del Como: \"Está hecho de otra pasta\"",
-          "link": "https://www.marca.com/futbol/liga-italiana/2026/09/15/jacobo-ramon-sheriff-hecho-pasta.html",
-          "desc": "El canterano del Real Madrid, clave en los planes de Cesc, fue el autor del gol que inició la victoria contra el Parma",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-15T13:51:28+02:00"
-        },
-        {
-          "title": "Sabalenka se marcha del US Open sin corona y con una multa por su comportamiento en la final",
-          "link": "https://www.estadiodeportivo.com/tenis/sabalenka-marcha-del-open-sin-corona-con-una-multa-por-comportamiento-final-20260915-546603.html",
-          "desc": "La bielorrusa se quedó sin ser centenaria como número uno del mundo por muy poco. Pero su derrota ante la kazaja Elena Rybakina, además, le ha supuesto un pellizco a su cartera Elena Rybakina se ha situado al frente de la clasificación de la WTA, desbancando así tras 99 semanas del número uno a la bielorrusa Aryna Sabalenka. La kazaja, que se impuso en tres sets a la bielorrusa este sábado en la final del Abierto de Estados Unidos, se convierte así en la trigésima mujer en la historia que llega a lo más alto de la clasificación de la WTA. Así va el ranking WTA tras el US Open 2026 Según el ranking hecho publico este lunes por la Asociación de Tenistas Profesionales, Rybakina suma 9.901 puntos por los 7.875 de Sabalenka y 7.265 de la estadounidense Jessica Pegula, que está un puesto por delante de su compatriota Coco Gauff, con 7.244. El top diez lo completan la rusa Mirra Andreeva, de 19 años, quinta con 5.743 unidades; la checa Linda Noskova, sexta con 5.328; la ucraniana Elina Svitolina, séptima con 4.809; la checa Karolina Muchova, octava con 4.683; la polaca Iga Swiatek, novena con 4.619; y la ucraniana Marta Kostyuk, décima con 3.980. La primera española en la clasificación mundial es Cristina Bucsa, quien, tras perder cuatro puestos, se sitúa ahora en el puesto 44 con 1.164 puntos, una posición por detrás de Yuliia Starodubtseva, con 1.165 unidades, y una por delante de la checa Karolina Pliskova, que suma 1.121. Otra española, Paula Badosa, es 70ª, con 955 puntos, y remonta 17 posiciones en la tabla de la WTA, mientras que Jessica Bouzas se sitúa entre las cien mejores al subir doce posiciones y es 93ª con 809 puntos. Rybakina hace llorar a Sabalenka por segunda vez en 2026 y justifica su corona de número uno del mundo En la clasificación hecha pública este lunes destaca la subida de la china Qinwn Xheng, que avanza 69 posiciones y se sitúa en la 52 ª plaza después de llegar a los cuartos de final, en los que cayó eliminada ante Rybakina, del Abierto de Estados Unidos, procedente de la fase de clasificación. La multa que se ha llevado Sabalenka en el US Open 2026 Aryna Sabalenka volvió a perder los nervios tras la final del US Open. La bielorrusa destrozó una raqueta instantes después de caer ante Rybakina y dicha actitud ha sido penalizada económicamente. Una vez revisado el código reglamentario, su hecho corresponde a una de las 6 infracciones distintas que existen en el mismo y que acarrean multas económicas en función de la gravedad de las mismas. El dinero que deben abonar se le descuenta de la cantidad pertinente del 'prize money' que hayan logrado en función de la ronda en la que hayan sido eliminados. De esta manera, la bielorrusa recibió un warning por abuso de raqueta y deberá abonar 7.500 dólares. Sabalenka needs a lesson in class. The millions of girls who admire her derseve better than this response to a loss. Tennis is a sport of elegance and grace. Celebrate Rybakinas first major win. Or at least endure it. This is an embarrassment. Just wait to break all your… pic.twitter.com/2t0duNjKvd &mdash; Jon Kalis (@jonkalis) September 13, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Su castigo es mayor que el que han tenido que pagar Cerúndolo, Svricina, Darderi, Moutet o Fils por el mismo motivo por la intensidad con la que destrozó su la raqueta y por el momento en el que lo hizo. Por este hecho, la sanción puede variar dese los 2.500$ a los 7.500$. Pero de todos los que han sido sancionados, la que se ha llevado la peor parte ha sido la jugadora italiana Luisiana Giovanini, que se retiró de su partido de primera ronda tras haber disputado y perdido 5 juegos , algo que fue interpretado por la organización como una falta de esfuerzo flagrante. Su pena económica ha sido de 20.000 dólares. Así, como pese a caer en primera ronda ya generaba 140.000$, finalmente se ha marchado de tierras norteamericanas facturando 120.000$.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-15T11:49:36+00:00"
-        },
-        {
-          "title": "Los mejores goles de la jornada: Mbappé, Adeyemi, Giuliano, Zabiri...",
-          "link": "https://www.marca.com/futbol/primera-division/2026/09/15/mejores-goles-jornada-mbappe-adeyemi-guiliano-zabiri.html",
-          "desc": "MARCA recoge los cinco mejores tantos de la jornada 5 de LaLiga",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-15T13:38:13+02:00"
-        },
-        {
-          "title": "El Gobierno aprueba la mayor inversión histórica en aeropuertos y una subida de tarifas de 3 céntimos al año hasta 2031",
-          "link": "https://www.eldiario.es/economia/gobierno-aprueba-mayor-inversion-historica-aeropuertos-subida-tarifas-3-centimos-ano-2031_1_13510792.html",
-          "desc": "El Documento de Regulación Aeroportuaria para 2027-2031 (DORA III) roza los 13.000 millones de euros, con 4.400 millones a Barajas (Madrid) y 1.765, a El Prat (Barcelona), que tiene planeada su ampliación MAPA - Así son las inversiones de Aena hasta 2031 aeropuerto a aeropuerto El Consejo de Ministros ha aprobado este martes el Documento de Regulación Aeroportuaria para el periodo 2027-2031, conocido como DORA III, que –como anunció el presidente del Gobierno hace un año – cuenta con la inversión más elevada de la historia, de cerca 13.000 millones de euros en toda la red de aeropuertos españoles gestionada por Aena . Incluye una subida de las tarifas aeroportuarias del 0,33% anual, lo que supone unos tres céntimos de euro por pasajero al año. El ministro de Transportes y Movilidad Sostenible, Óscar Puente, ha destacado el “salto inversor” de este plan respecto a los anteriores, durante la rueda de prensa posterior al Consejo de Ministros. Así, la inversión se ha más que quintuplicado respecto al DORA II, para el periodo 2022-2026, que contemplaba 2.250 millones de euros, recuerdan en Transportes. El Ministerio subraya que los casi 10.000 millones de euros de inversión regulada –aquella directamente vinculada a la actividad aeronáutica– suponen una media de cerca de 2.000 millones al año. Incremento de las tarifas “muy contenido”: 0,33% El ministro de Transportes ha anunciado el aumento de las tarifas aeroportuarias del 0,33% al año, un incremento “muy contenido”, ha destacado Puente, que ha sostenido que mantiene a los aeropuertos españoles como los que tienen “tarifas más competitivas de la Unión Europea”. El Ministerio explica que el incremento supone “apenas tres céntimos de euro por pasajero al año”. Las tarifas aéreas han sido criticadas por compañías como Ryanair, a pesar de que están entre las más bajas de Europa . Óscar Puente ha explicado que el incremento de la tarifa se ha decidido en función de la previsión de pasajeros (del 1,8% de media anual), hasta los 358 millones de viajeros en 2031, y de los gastos estimados del sistema aeroportuario. Finalmente, Transportes se ha decantado por las previsiones de un informe del Ministerio de Economía al respecto, “el más equilibrado”, ha afirmado Puente. El incremento medio anual de la tarifa propuesto inicialmente por Aena era del 3,82%, es decir de 43 céntimos de euros por pasajero, mientras que la Comisión Nacional de los Mercados y la Competencia (CNMC) recomendó una reducción del 0,59% anual durante el quinquenio, recuerda la agencia EFE. “Los aeropuertos se autofinancian. Ni un céntimo de lo que se va a gastar procede de los presupuestos ni de ningún impuesto”, ha destacado Óscar Puente, que ha recordado que su financiación parte de las tarifas de la actividad aeroportuaria, así como otros ingresos comerciales de Aena (como del alquiler de espacios o las tiendas comerciales de los aeropuertos). Modernizar y ampliar los aeropuertos Entre 2027 y 2031, Aena –propiedad del Estado en un 51%– sobre todo va a destinar esta inversión histórica a ampliar unas instalaciones que se están quedando pequeñas ante el creciente volumen de pasajeros y que tienen que mejorarse sin cesar en ellos las operaciones de vuelo. Aena ya desglosó el pasado febrero las inversiones en cada una de los aeropuertos , entre las que destacan los 4.477 millones de euros de inversión para el aeropuerto de Madrid-Barajas y la inversión de 1.765 millones corresponden a Barcelona-El Prat, que tienen pendiente su ampliación. Más de la mitad del total de presupuesto va a ir destinado precisamente a la ampliación de los grandes aeropuertos españoles , explicó Transportes hace meses, aunque a distintas velocidades. El motivo, por ejemplo, que los planes en Madrid están más avanzados que en Barcelona. Puente ha desgranado algunas de las finalidades de los 13.000 millones del DORA III, como los 3.240 millones de euros para el mantenimiento y conservación de la red de Aena, los 1.650 millones de euros al refuerzo de la seguridad, cerca de 660 millones para potenciar “la intermodalidad” (con otros medios de transportes) y para avanzar en la descarbonización e impulsar la sostenibilidad del sistema aeroportuario, y casi 400 millones servirán para mejorar los sistemas de transporte de equipajes.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-15T11:29:11+00:00"
         }
       ]
     },
@@ -359,32 +359,39 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Who impressed our Power Rankings judges in Madrid?",
+          "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-spanish-grand-prix.1WDmXXNVzYQTsurO3RJpUe",
+          "desc": "Victory went to Kimi Antonelli at the Spanish Grand Prix after the timing of the Virtual Safety Car scuppered Lando Norris’ efforts. But who impressed our Power Rankings judges over the course of the weekend at the all-new Madring? Check out the latest scores and overall leaderboard below...",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-15T15:30:20.828507+00:00"
+        },
+        {
           "title": "How Sainz’s home race in Madrid unravelled",
           "link": "https://www.formula1.com/en/latest/article/how-sainzs-home-race-in-madrid-unravelled-as-williams-struggle.31dSI72gYFXpOTfpr37Jp0",
           "desc": "Carlos Sainz did not see the chequered flag in Madrid, the Spaniard having a torrid race on home soil.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T15:00:17.814509+00:00"
+          "fecha": "2026-09-15T15:30:20.828507+00:00"
         },
         {
           "title": "Mekies assesses Lawson's Red Bull stint after Madrid",
           "link": "https://www.formula1.com/en/latest/article/mekies-praises-lawsons-very-strong-red-bull-stint-after-sixth-in-madrid.2LEwblt3NqOTvbiH6ccqwW",
           "desc": "Red Bull Team Principal Laurent Mekies was full of praise for stand in driver Liam Lawson after the Spanish Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T15:00:17.814509+00:00"
+          "fecha": "2026-09-15T15:30:20.828507+00:00"
         },
         {
           "title": "Norris' Madring misery creates Baku betting value",
           "link": "https://www.formula1.com/en/latest/article/lando-norris-madring-misery-creates-fresh-baku-betting-value-for-title-hopeful.3d9zXvQBVHuPWYgJF2KLEc",
           "desc": "The McLaren star failed to convert his Spanish Grand Prix pole into a third win of the season, but the defending World Champion is still the in-form driver heading to Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T15:00:17.814509+00:00"
+          "fecha": "2026-09-15T15:30:20.828507+00:00"
         },
         {
           "title": "What we learned from F1's first visit to the Madring",
           "link": "https://www.formula1.com/en/latest/article/what-we-learned-from-f1s-first-visit-to-the-madring.7gkOP8vYszgWmb9e2SyfgD",
           "desc": "Plenty of talking points emerged as the Madring made its debut on the Formula 1 calendar.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T15:00:17.814509+00:00"
+          "fecha": "2026-09-15T15:30:20.828507+00:00"
         },
         {
           "title": "El renacer de Marc Márquez sacude el mundial de MotoGP: “Estaba jugando un poco con nosotros”",
@@ -518,13 +525,6 @@
           "desc": "El piloto chileno, que este año ha competido en el IMSA americano, es la nueva joya del asturiano",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-14T22:18:17+02:00"
-        },
-        {
-          "title": "El tiempo, implacable, nos come los pies",
-          "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/tiempo-implacable-come-pies_132_13509407.html",
-          "desc": "Es insoportable ver pululando por las tierras ceutíes a centenares, quizá miles, de seres fantasmales sin que un Estado europeo del siglo XXI sea capaz de encontrarles techo y darles comida y aspirinas, más de un mes después de aquel nefasto 31 de julio El tiempo, el implacable -siempre Pablo- tiende a hacernos trampas. Exacto y riguroso hasta la desesperación, un segundo, un minuto, una hora, un día, una semana, un mes, un año. Implacable, lo dijo Milanés. Así diluvie o luzca un sol resplandeciente, los terremotos asolen países enteros, los tsunamis se coman centenares de kilómetros de costa, unos asesinos bombardeen Gaza, otros se estrellen contra las Torres Gemelas, el reloj ni se inmuta. Segundo a segundo, minuto a minuto. Tic, tac, tic, tac. Pero nuestra percepción del tiempo no es esa. Ni mucho menos. Los días se nos hacen eternos en el trabajo tedioso, pero vuelan mientras nos bañamos en la playa. Menos vueltas y revueltas, que el Ojo ha decidido hoy cambiar de vía y adentrarse en caminos abstrusos, pero todo tiene un límite y vamos a lo que vamos: habrá elecciones en 2027, porque es cuando tocan, nos anunció Pedro Sánchez hace muchísimo tiempo. Una eternidad nos pareció entonces. Pues hoy, ya ven ese trampantojo maldito del tiempo, el 2027 se nos ha echado encima y las urnas, que tan lejanas veíamos, hoy las tenemos esperando ahí mismo, a la vuelta de la esquina. Reloj, no marques las horas, que tu tic-tac me recuerda mi irremediable dolor. Han sido cuatro años, que digo cuatro, ocho, de asedio permanente, de guerra sin prisioneros, de napalm para borrar de la Tierra a comunistas y bolivarianos comandados por ese perro Sanxe, más bien Belcebú, esa tragedia que ha destrozado a nuestra España querida, te llevo en el alma. Esta derecha que tenemos enfrente, salvaje, despiadada, canallesca, sucia y vengativa, no va a parar en su campaña de destrucción. Cuenta para ello con los ricos del mundo, con los jueces de togas embarradas, con una prensa repugnante y un entorno mundial que favorece el sindiós de esta extrema derecha que desde Reagan ha irradiado Estados Unidos hacia el mundo, hasta llegar a esa excrecencia que se llama Donald Trump, la aberración suprema de un sistema corrupto y corruptor. Porque quien piense que una cosa no viene atada con la otra, ya saben, aquello de los racimos, es que no sabe dónde tiene la mano izquierda y la derecha. O sea, los llamados estúpidos neutrales. Claro que no se trata de mecanicismos baratos ni silogismos de barra de bar, este manda y aquel obedece o esto pasa porque si “a” hace “b” y “b” hace “a” tiene que pasar “c”. Es todo un poco más complejo, pero quien piense que la subida estrepitosa de los neonazis alemanes de Afd no tiene nada que ver con el poderío de Trump, o que este no se retroalimenta con los Musk de este universo nuevo es que cree que existen los unicornios. Las corrientes poderosas en el mundo invierten miles de millones en arrasar a las izquierdas con todos los medios, legales e ilegales que tienen a su alcance. Y cuando no pueden lograr sus objetivos, utilizan la fuerza bruta. Hartos estamos de verlo en todo el universo y todavía nos creemos que los Reyes Magos existen. ¿Tampoco creen ustedes que las negras togas actúan en la misma dirección que Feijóo y Abascal para acabar con Pedro Sánchez, no digo si hay una relación de amo y esclavo, pero sí una evidente confluencia de intereses? Si así lo piensan, es que ustedes no son tuertos, como este Ojo, son ciegos, pero de entendederas, y desgraciadamente no tienen remedio. Desahuciados. Deberíamos pensar si la espantosa dificultad de comprensión de los alumnos que muestra el informe Pisa es culpa de los profesores o de esos padres y esas madres que no ven, ni entienden, ni quieren ver ni entender lo que tienen delante. O sea, de tales asnos, tales pollinos. Acostumbra el Ojo a comentar, con lágrimas que ustedes no ven, los hechos que cada semana acontecen en las rúas españolas. Lo que nos llevaría hoy a volver a hablar de las negras, negrísimas togas, ese gigantesco disparate de la ley de nietos, para simplificar, o la bizarra intervención de la presidenta del CGPJ y del Supremo, Isabel Perelló, ejemplo bochornoso de una justicia más que ofuscada, además de arrogante y pendenciera. Y deberíamos guardar algún espacio, pequeñito, que la interfecta tampoco se merece más, para esa reina del vermú, Isabel Díaz Ayuso de nombre, tan proclive a los fastos de la Fórmula 1 y similares, donde puedan disfrutar todos los vips que tanto la quieren porque tanto le deben, desde el rey hasta el último cayetano. El ático, señora, el ático. O de Ceuta, claro, vergonzante y maliciosa actuación por parte del PP y Vox, primero, de la miserable Europa que hoy nos avergüenza, después, con los extemporáneos, pero significativos, exabruptos de Trump, Musk, Israel o el Aznar miserable que todos conocemos. Y de postre, qué miedo, chihuahua ladrador, García Page. Lo cual no debe ocultarnos esa guerra de Gila que hemos tenido que soportar, servicios de inteligencia que se comunican por wasap, hola, tío, soy el espía, que dice el enemigo que tengamos cuidado. Vale que se peleen los ministros, pero es que ahora están a la greña hasta los jefes de gabinete, que pronto veremos la encarnizada batalla entre conserjes de los distintos ministerios. Un horror. Es insoportable ver pululando por las tierras ceutíes a centenares, quizá miles, de seres fantasmales sin que un Estado europeo del siglo XXI sea capaz de encontrarles techo y darles comida y aspirinas, más de un mes después de aquel nefasto 31 de julio. Ninguna entrevista de televisión, ninguna intervención parlamentaria puede librar a Pedro Sánchez del oprobio que nos acongoja ¿Que el popular Vivas protesta? Como si se opera. El Gobierno debe hacer lo que corresponde y tomar las decisiones jurídicas que sea menester. Mando único y todo lo que haga falta. Sabemos de la complejidad de solucionar las corrientes de fondo, el drama universal de la emigración o las peleas geopolíticas, devolver a los marroquíes o a los senegaleses, menores o mayores, al tiempo que respetar sus derechos, pero muestren, ya, en un día, dos días, una semana, que saben cómo solucionar los problemas de logística. Es lo mínimo exigible a un gobierno eficiente. Primero, el techo, luego la política. Pero volvamos al comienzo, que íbamos por buen camino, pero enseguida nos hemos ido de carril. Decíamos, así, a pelo, que el tiempo se nos agota. Amanecimos un día en el que quedaban cuatro años para resolver los grandes problemas de esta sociedad, digamos la vivienda. Pues ahora nos quedan, como mucho, nueve meses. Nada, lo que dura un embarazo, larga espera sin duda para la madre, pero efímera para el ginecólogo. Decía el alcalde de Nueva York, Zoran Mandami en una entrevista en El País que “La democracia no sirve si la gente no puede cubrir sus necesidades”. Teníamos muchos problemas sociales entonces y seguimos teniendo muchos problemas sociales hoy. Y muy poco tiempo para solucionar, o paliar, cuando menos, algunos de ellos. ¿Cómo es posible que vayamos a enfrentar el último trimestre del año con la amenaza de una huelga general de médicos, con los alquileres en capas estratosféricas, con salarios siempre por debajo del coste de la vida? Ya sabemos que las fuerzas extraterrestres de las que hemos hablado, los tribunales y sus sentencias, por ejemplo, tienen vida propia, como los Alien de Ridley Scott, pero tenemos que ser capaces de encontrar salida para alguna de las crisis que nos aprietan. Y hay que demostrarlo antes de ser llamados a las urnas. O la izquierda demuestra, más pronto que tarde, nos pilla el tren, que es útil para las gentes de a pie, al tiempo que hace evidente las promesas mentirosas de la derecha o el futuro se presenta negro. Y el Ojo, y seguro que muchos de ustedes, no quieren que pase eso. Aceleración a tope, los malos van a seguir cortando cuellos, pero los buenos tenemos que ofrecer soluciones gigantescas, espectaculares. Y saber venderlas. Ayer ya es tarde. Y conste que el trabajo no solo les corresponde a los socialistas, aunque en primerísimo lugar, por supuesto, les corresponde a ellos. Es que la izquierda más izquierda llega en cueros, desnudas todas sus debilidades, costurones al descubierto, heridas que no han sabido cerrar en toda la legislatura. ¿No podían aprender un poquito de la marcialidad de la derecha, cierren filas, ajusten las bayonetas y a los higadillos del enemigo? Las discusiones sobre el tamaño de las raciones, cuando hayamos ganado y tengamos algo que repartir. Adenda. A todas esas fuerzas oscuras que nos han exprimido durante años, los consorcios económicos y multinacionales o el complejo político militar, se ha unido últimamente la apocalíptica amenaza de la Inteligencia Artificial, en manos de unos lunáticos tecnomultimillonarios, siempre aliados con esas fuerzas descomunales que ya existían. Porque se necesitan miles y miles de millones para engordar al monstruo, y como es obvio, el dinero está en las manos que todos sabemos. Malo, espantoso, terrorífico es que esa potencia casi infinita se quede en las garras de unos cuantos aventados, gentes sin escrúpulos, que si antes los genios eran tipos despistados y melenudos, hoy son listísimos hombres de negocios expertos en saberes indescifrables, pero también en cómo sacar dinero -y mucho, muchísimo dinero- debajo de esas fórmulas mágicas. Y son, también, profundamente reaccionarios. Locos, sí, pero de avaricia. Pero aún nos aterra más, se nos acaban los adjetivos, ante ese horizonte pavoroso, espeluznante, enloquecedor que se dibuja en los últimos tiempos de que sean las propias máquinas, sin control humano, quienes decidan qué, cómo y cuándo actuar. ¿Puede alguien frenar esta barbaridad? ¿Es posible alguna regulación independiente, que no esté al servicio de sus dueños? Y en esa batalla galáctica entre los señores de Estados Unidos -Trump mediante- y China, ¿tenemos las organizaciones europeas, los gobiernos de nuestro continente, algo que decir o hacer? Y ya puestos, ¿qué pintamos en esta película de ciencia ficción usted, por ejemplo, o mismamente el Ojo? ¡Qué distinta era la vida hace 10.000 años, cuando veías al tipo cejijunto y malencarado que venía a por ti con un garrote gigantesco!",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-14T20:09:59+00:00"
         }
       ]
     },
@@ -532,6 +532,55 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Salesforce refuerza sus alianzas con Nvidia, Google Cloud y AWS para integrar la IA en el entorno empresarial",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWnkyME9PdDl4Uy1tOWROaE5RdDBOVzVLQld0RGhCRmVKUWpFYlp2eDdsaFhpLVFwdUl2dXZIbjA2cUlsd2pCZHdBQmdNNzQ4Ty03WTM5eTVEdlhDQ1VualBjWWpFdDJYdjduQXl2bTZHQmRhMDZTMTZncXMzQTFaREZGTi1qNGVSV3VFLUY5UzhfTF96aGVST1FOZmZzaFk0VDV1ZUZjNWpRR2dBbGFQaDFnV2FtSGlidjhmZ3E1RDV3VDFWZFM5VFZuUThFVlJHRXRIMmJJV1BUUUNTODg2Q1pwZWxoUE1NeHYw?oc=5",
+          "desc": "Salesforce refuerza sus alianzas con Nvidia, Google Cloud y AWS para integrar la IA en el entorno empresarial MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:14:16+00:00"
+        },
+        {
+          "title": "Asus' ludicrous 20th anniversary bundle is now the cheapest way to buy an RTX 5090 — Nvidia's flagship GPU stock is so limited that this $10,850 bundle with a 3000W PSU, X870E board, and open-frame case is actually cheaper than some scalper listings",
+          "link": "https://www.tomshardware.com/desktops/gaming-pcs/asus-ludicrous-20th-anniversary-bundle-is-now-the-cheapest-way-to-buy-an-rtx-5090-nvidias-flagship-gpu-stock-is-so-limited-that-this-usd10-850-bundle-with-a-3000w-psu-x870e-board-and-open-frame-case-is-actually-cheaper-than-some-scalper-listings",
+          "desc": "This ultra-premium Asus ROG Edition 20th Anniversary Combo set at Newegg is super expensive at $10,849.96, but ironically, it's the 'cheapest' way to pick up an RTX 5090 right now.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-15T15:13:16+00:00"
+        },
+        {
+          "title": "007 First Light se ve mejor que nunca en PC gracias al Path Tracing oficial: estos son los requisitos para activarlo",
+          "link": "https://vandal.elespanol.com/noticia/2026258025/007-first-light-se-ve-mejor-que-nunca-en-pc-gracias-al-path-tracing-oficial-estos-son-los-requisitos-para-activarlo/",
+          "desc": "IO Interactive actualiza 007 First Light con 'path tracing' en PC, y confirma los nuevos requisitos para disfrutar de la mejor iluminación. IO Interactive ha lanzado una actualización de PC para 007 First Light que introduce path tracing de manera oficial en su aventura con James Bond . Esta no es la única novedad del juego en las últimas horas, que ha confirmado un nuevo retraso en Nintendo Switch 2 . Esta iluminación avanzada consigue que 007 First Light se vea mejor que nunca con más calidad: \"Esta nueva actualización con path tracing aporta una iluminación, sombras y reflejos más detallados a la cinematográfica aventura de James Bond, mientras que DLSS Ray Reconstruction garantiza que la fidelidad, claridad y precisión de estos añadidos alcancen su nivel máximo\", dice el estudio. Así luce 007 First Light con path tracing Para activar el path tracing , se necesita al menos un Intel Core i5 13500 o un AMD Ryzen 5 7600 con 16GB de RAM y una NVIDIA GeForce RTX 5070; con este equipo se consigue una resolución de 1080p y 60 fps con el ajuste de path tracing en medio. Para una resolución nativa de 1440p a 60 fps con path tracing a calidad media se necesita el mismo equipo que en los requisitos mínimos, pero con una RTX 5080 . Si lo que buscas es la experiencia más espectacular, con resolución 4K y path tracing en alto , se pide un Intel Core i5 13600K o un AMD Ryzen 7 7700X con 32GB de RAM y NVIDIA GeForce RTX 5090. Junto con DLSS 4.5 y Multi-Frame Gen se pueden conseguir más de 200 fps. El parche tiene un tamaño de 11 GB y ya está disponible . Aquí encontraréis nuestro análisis y su guía .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-15T15:10:00+00:00"
+        },
+        {
+          "title": "Intel podría suministrar una CPU x86 para NVIDIA Rosa Feynman, según Jeff Pu",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWUxb2l2SnY2RWVXV0ZRY1NaZ2RvTnNkMGJBWjlKLXctR1RWWXhqSkhoZnhRaUYzSmoxd01UNlNHUTdvZTQ1Z3VTT3JGRkZNa0lpSGZMdjJsMHlUOGpiR2ljSVQtV19xNmlUUTZHNXpuU1hPWW53cDV6RlFOaDRWanMwTU1DN1pwa05XQWJqWERIbXd1Q2xzRVY4Y2ZCWkk3LU9qa1owc0hmaE11?oc=5",
+          "desc": "Intel podría suministrar una CPU x86 para NVIDIA Rosa Feynman, según Jeff Pu Fanáticos del Hardware",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:07:24+00:00"
+        },
+        {
+          "title": "AIDA64 8.40 añade soporte preliminar para AMD Zen 7 y abandona los sistemas Windows de 32 bits",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaGZZLU9qWHhnQ1hXcGN5T21xZ1NmZy14MTBRYnl6VW9TLUVtS2FfY0xPbnhucTl5NGNPN0lVam5NUERTS3lnNGRxMWRVUzFCX2kwNzNKdWM3SVFDNU1yYW5mUlpIazF0WHpFTmdXTFA3NUlnS2FVenliM2I3cmd2YWp5UGp2aDVjT0hhSFNsUkk0Q2NZS3R3ejRIdDRha0o3U0pqbXJSdFE0cDRBczlXbDRIQlduWGs4YnlfUmJvUWxmZ3dXRU84dHJwS0xZMHVPbHEw?oc=5",
+          "desc": "AIDA64 8.40 añade soporte preliminar para AMD Zen 7 y abandona los sistemas Windows de 32 bits Geeknetic",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:06:45+00:00"
+        },
+        {
+          "title": "El emotivo regreso de Celine Dion a los escenarios: seis años de espera tras ser diagnosticada con una enfermedad rara",
+          "link": "https://www.eldiario.es/spin/emotivo-regreso-celine-dion-escenarios-seis-anos-espera-diagnosticada-enfermedad-rara-pm_1_13509821.html",
+          "desc": "Fue en la ceremonia de apertura de los Juegos Olímpicos de París 2024 donde la artista canadiense volvió a brillar interpretando una versión del ‘Hymne a l’amour’ en plena Torre Eiffel La canción que es la adaptación “más apasionada y romántica” de Cumbres Borrascosas: un éxito de Celine Dion de hace 30 años Frente a 30.000 personas en La Defense de París, el sábado 12 de septiembre, Celine Dion puso fin a seis años alejada de los escenarios con el primero de sus conciertos que ofrecerá en una residencia en la capital francesa que tendrá una primera tanda este otoño 2026 y una segunda en la primavera de 2027. Con ‘On Ne Change Pas’, la canción que abrió el concierto, la emoción ya estaba a flor de piel, y la cantante apenas pudo terminar los primeros versos de una actuación en la que solo estaba acompañada por un piano. “Prometí volver a los escenarios y aquí estoy” dijo la intérprete. Una vuelta que ya se gestó en París La ciudad de París está teniendo un significado especial en esta etapa de Celine Dion , siendo donde ha regresado después de una pausa de seis años debido a una enfermedad rara que le impedía cantar y actuar con normalidad, pero también fue el primer lugar donde se dio el primer paso para una vuelta que se ha confirmado este septiembre. Fue en la ceremonia de apertura de los Juegos Olímpicos de París 2024 donde la artista canadiense volvió a brillar interpretando una versión del ‘Hymne a l’amour’ en plena Torre Eiffel. Ya en ese momento afirmó que su intención era volver: “Estoy lista para hacerlo”. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-9wQ-GYnKPYM-9865', 'youtube', '9wQ-GYnKPYM', document.getElementById('yt-9wQ-GYnKPYM-9865')); }]); Y es que eran ya varios años los que llevaba lejos de los escenarios, primero debido a la pandemia de Covid-19 y luego por el diagnóstico de una enfermedad crónica y neurológica llamada ‘síndrome de la persona rígida’ , que definitivamente la llevó a cancelar su gira mundial ‘Courage World Tour’. Esta enfermedad rara afecta especialmente al control muscular, lo que lleva a sufrir crisis físicas severas, y que en el caso de Celine Dion, no permite poder cantar con normalidad al no tener el control de las cuerdas vocales. Sin embargo, años de duro entrenamiento y tratamiento le han hecho poder cumplir su promesa de regresar, y el público ha respondido con gran efusividad, con varios conciertos con entradas agotadas. La locura de la vuelta de Celine Dion La respuesta del público al regreso de Celine Dion ha sido importante, y esto se ha dejado también ver en las calles. De hecho, antes del primer concierto se instaló un karaoke gigante en la plaza de la Batalla de Stalingrado, en el distrito 19 de la capital francesa, con sesiones de DJs que acompañan el evento que está poniendo la banda sonora a la ciudad. Pero hasta incluso los medios de transporte están afectados por este evento musical, pues, por ejemplo, un estudio del portal Trainline recogido por Los 40 principales, aseguraba que la conexión aérea y ferroviaria entre España y Francia había crecido un 200% durante las fechas de la residencia de la cantante. Lista de canciones de los conciertos de Celine Dion en París On Ne Change Pas Destin Because You Loved Me Encore Un Soir Les Derniers Seront Les Premiers Tout L’or Des Hommes The Power Of Love My Heart Will Go On Beauty And The Beast She Chase J’irai Ou Tu Iras Ne Bouge Pas Dans Un Autre Monde Medley: I Feel Love / I’m Alive / That’s The Way It Is / Sweet Dreams Dansons Un Garçon Pas Comme Les Autres Courage Love Can Move Mountains The Prayer It’s All Coming Back To Me Now Je Chanterai Ebben? Ne Andró Lontana BIS All By Myself Pour Que Tu M’aimes Encore S’il Suffisait D’aimer",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-15T15:00:48+00:00"
+        },
+        {
+          "title": "La subcontrata de Meta justifica el despido de 2.000 personas en Barcelona por causas “organizativas”",
+          "link": "https://elpais.com/espana/catalunya/2026-09-15/la-subcontrata-de-meta-justifica-el-despido-de-2000-personas-en-barcelona-por-causas-organizativas.html",
+          "desc": "Rechaza que el ERE respondiera a las demandas judiciales de los trabajadores y lo ciñe a una decisión del gigante tecnológico",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-15T14:40:41+00:00"
+        },
         {
           "title": "Ubisoft regala en PC, por tiempo limitado, uno de sus grandes éxitos de la última década",
           "link": "https://vandal.elespanol.com/noticia/2026258024/ubisoft-regala-en-pc-por-tiempo-limitado-uno-de-sus-grandes-exitos-de-la-ultima-decada/",
@@ -650,55 +699,6 @@
           "desc": "NVIDIA actualiza 007 First Light con path tracing y lleva DLSS 4.5 a No Man’s Sky y Active Matter Profesional Review",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T13:01:12+00:00"
-        },
-        {
-          "title": "Pronóstico de NVIDIA, AMD e Intel: las acciones de IA buscan un rebote",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGx1ZGJzR094UF92OG1fQlJLWnpDTXlQRUwxOEJsXzBTUVRBbzRVSFliMVg4UGozdGY5OWJkZ2kwd0p4UFczck5TV0JUY0V0WHcwMjJQY3lMV2p2bklZd3ZWTzFvMjZ6bzJCUi1qb244YmR5R1FoQ295Z0t1eEJpVVpKVEhrRDBjbjhFaFhvX2JHX1l2UFczb3RhT0F4VkN6ekNVMWdfN05yRUt5ZzJxR3lORlU3Zm53?oc=5",
-          "desc": "Pronóstico de NVIDIA, AMD e Intel: las acciones de IA buscan un rebote FXEmpire",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T12:58:00+00:00"
-        },
-        {
-          "title": "Dragon Ball Xenoverse 3 tiene nuevos protagonistas: el nuevo Goku estará acompañado de estos personajes en 2027",
-          "link": "https://vandal.elespanol.com/noticia/2026258019/dragon-ball-xenoverse-3-tiene-nuevos-protagonistas-el-nuevo-goku-estara-acompanado-de-estos-personajes-en-2027/",
-          "desc": "Desde la V-JUMP llegan nuevas imágenes de los avatares de Dragon Ball Xenoverse 3: los nuevos protagonistas de la historia que va más allá de Dragon Ball Z. Dragon Ball Xenoverse 3 muestra en detalle a sus nuevos avatares a través de una serie de ilustraciones de la V-JUMP, confirmando la amplia personalización del título de Bandai Namco . Como en anteriores ocasiones, los jugadores podrán escoger diferentes razas para protagonizar la nueva aventura de la popular saga de la franquicia, con movimientos y habilidades procedentes de múltiples leyendas de la obra de Akira Toriyama . XENOVERSE 3 V-Jump scans showcasing different CACs. pic.twitter.com/ZVc7iBqnBN  Hype (@DbsHype) September 14, 2026 Dragon Ball tiene nuevos protagonistas: el nuevo Goku estará acompañado de estos personajes en el gran proyecto de 2027 Y lo mejor es que en esta ocasión esos nuevos protagonistas acompañarán a un Goku con un aspecto renovado -y adecuado a la West City del año 1000- y más futurista. A través de una filtración de los logros de Steam ya hemos podido echar un vistazo a cómo luce este \"nuevo\" Kakarot y lo cierto es que es una maravilla, con ciertas reminiscencias al Goku Xeno de Super Dragon Ball Heroes . Filtraciones / leaks de Dragon Ball Xenoverse 3 revelan nuevo atuendo de Goku y Chronoa; además ¿un nuevo Dios de la Destrucción del tiempo? Tómenlo con pinzas, son parte de los logros del juego. 😎 pic.twitter.com/qquzwfiOMq  DBSuperHD M𝕏  (@DBSuperHDMX) September 9, 2026 Los diferentes avances de Dragon Ball Xenoverse 3 postulan al juego, por ahora, como la entrega más completa de la saga y en uno de los videojuegos más importantes de la franquicia , puesto que presentará una historia ubicada unos 200 años tras el final de Dragon Ball Z , en un escenario cambiado con los protagonistas de antaño dando el relevo a nuevas generaciones de protectores de la Tierra. Por ahora, el proyecto no tiene fecha de lanzamiento definitiva , más allá de que llegará en 2027 para PS5, Xbox Series y PC, pero esperemos que desde Bandai no tarden demasiado en marcar un día en el calendario para poder abordar esta aventura completamente nueva que no va a limitarse, simplemente, a repetir los arcos de Dragon Ball que todos conocemos.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-15T12:24:00+00:00"
-        },
-        {
-          "title": "La Fiscalía Europea investiga a la Fundación Legado Bustillo por un posible fraude en las subvenciones",
-          "link": "https://www.eldiario.es/castilla-la-mancha/fiscalia-europea-investiga-fundacion-legado-bustillo-posible-fraude-subvenciones_1_13510287.html",
-          "desc": "Patronos de la institución benéfica de La Solana, en Ciudad Real, mantienen que se han contratado y subcontratado servicios a empresas que tienen vínculos y relación con el actual director de la fundación, que fue apoderado de una de ellas en 2023. La Fundación remite a un comunicado en los próximos días UGT acusa a una fundación benéfica en Ciudad Real de negar el permiso de cinco días por hospitalización a sus trabajadores La Fundación Legado Bustillo es una institución benéfica que se dedica a la formación, la educación, el medioambiente y la ayuda social en el municipio de La Solana (15.000 habitantes, Ciudad Real). Ahora, la Fiscalía Europea ha iniciado una investigación tras la denuncia de tres de los patronos, nombrados por el PSOE, para dilucidar si el dinero que ha recibido del plan de recuperación de la Unión Europea tras la covid ha sido empleado en un fraude, al contratar a empresas vinculadas y favorecerlas. El hecho que se investiga, que se enmarca en el anterior patronato y en los años 2024 y 2025, es si se contrató con dinero de las subvenciones a empresas para prestar servicios que podrían tener vinculación con Miguel Ruiz García, el director de la Fundación. Máximo Díaz-Cano, portavoz de los patronos críticos y denunciante ante la Fiscalía, ha explicado a elDiario.es que hay empresas recurrentes, con vínculos directivos compartidos, que se llevan contratos para desarrollos de app, servicios de asistencia externa o redacción de planes estratégicos. Entre ellas, tal y como ha podido constatar este medio con documentación, estarían la asociación 'Steam para nosotras' o la empresa Educacem. En esta última estaría uno de los nexos que se denuncian. El actual director de la Fundación, Legado Bustillo, fue apoderado de la empresa en 2023, cediéndole este puesto más tarde a Antonio del Saz, que aparece también como administrador de otra empresa que se ha llevado proyectos de la Fundación: Proyectos Culturales y Educativos SL. La presidenta de la asociación Steam aparece también en esta última empresa y en Educacem. Todas han facturado a la Fundación Legado Bustillo. El montante que se cobró a la fundación, según recoge el decreto de inicio de la investigación, es de unos 450.000 euros en facturas dedicadas, entre otras cosas, a “identificación de cultivos minoritarios” por 4.700 euros, o “asistencia externa” por 4.000, entre otros desarrollos, como el del plan estratégico del azafrán o los 120.000 euros destinados a un “servicio de asistencia externa en programación educativa”. Esta última factura tiene un anexo en el que se explica el trabajo, a petición de Díaz-Cano, resultando ser de técnica agrícola y ejecutado por otras empresas y la fundación Cellbitec, que también ha sido señalada como una de las denunciadas en el escrito de la Fiscalía. Díaz-Cano señala que ha informado al actual patronato de la situación jurídica y, junto a los otros dos miembros nombrados por el PSOE, ha pedido que se personen como acusación particular en el caso para aclarar si se produjo un fraude y que se suspenda cautelarmente de empleo y sueldo al actual director hasta que se finalice la investigación. La Fundación ha declinado hacer declaraciones a elDiario.es remitiéndose a un posible comunicado en los próximos días.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-15T12:17:32+00:00"
-        },
-        {
-          "title": "Portable Computer de Perplexity llega a Windows con soporte para NVIDIA GeForce RTX",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjB2emRKZWJGeGw1STctNWlnZEVLVmx4c0haS2dkV2dxUVRfclFZek94YzJFS0FQb1N5c0F3NWpuQVJjelVBdWROVm55Zjk5TVJfMWZRTVpEWW1CNWctX2JPRU5Wc2dLVlN4OV9SM0FpNUROdmFYQ1ZPTXhjdVlMOVM1MDFETWxOZ2pJV3ZRVFcxTUJaX2c0dmJ5N29pRTJrSS0yTmktai1uRFVnMS1TU3hpeWNOVkE?oc=5",
-          "desc": "Portable Computer de Perplexity llega a Windows con soporte para NVIDIA GeForce RTX ITSitio",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T12:15:57+00:00"
-        },
-        {
-          "title": "Si encuentras GTA 6 para descargar antes de su lanzamiento, no lo abras",
-          "link": "https://www.20minutos.es/tecnologia/ciberseguridad/si-encuentras-gta-6-descargar-antes-su-lanzamiento-no-abras-es-malware-destruir-archivos-ordenador_7036856_0.html",
-          "desc": "La supuesta copia filtrada del juego esconde un software malicioso capaz de robar información, tomar el control del equipo e incluso hacer que se pierdan archivos.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-15T14:11:49+02:00"
-        },
-        {
-          "title": "Meta filtra por error Project Phoenix, su nuevo visor de realidad mixta para 2027",
-          "link": "https://www.20minutos.es/tecnologia/moviles-dispositivos/meta-filtra-error-project-phoenix-nuevo-visor-realidad-mixta_7036830_0.html",
-          "desc": "Meta filtra su nuevo visor de realidad mixta que combina las Meta Quest Pro con el diseño de las gafas Ray-Ban.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-15T14:11:29+02:00"
-        },
-        {
-          "title": "ChatGPT utiliza chats reales revisados por humanos para entrenar su IA: cómo evitar que ocurra con los tuyos",
-          "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/chatgpt-conversaciones-revisadas-humanos-project-lily-como-evitarlo_7036842_0.html",
-          "desc": "Una investigación revela Project Lily, el programa con revisores humanos de conversaciones reales de ChatGPT. Así puedes reducir al máximo que usen las tuyas.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-15T14:10:43+02:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "El Santander gana la batalla histórica contra AXA por el pago de 800 millones en Reino Unido",
+          "link": "https://cincodias.elpais.com/companias/2026-09-15/el-santander-gana-la-batalla-historica-contra-axa-por-el-pago-de-800-millones-en-reino-unido.html",
+          "desc": "La justicia británica da un giro en el conflicto entre el banco y la aseguradora por la comercialización de pólizas de protección de pagos hace 20 años",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-15T14:57:24+00:00"
+        },
         {
           "title": "Palo al Almería por el límite salarial: \"Eso es mentira o es verdad pero no transmite toda la realidad\"",
           "link": "https://www.estadiodeportivo.com/futbol/ud-almeria/palo-almeria-por-limite-salarial-eso-mentira-verdad-pero-transmite-toda-realidad-20260915-546609.html",
@@ -730,7 +737,7 @@
         {
           "title": "La UE permitirá a los trabajadores reclamar la Seguridad Social y el seguro de enfermedad en cualquier país de la UE",
           "link": "https://www.eldiario.es/economia/ue-permitira-trabajadores-reclamar-seguridad-social-seguro-enfermedad-pais-ue_1_13510953.html",
-          "desc": "La medida prevé que una aplicación digital facilite a las personas solicitar y recibir documentos de seguridad social íntegramente por internet, incluida la Tarjeta Sanitaria Europea y el documento A1 para los trabajadores desplazados Las empresas deberán revelar a los trabajadores si usan algoritmos para fijar salarios, ascensos o despidos La Comisión Europea ha anunciado este martes que ha aprobado la norma sobre Movilidad Laboral Justa para que los trabajadores europeos puedan acreditar y reclamar sus derechos en materia de seguridad social y seguro de enfermedad en toda la UE. Bruselas asegura que la medida garantizará los derechos sociales de los ciudadanos, independientemente de dónde decidan vivir y trabajar, además de que facilitará que las cualificaciones sean comprensibles en cualquier lugar de la UE y reconocidas formalmente cuando se trate de profesiones reguladas. La propuesta pasa por agilizar el Pasaporte Europeo de Seguridad Social (ESSPASS), un documento digital que permitirá a las personas solicitar y recibir documentos de seguridad social íntegramente por internet, incluida la Tarjeta Sanitaria Europea y el documento A1 para los trabajadores desplazados. Las personas que se desplacen a otro país de la UE podrán almacenar y presentar estos documentos en formato digital, mientras que las administraciones podrán verificarlos de forma rápida y segura. Este espacio digital estará disponible para personas y empresas de toda la UE a finales de año.8 La normativa trata de “proteger mejor a los trabajadores móviles frente a los abusos y eliminar procedimientos administrativos lentos y complejos que dificultan que las empresas contraten talento o presten servicios en toda la UE”. La Comisión insiste en que los países y sus Administraciones públicas “se beneficiarán”, ya que facilitará la lucha contra el fraude. Roxana Mînzatu, vicepresidenta europea para Derechos Sociales y Empleo de Calidad, ha declarado que esta medida “transformará profundamente el mercado único para mejor. Las personas deben poder trabajar en cualquier lugar de Europa con sus derechos sociales protegidos y sus cualificaciones reconocidas con mayor rapidez. Las empresas deben poder contratar el talento que necesitan con menos trámites burocráticos y menos retrasos”. La Comisión asegura que tras la implementación de la medida se generarán unos beneficios estimados de 6.000 millones de euros de aquí a 2040, “gracias a un reconocimiento más rápido de las cualificaciones profesionales, la verificación en tiempo real de los documentos de seguridad social y otros ahorros para empresas, trabajadores y autoridades, así como a la prevención del fraude”. La Comisión resalta que la digitalización podría generar un ahorro de hasta 64 millones de euros para las empresas, 69 millones para los proveedores de servicios sanitarios y 72 millones para los inspectores de trabajo, gracias a una verificación transfronteriza más rápida. Las firmas digitales podrían evitar hasta 277 millones de euros en fraude durante el mismo periodo. La Comisión propone asimismo crear una nueva herramienta europea de comparación de cualificaciones, basada en la información de las bases de datos nacionales sobre cualificaciones. Esta herramienta ofrecerá a empleadores y trabajadores una forma sencilla y gratuita de comprender y comparar las cualificaciones entre los distintos Estados miembros. Plazos Los documentos de seguridad social se digitalizarán por fases, empezando por el documento A1 para los trabajadores desplazados, un año después de la entrada en vigor del Reglamento sobre el ESSPASS, seguido de la Tarjeta Sanitaria Europea y otros documentos en un plazo de tres años. Los cambios relativos a las cualificaciones y a la portabilidad de las capacidades también se introducirán de forma gradual: se simplificará el reconocimiento de las cualificaciones obtenidas fuera de la UE en un plazo de dos años desde su adopción, mientras que las cualificaciones digitales disponibles en la Cartera Europea de Identidad Digital y un reconocimiento más sencillo para las profesiones reguladas estarán operativos en un plazo de tres años. Una vez adoptado el mandato revisado, la Autoridad Laboral Europea (ELA) podrá comenzar a aplicar los cambios, y se esperan mejoras entre 2028 y 2030.",
+          "desc": "La medida prevé que una aplicación digital facilite a las personas solicitar y recibir documentos de seguridad social íntegramente por internet, incluida la Tarjeta Sanitaria Europea y el documento A1 para los trabajadores desplazados Las empresas deberán revelar a los trabajadores si usan algoritmos para fijar salarios, ascensos o despidos La Comisión Europea ha anunciado este martes que ha aprobado la norma sobre Movilidad Laboral Justa para que los trabajadores europeos puedan acreditar y reclamar sus derechos en materia de seguridad social y seguro de enfermedad en toda la UE. Bruselas asegura que la medida garantizará los derechos sociales de los ciudadanos, independientemente de dónde decidan vivir y trabajar, además de que facilitará que las cualificaciones sean comprensibles en cualquier lugar de la UE y reconocidas formalmente cuando se trate de profesiones reguladas. La propuesta pasa por agilizar el Pasaporte Europeo de Seguridad Social (ESSPASS), un documento digital que permitirá a las personas solicitar y recibir documentos de seguridad social íntegramente por internet, incluida la Tarjeta Sanitaria Europea y el documento A1 para los trabajadores desplazados. Las personas que se desplacen a otro país de la UE podrán almacenar y presentar estos documentos en formato digital, mientras que las administraciones podrán verificarlos de forma rápida y segura. Este espacio digital estará disponible para personas y empresas de toda la UE a finales de año. La normativa trata de “proteger mejor a los trabajadores móviles frente a los abusos y eliminar procedimientos administrativos lentos y complejos que dificultan que las empresas contraten talento o presten servicios en toda la UE”. La Comisión insiste en que los países y sus Administraciones públicas “se beneficiarán”, ya que facilitará la lucha contra el fraude. Roxana Mînzatu, vicepresidenta europea para Derechos Sociales y Empleo de Calidad, ha declarado que esta medida “transformará profundamente el mercado único para mejor. Las personas deben poder trabajar en cualquier lugar de Europa con sus derechos sociales protegidos y sus cualificaciones reconocidas con mayor rapidez. Las empresas deben poder contratar el talento que necesitan con menos trámites burocráticos y menos retrasos”. La Comisión asegura que tras la implementación de la medida se generarán unos beneficios estimados de 6.000 millones de euros de aquí a 2040, “gracias a un reconocimiento más rápido de las cualificaciones profesionales, la verificación en tiempo real de los documentos de seguridad social y otros ahorros para empresas, trabajadores y autoridades, así como a la prevención del fraude”. La Comisión resalta que la digitalización podría generar un ahorro de hasta 64 millones de euros para las empresas, 69 millones para los proveedores de servicios sanitarios y 72 millones para los inspectores de trabajo, gracias a una verificación transfronteriza más rápida. Las firmas digitales podrían evitar hasta 277 millones de euros en fraude durante el mismo periodo. La Comisión propone asimismo crear una nueva herramienta europea de comparación de cualificaciones, basada en la información de las bases de datos nacionales sobre cualificaciones. Esta herramienta ofrecerá a empleadores y trabajadores una forma sencilla y gratuita de comprender y comparar las cualificaciones entre los distintos Estados miembros. Plazos Los documentos de seguridad social se digitalizarán por fases, empezando por el documento A1 para los trabajadores desplazados, un año después de la entrada en vigor del Reglamento sobre el ESSPASS, seguido de la Tarjeta Sanitaria Europea y otros documentos en un plazo de tres años. Los cambios relativos a las cualificaciones y a la portabilidad de las capacidades también se introducirán de forma gradual: se simplificará el reconocimiento de las cualificaciones obtenidas fuera de la UE en un plazo de dos años desde su adopción, mientras que las cualificaciones digitales disponibles en la Cartera Europea de Identidad Digital y un reconocimiento más sencillo para las profesiones reguladas estarán operativos en un plazo de tres años. Una vez adoptado el mandato revisado, la Autoridad Laboral Europea (ELA) podrá comenzar a aplicar los cambios, y se esperan mejoras entre 2028 y 2030.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-15T13:31:44+00:00"
         },
@@ -768,13 +775,6 @@
           "desc": "El técnico del Barcelona compareció en rueda de prensa, en la previa del partido contra el Racing de Santander, dónde le han vuelto a preguntar por el Balón de Oro, Balde, Gavi y su futuro: \"No se sabe. Estoy disfrutando, pero no se sabe qué pasará\" El Barcelona recibe mañana miércoles al Racing de Santander en el Camp Nou . Por ello, Hansi Flick compareció en rueda de prensa, ante los medios de comunicación, para analizar el encuentro de LaLiga EA Sports, de la jornada seis. El técnico alemán fue preguntado, principalmente, por el Balón de Oro y las opciones de que Lamine Yamal gane el prestigioso premio que entrega France Football: \"Es un jugador excepcional\". Hansi Flick: \"Han puesto todo junto después de un largo Mundial\" Por un lado, Hansi Flick habló sobre el inminente parón de selecciones : \"Son cosas que no puedo cambiar. Han puesto todo junto después de un largo Mundial. Sería algo necesario, pero para el club no es la mejor opción. Hay que ser sinceros, pero hay que aceptarlo. Lo han decidido así y tenemos que aceptarlo\". \"Estoy disfrutando en Barcelona, entrenando al Barça. Pero no se sabe lo que puede pasar\" \"> Sobre el Camp Nou como sede de la final de la Champions League de 2029 : \"Nos lo han comentado. Es una buena noticia para el club. Este estadio, cuando esté acabado, va a ser increíble. Estaré al 100%. Seguro. Como entrenador o como aficionado, ya veremos. No se sabe lo que puede pasar, en el fútbol pasa de todo. Estoy disfrutando en Barcelona, entrenando al Barça. Pero no se sabe lo que puede pasar\". Hansi Flick: \"Yo solo puedo hablar de Lamine, no de Mbappé\" Hansi Flick volvió a ser preguntado por el Balón de Oro : \"Sólo puedo hablar de Lamine, no de Mbappé. Creo que Lamine es sincero, que tiene esa confianza en sí mismo. Está demostrando lo bueno que es, es excepcional . Quizás preferiría que no fuera así, pero él lo está diciendo, dice que quiere ganar el Balón de Oro. Es muy importante para él. Tiene esa sensación y tenemos que aceptarla. Yo le apoyaré\". \"Lamine es sincero, que tiene esa confianza en sí mismo\" \"> Por otra parte, el técnico del Barceloma comentó el estado de Gavi : \" Tiene una gran ambición y siempre quiere jugar. Empezó el primer partido, luego se lesionó y después volvió. El equipo está funcionando bien, pero necesitamos a todos. Lo más importante es que todo el mundo sepa que les necesitamos y que necesitamos que sean positivos. Él está entrenando bien y es lo que quiero ver en él\". Hansi Flick, sobre Balde: \"Nadie se esperaba este nivel de Xavi Espart\" Hansi Flick valoró también la situación en la defensa: \"Ahora mismo, tenemos cinco centrales, João también puede jugar y nadie se esperaba este nivel de Xavi Espart. Balde tiene que dar lo mejor y lo hace. Él no está contento con no jugar. Estaba acostumbrado a ser clave y es normal que no esté contento. Las cosas cambian, llegan nuevos jugadores, jugadores jóvenes, y pasan cosas nuevas en el equipo y hay que gestionarlo\". \"Cancelo estaba acostumbrado a ser clave y es normal que no esté contento\" \"> El alemán explicó que Cancelo \"lo está haciendo bien. No estoy descontento con él, en absoluto . Todo el mundo está compitiendo y siempre tenemos jugadores que pueden jugar en esa posición. Pero gestionarlo es lo más complicado\". Hansi Flick: \"Lamine Yamal está en un momento fantástico, jugando a un gran nivel\" Sobre Lamine Yamal , Hansi Flick afirmó que \"tiene muchísima calidad, pero también ahora mismo tiene un nivel de forma muy bueno. Ahora sabe que puede marcar y en los partidos se ve, ahora tiene más oportunidades de marcar. Su confianza en la finalización es espectacular. Está en un momento fantástico, jugando a gran nivel. Siempre lo digo: cuando le ves en el entrenamiento, sabes lo que va a pasar en el partido\". \"Todos queremos que siga jugando como está jugando y eso viene de esa confianza que tiene en sí mismo\" \"> El técnico del Barcelona, que habló de los árbitros , añadió que Lamine Yamal \"es un jugador joven. Es sincero y tiene confianza en sí mismo, y eso me gusta. También demuestra esa confianza en el césped. T odos queremos que siga jugando como está jugando y eso viene de esa confianza que tiene en sí mismo . Eso es lo que es Lamine, y yo le voy a apoyar porque es increíble tener un jugador como él\". Hansi Flick lo deja claro: \"El nivel de los árbitros es muy bueno, en la Champions y LaLiga\" Lamine Yamal, sobre Mbappé y el Balón de Oro: \"Para mí está claro y todo el mundo que ve los partidos lo sabe\" Por último, sobre el Balón de Oro y Lamine Yamal, que analizó sus opciones , Hansi Flick concluyó lo siguiente: \"Si su opinión es que se merece el Balón de Oro, yo también creo que se lo merece. Es un jugador excepcional. Sé que hay muchos jugadores de primer nivel, hay que tenerlo en cuenta. Pero ya decidirán y estaré contento cuando se haya acabado\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-15T12:28:28+00:00"
-        },
-        {
-          "title": "Las operadoras europeas urgen a la UE reformar la regulación para desbloquear inversiones",
-          "link": "https://cincodias.elpais.com/companias/2026-09-15/las-operadoras-europeas-urgen-a-la-ue-reformar-la-regulacion-para-desbloquear-inversiones.html",
-          "desc": "Los presidentes de Telefónica, DT y Orange piden a Von der Leyen licencias de espectro indefinidas y evalúan en 40.000 millones el coste de sustituir los equipos de Huawei",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-15T12:21:28+00:00"
         },
         {
           "title": "El Gobierno crea una vía preferente para aprobar inversiones estratégicas en un mes",
@@ -881,6 +881,34 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "Salesforce refuerza sus alianzas con Nvidia, Google Cloud y AWS para integrar la IA en el entorno empresarial",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWnkyME9PdDl4Uy1tOWROaE5RdDBOVzVLQld0RGhCRmVKUWpFYlp2eDdsaFhpLVFwdUl2dXZIbjA2cUlsd2pCZHdBQmdNNzQ4Ty03WTM5eTVEdlhDQ1VualBjWWpFdDJYdjduQXl2bTZHQmRhMDZTMTZncXMzQTFaREZGTi1qNGVSV3VFLUY5UzhfTF96aGVST1FOZmZzaFk0VDV1ZUZjNWpRR2dBbGFQaDFnV2FtSGlidjhmZ3E1RDV3VDFWZFM5VFZuUThFVlJHRXRIMmJJV1BUUUNTODg2Q1pwZWxoUE1NeHYw?oc=5",
+          "desc": "Salesforce refuerza sus alianzas con Nvidia, Google Cloud y AWS para integrar la IA en el entorno empresarial MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:14:16+00:00"
+        },
+        {
+          "title": "Asus' ludicrous 20th anniversary bundle is now the cheapest way to buy an RTX 5090 — Nvidia's flagship GPU stock is so limited that this $10,850 bundle with a 3000W PSU, X870E board, and open-frame case is actually cheaper than some scalper listings",
+          "link": "https://www.tomshardware.com/desktops/gaming-pcs/asus-ludicrous-20th-anniversary-bundle-is-now-the-cheapest-way-to-buy-an-rtx-5090-nvidias-flagship-gpu-stock-is-so-limited-that-this-usd10-850-bundle-with-a-3000w-psu-x870e-board-and-open-frame-case-is-actually-cheaper-than-some-scalper-listings",
+          "desc": "This ultra-premium Asus ROG Edition 20th Anniversary Combo set at Newegg is super expensive at $10,849.96, but ironically, it's the 'cheapest' way to pick up an RTX 5090 right now.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-15T15:13:16+00:00"
+        },
+        {
+          "title": "007 First Light se ve mejor que nunca en PC gracias al Path Tracing oficial: estos son los requisitos para activarlo",
+          "link": "https://vandal.elespanol.com/noticia/2026258025/007-first-light-se-ve-mejor-que-nunca-en-pc-gracias-al-path-tracing-oficial-estos-son-los-requisitos-para-activarlo/",
+          "desc": "IO Interactive actualiza 007 First Light con 'path tracing' en PC, y confirma los nuevos requisitos para disfrutar de la mejor iluminación. IO Interactive ha lanzado una actualización de PC para 007 First Light que introduce path tracing de manera oficial en su aventura con James Bond . Esta no es la única novedad del juego en las últimas horas, que ha confirmado un nuevo retraso en Nintendo Switch 2 . Esta iluminación avanzada consigue que 007 First Light se vea mejor que nunca con más calidad: \"Esta nueva actualización con path tracing aporta una iluminación, sombras y reflejos más detallados a la cinematográfica aventura de James Bond, mientras que DLSS Ray Reconstruction garantiza que la fidelidad, claridad y precisión de estos añadidos alcancen su nivel máximo\", dice el estudio. Así luce 007 First Light con path tracing Para activar el path tracing , se necesita al menos un Intel Core i5 13500 o un AMD Ryzen 5 7600 con 16GB de RAM y una NVIDIA GeForce RTX 5070; con este equipo se consigue una resolución de 1080p y 60 fps con el ajuste de path tracing en medio. Para una resolución nativa de 1440p a 60 fps con path tracing a calidad media se necesita el mismo equipo que en los requisitos mínimos, pero con una RTX 5080 . Si lo que buscas es la experiencia más espectacular, con resolución 4K y path tracing en alto , se pide un Intel Core i5 13600K o un AMD Ryzen 7 7700X con 32GB de RAM y NVIDIA GeForce RTX 5090. Junto con DLSS 4.5 y Multi-Frame Gen se pueden conseguir más de 200 fps. El parche tiene un tamaño de 11 GB y ya está disponible . Aquí encontraréis nuestro análisis y su guía .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-15T15:10:00+00:00"
+        },
+        {
+          "title": "Intel podría suministrar una CPU x86 para NVIDIA Rosa Feynman, según Jeff Pu",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWUxb2l2SnY2RWVXV0ZRY1NaZ2RvTnNkMGJBWjlKLXctR1RWWXhqSkhoZnhRaUYzSmoxd01UNlNHUTdvZTQ1Z3VTT3JGRkZNa0lpSGZMdjJsMHlUOGpiR2ljSVQtV19xNmlUUTZHNXpuU1hPWW53cDV6RlFOaDRWanMwTU1DN1pwa05XQWJqWERIbXd1Q2xzRVY4Y2ZCWkk3LU9qa1owc0hmaE11?oc=5",
+          "desc": "Intel podría suministrar una CPU x86 para NVIDIA Rosa Feynman, según Jeff Pu Fanáticos del Hardware",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:07:24+00:00"
+        },
+        {
           "title": "Fujitsu y Monaka: el chip japonés 2nm que quiere destronar a Nvidia",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHUtV2toZjAybHVWYTYwbEJIVHNxYndzUkNDd0hqM2F1LURadW9Cc0JITk9wcmtKR2h0ZENseDJBYkRzNFdRWEExd0lFT1ZfSFJGSWkzUXVTSUQtelVHS0p5R2Z3LXRIWkEzR0NUVzdoNk5nNEI1emMzWUJmNDE1M2FIYVV1Q1hKWVpYV1htMmc1cWpNMzdUYkFXcVlzQQ?oc=5",
           "desc": "Fujitsu y Monaka: el chip japonés 2nm que quiere destronar a Nvidia El Ecosistema Startup",
@@ -974,7 +1002,7 @@
         {
           "title": "Portable Computer de Perplexity llega a Windows con soporte para NVIDIA GeForce RTX",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjB2emRKZWJGeGw1STctNWlnZEVLVmx4c0haS2dkV2dxUVRfclFZek94YzJFS0FQb1N5c0F3NWpuQVJjelVBdWROVm55Zjk5TVJfMWZRTVpEWW1CNWctX2JPRU5Wc2dLVlN4OV9SM0FpNUROdmFYQ1ZPTXhjdVlMOVM1MDFETWxOZ2pJV3ZRVFcxTUJaX2c0dmJ5N29pRTJrSS0yTmktai1uRFVnMS1TU3hpeWNOVkE?oc=5",
-          "desc": "Portable Computer de Perplexity llega a Windows con soporte para NVIDIA GeForce RTX ITSitio",
+          "desc": "Portable Computer de Perplexity llega a Windows con soporte para NVIDIA GeForce RTX itsitio.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T12:15:57+00:00"
         },
@@ -1002,7 +1030,7 @@
         {
           "title": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEpkSXQ1VTEzR3QtanM1VUoxeHEzWDh1N29tdGc5WjIwRTR5SXNQR2tMblBCUzN0dGV0b2FpMmxYQ1ZOVldmMi1nSU96dERGdXFwSV81c3lBV1ZpYm1pbW1UR091bXBoLXZfQS1TRUF4QUVCQWptTzFxNVZ6N1ZDb0JBY0VsNEY0SGVXUmlOdWZaODl2MjVnN0RZS19GRHJYd2FqZ0ZlemFTU3M0azgyLXBqd1dWQQ?oc=5",
-          "desc": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia fleetpeople.es",
+          "desc": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia Fleet People",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T11:34:29+00:00"
         },
@@ -1019,34 +1047,6 @@
           "desc": "Nvidia RTX Spark: el chip que quiere meter la IA en tu portátil Blogthinkbig.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T10:54:24+00:00"
-        },
-        {
-          "title": "Grab a $560 saving on this 1440p-ready gaming PC with a 9800X3D and RTX 5060 Ti 16GB, now $1,859 — all-white CyberPowerPC desktop ships with one of AMD's best X3D chips, along with 32GB DDR5 and a 2TB SSD",
-          "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd560-saving-on-this-1440p-ready-gaming-pc-with-a-9800x3d-and-rtx-5060-ti-16gb-now-usd1-859-all-white-cyberpowerpc-desktop-ships-with-one-of-amds-best-x3d-chips-along-with-32gb-ddr5-and-a-2tb-ssd",
-          "desc": "Save nearly $600 on this CyberPowerPC gaming PC with a 9800X3D, RTX 5060 Ti 16GB, 32GB DDR5, and a 2TB SSD.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-15T10:36:40+00:00"
-        },
-        {
-          "title": "“Es una farsa”: Trump llama por sorpresa al CEO de Nvidia y defiende del desarrollo de la IA",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0duUThnVml0WjM3U01YVEU4NTgxZDQzWkxWYkJIZDdGTHVSczZuRXpoRXZoUVNaV3hPejVDcWJZRElhZjBTaDdqZE42RF9iWUZTa1FLalZDZXVqMVo3dHZTY1AyRHd1OHY2NlhWU0RYNGVvOS1ZcmhiZ0t4NmV2bA?oc=5",
-          "desc": "“Es una farsa”: Trump llama por sorpresa al CEO de Nvidia y defiende del desarrollo de la IA CNN en Español",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:35:03+00:00"
-        },
-        {
-          "title": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUi1INHc5czVQMGJULUkyODBLbHA3OF9UTjhKNnBldnY0MDhieVBxOHNyRXFRVF9Ebmp0RFBqcnpFbndBVl9FVnl0WkxRWXdLVlN1NGxqdW9XdGNGSzZlYm5oTWYyeHVQTWRsbWY4ZkM1VTdRZWl0eEx6MGZFRTNsZlpoUHh1aVE3SGlLUHduSnM5WTRLMEpMWVRKZnNvWjU3NFE0blZWMk9mUdIBrwFBVV95cUxNTmlkRXFIbHdTWmZpREVXc2dzdV9jUFZXUXFWbW8xTVZHS05UYXpXeGxHUmlJcXNQLW9KUHV5azhXRkpzYVlWUWxWcU9CY3pJVnFoQ0NUdlpFWFVVRkE0aTVDWnR4UHkzcVZiTklCTDQwT21tS1RPdzRSY2dhTmMyMEY3R2xzWklsTjR0bTdxa1hLdjYzLVA1eDVJMUQ1XzJrcWN4THpMRHFGRzZkZWxR?oc=5",
-          "desc": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia Economía Digital",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:30:00+00:00"
-        },
-        {
-          "title": "Perplexity trae Portable Computer a Windows, así corre en local en una GPU RTX",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnQ5azd4azJGZ3pCMXBLY1l0V3N2WENXbE51NURBajN5Nkd6QWFKV0JyLWF2ejRuZTM3Q0pKNDY4VzJ4ZmV6V3dwbmpwYWtuclRMNzBWZzVkeGNac1Vhbjg5UWdsTVVPYU1Ud09ld0J5R2dSZV85MHljYUZXOGZrM1pnYXVoazc1Q3N2OFd4Wkx1QzZ5dFNZWA?oc=5",
-          "desc": "Perplexity trae Portable Computer a Windows, así corre en local en una GPU RTX Pasquale Pillitteri",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:25:44+00:00"
         }
       ]
     },
@@ -1074,6 +1074,20 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "007 First Light se ve mejor que nunca en PC gracias al Path Tracing oficial: estos son los requisitos para activarlo",
+          "link": "https://vandal.elespanol.com/noticia/2026258025/007-first-light-se-ve-mejor-que-nunca-en-pc-gracias-al-path-tracing-oficial-estos-son-los-requisitos-para-activarlo/",
+          "desc": "IO Interactive actualiza 007 First Light con 'path tracing' en PC, y confirma los nuevos requisitos para disfrutar de la mejor iluminación. IO Interactive ha lanzado una actualización de PC para 007 First Light que introduce path tracing de manera oficial en su aventura con James Bond . Esta no es la única novedad del juego en las últimas horas, que ha confirmado un nuevo retraso en Nintendo Switch 2 . Esta iluminación avanzada consigue que 007 First Light se vea mejor que nunca con más calidad: \"Esta nueva actualización con path tracing aporta una iluminación, sombras y reflejos más detallados a la cinematográfica aventura de James Bond, mientras que DLSS Ray Reconstruction garantiza que la fidelidad, claridad y precisión de estos añadidos alcancen su nivel máximo\", dice el estudio. Así luce 007 First Light con path tracing Para activar el path tracing , se necesita al menos un Intel Core i5 13500 o un AMD Ryzen 5 7600 con 16GB de RAM y una NVIDIA GeForce RTX 5070; con este equipo se consigue una resolución de 1080p y 60 fps con el ajuste de path tracing en medio. Para una resolución nativa de 1440p a 60 fps con path tracing a calidad media se necesita el mismo equipo que en los requisitos mínimos, pero con una RTX 5080 . Si lo que buscas es la experiencia más espectacular, con resolución 4K y path tracing en alto , se pide un Intel Core i5 13600K o un AMD Ryzen 7 7700X con 32GB de RAM y NVIDIA GeForce RTX 5090. Junto con DLSS 4.5 y Multi-Frame Gen se pueden conseguir más de 200 fps. El parche tiene un tamaño de 11 GB y ya está disponible . Aquí encontraréis nuestro análisis y su guía .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-15T15:10:00+00:00"
+        },
+        {
+          "title": "AIDA64 8.40 añade soporte preliminar para AMD Zen 7 y abandona los sistemas Windows de 32 bits",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaGZZLU9qWHhnQ1hXcGN5T21xZ1NmZy14MTBRYnl6VW9TLUVtS2FfY0xPbnhucTl5NGNPN0lVam5NUERTS3lnNGRxMWRVUzFCX2kwNzNKdWM3SVFDNU1yYW5mUlpIazF0WHpFTmdXTFA3NUlnS2FVenliM2I3cmd2YWp5UGp2aDVjT0hhSFNsUkk0Q2NZS3R3ejRIdDRha0o3U0pqbXJSdFE0cDRBczlXbDRIQlduWGs4YnlfUmJvUWxmZ3dXRU84dHJwS0xZMHVPbHEw?oc=5",
+          "desc": "AIDA64 8.40 añade soporte preliminar para AMD Zen 7 y abandona los sistemas Windows de 32 bits Geeknetic",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T15:06:45+00:00"
+        },
         {
           "title": "AMD Ryzen 5 5500F: +16% en juegos muy dependientes de CPU",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0hSYTBiX0tKX1JreW9rYkNlSjctQkFEaFdUMzVPMlIzMEVVVFhzS1JiTFlrT1lxdE5YeUdnZkFCQXh4UVR3YnlLYlZxVDhnM0E0ZmJFNGhLRFMwU3A1RlVucm5FSDZFV2laOEpwMS00bFFIYnVKR2c5NFIwWk9PVGk1NEIxQQ?oc=5",
@@ -1159,6 +1173,13 @@
           "fecha": "2026-09-14T20:34:27+00:00"
         },
         {
+          "title": "Nvidia y AMD: las acciones de IA más golpeadas del S&P 500 ante el riesgo de desaceleración",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdExUMzZOYnM5Q0xKLVRmcjJLenY2SV9oUFV6RnF4UjdyYVE4QWlCdV9RN0k3Yl9ZNlZXX0VRM091OVBlTmhxNVA0dUZqc1FPY2JZWTVuRVVWa1ZsSVg4cG14R3pxVXk2VVR4SEM1Qk5xMnBhNzlnRHFaNjA3ekpFZS1lQWpGNGk1bGYteXNkS05nTGl1NF9DQjNHZVhuNkpjS3lVLWRUMTV0WUpBdmJmS0VWTnk2TWM2SGxjRkJqQThwQV9a?oc=5",
+          "desc": "Nvidia y AMD: las acciones de IA más golpeadas del S&P 500 ante el riesgo de desaceleración Rosario Finanzas",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-14T14:50:18+00:00"
+        },
+        {
           "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows —  CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting",
           "link": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting",
           "desc": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
@@ -1220,27 +1241,6 @@
           "desc": "AsusZenbook 14 llega a España con procesadores Intel, AMD y Snapdragon El Periódico",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-13T16:40:49+00:00"
-        },
-        {
-          "title": "AMD’s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword — grab the Ryzen 7 9850X3D for $484",
-          "link": "https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484",
-          "desc": "The Ryzen 7 9850X3D may only be a modest step up from the 9800X3D, but it still leads our gaming benchmarks and now comes with a couple of useful extras at a lower-than-launch price.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-13T14:28:06+00:00"
-        },
-        {
-          "title": "Las actualizaciones de septiembre de Windows 11 desatan fallos en equipos AMD",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1Q5WWoxUE9jdVRNUFR0RWJfMFhuTEhvY3dJMjJ2cWp3VDJZSHJiNlFHNWRiRXVITGZOSjZya1oxMUJWQzNTXzNGYUtmSEdKa1lxeXEza05VQ1R1UnZ5bDFnVVJldEdQZ2xZdzdyWUV4NHI3S1BBVjk5ZjBPNW11U1dWelNKZnBwbUh0a2lQYTE?oc=5",
-          "desc": "Las actualizaciones de septiembre de Windows 11 desatan fallos en equipos AMD Hardware Premium",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-13T12:00:00+00:00"
-        },
-        {
-          "title": "Minisforum presenta el potente NAS AMD Gorgon Halo con capacidad de almacenamiento de 200 TB",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOak9XekZQdElxRHhTQ19JUmxaaUhaOHB4dGhXR2pkNUp4REtnVks3b3JUdllhX0JGNklOYzVkN2x2LUE4cllDNTdBekpLUHllSWJXZ2w1QlFSSmt3a0VvY0g1X1hzbmoyM0NkY0F6SVROYl9mcU42SjlLeERBRDRFNXljVkpnc0xQT2ktbXppYTBtNy1QMldKbEhLbDZta2N5TWhMNG1xclJkTnpyNURPTmRMQVliWTU1LUxYa1JiYjNXUDFMbW5xNGdJSmpoU3U0MzhR?oc=5",
-          "desc": "Minisforum presenta el potente NAS AMD Gorgon Halo con capacidad de almacenamiento de 200 TB Notebookcheck.org",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-13T11:18:00+00:00"
         }
       ]
     }
