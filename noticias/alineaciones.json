@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-15T19:00:01.600197+00:00",
+  "generado": "2026-09-15T19:30:01.934432+00:00",
   "fuente": "laliga.com (oficial)",
   "jornada": 6,
   "jornada_nombre": "Jornada 6",
@@ -121,21 +121,111 @@
       "id": "laliga-102307",
       "slug": "temporada-2026-2027-laliga-ea-sports-rayo-vallecano-rcd-espanyol-de-barcelona-6",
       "fecha": "2026-09-15T19:00:00+02:00",
-      "estado": "pre",
-      "detalle": "",
+      "estado": "post",
+      "detalle": "2 - 1",
       "canal": [
         "Movistar LALIGA"
       ],
       "local": {
         "equipo": "Rayo Vallecano",
-        "once": [],
-        "formacion": "",
+        "once": [
+          {
+            "num": 25,
+            "nombre": "Emil Audero"
+          },
+          {
+            "num": 24,
+            "nombre": "Lejeune"
+          },
+          {
+            "num": 2,
+            "nombre": "Andrei"
+          },
+          {
+            "num": 17,
+            "nombre": "Pedrosa"
+          },
+          {
+            "num": 15,
+            "nombre": "Mujaid"
+          },
+          {
+            "num": 4,
+            "nombre": "Pedro Díaz"
+          },
+          {
+            "num": 14,
+            "nombre": "G.tsitaishvili"
+          },
+          {
+            "num": 6,
+            "nombre": "Pathé I. Ciss"
+          },
+          {
+            "num": 8,
+            "nombre": "Unai Lopez"
+          },
+          {
+            "num": 18,
+            "nombre": "Álvaro"
+          },
+          {
+            "num": 10,
+            "nombre": "Camello"
+          }
+        ],
+        "formacion": "4231",
         "logo": "logos/rayo-vallecano.png"
       },
       "visitante": {
         "equipo": "RCD Espanyol de Barcelona",
-        "once": [],
-        "formacion": "",
+        "once": [
+          {
+            "num": 13,
+            "nombre": "Dmitrovic"
+          },
+          {
+            "num": 21,
+            "nombre": "R. Hinojo"
+          },
+          {
+            "num": 6,
+            "nombre": "Cabrera"
+          },
+          {
+            "num": 23,
+            "nombre": "El Hilali"
+          },
+          {
+            "num": 5,
+            "nombre": "Riedel"
+          },
+          {
+            "num": 26,
+            "nombre": "Bauza"
+          },
+          {
+            "num": 3,
+            "nombre": "Quilindschy"
+          },
+          {
+            "num": 4,
+            "nombre": "Urko"
+          },
+          {
+            "num": 28,
+            "nombre": "Javi H."
+          },
+          {
+            "num": 20,
+            "nombre": "G. Moscardo"
+          },
+          {
+            "num": 9,
+            "nombre": "Roberto"
+          }
+        ],
+        "formacion": "4231",
         "logo": "logos/rcd-espanyol-de-barcelona.png"
       },
       "aplazado": false
