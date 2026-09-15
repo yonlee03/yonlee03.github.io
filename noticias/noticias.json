@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-15T12:30:24.685002+00:00",
+  "generado": "2026-09-15T13:00:23.271144+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -19,10 +19,17 @@
         },
         {
           "title": "La recuperación de Vargas, dos consultas médicas y un plan del Sevilla FC: «Va a tener que hacer una minipretemporada»",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJEcmZHODIwOTlKQlYtaHItamUtaG84RHJFdXhmc3NDU2F4ajZRWkd1NU1pUm1EMHJLVVFkeGc1a0V5M2VPSzZxREE5VXRQRDYtXzFLcnU1RGhZLUd2b3RvUzlDSUdaa2FFRG1nOGNXbkk2QnpoQVlaNE5CRld5NHV4MWlMaGg5ODNxdVdmQWZ3S2R3dzVpRWhlWGQzSEhWcWltajRiT2FRMFZKZTlBVmNaZWJCZDk3eElnZGllQTJ4RnBBSlFreHlQT2FadURMdEEtZ2hXRy1zZHR1STBZM25ZU0h3ZmRX0gHuAUFVX3lxTFBQQ3JjS0ZxNTlpdG1KRndkVTM2a0xkMzFMMU1VVWl0OTg1NFhzWHY1cHNzZGo1MmdrUGpmZUJySHJsRjljLWduYTUwZFktb2w5SHhtelFJbUUtR1ZMWEFHNU02anZIVG41V2szcGY2WFlxbzA3WEl2RXcxYUpQYmRWME1PY0gzaWh3aVJyZ0gyblpKV3pjN0ktaktpVVJycWdBZVE2S3lNa01JUWRqa3MwTGdvRlFTM0xMX18zcFZZd093TVFPZXJDWUhCU2lhS25haElBemwyVW5odFFzSGY5T0xZTS1qMWRuMGstWHc?oc=5",
-          "desc": "La recuperación de Vargas, dos consultas médicas y un plan del Sevilla FC: «Va a tener que hacer una minipretemporada» ABC",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjJEcmZHODIwOTlKQlYtaHItamUtaG84RHJFdXhmc3NDU2F4ajZRWkd1NU1pUm1EMHJLVVFkeGc1a0V5M2VPSzZxREE5VXRQRDYtXzFLcnU1RGhZLUd2b3RvUzlDSUdaa2FFRG1nOGNXbkk2QnpoQVlaNE5CRld5NHV4MWlMaGg5ODNxdVdmQWZ3S2R3dzVpRWhlWGQzSEhWcWltajRiT2FRMFZKZTlBVmNaZWJCZDk3eElnZGllQTJ4RnBBSlFreHlQT2FadURMdEEtZ2hXRy1zZHR1STBZM25ZU0h3ZmRX?oc=5",
+          "desc": "La recuperación de Vargas, dos consultas médicas y un plan del Sevilla FC: «Va a tener que hacer una minipretemporada» abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T11:51:01+00:00"
+        },
+        {
+          "title": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlJpR2Zrbl9rLWVNQTVnMW9NRDJtbjIzVHhjM29zV3VveUZfNWhQdUpteVhsY1Q2aWZhTU1aYjNTV0xjajU1LXFCQVlSMWhtS2MwZTdSX3lFazhwQTl5aFROUGNNR1MzZFdjMXJXYWdWd2QxRzVkR2tKRmphY1Y0ZVhmNzYzUWFBZTVaR1Q5dktvelgyc3JOa3lmSkJaay1Hdll5SmxMTTcxMnFlVzJ6WGEwYXZvWEhoNHc?oc=5",
+          "desc": "Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña Diario de Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-15T11:42:53+00:00"
         },
         {
           "title": "RUEDA DE PRENSA DE LUIS GARCÍA EN LA PREVIA DEL SEVILLA FC - FC BARCELONA -- viernes 12.00h",
@@ -41,7 +48,7 @@
         {
           "title": "García Plaza exige más a su Sevilla FC: «El equipo tiene que crecer, y crecer no significa que ganes»",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZVRtbnVzaE9oSFB0d0J2cEJlN1N6WHY4LVY2SWhVdksxWUZxb0lKTmtrak5iVTVDS1hkTTlYWWlEQVduY3lVSXhiSjctUk5tN1BnZXRGamtHbVV0OWY4RFc0emY4SFA1MzJmTkhWV0JkNXBYeDFKdDZSUV9nYWlMalV6TlBUT1p6RGdtUWJDS3ZwTy1ONVNuUFcxR3J0RU92VVJRVzhPZ0hEVV9aQjFMVm51YS0xY01qa1BIb0ZZdVl1aWlNcjljd0FQdDg2NldfZUHSAdcBQVVfeXFMT0VVb0l4cjZXZTZvUWRvVmdZNjNzVjRDbE1JY3NlX3JaOVZ2T3puZzdEdWRUVU1NbmlENnVIbzVMV3BVSmc4TkoxQ1ZJcEt4TkRYMU9GaDFGQlpyejZkajFuUWg5eFRxdFBwZGJVUm5QM0VGaXpWQVl0dUJCVjZUT2pNSHhVNEpvUllDYUlfT0ZRbTJHUWtIVEhkSEQ2Wkk1VFZFOHpkdmJaNjRiOThvbWt2V1k0NzVoN1lrM3lzMkFxcFNjeFJWUUdFWmNSY3RGUmJXdnFXTm8?oc=5",
-          "desc": "García Plaza exige más a su Sevilla FC: «El equipo tiene que crecer, y crecer no significa que ganes» ABC",
+          "desc": "García Plaza exige más a su Sevilla FC: «El equipo tiene que crecer, y crecer no significa que ganes» abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T10:41:57+00:00"
         },
@@ -97,14 +104,14 @@
         {
           "title": "Vargas y Sangante, únicas ausencias en el entrenamiento del Sevilla FC previo al viaje a La Coruña",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2NrLU9uSGRKTkdQY0p2MWM1OXRoTHhfX2hVR081cTdmRVdIdi1xYTBHRW02V3pReWZpRXlVTG9RaWZQZDVMeGtYNWwwYTlsSmFMRGk4RXlHN3gzWUtFdWNqWGFBeVE4cGZTZ0JPc3JYcW5ocUtJbG0wTkw5YkxCaTJ5SW80dFotaVNwTjYta1pPN2hmTWpiLXRnQzVyeUJGek1MTm4xcGVmV2lzZ3kzMk9mSnJOQXpWVzB3eGJvNDh3TlZYdHRvMEFNVUFwQ3RJNnBJT0ljeG1CQmJLbS05RnhlYlHSAeoBQVVfeXFMUGliYTZCV3VkbDFoQ1I2ZDhnYnZrTGtaUk1ISHhFSmdLRTdfbTdKdWlxeXpNcDZzRnVFOW1Ed3VVRWNXaUwzZGVGR01PYXE1Z0V1WDd0Mkp1b28ydWdST0VqN21uMUhJZjZ1QzR5SFFfemN1VzMxS2ZLUXBoZlk3T1RkQUdFZlJhdFFkRjFUdkVITEJ4akZVOXl1b0F3YkxJdHZHQW40UV9BbVlPRXMxbWRQVFRqUk4tMTRQMVFDMkR2RENYWWpOcEZpSXoyVlRsZDdadFdJMW9wVG11VkdfN3k3cUJZUks0TllB?oc=5",
-          "desc": "Vargas y Sangante, únicas ausencias en el entrenamiento del Sevilla FC previo al viaje a La Coruña ABC",
+          "desc": "Vargas y Sangante, únicas ausencias en el entrenamiento del Sevilla FC previo al viaje a La Coruña abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T08:58:32+00:00"
         },
         {
           "title": "El Dépor recibe al Sevilla FC invicto y con el goleador Aubameyang",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnotRUhVaG4yZzhCVEEwdFZUZU1QVU82SE05alVPTTJsTXhHcUE3SVQ5dTcydnpTUjFFck91LWZzNnJ2MjBBemRXOFNCVnhHQkZBcXhad1c0MHZ0SHNIMDA4NDBtdXZISFpNdjBaVDU1TXV0UDFMbzV2SXhQNVZtSU9Zb2NyeWptRzg3ZkpmWXh5SHZ0SVNCMTlOQ3lwQnpSUXdzYnNtVjZPRmx6NTBjVkpmbHpQb3JnOVVKTXFlVUVzUGVKdlo1WXdDUEF6Q1A1XzQw0gHYAUFVX3lxTFBPaXpkM1BjLTZlTFdPX1NmVzdXeTY1d0hUY2VZdG5CRWczME50SU1VMVd2T0RDd0pTd1FxUW9KN0NPQnNqYU5fUTdVTFJJbldUNHFxNkh0UEhuMnAzMzlWT3otRHphZmxHOE9xSEg2LXhMUjFmeFRFSXU1enoxYjFhNFBrWGxSOTVIalN5ekw2ZmZodW5rQlhhSE1ZbFQzSzYtajNKNXNrU0p0SGhobFY3QzB1dWJKWjFXN1p6QzFMMnVvV0J4QlBNM0lYZm1tcVpMWmJDR21TcA?oc=5",
-          "desc": "El Dépor recibe al Sevilla FC invicto y con el goleador Aubameyang ABC",
+          "desc": "El Dépor recibe al Sevilla FC invicto y con el goleador Aubameyang abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T07:48:23+00:00"
         },
@@ -132,14 +139,14 @@
         {
           "title": "Posibles alineaciones del Deportivo de La Coruña y el Sevilla FC en la jornada 6 de LALIGA EA SPORTS",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHozVFBleVlhYzFPbFNMMlgyTWdSUk42cm5pOGhTS2c0cWJHWl85cE9GdXVmMjlqeTA0TmhSX29mTk0ta0t2NXBaLVFBaWxMalhTTE5UaklXcnRTb05RNDlUTkJhUDNaZDUzdkx6aGUwSVljTlowVGZNN01lNkVjaFI1bHNVTnc1dFlkR2E2dkpUYkN0YUJ2VHV2QW56SHZObUtaZ21manhpWFQ0UU1ENWNPYU5Zc1Q3RnItVmtXVl9aZVpTT3hvYzZRWQ?oc=5",
-          "desc": "Posibles alineaciones del Deportivo de La Coruña y el Sevilla FC en la jornada 6 de LALIGA EA SPORTS El Desmarque Alineación probable del Sevilla FC para enfrentarse al Deportivo de A Coruña Diario de Sevilla Luis García explica el invicto del Dépor en cuatro puntos clave: la dirección deportiva, Antonio Hidalgo, los fichajes y la afición Riazor.org",
+          "desc": "Posibles alineaciones del Deportivo de La Coruña y el Sevilla FC en la jornada 6 de LALIGA EA SPORTS El Desmarque Horario y dónde ver el Deportivo de A Coruña-Sevilla FC: duelo de sorpresas Diario de Sevilla Luis García explica el invicto del Dépor en cuatro puntos clave: la dirección deportiva, Antonio Hidalgo, los fichajes y la afición Riazor.org",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T05:44:50+00:00"
         },
         {
           "title": "La incógnita del estado físico de Vargas, único lunar en el buen arranque del Sevilla FC",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2IyRlRXRjJBUHBfQjgxU3E3MEE5NkVmZnVUMmY3OWstb1lvZy1yTV9ZeUItTjc4cXlzMG1DNk5oY29lWktnNzByV1JlUVBPLTZkUVFZanpIN2xoVlhDLTl1U1RWeG41TUxQWEpaSFpwcWdzTF9RNlNBeWF6Qk9nRzlZaEh0SmxmUGVScWVRRzNRM0NpMUZoOTRzenJ2amdxLXJPLTJHeGtocmxxU2hoMWU0Yk11VVdSZmpGRWRpVU0tMGp4eGJmQllHc0ZQai00eHfSAdcBQVVfeXFMTVV0aHJrcURpV0hncnVib0hOallLYXd5LUNGRllnaWRjYjZhbC1TWFZ4NFIwcF9Ub0c4SzdTME9wMHdILTRHc1EtNTdiZ1ZYOWltR0kzLWlmWUlraF9abHdhWFVsdUU5a3ZTT0NNdmxYN2dYMGdncDZCbGM2WlJuMkNzRGhSSkM1aFJIWUQwRjlDdzBIeGJCTjVGS0tDbHo3djdNWWZEbTJJa2xvUm5QRldpaW9QR2hvRDhRbnlCSUNUMFVFSTF4bmliUThhYzVoOHFyM1hjX28?oc=5",
-          "desc": "La incógnita del estado físico de Vargas, único lunar en el buen arranque del Sevilla FC ABC",
+          "desc": "La incógnita del estado físico de Vargas, único lunar en el buen arranque del Sevilla FC abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T05:13:27+00:00"
         },
@@ -165,13 +172,6 @@
           "fecha": "2026-09-14T19:52:32+00:00"
         },
         {
-          "title": "RUEDA DE PRENSA DE LUIS GARCÍA EN LA PREVIA DEL DEPORTIVO - SEVILLA FC -- martes 12.00h",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlBDa2c1aGdyemNYd2RmTElZVnlpdlVWMHNacVVMZk1Cai04d2QzbDZJeXJJUVd3MTlkWXJaaHBNVnBKTGJIemJWMnNKclpsOXB1RVBQZnI3MnFBVmVybktlREhlam84Y2tDRHdablN6NVBTbzAyLTJYTWJXS1BMZzdHY1czRXhHek9ZZTFWZVY4VnJIM3ctZDdjeVl1VlR2c3VIVjh2OUhMMlRwYTFpQjRzNHUwRjk3NWFYTldFUUgzcXh6VlE?oc=5",
-          "desc": "RUEDA DE PRENSA DE LUIS GARCÍA EN LA PREVIA DEL DEPORTIVO - SEVILLA FC -- martes 12.00h sevillafc.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-14T18:40:52+00:00"
-        },
-        {
           "title": "Ernesto Valverde da una respuesta al Valencia",
           "link": "https://www.estadiodeportivo.com/futbol/valencia/ernesto-valverde-una-respuesta-valencia-20260914-546564.html",
           "desc": "El 'Txingurri' era el candidato número de Braulio Vázquez para sustituir a Carlos Corberán, pero ha rechazado la posibilidad de volver a Mestalla. Ahora se abre un casting con varios y nuevos nombres sobre la mesa La bomba que se detonó en el Sánchez-Pizjuán el pasado viernes, con una nueva derrota del Valencia , la cuarta en cinco jornadas de LaLiga , acabó por explotar este pasado domingo. El crédito de Carlos Corberán ya estaba bajo mínimos y el técnico de Cheste acabó siendo finalmente destituido . Pero lo que quizás no se esperaba es que Peter Lim deciera cargarse también a Ron Gourlay , CEO de Fútbol y cabeza visible del proyecto, y a toda su dirección deportiva: Lisandro Isei, Hans Gillhaus, Andrés Zamora y Malek Shafei. La sacudida en Mestalla ha sido enorme y el golpe en la mesa ha llegado con l a contratación inmediata de Braulio Vázquez, abonando los 290.000 euros de su cláusula de rescisión para llevárselo de Osasuna , donde trabajaba desde 2017. El gallego, por tanto, regresa a un club che en el que ya estuvo entre 2009 y 2013 y nada más llegar le toca tomar una decisión trascendental: la elección del nuevo entrenador. Braulio sigue buscando entrenador para el Valencia en su agenda personal: \"El barco lo pilota el capitán, que es Jagoba Arrasate\" Santiago Cañizares (56 años) avisa a Braulio Vázquez de lo que le espera en el Valencia de Peter Lim: \"No sé cómo se mete en este lío\" Al respecto, se ha venido informando de que su candidato número uno era Ernesto Valverde, al que ya contrató mediada la 12/13 para sustituir a Mauricio Pellegrino. Pero el 'Txingurri' ha declinado la oferta valencianista tras las conversaciones mantenidas entre las partes, según ha informado la Cadena Cope . La explicación que ha dado el cacereño, en paro tras abandonar el Athletic a la conclusión de la pasada campaña, es que no quiere volver a entrenar por el momento y por ello ha rechazado también otras importantes propuestas de Europa. Jagoba Arrasate, a priori en la 'pole' El nuevo responsable de la planificación che no ha logrado convencer por tanto a su gran objetivo y ahora no le queda más remedio que abrir un casting con otra serie de opciones sobre la mesa. Entre ellas, todo apunta a que el siguiente en la lista es Jagoba Arrasate, con el que Braulio trabajó codo con con codo durante seis temporadas en Osasuna. Fue el propio técnico vasco el que decidió por fin a su periplo de seis años en El Sadar, pero la relación personal entre ambos sigue siendo magnífica . Además, se encuentra igualmente libre, tras ser destituido el pasado mes de febrero por el Mallorca tras una meritoria primera temporada en Palma. Mendilibar, Javier Aguirre o Paco López, en la baraja de Braulio Pero aún hay más balas en la recámara, sin que parezca que los tiros vayan a ir por otro viejo conocido de Braulio como Vicente Moreno, al que tuvo en Osasuna en la 24/25, pues en su caso además sí tiene contrato en vigor con el A l-Rayyan de Qatar hasta 2028. Quien cobra fuerza, por su parte, es José Luis Mendilibar, recién cesado por el Olympiacos griego tras hacer historia. Junto al ex de Eibar o Sevilla FC, con el que conquistó la Europa League, también se ha apuntado el nombre de otro veterano como Javier Aguirre , que dejó a la selección de México tras el reciente Mundial y tiene sobrada experiencia en LaLiga al frente de Osasuna, Atlético de Madrid, Zaragoza, Espanyol, Leganés y Mallorca. El azteca, por tanto, es otro de los nombres que están sobre la mesa, sin que se haya contactado directamente aún con ninguno de ellos, como sí se ha hecho con Valverde, añadiendo también Plaza Deportiva la vía de Paco López , ex de Levante, Granada, Cádiz o Leganés, su último equipo.",
@@ -184,6 +184,20 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Sumar carga contra Puente por avanzar en la ampliación del aeropuerto del Prat antes del aval de Bruselas",
+          "link": "https://www.eldiario.es/catalunya/sumar-carga-puente-avanzar-ampliacion-aeropuerto-prat-aval-bruselas_1_13511618.html",
+          "desc": "El Ayuntamiento del Prat se suma a las quejas mientras el ministro defiende que los 191 millones previstos para este ciclo son para compensar daños ambientales en caso de que la UE apruebe la obra El Gobierno aprueba la mayor inversión histórica en aeropuertos y una subida de tarifas de 3 céntimos al año hasta 2031 La aprobación del plan inversor aeroportuario del Gobierno para los próximos cinco años ha levantado ampollas entre los ministros de Sumar. Los socios del Ejecutivo han expresado su rechazo a un “modelo de crecimiento” que, a su juicio, agravará las emisiones y la presión turística. Una de sus principales quejas es además la inclusión, ya prevista, de las primeras partidas para preparar la ampliación del Aeropuerto Josep Tarradellas Barcelona-El Prat. El ministro de Cultura, Ernest Urtasun, a su vez portavoz de Sumar, ha tachado de “locura” la intención de extender la pista del lado mar del Prat para ganar capacidad operativa, un proyecto pactado por Aena y la Generalitat hace más de un año . Su rechazo se debe no solo a que afectará a los humedales de la Ricarda, que la Administración asegura que compensará, sino porque permitirá aumentar de 55 a 70 millones de pasajeros. “Nos oponemos a este plan para seguir haciendo crecer de forma indefinida la actividad aeroportuaria”, ha insistido Urtasun. En el caso barcelonés, además, desde Sumar han lamentado que se avance en la ampliación sin tener en cuenta que antes debe validarla la Comisión Europea, dado que afecta a zonas protegidas de la Red Natura 2000. Durante la presentación del Documento Regulador Aeroportuaria 2027-2031, que prevé 13.000 millones de inversión para todos los aeródromos, el ministro de Transportes, Óscar Puente, ha argumentado que las partidas para la ampliación del Prat son muy reducidas y, en cualquier caso, se destinan a trabajos previos a la espera del aval de Bruselas. De los 1.760 millones de euros que irán al Prat en los próximos cinco años, la mayoría va a mejorar y reconfigurar las terminales T1 y T2. De cara a la ampliación de la tercera pista del aeropuerto, ha manifestado Puente, se destinan 191 millones principalmente a actuaciones “preparatorias” para la terminal Satélite y a “compensaciones” medioambientales por el alargamiento de la pista “en caso de que la UE considere que son viables”. En concreto, y tal como pactaron la Generalitat y Aena cuando dieron el visto bueno a la ampliación, la partida de compensaciones sería para comprar suelo en zonas cercanas y desarrollar espacios naturales equiparables a los afectados en La Ricarda. A la espera del Plan Director para esta obra, ya en marcha y que se deberá trasladar a Bruselas, Puente ha añadido que el grueso de la inversión para las obras de la pista mar se incluirán en el próximo DORA, el IV. El objetivo del Goberno sigue siendo tener la infraestructura actualizada en 2033. “La Ricarda no es compensable”, ha proclamado la alcaldesa del Prat, Alba Bou, en una comparecencia de urgencia. La edil lamenta que se haya aprobado el DORA III sin el consenso de corporaciones locales afectadas como la suya, y confía en que Bruselas acabe tumbando los planes del Gobierno. Tal como ha recordado, sigue sin resolver un expediente abierto por la Comisión por incumplir las compensaciones ambientales de la última ampliación de la infraestructura, a principis de siglo.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-15T12:54:16+00:00"
+        },
+        {
+          "title": "Juega el Atlético-Real Madrid y compite por premios",
+          "link": "https://www.marca.com/fantasy/2026/09/15/juega-atletico-real-madrid-compite-premios.html",
+          "desc": "Hay 300 euros en juego en la liga oficial Super Derbi del Movistar Fantasy MARCA",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-15T14:28:45+02:00"
+        },
         {
           "title": "Hansi Flick se une a la campaña del Balón de Oro: \"Si Lamine Yamal cree que se lo merece, yo también\"",
           "link": "https://www.estadiodeportivo.com/futbol/barcelona/hansi-flick-une-campana-del-balon-oro-lamine-yamal-cree-que-merece-tambien-20260915-546602.html",
@@ -337,20 +351,6 @@
           "desc": "La mitad del dúo británico comentó que \"no sabía\" si continuarían actuando una vez concluya la gira anunciada.",
           "source": "https://www.20minutos.es/rss/",
           "fecha": "2026-09-15T12:28:27+02:00"
-        },
-        {
-          "title": "La locura de Mas tras hacer grande a España: sus \"paso palabra\", el mensaje de Pedro Sánchez...<br>",
-          "link": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/15/enric-marca-ganar-lavuelta-tenia-300-whatsapps-costara-responderlos.html",
-          "desc": "El balear atiende a este medio todavía con la emoción del triunfo reciente, orgulloso del equipo, pensando en el Mundial y con ganas de asimilar lo conseguido",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-15T12:26:01+02:00"
-        },
-        {
-          "title": "Fábio Silva ha despertado: “En el fútbol, y en la vida, las cosas no son siempre fáciles”",
-          "link": "https://www.marca.com/futbol/bundesliga/2026/09/15/fabio-silva-despertado-futbol-vida-cosas-son-siempre-faciles.html",
-          "desc": "El ex de Las Palmas ha generado cinco goles con el Borussia Dortmund en los primeros cinco partidos del curso",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-15T12:23:59+02:00"
         }
       ]
     },
@@ -363,34 +363,34 @@
           "link": "https://www.formula1.com/en/latest/article/lando-norris-madring-misery-creates-fresh-baku-betting-value-for-title-hopeful.3d9zXvQBVHuPWYgJF2KLEc",
           "desc": "The McLaren star failed to convert his Spanish Grand Prix pole into a third win of the season, but the defending World Champion is still the in-form driver heading to Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T12:30:24.685002+00:00"
+          "fecha": "2026-09-15T13:00:23.271144+00:00"
         },
         {
           "title": "What we learned from F1's first visit to the Madring",
           "link": "https://www.formula1.com/en/latest/article/what-we-learned-from-f1s-first-visit-to-the-madring.7gkOP8vYszgWmb9e2SyfgD",
           "desc": "Plenty of talking points emerged as the Madring made its debut on the Formula 1 calendar.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T12:30:24.685002+00:00"
+          "fecha": "2026-09-15T13:00:23.271144+00:00"
         },
         {
           "title": "Lawson reflects on his Red Bull outings after sixth in Madrid",
           "link": "https://www.formula1.com/en/latest/article/overall-its-been-a-strong-three-weekends-lawson-assesses-his-red-bull-outings.5te41V9tCdZlfI06L8yi1s",
           "desc": "Liam Lawson believes \"overall it's been a strong three weekends\" with Red Bull since replacing the injured Isack Hadjar midway through the season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T12:30:24.685002+00:00"
+          "fecha": "2026-09-15T13:00:23.271144+00:00"
         },
         {
           "title": "Mekies explains decision to ask Verstappen to give back places",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-mekies-explains-decision-to-ask-verstappen-to-give-back-places-in-madrid.3BUc5lifiWM4Gq8PagJHek",
           "desc": "Max Verstappen was instructed to give positions back at the start of the Spanish Grand Prix before eventually finishing in P2.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-15T12:30:24.685002+00:00"
+          "fecha": "2026-09-15T13:00:23.271144+00:00"
         },
         {
           "title": "Ferrari se vuelve a adelantar y prueba Imola",
           "link": "https://www.marca.com/motor/formula1/gp-azerbaiyan/2026/09/15/ferrari-vuelve-adelantar-prueba-imola.html",
           "desc": "Ante el incierto final de temporada debido a la situación geopolítica, Ferrari se adelanta y rueda en Imola",
-          "source": "https://www.marca.com/rss/motor.xml",
+          "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-15T14:19:04+02:00"
         },
         {
@@ -533,11 +533,39 @@
       "icono": "💻",
       "items": [
         {
+          "title": "Dragon Ball Xenoverse 3 tiene nuevos protagonistas: el nuevo Goku estará acompañado de estos personajes en 2027",
+          "link": "https://vandal.elespanol.com/noticia/2026258019/dragon-ball-xenoverse-3-tiene-nuevos-protagonistas-el-nuevo-goku-estara-acompanado-de-estos-personajes-en-2027/",
+          "desc": "Desde la V-JUMP llegan nuevas imágenes de los avatares de Dragon Ball Xenoverse 3: los nuevos protagonistas de la historia que va más allá de Dragon Ball Z. Dragon Ball Xenoverse 3 muestra en detalle a sus nuevos avatares a través de una serie de ilustraciones de la V-JUMP, confirmando la amplia personalización del título de Bandai Namco . Como en anteriores ocasiones, los jugadores podrán escoger diferentes razas para protagonizar la nueva aventura de la popular saga de la franquicia, con movimientos y habilidades procedentes de múltiples leyendas de la obra de Akira Toriyama . XENOVERSE 3 V-Jump scans showcasing different CACs. pic.twitter.com/ZVc7iBqnBN  Hype (@DbsHype) September 14, 2026 Dragon Ball tiene nuevos protagonistas: el nuevo Goku estará acompañado de estos personajes en el gran proyecto de 2027 Y lo mejor es que en esta ocasión esos nuevos protagonistas acompañarán a un Goku con un aspecto renovado -y adecuado a la West City del año 1000- y más futurista. A través de una filtración de los logros de Steam ya hemos podido echar un vistazo a cómo luce este \"nuevo\" Kakarot y lo cierto es que es una maravilla, con ciertas reminiscencias al Goku Xeno de Super Dragon Ball Heroes . Filtraciones / leaks de Dragon Ball Xenoverse 3 revelan nuevo atuendo de Goku y Chronoa; además ¿un nuevo Dios de la Destrucción del tiempo? Tómenlo con pinzas, son parte de los logros del juego. 😎 pic.twitter.com/qquzwfiOMq  DBSuperHD M𝕏  (@DBSuperHDMX) September 9, 2026 Los diferentes avances de Dragon Ball Xenoverse 3 postulan al juego, por ahora, como la entrega más completa de la saga y en uno de los videojuegos más importantes de la franquicia , puesto que presentará una historia ubicada unos 200 años tras el final de Dragon Ball Z , en un escenario cambiado con los protagonistas de antaño dando el relevo a nuevas generaciones de protectores de la Tierra. Por ahora, el proyecto no tiene fecha de lanzamiento definitiva , más allá de que llegará en 2027 para PS5, Xbox Series y PC, pero esperemos que desde Bandai no tarden demasiado en marcar un día en el calendario para poder abordar esta aventura completamente nueva que no va a limitarse, simplemente, a repetir los arcos de Dragon Ball que todos conocemos.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-15T12:24:00+00:00"
+        },
+        {
           "title": "La Fiscalía Europea investiga a la Fundación Legado Bustillo por un posible fraude en las subvenciones",
           "link": "https://www.eldiario.es/castilla-la-mancha/fiscalia-europea-investiga-fundacion-legado-bustillo-posible-fraude-subvenciones_1_13510287.html",
           "desc": "Patronos de la institución benéfica de La Solana, en Ciudad Real, mantienen que se han contratado y subcontratado servicios a empresas que tienen vínculos y relación con el actual director de la fundación, que fue apoderado de una de ellas en 2023. La Fundación remite a un comunicado en los próximos días UGT acusa a una fundación benéfica en Ciudad Real de negar el permiso de cinco días por hospitalización a sus trabajadores La Fundación Legado Bustillo es una institución benéfica que se dedica a la formación, la educación, el medioambiente y la ayuda social en el municipio de La Solana (15.000 habitantes, Ciudad Real). Ahora, la Fiscalía Europea ha iniciado una investigación tras la denuncia de tres de los patronos, nombrados por el PSOE, para dilucidar si el dinero que ha recibido del plan de recuperación de la Unión Europea tras la covid ha sido empleado en un fraude, al contratar a empresas vinculadas y favorecerlas. El hecho que se investiga, que se enmarca en el anterior patronato y en los años 2024 y 2025, es si se contrató con dinero de las subvenciones a empresas para prestar servicios que podrían tener vinculación con Miguel Ruiz García, el director de la Fundación. Máximo Díaz-Cano, portavoz de los patronos críticos y denunciante ante la Fiscalía, ha explicado a elDiario.es que hay empresas recurrentes, con vínculos directivos compartidos, que se llevan contratos para desarrollos de app, servicios de asistencia externa o redacción de planes estratégicos. Entre ellas, tal y como ha podido constatar este medio con documentación, estarían la asociación 'Steam para nosotras' o la empresa Educacem. En esta última estaría uno de los nexos que se denuncian. El actual director de la Fundación, Legado Bustillo, fue apoderado de la empresa en 2023, cediéndole este puesto más tarde a Antonio del Saz, que aparece también como administrador de otra empresa que se ha llevado proyectos de la Fundación: Proyectos Culturales y Educativos SL. La presidenta de la asociación Steam aparece también en esta última empresa y en Educacem. Todas han facturado a la Fundación Legado Bustillo. El montante que se cobró a la fundación, según recoge el decreto de inicio de la investigación, es de unos 450.000 euros en facturas dedicadas, entre otras cosas, a “identificación de cultivos minoritarios” por 4.700 euros, o “asistencia externa” por 4.000, entre otros desarrollos, como el del plan estratégico del azafrán o los 120.000 euros destinados a un “servicio de asistencia externa en programación educativa”. Esta última factura tiene un anexo en el que se explica el trabajo, a petición de Díaz-Cano, resultando ser de técnica agrícola y ejecutado por otras empresas y la fundación Cellbitec, que también ha sido señalada como una de las denunciadas en el escrito de la Fiscalía. Díaz-Cano señala que ha informado al actual patronato de la situación jurídica y, junto a los otros dos miembros nombrados por el PSOE, ha pedido que se personen como acusación particular en el caso para aclarar si se produjo un fraude y que se suspenda cautelarmente de empleo y sueldo al actual director hasta que se finalice la investigación. La Fundación ha declinado hacer declaraciones a elDiario.es remitiéndose a un posible comunicado en los próximos días.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-15T12:17:32+00:00"
+        },
+        {
+          "title": "Si encuentras GTA 6 para descargar antes de su lanzamiento, no lo abras",
+          "link": "https://www.20minutos.es/tecnologia/ciberseguridad/si-encuentras-gta-6-descargar-antes-su-lanzamiento-no-abras-es-malware-destruir-archivos-ordenador_7036856_0.html",
+          "desc": "La supuesta copia filtrada del juego esconde un software malicioso capaz de robar información, tomar el control del equipo e incluso hacer que se pierdan archivos.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-15T14:11:49+02:00"
+        },
+        {
+          "title": "Meta filtra por error Project Phoenix, su nuevo visor de realidad mixta para 2027",
+          "link": "https://www.20minutos.es/tecnologia/moviles-dispositivos/meta-filtra-error-project-phoenix-nuevo-visor-realidad-mixta_7036830_0.html",
+          "desc": "Meta filtra su nuevo visor de realidad mixta que combina las Meta Quest Pro con el diseño de las gafas Ray-Ban.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-15T14:11:29+02:00"
+        },
+        {
+          "title": "ChatGPT utiliza chats reales revisados por humanos para entrenar su IA: evita que los tuyos entren en el proceso",
+          "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/chatgpt-conversaciones-revisadas-humanos-project-lily-como-evitarlo_7036842_0.html",
+          "desc": "Una investigación revela Project Lily, el programa con revisores humanos de conversaciones reales de ChatGPT. Así puedes reducir al máximo que usen las tuyas.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-15T14:10:43+02:00"
         },
         {
           "title": "Salesforce y Nvidia lanzan Koa, su modelo de razonamiento",
@@ -584,7 +612,7 @@
         {
           "title": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEpkSXQ1VTEzR3QtanM1VUoxeHEzWDh1N29tdGc5WjIwRTR5SXNQR2tMblBCUzN0dGV0b2FpMmxYQ1ZOVldmMi1nSU96dERGdXFwSV81c3lBV1ZpYm1pbW1UR091bXBoLXZfQS1TRUF4QUVCQWptTzFxNVZ6N1ZDb0JBY0VsNEY0SGVXUmlOdWZaODl2MjVnN0RZS19GRHJYd2FqZ0ZlemFTU3M0azgyLXBqd1dWQQ?oc=5",
-          "desc": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia fleetpeople.es",
+          "desc": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia Fleet People",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T11:34:29+00:00"
         },
@@ -668,37 +696,9 @@
         {
           "title": "Trump califica de \"engaño\" los temores sobre la IA en una llamada con el CEO de Nvidia",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0duUThnVml0WjM3U01YVEU4NTgxZDQzWkxWYkJIZDdGTHVSczZuRXpoRXZoUVNaV3hPejVDcWJZRElhZjBTaDdqZE42RF9iWUZTa1FLalZDZXVqMVo3dHZTY1AyRHd1OHY2NlhWU0RYNGVvOS1ZcmhiZ0t4NmV2bA?oc=5",
-          "desc": "Trump califica de \"engaño\" los temores sobre la IA en una llamada con el CEO de Nvidia cnnespanol.cnn.com",
+          "desc": "Trump califica de \"engaño\" los temores sobre la IA en una llamada con el CEO de Nvidia CNN en Español",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T10:35:03+00:00"
-        },
-        {
-          "title": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUi1INHc5czVQMGJULUkyODBLbHA3OF9UTjhKNnBldnY0MDhieVBxOHNyRXFRVF9Ebmp0RFBqcnpFbndBVl9FVnl0WkxRWXdLVlN1NGxqdW9XdGNGSzZlYm5oTWYyeHVQTWRsbWY4ZkM1VTdRZWl0eEx6MGZFRTNsZlpoUHh1aVE3SGlLUHduSnM5WTRLMEpMWVRKZnNvWjU3NFE0blZWMk9mUdIBrwFBVV95cUxNTmlkRXFIbHdTWmZpREVXc2dzdV9jUFZXUXFWbW8xTVZHS05UYXpXeGxHUmlJcXNQLW9KUHV5azhXRkpzYVlWUWxWcU9CY3pJVnFoQ0NUdlpFWFVVRkE0aTVDWnR4UHkzcVZiTklCTDQwT21tS1RPdzRSY2dhTmMyMEY3R2xzWklsTjR0bTdxa1hLdjYzLVA1eDVJMUQ1XzJrcWN4THpMRHFGRzZkZWxR?oc=5",
-          "desc": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia Economía Digital",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:30:00+00:00"
-        },
-        {
-          "title": "Minecraft Legacy gets rewritten in C++ for PS2 and Wii ports — code is tuned so it works well even on the PS2’s meager 32MB of RAM",
-          "link": "https://www.tomshardware.com/video-games/retro-gaming/minecraft-legacy-gets-re-written-in-c-for-ps2-and-wii-ports-code-is-tuned-so-it-works-well-even-on-the-ps2s-meager-32mb-of-ram",
-          "desc": "Games optimization specialist OptiProjects (AKA OptiJeugos) has released a new port of Minecraft Legacy for the Sony PlayStation 2 and Nintendo Wii consoles.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-15T10:30:00+00:00"
-        },
-        {
-          "title": "Perplexity trae Portable Computer a Windows, así corre en local en una GPU RTX",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnQ5azd4azJGZ3pCMXBLY1l0V3N2WENXbE51NURBajN5Nkd6QWFKV0JyLWF2ejRuZTM3Q0pKNDY4VzJ4ZmV6V3dwbmpwYWtuclRMNzBWZzVkeGNac1Vhbjg5UWdsTVVPYU1Ud09ld0J5R2dSZV85MHljYUZXOGZrM1pnYXVoazc1Q3N2OFd4Wkx1QzZ5dFNZWA?oc=5",
-          "desc": "Perplexity trae Portable Computer a Windows, así corre en local en una GPU RTX Pasquale Pillitteri",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:25:44+00:00"
-        },
-        {
-          "title": "Una saga de los 90 vuelve en Switch 2 imaginando cómo habría sido con la tecnología actual",
-          "link": "https://vandal.elespanol.com/noticia/2026258014/una-saga-de-los-90-vuelve-en-switch-2-imaginando-como-habria-sido-con-la-tecnologia-actual/",
-          "desc": "Putty World recuperará la veterana saga de plataformas de System 3 reinterpretando sus clásicos de los 90 como si sus creadores hubieran contado entonces con la tecnología actual. System 3 ha anunciado Putty World , una nueva entrega de su veterana saga de plataformas que llegará en el segundo trimestre de 2027 exclusivamente a Nintendo Switch 2 . En lugar de limitarse a remasterizar uno de sus antiguos juegos, el estudio ha partido de una pregunta bastante peculiar: cómo habría sido Putty a mediados de los 90 si sus creadores hubieran dispuesto de la tecnología actual . La intención es mantener el humor, la personalidad y las ideas de los originales, pero sin las restricciones técnicas de aquella época. System 3 considera que la próxima oleada de nostalgia retro puede mirar hacia mediados de los años 90 , cuando muchos estudios empezaban a experimentar con personajes 2D prerenderizados poco antes de la expansión definitiva de los gráficos poligonales. Tres juegos de Putty reunidos y reinterpretados Putty World reunirá elementos de Putty, Super Putty y Putty Squad dentro de una única aventura conectada. A medida que avanzamos podremos desbloquear niveles recreados y actualizados a partir de diferentes entregas de la serie , además de contenido completamente nuevo. El proyecto contempla 75 niveles nuevos o profundamente renovados y más de 45 enemigos , con comportamientos ampliados y nuevas formas de atacar y reaccionar ante el jugador. También habrá jefes al final de determinados niveles y enfrentamientos específicos contra grandes enemigos. El propio Putty será más expresivo, con más de 50 combinaciones de expresiones faciales. Técnicamente, el objetivo es que Putty World funcione a 60 imágenes por segundo, con resolución de 1080p en modo portátil y hasta 4K al jugar en televisión. Todavía queda bastante desarrollo por delante, y la versión que System 3 mostrará en Tokyo Game Show 2026 será una demostración jugable muy temprana centrada precisamente en la tecnología, los gráficos y los controles. Además, este proyecto servirá para inaugurar la iniciativa \"What If?\" de System 3, con la que la compañía quiere imaginar cómo podrían haber sido otros juegos clásicos si sus desarrolladores hubiesen contado entonces con el hardware disponible en la actualidad.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-15T10:06:00+00:00"
         }
       ]
     },
@@ -712,6 +712,13 @@
           "desc": "El técnico del Barcelona compareció en rueda de prensa, en la previa del partido contra el Racing de Santander, dónde le han vuelto a preguntar por el Balón de Oro, Balde, Gavi y su futuro: \"No se sabe. Estoy disfrutando, pero no se sabe qué pasará\" El Barcelona recibe mañana miércoles al Racing de Santander en el Camp Nou . Por ello, Hansi Flick compareció en rueda de prensa, ante los medios de comunicación, para analizar el encuentro de LaLiga EA Sports, de la jornada seis. El técnico alemán fue preguntado, principalmente, por el Balón de Oro y las opciones de que Lamine Yamal gane el prestigioso premio que entrega France Football: \"Es un jugador excepcional\". Hansi Flick: \"Han puesto todo junto después de un largo Mundial\" Por un lado, Hansi Flick habló sobre el inminente parón de selecciones : \"Son cosas que no puedo cambiar. Han puesto todo junto después de un largo Mundial. Sería algo necesario, pero para el club no es la mejor opción. Hay que ser sinceros, pero hay que aceptarlo. Lo han decidido así y tenemos que aceptarlo\". \"Estoy disfrutando en Barcelona, entrenando al Barça. Pero no se sabe lo que puede pasar\" \"> Sobre el Camp Nou como sede de la final de la Champions League de 2029 : \"Nos lo han comentado. Es una buena noticia para el club. Este estadio, cuando esté acabado, va a ser increíble. Estaré al 100%. Seguro. Como entrenador o como aficionado, ya veremos. No se sabe lo que puede pasar, en el fútbol pasa de todo. Estoy disfrutando en Barcelona, entrenando al Barça. Pero no se sabe lo que puede pasar\". Hansi Flick: \"Yo solo puedo hablar de Lamine, no de Mbappé\" Hansi Flick volvió a ser preguntado por el Balón de Oro : \"Sólo puedo hablar de Lamine, no de Mbappé. Creo que Lamine es sincero, que tiene esa confianza en sí mismo. Está demostrando lo bueno que es, es excepcional . Quizás preferiría que no fuera así, pero él lo está diciendo, dice que quiere ganar el Balón de Oro. Es muy importante para él. Tiene esa sensación y tenemos que aceptarla. Yo le apoyaré\". \"Lamine es sincero, que tiene esa confianza en sí mismo\" \"> Por otra parte, el técnico del Barceloma comentó el estado de Gavi : \" Tiene una gran ambición y siempre quiere jugar. Empezó el primer partido, luego se lesionó y después volvió. El equipo está funcionando bien, pero necesitamos a todos. Lo más importante es que todo el mundo sepa que les necesitamos y que necesitamos que sean positivos. Él está entrenando bien y es lo que quiero ver en él\". Hansi Flick, sobre Balde: \"Nadie se esperaba este nivel de Xavi Espart\" Hansi Flick valoró también la situación en la defensa: \"Ahora mismo, tenemos cinco centrales, João también puede jugar y nadie se esperaba este nivel de Xavi Espart. Balde tiene que dar lo mejor y lo hace. Él no está contento con no jugar. Estaba acostumbrado a ser clave y es normal que no esté contento. Las cosas cambian, llegan nuevos jugadores, jugadores jóvenes, y pasan cosas nuevas en el equipo y hay que gestionarlo\". \"Cancelo estaba acostumbrado a ser clave y es normal que no esté contento\" \"> El alemán explicó que Cancelo \"lo está haciendo bien. No estoy descontento con él, en absoluto . Todo el mundo está compitiendo y siempre tenemos jugadores que pueden jugar en esa posición. Pero gestionarlo es lo más complicado\". Hansi Flick: \"Lamine Yamal está en un momento fantástico, jugando a un gran nivel\" Sobre Lamine Yamal , Hansi Flick afirmó que \"tiene muchísima calidad, pero también ahora mismo tiene un nivel de forma muy bueno. Ahora sabe que puede marcar y en los partidos se ve, ahora tiene más oportunidades de marcar. Su confianza en la finalización es espectacular. Está en un momento fantástico, jugando a gran nivel. Siempre lo digo: cuando le ves en el entrenamiento, sabes lo que va a pasar en el partido\". \"Todos queremos que siga jugando como está jugando y eso viene de esa confianza que tiene en sí mismo\" \"> El técnico del Barcelona, que habló de los árbitros , añadió que Lamine Yamal \"es un jugador joven. Es sincero y tiene confianza en sí mismo, y eso me gusta. También demuestra esa confianza en el césped. T odos queremos que siga jugando como está jugando y eso viene de esa confianza que tiene en sí mismo . Eso es lo que es Lamine, y yo le voy a apoyar porque es increíble tener un jugador como él\". Hansi Flick lo deja claro: \"El nivel de los árbitros es muy bueno, en la Champions y LaLiga\" Lamine Yamal, sobre Mbappé y el Balón de Oro: \"Para mí está claro y todo el mundo que ve los partidos lo sabe\" Por último, sobre el Balón de Oro y Lamine Yamal, que analizó sus opciones , Hansi Flick concluyó lo siguiente: \"Si su opinión es que se merece el Balón de Oro, yo también creo que se lo merece. Es un jugador excepcional. Sé que hay muchos jugadores de primer nivel, hay que tenerlo en cuenta. Pero ya decidirán y estaré contento cuando se haya acabado\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-15T12:28:28+00:00"
+        },
+        {
+          "title": "Openbank mejora su depósito a seis meses y ofrece hasta un 2,75% TAE",
+          "link": "https://www.20minutos.es/lainformacion/empresas/openbank-mejora-su-deposito-seis-meses-ofrece-hasta-un-2-75-tae_7037018_0.html",
+          "desc": "La promoción va dirigida a los clientes que domicilien su nómina, pensión, prestación de desempleo o ingresos mensuales de al menos 900 euros.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-15T14:16:10+02:00"
         },
         {
           "title": "El Gobierno crea una vía preferente para aprobar inversiones estratégicas en un mes",
@@ -770,25 +777,11 @@
           "fecha": "2026-09-15T10:42:56+00:00"
         },
         {
-          "title": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUi1INHc5czVQMGJULUkyODBLbHA3OF9UTjhKNnBldnY0MDhieVBxOHNyRXFRVF9Ebmp0RFBqcnpFbndBVl9FVnl0WkxRWXdLVlN1NGxqdW9XdGNGSzZlYm5oTWYyeHVQTWRsbWY4ZkM1VTdRZWl0eEx6MGZFRTNsZlpoUHh1aVE3SGlLUHduSnM5WTRLMEpMWVRKZnNvWjU3NFE0blZWMk9mUdIBrwFBVV95cUxNTmlkRXFIbHdTWmZpREVXc2dzdV9jUFZXUXFWbW8xTVZHS05UYXpXeGxHUmlJcXNQLW9KUHV5azhXRkpzYVlWUWxWcU9CY3pJVnFoQ0NUdlpFWFVVRkE0aTVDWnR4UHkzcVZiTklCTDQwT21tS1RPdzRSY2dhTmMyMEY3R2xzWklsTjR0bTdxa1hLdjYzLVA1eDVJMUQ1XzJrcWN4THpMRHFGRzZkZWxR?oc=5",
-          "desc": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia Economía Digital",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-15T10:30:00+00:00"
-        },
-        {
           "title": "El Gobierno atribuye el retraso de la CNMC en la norma clave del apagón a intereses económicos: \"Follow the money\"",
           "link": "https://www.eldiario.es/economia/gobierno-atribuye-retraso-cnmc-norma-clave-apagon-intereses-economicos-follow-the-money_1_13510548.html",
           "desc": "El secretario de Estado de Energía señala que había empresas que \"podían no tener interés en que se aprobara\", lo que dilató años la tramitación del procedimiento de control de tensión 7.4 Red Eléctrica cifra en 783 millones el coste de la operación reforzada tras el apagón El secretario de Estado de Energía, Joan Groizard, ha atribuido este martes en el Congreso el retraso de más de cuatro años de la Comisión Nacional de los Mercados y la Competencia (CNMC) para aprobar un procedimiento de control de tensión, el 7.4, considerado clave en el apagón ibérico de 2025, a motivos económicos, porque había empresas que “podían no tener interés en que se aprobara”, lo que ralentizó su puesta en marcha. “Follow the money” [“Sigue el dinero”], ha dicho Groizard, parafraseando una expresión previa del portavoz de Bildu, Mikel Otero, en su comparecencia en la comisión de investigación sobre el apagón del 28 de abril de 2025, preguntado por cómo es posible que ese procedimiento estuviera “años dando vueltas sin ser aprobado”, en una crítica extensible a otros grupos. La portavoz del PNV ha planteado “cómo se explica” ese retraso y la de Junts, si “la CNMC es responsable” del apagón por esa demora. Según Groizard, “no se le puede imputar la culpabilidad del apagón” a la CNMC, porque el histórico cero energético fue multifactorial y había herramientas regulatorias que habrían bastado si los operadores hubieran cumplido la normativa. Sí ha dejado claro que “correspondía a la CNMC” aprobar la actualización del 7.4, que estaba obsoleto (databa de 2000) y Red Eléctrica planteó actualizar en 2020 . Competencia ha modificado desde ese año 50 procedimientos de operación, ha recordado Groizard. Lo aprobó semanas después del 28 de abril. Luego lo ha tenido que reformar dos veces. El secretario de Energía ha señalado que cuando una Administración “tarda en tramitar una norma puede ser por dos cosas”: “No se le da prioridad” o “es compleja, o tiene oposición de aquellos a quienes interpela”. “Conociendo a los profesionales de la CNMC, si hubiera habido consenso” se hubiera podido aprobar “mucho más rápidamente”. Pero en ese expediente hubo “enormes alegaciones muy contundentes” y “entidades que por un motivo u otro podían no tener interés en que se aprobara” esa norma. “Porque era técnicamente compleja, desde luego, porque requería adaptación de sistemas. O por otros motivos menos confesables, no lo sé”. “Nos pasa a nosotros”. Cuando se empieza a tramitar un real decreto “te encuentras una avalancha de alegaciones en contra, te las tienes que leer, te las tienes que estudiar y a veces te obliga a reformular, rehacer y tardas más en aprobar la norma de lo que esperabas”. “Eso no quita que el 28 de abril había una normativa completa que permitía evitar lo que ocurrió”. Groizard ha señalado que hay entidades que han recurrido el 7.4 tras su aprobación. Ha reconocido que el ministerio no era consciente de su importancia, aunque ha hecho extensivo ese desconocimiento al sector y al Congreso, que planteó “cero” preguntas sobre esta cuestión al Gobierno antes del 28 de abril. “No hubo ningún aviso por parte de nadie” sobre el control dinámico de tensión. “Ni Red Eléctrica ni ninguno de los agentes” planteó problemas de garantía de suministro antes del colapso, aunque “en algunos casos” su departamento sí recibió avisos de perturbaciones en la red. En ese procedimiento “veíamos una oportunidad de reducir costes”, en vista del aumento exponencial de los denominados servicios de ajuste (para resolver problemas puntuales en la red). Pero “no preveíamos” que “el control dinámico de tensión pudiera ser una cuestión que pudiera llevar a un cero eléctrico como se ha comprobado posteriormente”. Groizard ha señalado que la operación reforzada que REE aplica desde el apagón (con más gas), y que ya se está reduciendo , irá a menos “cuanta menos incertidumbre tenga” el operador del sistema sobre el control de tensión. Ha considerado “fundamental” acelerar la habilitación de nuevas renovables “que cada semana están tocando a la puerta de REE” para prestar ese servicio. Por ahora lo prestan “solo unos 13 GW, que no es poco, el doble de la flota nuclear”, pero es una parte pequeña de los 90 GW de eólica y fotovoltaica existentes. En poco más de un año, Gobierno, CNMC y REE acumulan decenas de medidas relativas al control de tensión , pero según Groizard “tenemos muchos deberes nosotros todavía”. Ha citado un procedimiento para el control de la velocidad de la tensión que REE remitió el 31 de julio. Ha contado con “aprobar a finales de este año” la planificación de las redes presentada hace un año. Ha confiado en que España dará un “salto exponencial” en los próximos meses en el almacenamiento con baterías. Prórroga nuclear El secretario de Energía ha defendido la ampliación “puntual” de la nuclear de Almaraz hasta 2030, decidida en agosto tras concluir el operador del sistema que “aporta” desde el punto de vista de la seguridad del suministro, si bien “es una aportación limitada” porque la nuclear “no es especialmente buena para el control dinámico de tensión” a diferencia de las renovables o el gas. Ha restado importancia a que el cierre coincida con uno de los grupos de Ascó (Tarragona) y Cofrentes. Ha argumentado que cerrar y desmantelar una nuclear “lleva 10-15 años” y no ha encontrado problema en que se solapen los cierres. Ha argumentado que Garoña dejó de operar la década pasada y todavía hoy se está trabajando en su desmantelamiento. “No anticipamos que eso pueda tener una gran afección”. “Si es incapaz de cerrar uno, ¿cómo va a ser capaz de cerrar siete?”, le ha reprochado el portavoz de Sumar, Eloi Badia. Groizard ha argumentado que otra prórroga en 2030 requeriría un análisis “mucho más exhaustivo” porque la de Almaraz es parcial. “No tiene que ser un precedente para otras centrales” y tendrá “impacto a la baja” sobre las renovables. Se justifica por una situación “imprevista”, la crisis energética por la guerra en Irán. Ha recordado que la Agencia Internacional de la Energía (AIE) preveía una “senda a la baja” en los precios del gas, que se han casi triplicado este año. Y que esta crisis se va a prolongar “20-30 meses” cuando se reabra el estrecho de Ormuz. “El auténtico escudo” que “nos protege de la vulnerabilidad exterior” son las renovables.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-15T10:22:56+00:00"
-        },
-        {
-          "title": "Médicos y enfermeras de Ceuta harán huelga el 24 de septiembre para protestar por las condiciones laborales agravadas por la crisis",
-          "link": "https://www.elmundo.es/salud/2026/09/15/6aa914c2fc6c8330258b45af.html",
-          "desc": "El sindicato CEMSATSE, que une a estos grupos profesionales, insta a un paro general el miércoles 24 de septiembre ante la inacción del Gobierno Leer",
-          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-          "fecha": "2026-09-15T12:07:41+02:00"
         },
         {
           "title": "Desde Santander hasta Londres o Venecia: los nuevos museos más sorprendentes que puedes visitar en 2026",
@@ -873,6 +866,13 @@
           "desc": "Movistar Plus+ seguirá emitiendo cada jornada cinco partidos del paquete de DAZN LaLiga hasta 2032.",
           "source": "https://www.20minutos.es/rss/",
           "fecha": "2026-09-15T09:46:57+02:00"
+        },
+        {
+          "title": "Las estrategias de una psicóloga para reducir el impacto de la vuelta a la rutina: “Olvidamos que no hay tiempo para todo”",
+          "link": "https://www.eldiario.es/era/estrategias-psicologa-reducir-impacto-vuelta-rutina-olvidamos-no-hay-tiempo-xp_1_13479927.html",
+          "desc": "Frente a la urgencia por ponerse al día y optimizar septiembre, la psicóloga María Bernardo propone pautas prácticas para evitar que el trabajo y la rutina menoscaben nuestra salud mental “Para mí el año empieza en septiembre”: por qué el fin del verano es un momento de reinicio para muchos Reincorporarse al trabajo y volver a las rutinas tras el disfrute de las vacaciones puede convertirse en una dolorosa carrera de obstáculos, en función de la situación personal de cada uno, especialmente si no se tienen en cuenta ciertas estrategias importantes para la salud mental en ese proceso en el que el día a día cambia por completo. “Hay un choque muy grande con lo que hemos vivido en verano y, por otra parte, septiembre se entiende casi como año nuevo y hay muchos proyectos para empezar : optimizar los procesos, hacer deporte, poner al día los correos, empezar a cuidarnos.... Es muchísima presión”, señala la psicóloga sanitaria María Bernardo , que comparte cinco recomendaciones para llevar a cabo una transición paulatina y más llevadera. Un retorno progresivo No es necesario pasar de cero a cien el primer día. Si bien hay obligaciones inevitables como el trabajo, que también se puede tratar de encarar con un día de margen, otras actividades deben reintroducirse de manera gradual. “Si quiero retomar el gimnasio, no tengo por qué retomarlo cinco días a la semana”, apunta Bernardo, que opta por empezar poco a poco. “No te apuntes cuatro días a una academia, apúntate uno y siempre va a haber tiempo de ir aumentándolo”, recomienda la experta, que cree que a veces “se nos olvida que no hay tiempo para todo y, sobre todo, que no tenemos energía para todo”. Fijarse metas realistas “Estoy harta de escuchar el ‘quiero mejorar, quiero ser más productiva, no quiero procrastinar, no quiero estar cansada, quiero hacer todo lo que me propongo’ porque no es realista”, subraya la psicóloga, que defiende que las metas deben de ser realistas y pequeñas, en línea con la recomendación anterior de progresión, para no caer en el desánimo. “Tenemos que ser capaces de procrastinar, de que un día no nos apetezca hacer nada, de estar cansados... no podemos fijar metas de superhumano porque si los objetivos no son realistas en dos o tres semanas te frustras y ya arrancas el invierno con un mal estado de ánimo”, incide Bernardo. No renunciar al ocio Al terminar el verano existe la tendencia de pasar de un extremo al otro: de la desconexión total a la conexión absoluta al volver al trabajo. Para Bernardo, la clave para sostener el bienestar estival es no renunciar a esos espacios de disfrute, sino adaptarlos a nuestro horario y rutinas. “A lo mejor en verano yo me podía pasar tres horas seguidas leyendo y ahora, un martes, no, pero no significa que no pueda leer 30 minutos antes de acostarme”, ejemplifica la psicóloga, que destaca que mantener los paseos, las reuniones con amigos o las aficiones más allá de las vacaciones ayuda a que el choque no sea tan drástico. Prestar atención al sueño La vuelta a la rutina y a cierto estrés diario también impactan directamente en el descanso, fundamental para un día a día saludable. “Es muy fácil que el sueño se trastoque un poquito, aunque en general hemos dormido mal todos en verano por el calor y porque también cuando estás de vacaciones te echas más siestas e intentas compensar a lo largo del día el no dormir por la noche, pero ahora en la rutina ya no tenemos ese espacio”, explica la experta, que recomienda “poner especial cuidado a la higiene del sueño al inicio de septiembre y octubre”, y mantener así un horario sano. Cuidar la salud mental La presión de la vuelta vacacional también convierte este periodo del año en un momento perfecto para prestar especial atención al estado psicológico y buscar ayuda profesional si es necesaria. Para Bernardo, “el verano es una bola de oxígeno que tenemos que saber sostener de una forma equilibrada a lo largo del año” y, para lograrlo, lo primero es cuidarse para que el perfeccionismo o la autoexigencia no pasen factura.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-15T07:45:56+00:00"
         }
       ]
     },
@@ -904,7 +904,7 @@
         {
           "title": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEpkSXQ1VTEzR3QtanM1VUoxeHEzWDh1N29tdGc5WjIwRTR5SXNQR2tMblBCUzN0dGV0b2FpMmxYQ1ZOVldmMi1nSU96dERGdXFwSV81c3lBV1ZpYm1pbW1UR091bXBoLXZfQS1TRUF4QUVCQWptTzFxNVZ6N1ZDb0JBY0VsNEY0SGVXUmlOdWZaODl2MjVnN0RZS19GRHJYd2FqZ0ZlemFTU3M0azgyLXBqd1dWQQ?oc=5",
-          "desc": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia fleetpeople.es",
+          "desc": "Hyundai lanzará en 2029 un sistema de asistencia a la conducción en colaboración con Nvidia Fleet People",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T11:34:29+00:00"
         },
@@ -925,14 +925,14 @@
         {
           "title": "Trump califica de \"engaño\" los temores sobre la IA en una llamada con el CEO de Nvidia",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0duUThnVml0WjM3U01YVEU4NTgxZDQzWkxWYkJIZDdGTHVSczZuRXpoRXZoUVNaV3hPejVDcWJZRElhZjBTaDdqZE42RF9iWUZTa1FLalZDZXVqMVo3dHZTY1AyRHd1OHY2NlhWU0RYNGVvOS1ZcmhiZ0t4NmV2bA?oc=5",
-          "desc": "Trump califica de \"engaño\" los temores sobre la IA en una llamada con el CEO de Nvidia cnnespanol.cnn.com",
+          "desc": "Trump califica de \"engaño\" los temores sobre la IA en una llamada con el CEO de Nvidia CNN en Español",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T10:35:03+00:00"
         },
         {
           "title": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUi1INHc5czVQMGJULUkyODBLbHA3OF9UTjhKNnBldnY0MDhieVBxOHNyRXFRVF9Ebmp0RFBqcnpFbndBVl9FVnl0WkxRWXdLVlN1NGxqdW9XdGNGSzZlYm5oTWYyeHVQTWRsbWY4ZkM1VTdRZWl0eEx6MGZFRTNsZlpoUHh1aVE3SGlLUHduSnM5WTRLMEpMWVRKZnNvWjU3NFE0blZWMk9mUdIBrwFBVV95cUxNTmlkRXFIbHdTWmZpREVXc2dzdV9jUFZXUXFWbW8xTVZHS05UYXpXeGxHUmlJcXNQLW9KUHV5azhXRkpzYVlWUWxWcU9CY3pJVnFoQ0NUdlpFWFVVRkE0aTVDWnR4UHkzcVZiTklCTDQwT21tS1RPdzRSY2dhTmMyMEY3R2xzWklsTjR0bTdxa1hLdjYzLVA1eDVJMUQ1XzJrcWN4THpMRHFGRzZkZWxR?oc=5",
-          "desc": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia Economía Digital",
+          "desc": "Hyundai acelera el coche autónomo con la inteligencia artificial de Nvidia economiadigital.es",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T10:30:00+00:00"
         },
@@ -1009,7 +1009,7 @@
         {
           "title": "Datos clave: NVIDIA (NVDA) advierte presión sobre los márgenes en el segundo semestre; Anthropic y el papel de inversor ancla",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcWRFcG0wMjJXd0RtNGJzeWZxdDdydk9kdnRlYU52NWtPVkZvSENZNXB6TTdYRFYwczdKS1N0bzlLU0pKN0owRFVDTi1DLWloaVRpRy1NYzl0MERfa3JtSmtkN2djSy1Kc0lxYw?oc=5",
-          "desc": "Datos clave: NVIDIA (NVDA) advierte presión sobre los márgenes en el segundo semestre; Anthropic y el papel de inversor ancla TradingView",
+          "desc": "Datos clave: NVIDIA (NVDA) advierte presión sobre los márgenes en el segundo semestre; Anthropic y el papel de inversor ancla es.tradingview.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T07:14:53+00:00"
         },
@@ -1042,9 +1042,9 @@
           "fecha": "2026-09-15T04:30:00+00:00"
         },
         {
-          "title": "Trump llama al presidente de Nvidia y rechaza temores sobre la inteligencia artificial",
+          "title": "Trump llama al presidente de Nvidia y rechaza temores sobre la inteligencia artificial - López-Dóriga Digital",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYTVaQnFBN09UM3JZcUpHdzM5OHJxa1FfdWFWT1R6cDNxUHFQM0dlMGhKTy05SkYzS09pVlp2LXZ0dmdYWFczczBRa2p3aHpDbE1VNEQ0Ujk3VjJfdVlKNTdwMEgxT0ZZdmxNNDEtRFZ5dVBsTkhicFY4dkNvNEhQM1JrY1o3dGlPWHcwTnRzdXJ5c0VFbGUyWTdSUDBaMzZnanhqOE8xR0lRelVCOE94eldKN1FyTGZEa0Z4WUtrZC05Vm8?oc=5",
-          "desc": "Trump llama al presidente de Nvidia y rechaza temores sobre la inteligencia artificial lopezdoriga.com",
+          "desc": "Trump llama al presidente de Nvidia y rechaza temores sobre la inteligencia artificial López-Dóriga Digital",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-15T03:44:34+00:00"
         }
@@ -1057,7 +1057,7 @@
         {
           "title": "Sharon AI to Announce Second Quarter 2026 Results",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3R2TTNCbHIxbVhTQjJHbnl3QWZ4VTNZRDBYcU1ITGFzWHZWSjNrTTF4NF9fRHd4UFZ3YVBIY0luY3lRbU5RYXFlQUJYRVNYZmk0VTFLa2VzSTJ5VWxLNU55X0d6WG5QZXlGRFE2R3NmOUdyYXdxZWVtTjRkSm1zbGxXNDdqX3RXdjRjNGVjX3dndlVMLTluRnJiWUIzREhWdmNjX2YtdXRuVHhBeEE?oc=5",
-          "desc": "Sharon AI to Announce Second Quarter 2026 Results TradingView",
+          "desc": "Sharon AI to Announce Second Quarter 2026 Results es.tradingview.com",
           "source": "https://news.google.com/rss/search?q=SHAZ+Sharon+AI&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-07-27T07:00:00+00:00"
         },
@@ -1147,7 +1147,7 @@
         {
           "title": "AMD en zona decisiva entre $483 y $526: niveles en vivo",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejhOaXRCaHVobHBHQkU2UWcta1d3NXhDem1NT0xTeDRjYWl0X20xZUVzU25wWnhNUG9OOHQ4T1p2ZU9MbzJtbFRxMFhNczNiYVM1VU8xc2lrMWJBMElGRUQzTkFIYURrRzJzcW5EOFJ4ejVpdDY4R0ZrWmdEdmFLUHpiZlNtelRTX2RTcndCRXBZYmxETWNmNHdWZW1zSlVIc3ZGN0JuVlVwRzlzTS1NSWZoOXlSYlUwV2k2bXBiTzFLQQ?oc=5",
-          "desc": "AMD en zona decisiva entre $483 y $526: niveles en vivo Investing.com España",
+          "desc": "AMD en zona decisiva entre $483 y $526: niveles en vivo es.investing.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-14T14:08:00+00:00"
         },
