@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-20T20:30:01.134582+00:00",
+  "generado": "2026-09-20T21:00:01.352030+00:00",
   "fuente": "laliga.com (oficial)",
   "jornada": 7,
   "jornada_nombre": "Jornada 7",
@@ -1028,21 +1028,111 @@
       "id": "laliga-102317",
       "slug": "temporada-2026-2027-laliga-ea-sports-valencia-cf-real-sociedad-7",
       "fecha": "2026-09-20T21:00:00+02:00",
-      "estado": "pre",
-      "detalle": "",
+      "estado": "post",
+      "detalle": "2 - 3",
       "canal": [
         "Movistar LALIGA"
       ],
       "local": {
         "equipo": "Valencia CF",
-        "once": [],
-        "formacion": "",
+        "once": [
+          {
+            "num": 1,
+            "nombre": "Dimitrievski"
+          },
+          {
+            "num": 14,
+            "nombre": "Gayà"
+          },
+          {
+            "num": 24,
+            "nombre": "Maffeo"
+          },
+          {
+            "num": 18,
+            "nombre": "Pepelu"
+          },
+          {
+            "num": 12,
+            "nombre": "De Haas"
+          },
+          {
+            "num": 33,
+            "nombre": "Mayol"
+          },
+          {
+            "num": 23,
+            "nombre": "Ugrinic"
+          },
+          {
+            "num": 7,
+            "nombre": "Danjuma"
+          },
+          {
+            "num": 2,
+            "nombre": "G. Rodriguez"
+          },
+          {
+            "num": 9,
+            "nombre": "Hugo Duro"
+          },
+          {
+            "num": 8,
+            "nombre": "Javi Guerra"
+          }
+        ],
+        "formacion": "442",
         "logo": "logos/valencia-cf.png"
       },
       "visitante": {
         "equipo": "Real Sociedad",
-        "once": [],
-        "formacion": "",
+        "once": [
+          {
+            "num": 1,
+            "nombre": "A. Remiro"
+          },
+          {
+            "num": 6,
+            "nombre": "Jon Martín"
+          },
+          {
+            "num": 17,
+            "nombre": "Sergio Gómez"
+          },
+          {
+            "num": 34,
+            "nombre": "Beitia"
+          },
+          {
+            "num": 2,
+            "nombre": "Aramburu"
+          },
+          {
+            "num": 11,
+            "nombre": "Guedes"
+          },
+          {
+            "num": 18,
+            "nombre": "C.soler"
+          },
+          {
+            "num": 12,
+            "nombre": "Ochieng"
+          },
+          {
+            "num": 4,
+            "nombre": "Gorrotxa"
+          },
+          {
+            "num": 10,
+            "nombre": "Oyarzabal"
+          },
+          {
+            "num": 24,
+            "nombre": "Sucic"
+          }
+        ],
+        "formacion": "442",
         "logo": "logos/real-sociedad.png"
       },
       "aplazado": false
