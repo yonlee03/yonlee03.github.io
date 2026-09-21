@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T13:30:08.612912+00:00",
+  "generado": "2026-09-21T14:00:07.170820+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,20 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "Y por fin pudo debutar Jassina Blom con el Sevilla FC Femenino",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0VRMFRmc1BFb0VkRXdhWkZqazdHeWgycVpXY1FpWi1meUpHOWxFZmhwSEd0T2lpN282ZThuMC1oU0phdVJVUkpEZHl6YjNwMXVzWFR5YjVIbVctaHJreHczR3BZRGN6NkpDTmowZDd4dXVtbGtzN18xaDVaem94TFZ1VDUyWFU?oc=5",
+          "desc": "Y por fin pudo debutar Jassina Blom con el Sevilla FC Femenino elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:32:00+00:00"
+        },
+        {
+          "title": "El Ayuntamiento de Sevilla y el Gobierno andaluz pagaron 36.000 euros por la cena privada junto a la Giralda con Moreno y Sanz de invitados",
+          "link": "https://www.eldiario.es/sevilla/ayuntamiento-sevilla-gobierno-andaluz-pagaron-36-000-euros-cena-privada-giralda-moreno-sanz-invitados_1_13526301.html",
+          "desc": "Ambas administraciones, del PP, adjudicaron sendos contratos menores a dedo, de 18.000 euros cada uno, en concepto de \"patrocinio\" de una gala privada que ocupó un espacio público, declarado Patrimonio de la Humanidad, en el Casco Histórico de Sevilla El Ayuntamiento cede la plaza de la Giralda a un empresario privado para una gala con Juanma Moreno de invitado La polémica desatada por la gala privada celebrada el pasado jueves en la Plaza Virgen de los Reyes, a los pies de la Giralda de Sevilla, va camino del salón de Plenos del Consistorio y del Parlamento andaluz, donde la oposición de izquierdas exigirá la factura con el dinero público que ha sufragado esa “cena de lujo” a la que fueron invitados el alcalde de la ciudad, José Luis Sanz, y el presidente de la Junta, Juanma Moreno, entre los 400 asistentes. Ambas administraciones, gobernadas por el PP, eran patrocinadores de este evento privado, los 20 años de vida de la revista Escaparate, que se celebró en un espacio público y privilegiado del Casco Antiguo de Sevilla, declarado Patrimonio de la Humanidad por la Unesco. La aportación conjunta del Ayuntamiento y de la Junta asciende a 36.000 euros brutos (IVA incluido) a través de ambos contratos menores. La delegación de Turismo y Cultura adjudicó este contrato a dedo por casi 15.000 euros más IVA a la empresa 'Sevilla por la gracia de dios, S.L'; y la Empresa Pública para la Gestión del Turismo de la Junta, que ahora dirige Vox dentro del Gobierno de coalición de Moreno, adjudicó un contrato similar por la misma cantidad en concepto de “patrocinio” para la XX edición de los premios, según consta en el Portal de Contratación de la Junta. El director de la revista Escaparata y promotor de la gala y la entrega de premios, Mario Niebla, ha cifrado el coste total del evento en 150.000 euros, según avanzó a el diario El País, de los que en torno al 20% lo habrían pagado el Ayuntamiento y la Junta en calidad de promotores. Aunque la oposición de izquierdas ha cargado duramente contra ambas administraciones, del PP, lo cierto es que el Ayuntamiento de la capital hispalense ya había sufragado estas galas privadas en ediciones anteriores, también en otros espacios públicos de la ciudad, como la Plaza de San Francisco, próxima a la Giralda, y con la participación y asistencia del exalcalde socialista, Antonio Muñoz. A Muñoz, que acaba de ser confirmado candidato a las municipales de 2027, le han llovido las críticas por criticar ahora lo que él mismo hizo siendo regidor de Sevilla. El matiz al que se aferran fuentes socialistas es que la ordenanza municipal de ocupación de espacios públicos del Conjunto Histórico prohibe expresamente la ocupación de las plazas Virgen de los Reyes y Virgen del Triunfo para el desarrollo de eventos y actividades. Pero el artículo 3 de dicha ordenanza introduce algunas excepciones, como los rodajes cinematográficos o publicitarios, las fiestas tradicionales, los mítines electorales y las “actividades que por sus características (corta duración, carecer de instalaciones o precisar instalaciones de escasa entidad) o por cualquier otra circunstancia concurrente, permitan una previsión razonable de no producir una incidencia relevante sobre el espacio en que tengan lugar o su entorno”, en las que se enmarcaría la polémica cena del jueves. [Habrá ampliación]",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T13:28:34+00:00"
+        },
         {
           "title": "El Sevilla FC y Coca-Cola Europacific Partners renuevan su acuerdo de patrocinio estratégico",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXp5RmFPd2djclZZcWVFWmpGSWJPMW1JX1dYenhCRkEyM1hRS2tiWUM0SUlIM3ZLNGhhWFlvR2tzWnp0NGxNRHZ6NHUtRFZSaG1uc0h4c3J1V3QwZC1QSExUTWY5SEtTbF96azY2Y0xaUGRhQVc5V0d1TU9pZFZsbk1VM3c?oc=5",
@@ -23,6 +37,13 @@
           "desc": "Cómo conseguir entradas para el Sevilla vs Valencia: precios de LaLiga, información del partido, ventas de última hora y más Goal.com",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T12:16:27+00:00"
+        },
+        {
+          "title": "PRIMER ENTRENAMIENTO DE LA SEMANA, YA SIN LOS INTERNACIONALES",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDlUbThLN05Xc0JZR2N0LWJRYnZFNWZRSUpTWGRieDgxb203R2FGWWU2M0NQNEJTOU9abV8ybWd0LXh4bFNaSG96a2piZ01vQzg2V29KVWMtcHA0NG5HSnFneEV6cWdJVHNaanJodG02eWpOMC00cVZrbzRELS03NFFJOUh2eHVFSlpPQ3pESXV5UHp3VUk2dXhsNVluZTdG?oc=5",
+          "desc": "PRIMER ENTRENAMIENTO DE LA SEMANA, YA SIN LOS INTERNACIONALES Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:08:57+00:00"
         },
         {
           "title": "El Sevilla ya entrena sin los internacionales",
@@ -81,13 +102,6 @@
           "fecha": "2026-09-21T10:12:48+00:00"
         },
         {
-          "title": "El Sevilla vuelve al trabajo en el comienzo del eterno parón por las selecciones",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVc5NkhjRWIyazBzb3pPNUNITXdJeE9fcFNFSW1DRlhNc3JQa2tvck9Sb1BQYTBjS2VzQnZVMWdmY1Y1VmJpNHRrUjFpeGtPRlRuZHZsdlRweUZzT2FZd0x4QVJTZlloZndTQ2w1MkZVWDlEQndZNnFKZHlPWTJROA?oc=5",
-          "desc": "El Sevilla vuelve al trabajo en el comienzo del eterno parón por las selecciones elsevillista.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T10:11:00+00:00"
-        },
-        {
           "title": "ABIERTAS LAS INSCRIPCIONES PARA EL SEVILLA FC FEMENINO-SD EIBAR",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0Q1ZlNOTHAtT0lNVXI3b25zYmFtNGVyeWxYMGZfQk93a0RqYkt0V2drcVJESGthTkdFSnhlM1JXXzQzZXdyQ2VORW1NNGpYY1QxS2c4Qjd6N2pWR3h2OFVtSXRHV2x2V0NNYklvb3NIdWN4eFZ1d290MXp4eDhnZmlmaHJVVlZ3QTZuRWczRWw1ZV80aVZsamhB?oc=5",
           "desc": "ABIERTAS LAS INSCRIPCIONES PARA EL SEVILLA FC FEMENINO-SD EIBAR Sevilla FC",
@@ -102,15 +116,8 @@
           "fecha": "2026-09-21T09:59:13+00:00"
         },
         {
-          "title": "PRIMER ENTRENAMIENTO DE LA SEMANA, YA SIN LOS INTERNACIONALES",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDlUbThLN05Xc0JZR2N0LWJRYnZFNWZRSUpTWGRieDgxb203R2FGWWU2M0NQNEJTOU9abV8ybWd0LXh4bFNaSG96a2piZ01vQzg2V29KVWMtcHA0NG5HSnFneEV6cWdJVHNaanJodG02eWpOMC00cVZrbzRELS03NFFJOUh2eHVFSlpPQ3pESXV5UHp3VUk2dXhsNVluZTdG?oc=5",
-          "desc": "PRIMER ENTRENAMIENTO DE LA SEMANA, YA SIN LOS INTERNACIONALES Sevilla FC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T09:51:18+00:00"
-        },
-        {
           "title": "El Sevilla FC vuelve al trabajo sin sus internacionales",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXM5dE1WeHQ4WnRxa3NuVWNaLURVVmpDaWUycDRLWE9nejI0RVZvZHFPOUpOaTJEVjd5ZVAwSXlPY1FQUFdYYjA1RXItWDU5bjhkbm82Uzhuamx5Sm9NcEVHR3dmaVZEak1qN09KMXRPWmNSbkdweFZJc2FLX0ZINzI3ZVZaYnduMC00NHBmUGh6ZWdMazJhazl2N3loTnVGelo4T252c1ZRa2pSak10ZVVMR2hxQlIxUVh0MFc0eWlfdnpPa2fSAcsBQVVfeXFMT0lyalU4TTM5NHFEa1VVSTVBaEJVZzR6eVZobHVpYUs2RDNoRXJWajNqSHVianZhLTZFQmtCZ3pCenFWNHQzd0FQazZ3M1ZVb2JYWmFkYmszdTBrQ2NpSUF5ZTZHYmVnaGlSSWx0QWZlRTh3ek9scVJhNjhCWWQ0bDlmTk5yY3pRX2JhMjJ6WXdEdzhKM1pRLWRHUlItQzNkWnBtcS1MUkRzZEdXZFMwNHdQRnBBNWlrRjJlUkFuSktjaV9mcHRNRGZqdzA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXM5dE1WeHQ4WnRxa3NuVWNaLURVVmpDaWUycDRLWE9nejI0RVZvZHFPOUpOaTJEVjd5ZVAwSXlPY1FQUFdYYjA1RXItWDU5bjhkbm82Uzhuamx5Sm9NcEVHR3dmaVZEak1qN09KMXRPWmNSbkdweFZJc2FLX0ZINzI3ZVZaYnduMC00NHBmUGh6ZWdMazJhazl2N3loTnVGelo4T252c1ZRa2pSak10ZVVMR2hxQlIxUVh0MFc0eWlfdnpPa2c?oc=5",
           "desc": "El Sevilla FC vuelve al trabajo sin sus internacionales ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T09:35:49+00:00"
@@ -146,16 +153,9 @@
         {
           "title": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\"",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ25WTFRiTFlaaktUM1VBczNfOXhQU3dQX2Z5OXNOMVhJR2tWRnBUbVdmYVlKeEZLY2ZaeENyc1I2Y05QaGs3Nkc0blJ1MTNWLXNFeVhHRWZ1LWRvWmZWblozdzFOZmxJSk9xYVdzbEx1XzlJcVVmMVJrVDN1VWppZ3BnUWx0TkxNbzUxZm05WHZMdEtzcF9qWlg1TFVLUEJFc2o0elByR1c5dEk1VW1KVklycFNTUVZ3YklETUowWQ?oc=5",
-          "desc": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\" El Desmarque",
+          "desc": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\" eldesmarque.com",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T06:46:34+00:00"
-        },
-        {
-          "title": "Raphinha, otra vez de tres en tres para distanciarse en el Pichichi",
-          "link": "https://www.marca.com/futbol/premios-marca/2026/09/21/raphinha-vez-tres-tres-distanciarse-pichichi.html",
-          "desc": "El capitán del Barcelona volvió a liderar el triunfo azulgrana con un nuevo hat-trick ante el Sevilla",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-21T08:18:09+02:00"
         },
         {
           "title": "¡Blindaje en la Carretera de Utrera! El Sevilla FC acelera cuatro operaciones estratégicas para amarrar el futuro de su cantera",
@@ -184,6 +184,27 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Flick, implacable: 354 goles en 125 partidos con el Barça",
+          "link": "https://www.marca.com/futbol/barcelona/2026/09/21/flick-implacable-354-goles-125-partidos-barca.html",
+          "desc": "La apuesta ofensiva del técnico resulta aplastante",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-21T15:46:27+02:00"
+        },
+        {
+          "title": "El Metropolitano tiene a sus dos favoritos para el Balón de Oro: Lamine Yamal y... Messi",
+          "link": "https://www.marca.com/futbol/2026/09/21/metropolitano-dos-favoritos-balon-oro-lamine-yamal-mess-video.html",
+          "desc": "",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-21T15:43:44+02:00"
+        },
+        {
+          "title": "Acosta se convierte en el invitado inesperado en el Mundial y Márquez pierde liderato: lo que deja el Gran Premio de Austria de Moto GP",
+          "link": "https://www.eldiario.es/spin/deportes/acosta-invitado-inesperado-mundial-marquez-pierde-liderato-gran-premio-austria-moto-gp-pm_1_13524566.html",
+          "desc": "Fermín, Huijsen y otras novedades en la lista de De la Fuente para los partidos de la Nations League El Mundial de Moto GP se coloca más interesante que nunca después del Gran Premio de Austria, que despide la gira europea para dar la bienvenida a la asiática antes del cierre en Valencia, con la victoria de Pedro Acosta, que se convierte el cuarto en discordia por la lucha en ser campeón del mundo, confirmado por el propio Marc Márquez. Unas carreras en Asia a las que llegará como líder en solitario de nuevo Jorge Martín después de ganar la sprint el sábado y ser segundo el domingo, después de que Márquez tuviera problemas en sus frenos y solo pudiera ser quinto en la carrera. Jorge Martín, el gran beneficiado en Austria El piloto madrileño llegaba con dudas físicas y tras haber perdido el liderato en solitario al Gran Premio de Austria, sin embargo, tras el fin de semana vuelve a estar en lo más alto del campeonato mundial y sale más reforzado que nunca en la lucha mundialista, exactamente con 12 puntos de distancia frente a Márquez. “¿Líder del Mundial? Suena increíble. Ahora tenemos que hacer un fin de semana así en todos los que vengan porque la lucha está candente”, explicaba Jorge Martín a los medios de comunicación tras la carrera del domingo, donde además despejó dudas sobre su físico y evidenció sentirse mejor que nunca. De hecho, el madrileño no esconde que el Gran Premio de Austria les da un extra respecto a sus rivales y motivación para lo que queda: “Ha sido un gran finde, hemos encontrado otra vez la velocidad. El liderato, al final, va y viene, eso ya lo dije hace un par de carreras, no es algo que me ocupe, pero sí que tener otra vez esa velocidad, tener una buena condición física después de las dudas que tenía de Misano”, añadió. En el otro lado se queda Marc Márquez, que tras empatar en el liderato del Mundial y confirmar su remontada, en Austria se ha topado con un problema de frenos que vuelve a distanciarlo de Martín: “Desde la primera vuelta de la carrera he visto que algo pasaba con el freno delantero. Hemos tenido mucha suerte porque me he empezado a ir atrás y, de golpe, de una vuelta a otra, hacia mitad de carrera, el freno se ha arreglado. En cada frenada, la leva estaba en una posición diferente y era imposible frenar fuerte”, aseguraba en la post carrera tras finalizar quinto y salvar lo máximo posible. Por su parte, Marco Bezzecchi, fue tercero tanto en la carrera sprint como el domingo, lo que lo mantiene en la lucha del Mundial, pero sin conseguir grandes ventajas. Pedro Acosta: el gran nombre del GP Austria Pero el gran ganador del fin de semana austríaco ha sido Pedro Acosta, al que todos miran como cuarto en discordia en el Mundial, el primero de ellos Marc Márquez, quien no lo descarta y del que habla como “presente y futuro de Moto GP” al lograr su primera victoria en la categoría, pero que para el de Cervera será solo “la primera de muchas”. “Ya te digo yo que sí. Estamos cuatro en la lucha por el título. Acosta con la KTM, desde que abrieron motores en Silverstone, tiene una moto competitiva y eso le convierte en un rival más para el título”, afirmó Márquez sobre Acosta. Así queda el Mundial de Moto GP Jorge Martín – 306 puntos Marc Márquez – 294 puntos Marco Bezzecchi – 264 puntos Pedro Acosta – 234 puntos Fabio Di Giannantonio – 230 puntos Ai Ogura – 222 puntos Raúl Fernández – 203 puntos Álex Márquez – 158 puntos Pecco Bagnaia – 156 puntos El calendario MotoGP que queda este 2026 2 – 4 Octubre: Gran Premio de Japón 9 – 11 Octubre: Gran Premio de Indonesia 23 – 25 Octubre: Gran Premio de Australia 30 Octubre – 1 Noviembre: Gran Premio de Malasia 13 – 15 Noviembre: Gran Premio de Portugal 20 – 22 Noviembre: Gran Premio de Valencia",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T13:30:24+00:00"
+        },
         {
           "title": "Xavi quiere a Países Bajos con \"pasión, ambición e intensidad\" en su estreno ante Alemania",
           "link": "https://www.marca.com/futbol/2026/09/21/xavi-quiere-paises-bajos-pasion-ambicion-e-intensidad-estreno-alemania.html",
@@ -248,7 +269,7 @@
           "fecha": "2026-09-21T14:18:09+02:00"
         },
         {
-          "title": "Simeone lo volvió a hacer",
+          "title": "El agujero del Madrid que Simeone volvió a explotar",
           "link": "https://www.marca.com/futbol/atletico/2026/09/21/simeone-volvio-asi-plan-medido-desarbolo-mourinho.html",
           "desc": "El Cholo, como hace un año, detectó la debilidad del Madrid por su flanco zurdo, a la espalda de Vinicius. Contra once el Atlético ya tuvo más llegadas... antes de lograr por ahí los goles",
           "source": "https://www.marca.com/rss/portada.xml",
@@ -330,27 +351,6 @@
           "desc": "El defensa del Atlético compartió en sus redes la pancarta de Ceuta que señalaba a Mbappé, Vinicius y Konaté",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-21T13:08:19+02:00"
-        },
-        {
-          "title": "Desafía a Florentino Pérez en el derbi y ahora se marcha a Panamá: \"Quiero invertir entre 7.000 y 9.000 millones, no hay nada fiscal\"",
-          "link": "https://www.estadiodeportivo.com/futbol/real-madrid/desafia-florentino-perez-derbi-ahora-marcha-panama-quiero-invertir-entre-7000-9000-millones-hay-nada-fiscal-20260921-546989.html",
-          "desc": "Enrique Riquelme, candidato a la presidencia de Real Madrid el pasado mes de junio, estuvo en el palco del Metropolitano y provocó el enfado del máximo dirigente blanco: \"Montó en cólera y decía que se iba \" El derbi entre Atlético de Madrid y Real Madrid fue bastante caliente sobre la hierba, donde los blancos se sintieron gravemente perjudicados por el arbitraje. Pero la tensión también se trasladó al palco presidencia, adonde Florentino Pérez acudió por la buena relación que mantiene con Enrique Cerezo, no así con Miguel Ángel Gil Marín. Pero lo que no esperaba el dirigente madridista es la presencia de Enrique Riquelme, quien le disputó la presidencia el pasado mes de junio con un discurso muy crítico contra su labor, llegando a obtener el 35% de los votos. \" Florentino Pérez monta en cólera y dice que se pira, que se va . Que como se cruce con él en algún momento que se va del palco. Le calman, Florentino se queda al partido... pero monta una muy gorda diciendo que a qué viene eso de que esté Riquelme en el palco presidencial\", explicó sobre lo sucedido el periodista Juanma Castaño en 'El Partidazo de Cope'. Enrique Riquelme ofrece sus fichajes a la presidencia de Florentino Pérez El refugio de Enrique Riquelme: un pueblo de más de 7.000 habitantes, una iglesia del siglo XVII y la Sierra de Callosa No descarta otro intento para ser presidente del Real Madrid, pero ahora tiene otros planes en Panamá La aparición del empresario de solo 37 años en el encuentro, sin embargo, solo fue una parada en sus quehaceres, pero no significa que esté pensando volver a desafiar de inmediato a Florentino Pérez. Es algo que no descarta de cara al futuro , después de prometer meses atrás los fichajes de Rodri y Haaland, así como colocar a Raúl González como director deportivo. Pero ahora su presente pasa por Panamá . El alicantino, con una fortuna personal superior a los 700 millones de euros, ha trasladado el hólding con el que gestiona su patrimonio, Riquelme Capital, SL., hasta el país centroamericano, explicando en El Mundo los motivos que le han llevado a dar ese paso. \" No tengo nada que ocultar, trasladé ya el pasado enero mi residencia a Panamá y necesito que venga también mi equipo para Latinoamérica, porque mi intención es invertir entre 7.000 y 9.000 millones en la región en los próximos cuatro años. Nuestra apuesta de crecimiento no es en Europa ni en África, sino en Latinoamérica; y Panamá es el hub, la plataforma para este plan en la región\", destacó. 🤯 El lío de Florentino Pérez en el palco presidencial del Metropolitano 😡 &quot;Florentino monta una muy gorda diciendo que a qué viene eso de que esté Riquelme en el palco&quot; 😐 &quot;Cada día le da un punto más a Riquelme en sus opciones de ser presidente&quot; 📻 #PartidazoCOPE pic.twitter.com/WkCrvWeEcm &mdash; El Partidazo de COPE (@partidazocope) September 20, 2026 \\n \\n\\n\",\"proveedor\":4}\"> A nivel personal Riquelme ya se instaló allí con solo 21 años para fundar Grupo El Sol , dedicado a minería, cemento, infraestructuras y energía, figurando desde hace tiempo como administrador de una veintena de sociedades en dicho país, donde ha vivido casi el mismo tiempo que en España. \" Es donde tengo mi casa . Me fui allí a vivir en 2010 y volví a España en 2023, pero desde enero de este año estoy en Panamá y quiero tener a mi equipo cerca para dirigir el plan que tenemos en las Américas y que es muy importante\", insistió al respecto. Niega que detrás de su decisión esté la baja presión fiscal de Panamá Sin embargo, han sido muchas las sospechas sobre este movimiento y el hecho de que Panamá sea considerado un paraíso fiscal por la Unión Europea, no así por España. Pero el empresario negó que ese sea el motivo de su traslado. \" No hay absolutamente nada fiscal , incluso va a tener un coste la operación para mí, pero no me importa porque va a ser más adecuada a la apuesta que tenemos. Yo soy empresario y tengo que estar donde puede ser mejor para el grupo que dirijo y para mis accionistas. No cambia nada con mis empresas en España que dan empleo a miles de personas\", resaltó, haciendo alusión a los cerca de 40 millones de euros que invertirá para la nueva sede de su grupo Cox en Sevilla. En todo caso, Riquelme tampoco niega que la nueva 'ley de sustancia económica' de Panamá, que entrará en vigor en 2027 , también ya ayudado a dar el paso, pues la misma establece que las empresas extranjeras deben demostrar una presencia operativa real en el país para que los ingresos obtenidos fuera sigan estando exentos de impuestos. \"Esa ley ayuda en la decisión, pero insisto que no hay beneficio fiscal. No es ése el tema. En todo caso, Cox paga muchos impuestos en España y así va a seguir \", recalcó. Todo habría cambiado de ganar las elecciones: \"Pero no se ha dado ese escenario\" Otra situación diferente se podría haber producido en caso de haber ganado las elecciones a la presidencia del Real Madrid, como él mismo ha reconocido. \"Yo cumplía los requisitos para presentarme, porque soy español. Si hubiera ganado habría actuado lógicamente en consecuencia con mis planes personales y empresariales, pero no se ha dado ese escenario. Puedo trasladar mi residencia a Madrid en muy poco tiempo , pero ahora estoy totalmente centrado en mi actividad empresarial y tengo claro donde debo estar estos años para que ganen también mis accionistas\", sentenció.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-21T11:04:26+00:00"
-        },
-        {
-          "title": "La Prórroga de Estadio Deportivo 4x06: La mejoría del Sevilla, el récord del Betis y el golpe del Atlético al Real Madrid",
-          "link": "https://www.estadiodeportivo.com/radio/la-prorroga/prorroga-estadio-deportivo-4x06-mejoria-del-sevilla-record-del-betis-golpe-del-atletico-real-madrid-20260921-546986.html",
-          "desc": "Programa número seis de la cuarta temporada de 'La Prórroga de Estadio Deportivo', la apuesta audiovisual de ESTADIO Deportivo. En esta ocasión, con la participación de Óscar Murillo y Rafa Cala. Programa número seis de la cuarta temporada de 'La Prórroga de Estadio Deportivo' , presentado por José Antonio Rivero y, en esta ocasión, con la participación de Óscar Murillo y Rafa Cala como tertulianos. Los resultados de la jornada siete en LaLiga EA Sports, destacando la derrota del Sevilla ante el Barça, el empate del Betis en Riazor y el derbi madrileño, o la convocatoria de Luis de la Fuente, protagonistas del programa. Comenzamos hablando de la derrota del Sevilla FC ante el FC Barcelona en el Ramón Sánchez-Pizjuán. Un resultado que, pese a ser negativo, dejó buenas sensaciones en el equipo y en la afición sevillista, que ve en los métodos de Luis García Plaza una mejoría que hacía años que no se veía. Por otro lado, charlamos sobre el Real Betis Balompié y el empate del conjunto verdiblanco en Riazor, donde ha igualado su mejor comienzo histórico de campeonato. Además, hablamos acerca del triunfo del Atlético de Madrid en el derbi madrileño ante el Real Madrid, las quejas de Mourinho por el árbitro, la llegada de Aguirre a Valencia o la convocatoria de Luis de la Fuente para el parón de selecciones. Este programa es el número 152, al margen de la edición especial que realizamos de 'La Prórroga de Estadio Deportivo' durante el mundial de 2026 en Estados Unidos, México y Canadá, la cual acabó ganando la selección española, y el especial que hicimos por la Eurocopa de 2024. Recuerda también que puedes ver el programa en directo en el canal de YouTube de ESTADIO Deportivo , los lunes a las 13:00 horas. También emitimos en directo en nuestro canal de Twitch y en nuestro perfil de X (antiguo Twitter). Además, puedes escucharlo desde cualquier lugar y en diversas plataformas de podcast, concretamente en Spotify e iVoox, así como vernos cuando gustes en la web de ESTADIO Deportivo.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-21T10:54:21+00:00"
-        },
-        {
-          "title": "Luis de la Fuente renueva como seleccionador de España hasta 2032",
-          "link": "https://elpais.com/deportes/futbol/2026-09-21/luis-de-la-fuente-renueva-como-seleccionador-de-espana-hasta-2032.html",
-          "desc": "Tras ganar el Mundial, el técnico, que tenía contrato hasta 2028, acuerda con la federación ampliarlo para cubrir también la Copa del Mundo de 2030 y la siguiente Eurocopa de Italia y Turquía",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-21T10:53:33+00:00"
         }
       ]
     },
@@ -363,49 +363,56 @@
           "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-azerbaijan-grand-prix.6l5UWWsSVJdtKOpR8KDSzZ",
           "desc": "Chris Medland runs through the biggest talking points as F1 heads to Azerbaijan for Round 15 of the 2026 season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
         },
         {
           "title": "Remembering one of F1’s most intriguing ‘what if?’ moments",
           "link": "https://www.formula1.com/en/latest/article/remembering-one-of-the-most-intriguing-what-if-moments-in-f1-history.6PMh9yfpq4GksluggiddZK",
           "desc": "During the late 1980s and early 1990s, McLaren wrote one of the most successful chapters in their F1 story – the squad racking up four successive Teams’ Championships and four straight Drivers’ Championships with engine partner Honda between 1988-1991.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
         },
         {
           "title": "When Star Wars took over Formula 1",
           "link": "https://www.formula1.com/en/latest/article/when-star-wars-came-to-formula-1-the-story-of-f1s-trips-to-a-galaxy-far-far-away.52NvGPqgUeHyzjyyzPvSiC",
           "desc": "From Red Bull's Star Wars livery in Monaco to George Lucas on the podium, revisit the memorable moments when Star Wars crossed over with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
         },
         {
           "title": "How Justin Rose and McLaren are pursuing marginal gains in golf",
           "link": "https://www.formula1.com/en/latest/article/justin-rose-on-mclaren-golf-bringing-f1s-pursuit-of-perfection-to-the-fairway.3TJaNTEeF2kh7qSt1dKNDv",
           "desc": "Justin Rose explains how McLaren is bringing its Formula 1 engineering expertise and pursuit of marginal gains to the world of golf.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
         },
         {
           "title": "Inside F1’s ‘brutal’ fuel development race",
           "link": "https://www.formula1.com/en/latest/article/inside-f1s-brutal-fuel-development-race-and-how-it-could-benefit-the-wider-world.6In5yoMOgQGwYQpdfzFBUC",
           "desc": "Not only did F1 introduce new cars and new power units at the start of the 2026 season, but also Advanced Sustainable Fuels, a pioneering technology that teams – and their partners – have been pushing hard to maximise in terms of both performance and reliability.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
         },
         {
           "title": "TREMAYNE: Why I’m delighted the Portuguese GP is back in 2027",
           "link": "https://www.formula1.com/en/latest/article/why-im-delighted-the-portuguese-grand-prix-is-back-on-the-calendar.6SJAb71ghhAlCGcKRx5clZ",
           "desc": "F1 Hall of Fame journalist David Tremayne looks back at the rich history of Formula 1 racing in Portugal.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
         },
         {
           "title": "Constructors' title battle heating up for F1 bettors",
           "link": "https://www.formula1.com/en/latest/article/the-extra-gear-constructors-championship-title-battle-heating-up-for-f1-bettors.7JNLTSWlH3AFNUvOoJMW1T",
           "desc": "There are just nine races left to decide who will win the 2026 Constructors’ title, so we look at where the value could be for F1 betting fans.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T13:30:08.612912+00:00"
+          "fecha": "2026-09-21T14:00:07.170820+00:00"
+        },
+        {
+          "title": "Acosta se convierte en el invitado inesperado en el Mundial y Márquez pierde liderato: lo que deja el Gran Premio de Austria de Moto GP",
+          "link": "https://www.eldiario.es/spin/deportes/acosta-invitado-inesperado-mundial-marquez-pierde-liderato-gran-premio-austria-moto-gp-pm_1_13524566.html",
+          "desc": "Fermín, Huijsen y otras novedades en la lista de De la Fuente para los partidos de la Nations League El Mundial de Moto GP se coloca más interesante que nunca después del Gran Premio de Austria, que despide la gira europea para dar la bienvenida a la asiática antes del cierre en Valencia, con la victoria de Pedro Acosta, que se convierte el cuarto en discordia por la lucha en ser campeón del mundo, confirmado por el propio Marc Márquez. Unas carreras en Asia a las que llegará como líder en solitario de nuevo Jorge Martín después de ganar la sprint el sábado y ser segundo el domingo, después de que Márquez tuviera problemas en sus frenos y solo pudiera ser quinto en la carrera. Jorge Martín, el gran beneficiado en Austria El piloto madrileño llegaba con dudas físicas y tras haber perdido el liderato en solitario al Gran Premio de Austria, sin embargo, tras el fin de semana vuelve a estar en lo más alto del campeonato mundial y sale más reforzado que nunca en la lucha mundialista, exactamente con 12 puntos de distancia frente a Márquez. “¿Líder del Mundial? Suena increíble. Ahora tenemos que hacer un fin de semana así en todos los que vengan porque la lucha está candente”, explicaba Jorge Martín a los medios de comunicación tras la carrera del domingo, donde además despejó dudas sobre su físico y evidenció sentirse mejor que nunca. De hecho, el madrileño no esconde que el Gran Premio de Austria les da un extra respecto a sus rivales y motivación para lo que queda: “Ha sido un gran finde, hemos encontrado otra vez la velocidad. El liderato, al final, va y viene, eso ya lo dije hace un par de carreras, no es algo que me ocupe, pero sí que tener otra vez esa velocidad, tener una buena condición física después de las dudas que tenía de Misano”, añadió. En el otro lado se queda Marc Márquez, que tras empatar en el liderato del Mundial y confirmar su remontada, en Austria se ha topado con un problema de frenos que vuelve a distanciarlo de Martín: “Desde la primera vuelta de la carrera he visto que algo pasaba con el freno delantero. Hemos tenido mucha suerte porque me he empezado a ir atrás y, de golpe, de una vuelta a otra, hacia mitad de carrera, el freno se ha arreglado. En cada frenada, la leva estaba en una posición diferente y era imposible frenar fuerte”, aseguraba en la post carrera tras finalizar quinto y salvar lo máximo posible. Por su parte, Marco Bezzecchi, fue tercero tanto en la carrera sprint como el domingo, lo que lo mantiene en la lucha del Mundial, pero sin conseguir grandes ventajas. Pedro Acosta: el gran nombre del GP Austria Pero el gran ganador del fin de semana austríaco ha sido Pedro Acosta, al que todos miran como cuarto en discordia en el Mundial, el primero de ellos Marc Márquez, quien no lo descarta y del que habla como “presente y futuro de Moto GP” al lograr su primera victoria en la categoría, pero que para el de Cervera será solo “la primera de muchas”. “Ya te digo yo que sí. Estamos cuatro en la lucha por el título. Acosta con la KTM, desde que abrieron motores en Silverstone, tiene una moto competitiva y eso le convierte en un rival más para el título”, afirmó Márquez sobre Acosta. Así queda el Mundial de Moto GP Jorge Martín – 306 puntos Marc Márquez – 294 puntos Marco Bezzecchi – 264 puntos Pedro Acosta – 234 puntos Fabio Di Giannantonio – 230 puntos Ai Ogura – 222 puntos Raúl Fernández – 203 puntos Álex Márquez – 158 puntos Pecco Bagnaia – 156 puntos El calendario MotoGP que queda este 2026 2 – 4 Octubre: Gran Premio de Japón 9 – 11 Octubre: Gran Premio de Indonesia 23 – 25 Octubre: Gran Premio de Australia 30 Octubre – 1 Noviembre: Gran Premio de Malasia 13 – 15 Noviembre: Gran Premio de Portugal 20 – 22 Noviembre: Gran Premio de Valencia",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T13:30:24+00:00"
         },
         {
           "title": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea",
@@ -518,13 +525,6 @@
           "desc": "Sigue en directo el derbi que enfrenta al Atlético de Madrid y el Real Madrid, correspondiente a la jornada 7 de LaLiga EA Sports, en el estadio Riyadh Air Metropolitano Atlético de Madrid y Real Madrid se verán las caras en esta séptima jornada de LALIGA EA SPORTS . El partido tendrá lugar a las 16:15 de este domingo 20 de septiembre en el estadio Riyadh Air Metropolitano . El conjunto colchonero llega con 13 puntos en su casillero tras dos victorias contundentes (0-3 a la Real y 4-0 a Osasuna) que han hecho olvidar las derrotas ante el Athletic y el Liverpool. Si consigue la victoria, adelantaría a un Real Madrid que se encuentra segundo clasificado con 15 puntos. Sólo la derrota ante el Betis ha impedido el pleno de los blancos en LALIGA. Raúl y el Atlético: la historia que pudo cambiar para siempre el destino del '7' del Real Madrid Laporta lanza un duro palo al Real Madrid: \"Cuando tienen un problema, les recalifican un terreno y tan panchos” Precedentes en el Metropolitano: dominio del Atleti El Real Madrid lleva desde 2022 sin saborear una victoria en el estadio de su gran rival en la ciudad de Madrid. En ese partido, Rodrygo y Valverde pusieron los dos goles para dar la victoria y Mario Hermoso sólo pudo maquillar el resultado. Desde entonces, cuatro victorias del Atlético de Madrid y un empate, aunque es verdad que una de esas victorias tuvo un sabor amargo ya que se trataba de una eliminatoria de Champions en la que acabó pasando el Real Madrid en los penaltis. El último partido disputado entre ambos en campo colchonero se saldó con un 5-2 que fue una de las dos derrotas de Xabi Alonso en LALIGA la pasada temporada, cortando una racha de 18 puntos de 18 posibles con la que empezó el conjunto blanco. Pablo Barrios destaca entre las bajas del partido Ambos equipos llegan al derbi con algunas bajas . La mayoría de ellas se han perdido todo lo que va de temporada, con la excepción del centrocampista Pablo Barrios. En el Real Madrid, Rodrygo sigue con su recuperación de su lesión de rodilla, Ferland Mendy con sus problemas de cadera y Eder Militao con sus problemas musculares. Ninguno ha podido disputar ni un minuto aún en esta temporada. En el caso del Atlético, Sorloth sigue en su proceso de recuperación desde el inicio de la temporada y Barrios , que ya se ha perdido los dos últimos, también se quedará fuera por lesión. El centrocampista empezó siendo muy importante para su equipo pero ha vuelto a caer en su gran lastre de los últimos años: las lesiones musculares. Un árbitro inédito en el derbi y para el Real Madrid El partido será arbitrado por Miguel Ángel Ortiz Arias , del colegio madrileño. Su condición de pertenecer al Comité de Madrid hace que prácticamente no haya pitado en ninguna ocasión a ninguno de los dos equipos. LALIGA ya instauró la temporada pasada la novedad de poder arbitrar partidos de tu mismo colegio siempre que los dos rivales pertenezcan al mismo. Pasó con Munuera Montero en El Gran Derbi entre Sevilla y Betis, entre otros. Al Real Madrid no le pitado nunca y al Atlético lo hizo la pasada temporada en un duelo ante el Getafe con victoria rojiblanca por 1-0 . Por tanto, ninguno de los dos podrá argumentar nada en contra del colegiado antes de comenzar el duelo.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-20T16:18:52+00:00"
-        },
-        {
-          "title": "¡Triplete de la joya española de McLaren en la F4!",
-          "link": "https://www.marca.com/motor/mas-motor/2026/09/20/triplete-joya-espanola-mclaren-f4.html",
-          "desc": "Christian Costoya arrasa en Misano y suma a su gran victoria de sábado las dos del domingo que le meten en el top-10 de la Fórmula 4 Italiana",
-          "source": "https://www.marca.com/rss/motor.xml",
-          "fecha": "2026-09-20T17:30:03+02:00"
         }
       ]
     },
@@ -532,6 +532,27 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Sánchez reclama “un nuevo contrato social” para abordar la IA: “La autorregulación no funciona”",
+          "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
+          "desc": "El presidente del Gobierno presenta medidas para adaptar a España a esta nueva tecnología y anuncia que convocará a los agentes sociales para abordarlo",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-21T13:54:49+00:00"
+        },
+        {
+          "title": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN2VqamZLckdJWUJ0S21EUEE3WlpkbmxQTGtQaGVadWxVZ3RaZ3dhamh0Yk5ULW96dmNZbU10SWpCWVRjc3F2Vmk3ZlFKX0RVVEZ1N08tNGlDeGdlamJ1a3pHWG1yWlpvRTMtSjU4ejRlV0tjTkE?oc=5",
+          "desc": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:53:33+00:00"
+        },
+        {
+          "title": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkJXWHhJNGY5WHo5eG5QNUZqdHpRRWNZSXdqbnk2a1J2bkY2NVBCMHpoamNKN3lXM09pOFc1by1GSmtFWVQ3TnhWdjM5SWMyWmphRzN2U3RDblNJNHF5OEVpdVU0TEs1bUdvOGNfelZLZUhrdlVlLWJYay00V2ppei1xaHJtbDkxa3Mzb0xTT01SQ2N3UFU1c1ZNNjAtbFctaVg0ZGVFaEYxRi1NTjFUbFhkQWFET1h5U2NJMFlvcFpNNnRZa2pUdXhTVS1ONnBzNml5QUJn?oc=5",
+          "desc": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm Notebookcheck.org",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:34:00+00:00"
+        },
         {
           "title": "El jefe de Nvidia descarta el apocalipsis por la IA",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFV0dmZ0TFNuN2QwRVltZWstYkhCZTIzMEhodjduZTdhM2VwU2hVY0p3N01HM2VIZ2hDSzRoYVVSaHdyY29fWVRNT05Rb01aeGtRZ0ZmLVdBVkhyUXJXQ0ZZU2dmdGhXMjRsbUxqMnVuMHVUTHZxbVFfalR1Y1JRNk5WaG51M3A3aXRnbzhMcjJXamF1bjFtUWxLck9UVFhZRHVSOEpteGhmWTVXVkNxX9IB1AFBVV95cUxPa3VVd1NZMGdINV9ocHFqNUV4Q2RxOTJCMEtUcTN0MGxuMFRtbkk1UlhXV0NHWF9QUTVXb3Fhb1BiNTd1VVpaa1ktWGUwakt5ZXVYdkJaeVN2QXpwY3I3TXBVX0VQUmdfZWNiUGRRQ2lMSEhXU1VONHVTYk1ZRmVPSDdac3BuSWlTT1hLc0s4MXRLd2ZMNDItRU0tUDhEdGR2a1RkeGNyN0hYYWFtZm9acEZpdkdoWFNBRVVGaTBzRklqSHJNcjVFeDg1eDE5aVh6LWs2ZQ?oc=5",
@@ -596,6 +617,13 @@
           "fecha": "2026-09-21T12:59:00+00:00"
         },
         {
+          "title": "NVIDIA GeForce RTX 60 Series con arquitectura Rubin llegarían recién en 2028",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajRyNnJhbTlLdWxwM3lodXd3YmRjY0tYQUhWUkhyWlMtLTNtVmFHV1FNSGkyVXJDNlVWS1VQTEJJZjQtYlNsSnZOTC1JRmQwMTMyb3NlNmh1U1M4OElsSF9aaUpxbGtUaWpnbEJYQkFsbEw2UXZ3QWg2VEFleHlYcGlzSQ?oc=5",
+          "desc": "NVIDIA GeForce RTX 60 Series con arquitectura Rubin llegarían recién en 2028 madboxpc.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:49:36+00:00"
+        },
+        {
           "title": "Una fuente fiable contradice la fecha de lanzamiento de la Nvidia RTX 6090 publicada por «Moore’s Law Is Dead",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlOckFfN3UyREJqTDRNczFGYXZaNEdwczMzUTUtVkZ0eVc0REdLNjJWSWZuN3lrdTlXWnRSRDE2N2ZBaWlkTTN4Y3d1eElvSzdBTmNfWmV1SFVTZ0lWalpzMTNmaldNbVl2OWxTVGltQ19EVktqNDN1MTdveGh1UlotWjQ2NWx2SXFfZjRBYWFPNktfLUlFLWNZRmJsbWxyVjJmSUE3ZWEzbHFrc2VWb0FYWHF5NmVrWFljSks0SXBfa0tBQm9SWXZxMTlYeWhhaFhVX2VDQWFKanItUm5mVWR4WXhQMjVJ?oc=5",
           "desc": "Una fuente fiable contradice la fecha de lanzamiento de la Nvidia RTX 6090 publicada por «Moore’s Law Is Dead Notebookcheck.org",
@@ -619,7 +647,7 @@
         {
           "title": "NVIDIA Corporation : recomendación de compra de Bernstein",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmNEWFVFaUtrN2gwY3l0dk1uOWZSSnF1dlVIbWxUVkpsRkdFVkhBcFctWm1BVEFBdHFiV2E5UWFWME9GaTlUcG5YcDlEYjZkNWRPTC1ja0JlWWl1ZGVfU2RmYk9nOFB6UFRkNEE2bHdaQzlpcklibFR5RW1fcHFGbWxKZzlZckxSMG9LWGFKU3d2X1hDdGVsc2dPTnhsTDRsX1NQcElKYzdoMUJNQWIxNA?oc=5",
-          "desc": "NVIDIA Corporation : recomendación de compra de Bernstein es.marketscreener.com",
+          "desc": "NVIDIA Corporation : recomendación de compra de Bernstein MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T12:37:47+00:00"
         },
@@ -671,34 +699,6 @@
           "desc": "OpenAI reportedly expects to spend $278 billion more money than it generates between 2026 and 2030 due to aggressive spending on compute capacity and adjacent infrastructure.",
           "source": "https://www.tomshardware.com/feeds.xml",
           "fecha": "2026-09-21T12:00:00+00:00"
-        },
-        {
-          "title": "DeepSeek prepara un despliegue masivo de chips Huawei para reducir su dependencia de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVNDRUthdTNIUnFYS0FNajFBaFJoeEhOZ0RzSjZIN3UtRk1kZnVkaWlGZVlfMjBJemtpTGdVbjhFd1hRVTYtbFlGTDFnM3NXN3UwTlFXUndxV0VBeG85TGkwbXU4bEsxRl9HOVVITUl4VVhQcm40enBGcGttLWhkRkxMck5UVEhjYk5vSUNBcVhzNmlpQWdBUVh0YlA3Smp2bzZWMk9hbzhMekI5NmFLQVRIcmpHMFJLNVlhTDBUVVZUczJaSEJz?oc=5",
-          "desc": "DeepSeek prepara un despliegue masivo de chips Huawei para reducir su dependencia de Nvidia DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T11:57:57+00:00"
-        },
-        {
-          "title": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhiN1JpZWt1UzlZZlllaUR4N0NTZWMtZlZSMFZqcDJVSUQtTmNkVjFRNDhhQW00Q3dxNFRtVVdZTVoxdVZWSHp1YVFKelhxWmh0anY0Ylgwa0ZlaXlJS1NhX1NnN3dSRWM3b2FIUlk3U2wzc3VqMEJ4dUZhOFhoTVZISi1RV2FuYWt3Wkt1cF9hUUlDdHd1VjdGTHNjTzg4Z2JxNGJ2VkZOMXAzelFzMUZ1WFF1enRGSnlUSDNiejc4ZlE?oc=5",
-          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón Euronews",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T11:53:39+00:00"
-        },
-        {
-          "title": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRxb1JaYTRFRE5SZmdBNzFySS1LQ1lrTTNkdFEtQmQzeFNCcW5xTWdwTDE4YldKV2k3MktKR1o3N0VvMVpsWWFIZGRZXzFtbGNzSFoyalNMMW81NXlsQW1zRjFXdEFnRjJNQUxTZU8xcU9XVndfdDRRemM2X1kyTlVtQ2lHeFVlZk56X3F0cS1IbENMVUhvZDZReklubkFPWXVON2dtU2tUeHVuTUQwYzNIMWswYlY1YjJ5Z2pQWmlIaDA?oc=5",
-          "desc": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe Euronews",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T11:53:39+00:00"
-        },
-        {
-          "title": "Peinado, uno de los nuestros",
-          "link": "https://www.eldiario.es/opinion/tribuna-abierta/peinado_129_13525980.html",
-          "desc": "El juez Peinado ha llevado adelante una instrucción sesgada y ridícula contra Begoña Gómez que, más que retratarle a él, retrata al Poder Judicial que lo ha consentido El juez Peinado da el último paso para que Begoña Gómez sea juzgada por un tribunal del jurado Imaginen que a su pareja la eligen presidente o presidenta del Gobierno. Es improbable, me dirán, pero hagan el ejercicio. Terminado el cava, empiezan los trastornos: prepare una mudanza a la Moncloa. Si usted da clases en un instituto o es capataz en una fábrica, podrá ahorrarse el abono transporte porque, por motivos de seguridad, irá a trabajar con coche y escolta, que lo acompañará en todo momento; ya no podrá ir a donde quiera. Quizás no lo haya calibrado, pero se verá cargado con obligaciones tan estrafalarias como inevitables, porque el protocolo y la diplomacia se rigen por códigos acartonados que enredan la agenda de los consortes de los gobernantes. Se verá en el compromiso de acompañar a su cónyuge en recepciones y desfiles, de pasear con los mandatarios que vengan a España y viajará al extranjero para confraternizar, en apasionantes programas paralelos, con las parejas de otros dirigentes. En vano reclamará que le enseñen la ley que le obliga a estos menesteres; no existe, es pura costumbre. ¿Y cuánto voy a cobrar por todo esto?, se preguntará. La respuesta es cero euros. Será usted, así, una persona que presta servicios al Estado, para su imagen pública y su proyección internacional, y que lo hace no solo gratis sino también et amore . Pero imaginemos que usted se empeña en mantener su trabajo: debe asistir a tutorías y claustros, gestionar planes de prevención, preparar cuadrantes de vacaciones, qué sé yo... Decide entonces que algunas reuniones, en días de abrumada agenda, las mantendrá en su casa, y el Estado le pone un asistente para que le ayude en todo lo que usted necesite. Así, mientras esté en Tailandia o asistiendo a recepciones o comidas de boato, su ayudante mandará correos por usted, enviará al instituto las notas de los exámenes, tramitará la documentación que usted haya preparado, gestionará su agenda, tomará nota de las llamadas que reciba... hasta que un juez le diga que usted es un delincuente, porque está usando un empleado público para sus cosas privadas y su casa pública para reuniones particulares. Y tal vez reciba la noticia en Brasil, por decir algo, donde usted se encuentra usando su tiempo privado para una causa pública. Pedirá de nuevo la ley y ahí le llegará otra sorpresa: ninguna norma dice que su ayudante no deba auxiliarle en sus cometidos privados; de hecho, desde que hay memoria los asistentes han servido precisamente para eso. Pero es igual: alguien ha salido de caza y, por no acertar a la pieza mayor, disparan contra usted. Si me dieran el privilegio de legislar, pondría por ley que un juez a quien, en un solo asunto, la superioridad le revocara más de cinco decisiones, debería ser apartado del caso; si le revocara más de diez, debería ser apartado de la carrera; y si le revocara más de quince, debería ir directamente a prisión. Y lo haría así no por atacar a los jueces, sino por defender la justicia de calidad y rigor que nos merecemos. El juez Peinado ha llevado adelante una instrucción sesgada y ridícula contra Begoña Gómez que, más que retratarle a él, retrata al Poder Judicial que lo ha consentido. Sus excesos han sido gloriosos: comparó al gobierno socialista con el absolutismo de Fernando VII, llenó sus resoluciones de prejuicios de culpabilidad, rechazó pedir la agenda de Begoña porque “previsiblemente ha sido manipulada” (desde ese día debía estar fuera del asunto), insinuó que la policía ayudaría a Begoña a fugarse, imputó sin motivo a Félix Bolaños y a otros muchos, se negó a que el presidente del Gobierno declarara por escrito, tuvo un comportamiento cruel y nulo de pleno derecho con Juan Carlos Barrabés cuando estaba hospitalizado, fue acelerando la tramitación del procedimiento al tiempo que retrasaba los recursos contra decisiones previas, provocando estos síncopes procesales que le llevan a dictar la misma resolución varias veces, tras anularse la anterior... Ahora ha dictado auto de apertura de juicio oral, ¡pero ya lo había dictado en junio! Las sucesivas nulidades le han ido obligando a reformular resoluciones amontonadas sobre lo anulado, con lo que una misma decisión se repite en el tiempo como campanadas nuevas sobre noticias viejas. Finalmente, habrá juicio . Los hechos que se ventilarán, en realidad, son lo de menos. Empezaron siendo unos y terminaron siendo otros, algo típico de estas causas prospectivas (de ‘cristalización progresiva’ las llaman los modernos). A Begoña la juzgarán por usar a una asesora como ayudante, cosa que parece que es malversación, por pedir dinero para una cátedra extraordinaria en la Complutense por la que recibió cero euros, vinculada a unos másteres que impartía desde 2014, cosa que se tilda de tráfico de influencias, y por el desarrollo de un software gratuito, ofrecido para uso abierto y libre, que se sufragó con aportaciones de empresas y que le reportó a Begoña cero euros, que por alguna razón se considera también malversación. Nada de esto estaba en la denuncia inicial de Manos Limpias, pero con algún botín debía presentarse Peinado a puerto. El procedimiento ha estado tan cargado de irregularidades que no sorprenderá la última, advertida por la defensa. Y es que la tramitación de un juicio por jurado impone una serie de particularidades técnicas por las que a veces pasamos por alto. Una de ellas especifica que los jurados deben analizar los hechos valorando exclusivamente las pruebas que se practican ante ellos, con total abstracción de lo realizado hasta entonces. Por eso los escritos de acusación y defensa deben limitarse a exponer los hechos sometidos a juicio y nada más; estos escritos, que se leen ante el jurado, no pueden incluir datos de lo que haya pasado fuera de la sala y que puedan influir en el veredicto; no pueden incluir, por ejemplo, lo que hayan declarado los testigos durante la investigación, o lo que haya dicho la UCO ni, mucho menos, lo que hayan decidido los magistrados de la Audiencia Provincial, que los jurados tendrán por sabios. La incorporación de esta información vulnera la ley porque contamina el debate y confunde a los jurados con unos prejuicios que, sin duda, condicionarán su decisión. La queja de la defensa estaba justificada: el escrito de acusación que incluye este contenido está mal hecho y debería ser apartado de la causa; sin embargo, en un procedimiento que se ha instruido con la delicadeza de una patada, parece claro que la queja tenía pocas esperanzas de prosperar. Y se celebrará el juicio. Tal vez entonces se advierta una peculiaridad en el asunto que quizás explique el empeño de Peinado en llevarlo ante un jurado. En un caso ordinario, al jurado se le pregunta por el hecho, el resultado y la consecuencia, y estas tres cosas suelen estar anudadas indisolublemente: el acusado disparó, en consecuencia mató, en consecuencia asesinó. Pero en el caso de Begoña es tan dudosa y forzada la calificación de los hechos como delictivos, que podría darse la circunstancia de que el jurado declare sustancialmente ciertos los hechos de la acusación y sin embargo absuelva; declare como cierto que Begoña utilizó a su asesora para que le ayudara en sus asuntos privados, pero entienda que eso no es malversación; que pidió dinero a patrocinadores, pero que eso no es el tráfico de influencias por presión moral que se pretende; que participó en el registro de la herramienta informática gratuita, pero que eso no es delito alguno. Esta singularidad, a la que se ha llegado por la incompetencia de una instrucción retorcida, resulta disfuncional. Habrá quien defienda que al jurado únicamente se someten cuestiones de puro hecho; pero como los hechos no son ilícitos, entonces para absolver el jurado deberá articular una opinión sobre ellos. No le bastará con decir ‘pasó esto o aquello’ sino ‘sé lo que pasó y, a mi juicio, no es delito’. Esto no es sencillo; decidir si un hecho es delictivo o no requiere de unos conocimientos que no pueden exigirse a una persona lega en derecho. Sin embargo, introducir estos elementos valorativos en el veredicto será imprescindible, a mi parecer, porque si al jurado solo se le fuera a preguntar si se utilizó a una asistente para labores privadas (que es probablemente el escenario que imaginó Peinado al dirigirnos a un jurado), entonces Begoña entrará a juicio ya condenada. En fin, este juicio tan extraño no es más que el resultado de una instrucción atrabiliaria que nadie supo parar, en manos de un instructor que contó siempre con la permisibilidad de sus compañeros, que nunca le pidieron cuenta de sus excesos. La inercia corporativa de este Poder Judicial es tan apabullante que no encontrará motivo para reclamar responsabilidad a un juez cuya ineptitud jurídica es tan flagrante que la superioridad no le ha revocado en este asunto ni cinco ni diez ni quince, sino más de veinte decisiones en dos años. ‘Nada que decir’, habrá dicho el Consejo, ‘es uno de los nuestros’.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-21T11:51:45+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "Cuánto más puede resistir Friedrich Merz al frente de Alemania",
+          "link": "https://www.eldiario.es/internacional/resistir-friedrich-merz-frente-alemania_129_13525343.html",
+          "desc": "Los poscomunistas de La Izquierda ganan en Berlín y la ultraderecha de Alternativa para Alemania, AfD, es primera fuerza en Mecklemburgo-Antepomerania, donde los democristianos del canciller se quedan fuera del Parlamento La ultraderecha vuelve a ganar en Alemania y la CDU de Merz sufre un descalabro histórico Poco antes de que las encuestas a pie urna en Schwerin anunciasen el peor resultado de la historia de los conservadores de la CDU en unas elecciones regionales, una noticia saltaba el domingo en Berlín: Friedrich Merz comparecería poco después de las seis de la tarde en la central democristiana en la capital federal, justo después del cierre de los locales electorales. No se recuerda algo similar en Alemania: que un canciller se adelante a las valoraciones de los candidatos regionales de los partidos y tome la palabra robando el protagonismo al resto de actores políticos. “El resultado en Mecklemburgo-Antepomerania es un desastre. La CDU ha peleado, pero ha quedado destrozada por la polarización entre SPD y AfD”, dijo Merz con gesto de derrota y evidente cansancio. El canciller y presidente democristiano calificó el resultado de su partido de “respetable” en las otras elecciones de la jornada: en Berlín, la CDU perdió más de nueve puntos y quedó en segunda posición, por detrás de los poscomunistas de La Izquierda, que ganaron claramente las elecciones en la capital. Contra pronóstico, cuando todo apuntaba a una bomba informativa, Merz sorprendió una vez más: “Alemania es capaz de llevar a cabo reformas. Me atrevo incluso a afirmar que estas reformas son el antídoto contra el veneno autoritario”, dijo el canciller, sin nombrar expresamente a AfD. “Lo que hay que hacer ahora requiere firmeza, constancia y paciencia. Yo voy a poner de mi parte. Como presidente del partido CDU y, sobre todo, como canciller federal de nuestro país”. Merz se mantiene al frente de Alemania y de su partido. El canciller pronunció esas palabras antes de que hubiese resultados definitivos en Mecklemburgo-Antepomerania. Cuatro horas más tarde, poco después de medianoche, se hacía oficial el peor escenario para los conservadores: la CDU, con 4,9% de los votos, se queda fuera del Parlamento regional, situación inédita en la historia de la República Federal. El partido que reconstruyó la Alemania de posguerra cae en el extraparlamentarismo en el noreste del país. Las palabras de Merz de media tarde habían envejecido meses en tan sólo unas horas. Dudas sobre la Gran Coalición Merz unió este domingo su futuro político a la capacidad del Gobierno federal de la Gran Coalición de sacar adelante su agenda de reformas económicas y políticas . Pero los resultados de la doble cita electoral dejan aún más dudas sobre el futuro del Ejecutivo liderado por Merz. Democristianos y socialdemócratas perdieron juntos más de 15 puntos en Berlín, ciudad que han gobernado también en Gran Coalición durante los últimos tres años. El castigo a los partidos que hoy dirigen Alemania es innegable en la capital, que se enfrenta ahora a la difícil tarea de formar Gobierno. El mensaje que las urnas lanzan desde el norte, en Mecklemburgo-Antepomerania, no es mucho más alentador para Merz: los conservadores de la CDU pierden más de ocho puntos y caen en la irrelevancia política del extraparlamentarismo. La primera ministra regional, la socialdemócrata Manuela Schwesig, pierde las elecciones frente a la ultraderecha, pero probablemente podrá mantenerse en el poder si consigue armar una coalición con los poscomunistas de La Izquierda y Los Verdes. Se puede decir que Schwesig ha conseguido aguantar el pulso a la ultraderecha, que gana casi 20 puntos respecto a las últimas elecciones regionales, pese a su partido: la primera ministra ha hecho campaña centrándose en su figura, muy popular en Mecklemburgo-Antepomerania, y no ha dudado en atacar algunas de las reformas propuestas por la Gran Coalición de Merz, de la que su partido forma parte, como, por ejemplo, la prolongación de la edad de jubilación o los recortes sociales. Los resultados lanzan un mensaje común al Gobierno de Merz: si la única respuesta del canciller federal es mantener inalterado el curso de sus impopulares reformas, la crisis dentro del Gran Coalición parece servida en bandeja. Cuesta imaginar cómo Merz conseguirá agotar la legislatura y mantener el Gobierno unido, con una dirección socialdemócrata muy desacreditada y una creciente oposición interna dentro de las filas conservadoras. La destrucción de la CDU Los resultados de este domingo vuelven a confirmar el auténtico proyecto de la ultraderecha de AfD: la destrucción de la democracia cristiana de la CDU para alcanzar la hegemonía política y electoral en un país esencialmente conservador. AfD quiere convertir ese conservadurismo en voto reaccionario para poner en marcha proyectos como el de la “remigración: es decir, la expulsión de millones de personas para recuperar la homogeneidad etnocultural de Alemania, una posición que raya claramente con el neonazismo. La salida de los democristianos del parlamento regional de Mecklemburgo-Antepomerania confirman que la ultraderecha va por buen camino. La buena noticia para Merz es que las elecciones del pasado domingo cierran un año electoral que ha dejado dos victorias electorales de la ultraderecha –una en Sajonia-Anhalt y otra en Meclemburgo Anteporania– y una de los poscomunistas de La Izquierda –en Berlín–. Hasta abril del próximo año las urnas no se volverán a abrir en Alemania. Será con tres comicios regionales en Schleswig-Holstein, el Sarre y Renania del Norte-Westfalia, en esta ocasión en el Occidente del país. El plan de Merz parece ser resistir en el poder y al frente de su partido hasta entonces. Pero durante estos meses, Alemania podría tener su primer ministro regional ultraderechista en Sajonia-Anhalt , estado en el que Ulrich Siegmund se quedó al borde de la mayoría absoluta a inicios de este septiembre. Entre las filas de la CDU las voces críticas con la gestión de Merz amenazan con convertirse en una rebelión dentro del conservadurismo. La dimisión a plazos que Merz podría entonces convertirse en una renunciada forzada. A estas alturas la cuestión no es si Merz caerá, sino cuándo.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T13:22:11+00:00"
+        },
         {
           "title": "Ni Messi ni Cristiano Ronaldo: el jugador más rico del mundo busca equipo",
           "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/messi-cristiano-ronaldo-jugador-mas-rico-del-mundo-busca-equipo-20260921-546993.html",
@@ -749,7 +756,7 @@
           "fecha": "2026-09-21T12:00:21+00:00"
         },
         {
-          "title": "Entidades denuncian el suicidio de una mujer pocos meses después de ser desahuciada en L'Hospitalet",
+          "title": "Una mujer se suicida pocos meses después de ser desahuciada en L'Hospitalet: \"No es una desgracia inevitable\"",
           "link": "https://www.eldiario.es/catalunya/entidades-vecinos-denuncian-mujer-suicidado-meses-despues-desahuciada-l-hospitalet_1_13525722.html",
           "desc": "Olga, que tenía 54 años y dos hijas, sufrió problemas de salud mental a raíz del proceso de expulsion de su piso, que compró hace 20 años y que cedió al Banco Sabadell a cambio de un alquiler social Cuatro ancianos denuncian a un fondo de inversión por acoso: “Solo queremos vivir tranquilos lo que nos queda” Entidades y vecinos de L'Hospitalet de Llobregat han denunciado que Olga, una vecina de 54 años, se suicidó el pasado 7 de septiembre, cinco meses después de ser desahuciada de su piso, en el barrio de Santa Eulàlia. Los activistas han denunciado el “abandono institucional” que sufrió la víctima, que además tenía problemas de salud mental. Han exigido que se investigue la “cadena de omisiones” que, según sostienen, precedió a su muerte. Olga tenía 54 años y dos hijas, una de las cuales todavía es menor de edad. Según ha explicado Cristian Jiménez, portavoz de la Asociación de Vecinos y Vecinas Som Santa Eulàlia, la víctima compró un piso en la calle Comerç hacía 20 años y había contratado la hipoteca con el Banco Sabadell. Después de separarse, según el relato de Jiménez, no recibió la manutención de sus hijas, se quedó sin trabajo y no pudo continuar asumiendo los pagos. El portavoz apunta que Olga llegó a un acuerdo con el banco para que la entidad se quedara el inmueble y ella pudiera seguir viviendo en él a cambio de un alquiler social. Según el portavoz vecinal, este acuerdo se mantuvo hasta que la vivienda fue vendida a Promontoria Coliseum Real Estate, un fondo de inversión . Fue poco después de la transacción que se inició el proceso de desahucio. Olga consiguió evitar un primer lanzamiento con ayuda del Sindicato de Vivienda de L'Hospitalet, pero el procedimiento se reactivó después de que el Congreso tumbara el decreto de moratoria de los desahucios con votos del PP, Vox y Junts. La víctima, según sigue Jiménez, intentó encontrar una salida a la situación y contactó con medios de comunicación, partidos políticos y la Sindicatura de Greuges (el Defensor del Pueblo Catalán). En esta línea, incluso llegó a participar de una comisión de estudio sobre la salud mental en el Parlament. El Sindicato de Vivienda y la Asociación de Vecinos que las afectaciones emocionales y psicológicas derivadas de un proceso de desalojo “no se atienden suficiente”. El Sindicato de Vivienda y la Asociación de Vecinos de Santa Eulàlia han convocado una protesta el próximo 3 de octubre para “exigir justicia”. Intento de suicidio antes del desahucio Según el relato de Jiménez, la noche anterior al primer intento de desahucio, que tuvo lugar el 15 de abril, Olga amenazó con quitarse la vida. Se activó el protocolo antisuicidio y la mujer fue trasladada a la unidad de urgencias psiquiátricas del Hospital de Bellvitge, donde horas después recibió el alta. El abogado de Olga pidió que se detuviera la ejecución del desahucio, pero el juez decidió seguir adelante. Ha detallado que el magistrado abrió un expediente al abogado porque el juzgado consideró que “la petición de suspensión del desahucio por la situación de salud de la mujer no estaba suficientemente acreditada”. Jiménez ha aprovechado para poner el foco en la atención a la salud mental de las personas afectadas por procesos de desahucio. Considera que esta realidad “no está suficientemente estudiada ni suficientemente atendida” y señala las consecuencias que, según afirma, pueden tener estas situaciones en las familias, en las personas menores de edad y en su entorno educativo. En paralelo, ha criticado el funcionamiento de los servicios sociales de Hospitalet. Ha asegurado que el sistema “ha quebrado”, que los profesionales que trabajan en el servicio “están desbordados” y que el recurso que hay en la ciudad no da respuesta a la cantidad de personas que hay que atender. Ha reclamado al Ayuntamiento, al Govern y las administraciones competentes que adopten las medidas necesarias “para que ésta sea la última muerte vinculada al negocio inmobiliario”. También ha exigido que se investigue la actuación de las administraciones y la “cadena de actuaciones y omisiones” que han conducido a la muerte de Olga. “No fue una desgracia inevitable” Pau Segura, portavoz de Vivienda L'Hospitalet, también ha cargado contra la actuación de las administraciones. “No aceptamos que el caso de Olga se presente como una desgracia inevitable y sin responsables”, ha afirmado. Ha señalado el Banco Sabadell y los accionistas de Promontoria como responsables, según sus palabras, “de la pérdida de la vivienda y del empeoramiento del estado de salud de Olga”. También ha hecho responsable a la Generalitat, al gobierno español y al PSC y al PSOE, a los que acusa de estar “al servicio de los intereses de la industria inmobiliaria por delante de las vidas de la clase trabajadora”. Se ha referido al gobierno socialista de L'Hospitalet y ha criticado que haya puesto una “alfombra roja en los especuladores”. Sobre el caso de Olga, ha afirmado que las autoridades municipales tenían conocimiento y “no hicieron nada”. También ha lamentado que las autoridades judiciales negaran la suspensión del desahucio “pese a conocer la situación de vulnerabilidad de la mujer y su familia” y de haber recibido “la comunicación del abogado sobre el riesgo de suicidio”. Por último, ha señalado los Mossos d'Esquadra por su papel en la ejecución del lanzamiento. Por su parte, amigas y vecinas de la víctima, han afirmado que su muerte “es consecuencia directa del proceso de desposesión y maltrato al que desde hace más de 10 años bancos, fondos buitres y administraciones sometieron a Olga”.",
           "source": "https://www.eldiario.es/rss/",
@@ -866,13 +873,6 @@
           "desc": "Lecornu pretende recortar 54.000 millones mientras los movimientos sociales empiezan a prepararse en la calle con el destello de fondo de un posible regreso de los ‘chalecos amarillos’",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-21T03:30:01+00:00"
-        },
-        {
-          "title": "El PP incorpora la inseguridad ciudadana y los precios en su ofensiva contra el Gobierno",
-          "link": "https://elpais.com/espana/2026-09-21/el-pp-incorpora-la-inseguridad-ciudadana-y-los-precios-en-su-ofensiva-contra-el-gobierno.html",
-          "desc": "Sánchez enarbola la bandera de la economía frente al “aquí no hay quien viva” de Feijóo",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-21T03:30:01+00:00"
         }
       ]
     },
@@ -880,6 +880,13 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN2VqamZLckdJWUJ0S21EUEE3WlpkbmxQTGtQaGVadWxVZ3RaZ3dhamh0Yk5ULW96dmNZbU10SWpCWVRjc3F2Vmk3ZlFKX0RVVEZ1N08tNGlDeGdlamJ1a3pHWG1yWlpvRTMtSjU4ejRlV0tjTkE?oc=5",
+          "desc": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:53:33+00:00"
+        },
         {
           "title": "El jefe de Nvidia descarta el apocalipsis por la IA",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFV0dmZ0TFNuN2QwRVltZWstYkhCZTIzMEhodjduZTdhM2VwU2hVY0p3N01HM2VIZ2hDSzRoYVVSaHdyY29fWVRNT05Rb01aeGtRZ0ZmLVdBVkhyUXJXQ0ZZU2dmdGhXMjRsbUxqMnVuMHVUTHZxbVFfalR1Y1JRNk5WaG51M3A3aXRnbzhMcjJXamF1bjFtUWxLck9UVFhZRHVSOEpteGhmWTVXVkNxX9IB1AFBVV95cUxPa3VVd1NZMGdINV9ocHFqNUV4Q2RxOTJCMEtUcTN0MGxuMFRtbkk1UlhXV0NHWF9QUTVXb3Fhb1BiNTd1VVpaa1ktWGUwakt5ZXVYdkJaeVN2QXpwY3I3TXBVX0VQUmdfZWNiUGRRQ2lMSEhXU1VONHVTYk1ZRmVPSDdac3BuSWlTT1hLc0s4MXRLd2ZMNDItRU0tUDhEdGR2a1RkeGNyN0hYYWFtZm9acEZpdkdoWFNBRVVGaTBzRklqSHJNcjVFeDg1eDE5aVh6LWs2ZQ?oc=5",
@@ -909,6 +916,13 @@
           "fecha": "2026-09-21T13:00:00+00:00"
         },
         {
+          "title": "NVIDIA GeForce RTX 60 Series con arquitectura Rubin llegarían recién en 2028",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajRyNnJhbTlLdWxwM3lodXd3YmRjY0tYQUhWUkhyWlMtLTNtVmFHV1FNSGkyVXJDNlVWS1VQTEJJZjQtYlNsSnZOTC1JRmQwMTMyb3NlNmh1U1M4OElsSF9aaUpxbGtUaWpnbEJYQkFsbEw2UXZ3QWg2VEFleHlYcGlzSQ?oc=5",
+          "desc": "NVIDIA GeForce RTX 60 Series con arquitectura Rubin llegarían recién en 2028 madboxpc.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:49:36+00:00"
+        },
+        {
           "title": "Una fuente fiable contradice la fecha de lanzamiento de la Nvidia RTX 6090 publicada por «Moore’s Law Is Dead",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWHlOckFfN3UyREJqTDRNczFGYXZaNEdwczMzUTUtVkZ0eVc0REdLNjJWSWZuN3lrdTlXWnRSRDE2N2ZBaWlkTTN4Y3d1eElvSzdBTmNfWmV1SFVTZ0lWalpzMTNmaldNbVl2OWxTVGltQ19EVktqNDN1MTdveGh1UlotWjQ2NWx2SXFfZjRBYWFPNktfLUlFLWNZRmJsbWxyVjJmSUE3ZWEzbHFrc2VWb0FYWHF5NmVrWFljSks0SXBfa0tBQm9SWXZxMTlYeWhhaFhVX2VDQWFKanItUm5mVWR4WXhQMjVJ?oc=5",
           "desc": "Una fuente fiable contradice la fecha de lanzamiento de la Nvidia RTX 6090 publicada por «Moore’s Law Is Dead Notebookcheck.org",
@@ -925,7 +939,7 @@
         {
           "title": "NVIDIA Corporation : recomendación de compra de Bernstein",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmNEWFVFaUtrN2gwY3l0dk1uOWZSSnF1dlVIbWxUVkpsRkdFVkhBcFctWm1BVEFBdHFiV2E5UWFWME9GaTlUcG5YcDlEYjZkNWRPTC1ja0JlWWl1ZGVfU2RmYk9nOFB6UFRkNEE2bHdaQzlpcklibFR5RW1fcHFGbWxKZzlZckxSMG9LWGFKU3d2X1hDdGVsc2dPTnhsTDRsX1NQcElKYzdoMUJNQWIxNA?oc=5",
-          "desc": "NVIDIA Corporation : recomendación de compra de Bernstein es.marketscreener.com",
+          "desc": "NVIDIA Corporation : recomendación de compra de Bernstein MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T12:37:47+00:00"
         },
@@ -1033,20 +1047,6 @@
           "desc": "Jensen Huang, CEO de Nvidia, descarta un escenario apocalíptico por la IA: «El 2030 no va a ser el fin del mundo» El Debate",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T09:42:28+00:00"
-        },
-        {
-          "title": "Otro conocido filtrador coincide, no habrá NVIDIA RTX 60 Series hasta el 2028",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQck13eHB1REt3SWl2dG5pM3FMNkNES2NuMXZRUHE4N0F2YWdNbHdoWU1sSTdZVEFhbldWU21CZnR4dVEyaUtncTRTdG1uZi0ySFRSOVRSWU5HcS0xSUVVM1VRQzlOejI5UTdUWU1tTC0xYWRyeUlxOXpWV3RoV1FOMHJZZ3NvU2pURmxiUUJGR2Jqc284MGVzSW5ERklPUWt1TlM2cmFBajNxMmM5NXlBbkZDRkRJckNTTjNmZA?oc=5",
-          "desc": "Otro conocido filtrador coincide, no habrá NVIDIA RTX 60 Series hasta el 2028 Geeknetic",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T09:31:18+00:00"
-        },
-        {
-          "title": "Las GeForce RTX 60 podrían retrasarse a 2028, según otro filtrador",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdEh0LUVDeTlzVDlNcGxJUUM0OG45Q3o3eGk3R0F5ZDdNRjJhVGR5b3FKVlo4QWFvdE5ZcWQtQkZXZ0JhRWp6VUV6eDAwNDFrZV9laWJEQ0FWNTNVMG1SRVdaZkJIbURoXzFQbGNnRHR4LTdmMjZaSEYxb2x5UWpxSmhvOE5qVDdTYW5UYkRRMA?oc=5",
-          "desc": "Las GeForce RTX 60 podrían retrasarse a 2028, según otro filtrador Hardware Premium",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T09:30:00+00:00"
         }
       ]
     },
@@ -1067,6 +1067,20 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkJXWHhJNGY5WHo5eG5QNUZqdHpRRWNZSXdqbnk2a1J2bkY2NVBCMHpoamNKN3lXM09pOFc1by1GSmtFWVQ3TnhWdjM5SWMyWmphRzN2U3RDblNJNHF5OEVpdVU0TEs1bUdvOGNfelZLZUhrdlVlLWJYay00V2ppei1xaHJtbDkxa3Mzb0xTT01SQ2N3UFU1c1ZNNjAtbFctaVg0ZGVFaEYxRi1NTjFUbFhkQWFET1h5U2NJMFlvcFpNNnRZa2pUdXhTVS1ONnBzNml5QUJn?oc=5",
+          "desc": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm Notebookcheck.org",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:34:00+00:00"
+        },
+        {
+          "title": "AMD logra reducir de 80 GB a 1,7 GB el uso de memoria en ray tracing con una Radeon RX 9070 XT",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xVXpVYVgyUEI1b0VLbTdlRzAyNDJ0ZTJOWnQ3ZTUybG5Rc0Q0ZlROY0Y5YXl1eDBwWlpWSkJaSV9ySC11RnJqT3dfR2JOQ1c1aWh1UXJFYTZJZDktRTE3eFJXRVp3U0l5SFdjaGlEMEk0T0NQYXc?oc=5",
+          "desc": "AMD logra reducir de 80 GB a 1,7 GB el uso de memoria en ray tracing con una Radeon RX 9070 XT madboxpc.com",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:31:34+00:00"
+        },
         {
           "title": "Resumen semanal: AMD acuerda 530 MW y Wells Fargo inicia cobertura con Overweight y objetivo de $28",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MOFQtdXFIQnZFZ3J3Q1Nnd2NaMFVOdWZNNmJMd2JiT2ZYZVFuUm41R2JmZ1BGdWU3MlhXLUswMkdZaE1yY0oyV3RTdGFXcWphTlF3eWpjQmRUWlFnS05Fa21HSko2Q3VOYkdkZA?oc=5",
@@ -1096,9 +1110,9 @@
           "fecha": "2026-09-21T09:56:00+00:00"
         },
         {
-          "title": "AMD \"Tetrahedral Cages\": características y novedades",
+          "title": "AMD \"Tetrahedral Cages\", la técnica para Ray Tracing en juegos que reduce 47 veces el uso de VRAM y es hasta 90 veces más rápida",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SUDlQQVFSZjFDWkRvaFlVYXFMbmFJUDBFektqTjE3UEw2NVYtQ2xoSV9sMmZmc1lleG9LTzNZS2VYd0pDMEVaX1Q0c1kyazhXLXlkYnJZbjN3eW5aQjJrbk5VaDVZakxvUUNjOENLVklwdw?oc=5",
-          "desc": "AMD \"Tetrahedral Cages\": características y novedades El Chapuzas Informático",
+          "desc": "AMD \"Tetrahedral Cages\", la técnica para Ray Tracing en juegos que reduce 47 veces el uso de VRAM y es hasta 90 veces más rápida El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T07:50:29+00:00"
         },
@@ -1175,7 +1189,7 @@
         {
           "title": "Galería de Showroom para la Academia Stieglitz / AMD - 6",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXV5bkVENzFvSUlrc2FJV2RwWVVra1NrUzJLbmxoX2xEbnNuSGp6c2FDME9NaTBkNnlBMTNuOVhuaS1rRjdiSkp3OFYtUUZ4ckVtNGhucVR0WWlfNEVwWTN2WXBlbTdST3NkTHlSV2p0UDhfYVd4VkVCblFlRFk0dTFlZnduZnJ4d2FBMVZmYWNidk1SZ3dja1RZU3djUEZBcU1haGJCUmliU0lUNkppdXNVWUdCU3BuMmZJdHZVRFZLRmoxV3EwbFNpN05LWkxIejJIOUFOUGhSQQ?oc=5",
-          "desc": "Galería de Showroom para la Academia Stieglitz / AMD - 6 archdaily.com",
+          "desc": "Galería de Showroom para la Academia Stieglitz / AMD - 6 ArchDaily",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-18T23:57:22+00:00"
         },
@@ -1220,20 +1234,6 @@
           "desc": "Informe diario de mercado de TradingKey: Las acciones de semiconductores repuntan mientras Micron sube más de un 5%, AMD gana más de un 6% e Intel se dispara casi un 8% TradingKey",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-18T00:47:39+00:00"
-        },
-        {
-          "title": "Forget the AI Doom Headlines. Watch This AMD Number Instead.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzVBSlFXeHVWT3dIaU43Uk9OSW04Qm12bE95ZlpjWUo4Q2k5aWYzVDQxOHNiRHk3TzRnMHpZX0ZmTGhVU3FaaEkyd2ZmRGFIcmRmQXdpVlFlNTB2S3cwZzV0Q0ZvTUxjaDlJWjBlVEZuTFF0U292MTdqdk1GczRpWU93WWhlZ3k1bjl6cnBlX01yMjZWTU9CZGNaUjU5eVJiTzlqcnM3emc?oc=5",
-          "desc": "Forget the AI Doom Headlines. Watch This AMD Number Instead. TIKR.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-17T19:42:56+00:00"
-        },
-        {
-          "title": "AMD: subida de precios del 10% en CPU, GPU y placas base",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODRfVmJvc2dhZ2NPQ0ZDdXdxZ2R1WUlhNVAzSFR0YkF2eUI2ZmlfZ25BZXpDZ3g4RG00UFdXMXZfYThBUEhSMENhQ1VqNDYzZHd3b3VvT3BlaDNMX3lONnktYmtPdEtfS2xKbFM5SF9LUzlkMnNBZmdmaTBCaVF6OXRZRFFlblJr?oc=5",
-          "desc": "AMD: subida de precios del 10% en CPU, GPU y placas base El Chapuzas Informático",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-17T18:39:55+00:00"
         }
       ]
     }
