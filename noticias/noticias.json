@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T07:12:10.313300+00:00",
+  "generado": "2026-09-21T07:30:05.304313+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -14,13 +14,6 @@
           "title": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXpjY0lFM3JycUV5N21sRjh1RTktWDA3YnI3SXJiSkVkZHR1aTRsOVVGU280SWppbGVpNkhjbXV1ZENfODNKTnFDcVJweERjTWd4T0l4eUJqTWtnNVFmTHRTdEFOM3ZPMVdXWUUzbTFLV1BzYS01SjdDSkc3dGNINnFnaFJJZXN1Rjhoczl5NUttMnhyNlhqZTMwQmNYU0FnSjdmOG9B0gGrAUFVX3lxTFBqUndMSWtoVFZTRTdZaVRuVC1GTktUdlFCQUFqd2pZSHRabEZfYlhtaUhFdHNrbUpyRzhZRmh2b011dEdfcG9GTjVmTEpGZ1RlaEJoNzBlakIzX210RDFsbF9OU21uSXp3M0N0cDlmODNQS21jQjBBTW9uOU1seHRzaFlMT0xuSFZpbDJmcWlsZE5ETnBXckJpUWtLRDdDWnZTSS04c1E0TTBETQ?oc=5",
           "desc": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada diariodemallorca.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T06:54:33+00:00"
-        },
-        {
-          "title": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada - Levante-EMV",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWRLV0FQSmFwTjVaVC1teEk3YWk3OS1DOGZaNUUtYXRFVldwb08tX0ZIcVNmM01kTXNqTVNHQUJOUUtzeUdnVF9hWjlpT181MkhXbFR2Nmcya21TaUNFaE10X3hkdmFvVTBWei1PcXhwNG9XMFBvQlN2LW9GN2ctSmFsckRYQ1lSeXQtQ2lqNFUyWmJ5RGkyUjFQUW5RZkI50gGmAUFVX3lxTE1GVWFkX0pqc3h3RzdyYXFrbkZ0NGlzZmFVd19VaWJRSXUwem44WklXRjRFV2Vqd3N6ZmVGSlJzd0FMT21UYzdMenhBbDlOZkRNOFUtbG4xbGZzXzhmSXNuRnhmUFp3N0o3NjBjTzI5ZWxYM2RPa2FCSGdkckhPSlNKZkQ1M0hjaWlXYWlSV1I2YlNSV3NidVVxa3ZNeV9uNlFRZ2xHeFE?oc=5",
-          "desc": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada Levante-EMV",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T06:54:33+00:00"
         },
@@ -177,6 +170,13 @@
           "desc": "DAVID LOSADA: \"HAY QUE RECONOCER EL TRABAJO DE LAS JUGADORAS, FUIMOS JUSTAS VENCEDORAS\" Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-20T14:06:45+00:00"
+        },
+        {
+          "title": "Fotogalería División de Honor Juvenil G-IV J4 | Sevilla FC - Málaga CF",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3lFbUJpbnZ1RnJ3SFVhZ05xTjktaWNTdy1GaXQ5YWNXRTd6YUxQREd0bDh5Z3FTMGZSUnBOczJTOEpzbWJ5LXo0ME93U1hrSG9xbG90SGNCOF9sdkVmZk9fVWlZek55SVROSk9veGtWQU9LY0JIMVI5dWUxRmxBMjQzNGszaTQ?oc=5",
+          "desc": "Fotogalería División de Honor Juvenil G-IV J4 | Sevilla FC - Málaga CF elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC+fichaje&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-20T13:36:00+00:00"
         }
       ]
     },
@@ -209,13 +209,6 @@
           "title": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXpjY0lFM3JycUV5N21sRjh1RTktWDA3YnI3SXJiSkVkZHR1aTRsOVVGU280SWppbGVpNkhjbXV1ZENfODNKTnFDcVJweERjTWd4T0l4eUJqTWtnNVFmTHRTdEFOM3ZPMVdXWUUzbTFLV1BzYS01SjdDSkc3dGNINnFnaFJJZXN1Rjhoczl5NUttMnhyNlhqZTMwQmNYU0FnSjdmOG9B0gGrAUFVX3lxTFBqUndMSWtoVFZTRTdZaVRuVC1GTktUdlFCQUFqd2pZSHRabEZfYlhtaUhFdHNrbUpyRzhZRmh2b011dEdfcG9GTjVmTEpGZ1RlaEJoNzBlakIzX210RDFsbF9OU21uSXp3M0N0cDlmODNQS21jQjBBTW9uOU1seHRzaFlMT0xuSFZpbDJmcWlsZE5ETnBXckJpUWtLRDdDWnZTSS04c1E0TTBETQ?oc=5",
           "desc": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada diariodemallorca.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T06:54:33+00:00"
-        },
-        {
-          "title": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada - Levante-EMV",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWRLV0FQSmFwTjVaVC1teEk3YWk3OS1DOGZaNUUtYXRFVldwb08tX0ZIcVNmM01kTXNqTVNHQUJOUUtzeUdnVF9hWjlpT181MkhXbFR2Nmcya21TaUNFaE10X3hkdmFvVTBWei1PcXhwNG9XMFBvQlN2LW9GN2ctSmFsckRYQ1lSeXQtQ2lqNFUyWmJ5RGkyUjFQUW5RZkI50gGmAUFVX3lxTE1GVWFkX0pqc3h3RzdyYXFrbkZ0NGlzZmFVd19VaWJRSXUwem44WklXRjRFV2Vqd3N6ZmVGSlJzd0FMT21UYzdMenhBbDlOZkRNOFUtbG4xbGZzXzhmSXNuRnhmUFp3N0o3NjBjTzI5ZWxYM2RPa2FCSGdkckhPSlNKZkQ1M0hjaWlXYWlSV1I2YlNSV3NidVVxa3ZNeV9uNlFRZ2xHeFE?oc=5",
-          "desc": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada Levante-EMV",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T06:54:33+00:00"
         },
@@ -351,6 +344,13 @@
           "desc": "Suplirá la baja de Pedro Porro en los cuatro partidos de la Liga de Naciones. David Gordo le sustituirá por el bético Ángel Ortiz",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-20T22:54:57+02:00"
+        },
+        {
+          "title": "El trágico accidente de Paco Gento con un Mercedes que le costó la vida a un guardia civil",
+          "link": "https://www.elmundo.es/deportes/2026/09/20/6aabb3d7fdddffe7108b45d2.html",
+          "desc": "El atropello de un agente de la Benemérita por la estrella del Real Madrid en 1962 conmocionó a España durante unos días, pero acabó diluyéndose mientras el jugador pudo seguir su carrera Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-20T22:52:06+02:00"
         }
       ]
     },
@@ -363,49 +363,49 @@
           "link": "https://www.formula1.com/en/latest/article/remembering-one-of-the-most-intriguing-what-if-moments-in-f1-history.6PMh9yfpq4GksluggiddZK",
           "desc": "During the late 1980s and early 1990s, McLaren wrote one of the most successful chapters in their F1 story – the squad racking up four successive Teams’ Championships and four straight Drivers’ Championships with engine partner Honda between 1988-1991.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "When Star Wars took over Formula 1",
           "link": "https://www.formula1.com/en/latest/article/when-star-wars-came-to-formula-1-the-story-of-f1s-trips-to-a-galaxy-far-far-away.52NvGPqgUeHyzjyyzPvSiC",
           "desc": "From Red Bull's Star Wars livery in Monaco to George Lucas on the podium, revisit the memorable moments when Star Wars crossed over with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "How Justin Rose and McLaren are pursuing marginal gains in golf",
           "link": "https://www.formula1.com/en/latest/article/justin-rose-on-mclaren-golf-bringing-f1s-pursuit-of-perfection-to-the-fairway.3TJaNTEeF2kh7qSt1dKNDv",
           "desc": "Justin Rose explains how McLaren is bringing its Formula 1 engineering expertise and pursuit of marginal gains to the world of golf.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "Inside F1’s ‘brutal’ fuel development race",
           "link": "https://www.formula1.com/en/latest/article/inside-f1s-brutal-fuel-development-race-and-how-it-could-benefit-the-wider-world.6In5yoMOgQGwYQpdfzFBUC",
           "desc": "Not only did F1 introduce new cars and new power units at the start of the 2026 season, but also Advanced Sustainable Fuels, a pioneering technology that teams – and their partners – have been pushing hard to maximise in terms of both performance and reliability.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "TREMAYNE: Why I’m delighted the Portuguese GP is back in 2027",
           "link": "https://www.formula1.com/en/latest/article/why-im-delighted-the-portuguese-grand-prix-is-back-on-the-calendar.6SJAb71ghhAlCGcKRx5clZ",
           "desc": "F1 Hall of Fame journalist David Tremayne looks back at the rich history of Formula 1 racing in Portugal.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "Constructors' title battle heating up for F1 bettors",
           "link": "https://www.formula1.com/en/latest/article/the-extra-gear-constructors-championship-title-battle-heating-up-for-f1-bettors.7JNLTSWlH3AFNUvOoJMW1T",
           "desc": "There are just nine races left to decide who will win the 2026 Constructors’ title, so we look at where the value could be for F1 betting fans.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "How 46 fashion designers reimagined McLaren’s F1 history",
           "link": "https://www.formula1.com/en/latest/article/inside-mclarens-designed-to-race-how-46-designers-reimagined-six-decades-of-racing-history.2PLpaQqB7QbkivkFjYK8Ed",
           "desc": "Central Saint Martins students brought 12 McLaren-inspired looks to the runway, drawing on racing icons, engineering and modern F1 fandom.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T07:12:10.313300+00:00"
+          "fecha": "2026-09-21T07:30:05.304313+00:00"
         },
         {
           "title": "Álex Crivillé, 56 años: \"Estuve a punto de perder el dedo pulgar\"",
@@ -532,6 +532,20 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "«La infraestructura de IA es una inversión estratégica a largo plazo»",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ETU9OaEdCSnMtNGZJSWZGT3VqeGRoejFxYmFCdDJSVUZ0cGhORW12RmI5LXFtTGlXSHBpZFdhOXVmUFFCdm0yM19IZUVja25STWhZQVh0NDB1RHY1NGtjS2ZTRDFxZlVqLThFQWg4OTk2QlVTNjBUamtveFJRVUk?oc=5",
+          "desc": "«La infraestructura de IA es una inversión estratégica a largo plazo» MuyComputerPRO",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T07:17:37+00:00"
+        },
+        {
+          "title": "¿Por qué repuntaron las acciones de IA tras la subida de tipos de la Fed? NVDA, MU y AMD lideran el sector de los chips",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHNiZW1fME4tczhqUjVrWWVNT0pvRHU3YTktUWZ0REZtV3dPRU01bjBCUGFsMEpCVEtaUFFMWWJnS2dtVzBySldiclpiX2xpeEMxZk9NcXZ0a29iZ0FIMy16eDJaTFgtRnJmWnEzWGxBTTMxeF9NV21nby03RjFmbjVFcXhYTExKNVd1M3lzZXBYRDNxVnlkWmEzQWc2ZjJnSmdvaUR0eWRBMkdrUnJsNV9HeWNNN2x4Y3BxbTRBUFJQTEZrU1F4WXJ6em5LcHV6LWZ0cw?oc=5",
+          "desc": "¿Por qué repuntaron las acciones de IA tras la subida de tipos de la Fed? NVDA, MU y AMD lideran el sector de los chips TradingKey",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T07:14:18+00:00"
+        },
         {
           "title": "Jensen Huang sentencia: 0% de probabilidad de que la IA acabe con el mundo",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lOUNsWURNa0JJMGxDbXo1clAwdmYxZFp6RmRGZGM3ZWpnOTRHOFFmci1rTkc0UWlqek9vZEdUd1ZycVBOQTZZdGdaQ1laMllTSVdpU1BGLXBDU18tLTk4RVlwZ08xcURTTzJNN010a040SXUwQjBMbVUySk4?oc=5",
@@ -685,20 +699,6 @@
           "desc": "El impacto de la IA en el mercado laboral, el auge de la Formación Profesional, el cambio cultural de las nuevas generaciones y el derrumbe del mito de la ‘titulitis’ universitaria provocan un renovado interés de los más jóvenes por los trabajos manuales y artesanales Leer",
           "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
           "fecha": "2026-09-20T22:52:52+02:00"
-        },
-        {
-          "title": "El Espanyol espera el debut de Roberto Fernández con la selección española: su nuevo precio en el mercado",
-          "link": "https://www.estadiodeportivo.com/futbol/espanyol/espanyol-espera-debut-roberto-fernandez-con-seleccion-espanola-nuevo-precio-mercado-20260920-546957.html",
-          "desc": "Si debuta en alguno de los tres partidos para los que ha sido convocado por Luis de la Fuente, la cláusula de rescisicón del delantero perico se verá elevada en 5 millones de euros más El gran momento de Roberto Fernández con el Espanyol , con el que ha anotado seis goles en las siete primeras jornadas de LaLiga , ha tenido como premio su primera convocatoria con la selección española absoluta (en su momento sí llegó a jugar seis choques con la sub 21 en los que firmó dos tantos). Roberto Fernández se va con la Roja con una espina clavada en el Espanyol Cuatro novedades y una sonada ausencia de Gavi en la lista de Luis de la Fuente para la Nations League Así, el delantero andaluz es una de las cuatro novedades incluidas por Luis de la Fuente en la primera lista ofrecida después de conquistar el Mundial . Junto al atacante perico, se estrena también el meta Josep Martínez , del Inter de Milán, por la lesión de Joan García, pese al gran momento del bético Ávaro Valles , y regresan Huijsen y Fermín López por Marcos Llorente, que ha decidido acabar su carrera como internacional, y Gavi. De 25 a 30 millones de euros solo con debutar como internacional Por su parte, Roberto Fernández ocupa el lugar de Borja Iglesias , que ha comenzando el curso con problemas físicos, y espera aprovechar la oportunidad en los encuentros de la Nations League ante Inglaterra, Croacia y República Checa. Además, si logra debutar en alguno de los tres mencionados partidos, el Espanyol se verá beneficiado ante los movimientos que puedan surgir por parte de clubes interesados en su fichaje. No en vano, en dicho caso, su cláusula de rescisión, fijada actualmente en 25 millones de euros, se verá aumentada para pasar a ser de 30 millones , como adelantó Esports Cope . Más condiciones que pueden aumentar su cláusula de rescisión Cabe recordar en este sentido que la entidad blanquiazul ya rechazó en el pasado mercado de verano una propuesta del Hull City . “Ha habido un interés, no en la última semana, pero sí a mediados de agosto, de un equipo inglés por Roberto. Una oferta que evidentemente rechazamos al segundo uno. Ha habido una oferta, que no la hemos considerado , pero fue a mediados de agosto, o antes incluso\", desveló Monchi , director deportivo blanquiazul. Pero en el acuerdo cerrado en su día por su antecesor, Fran Garagarza, quedó estipulado que el precio del ariete cordobés aún puede subir más si se cumplen otra serie de objetivos o condiciones. Una de ellas es que, como sucedió en la ventana de transferencias estival, el interesado sea un conjunto de la Premier League . Y según el periodista Matteo Moretto, aún hay más letra pequeña que puede elevar esa cláusula de rescisión fijada como base. La trayectoria y los números de Roberto Fernández Tras pasar por las canteras del Córdoba y el Sevilla FC , Roberto Fernández se estrenó con el primer equipo del Málaga en la 21/22, en Segunda división, y dos campañas después se salió en Primera RFEF con 19 dianas , tras un paréntesis como cedido en el filial del FC Barcelona. El Espanyol ha pagado de momento 7,75 millones de euros por el delantero de Puente Genil, pero si esta campaña logra de nuevo la permanencia tendrá que abonar 1,55 millones más \"> Su buen hacer en la Categoría de Bronce del fútbol español le llevó a dar el salto al Sporting de Braga hace dos veranos. El club portugués pagó algo menos de 2,5 millones por su traspaso, pero un año después, tras seis meses a préstamo en el Espanyol, le vendió el 62,5% de sus derechos a cambio de 7,75 millones de euros. En concreto, el club perico pagó inicialmente 6,2 ‘kilos’, de los que el Málaga se llevó el 10% de la plusvalía, y 1,55 millones más tras certificar la permanencia esta pasada campaña. Además, en caso de continuar de nuevo otra temporada en Primera División, la cuantía se incrementará en otros 1,55 millones para pasar a controlar el 75% del jugador.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-20T20:33:16+00:00"
-        },
-        {
-          "title": "Agustín Fernández Mallo: \"Los Gobiernos tienen que legislar seriamente hasta qué punto dejan entrar a la IA en la política\"",
-          "link": "https://www.eldiario.es/cultura/libros/agustin-fernandez-mallo-gobiernos-legislar-seriamente-punto-dejan-entrar-ia-politica_1_13508449.html",
-          "desc": "El escritor disecciona en 'El ángel caído de la inteligencia artificial' el impacto mitológico, antropológico y político de la inteligencia artificial, alertando sobre la necesidad de una regulación estatal frente al avance de las corporaciones tecnocráticas Entrevista - Ester Expósito: “Me parece muy importante prohibir las redes a menores de 16 años” Desde que el mundo es mundo percibido por los humanos, lo que se suele llamar el inicio de los tiempos, en el eco profundo de los mitos que se han constituido, el ser humano ha arrastrado una pulsión tan enigmática y al parecer inevitable, que se ha repetido fuera donde fuere, en toda la extensión a lo largo y a lo ancho del globo terráqueo: la necesidad perpetua de crear algo que lo supere, de proyectar su propia sombra más allá de los límites de la materia biológica para engendrar una criatura dotada de voluntad propia hecha a imagen y semejanza del humano. Hoy, esa antigua ambición se manifiesta en una disciplina todavía sin nombre ni definición concreta, una suerte de neorreligión contemporánea donde se alzan apóstoles del progreso y detractores del apocalipsis. Este es el tema central que desarrolla Agustín Fernández Mallo (A Coruña, 1967) en El ángel caído de la inteligencia artificial , un ensayo donde disecciona el fenómeno de la IA como un espejo de nuestro tiempo al que con urgencia se debe mirar el reflejo. El autor, reconocida figura de la literatura contemporánea que siempre ha explorado los límites entre las ciencias, el arte y la narrativa, interpreta en su último trabajo este fenómeno tecnológico desde lo mitológico, antropológico y político con una visión metafórica propia de un poeta. Desde las primeras páginas del ensayo, el autor subvierte la idea de que la inteligencia artificial constituye un territorio estrictamente científico. Para Fernández Mallo, nos encontramos ante un sistema de creencias bien estructurado que repite patrones atávicos de la cultura humana. “Es como una suerte de nueva teología. Se conforma con toda una serie de apóstoles que dicen, 'no, esto va a superar al ser humano y además va a ser beneficioso al 100% para el ser humano' y se conforma en el otro lado de la polaridad con verdaderos detractores que creen que será el fin del mundo”, dice el escritor a elDiario.es. Esta polarización entre tecnófilos mesiánicos y agoreros del apocalipsis no es, en opinión del escritor, más que una repetición constante de un “impulso ancestral” del ser humano por crear algo que lo supere, desde el mito de Pigmalión hasta el Frankenstein de Mary Shelley o las derivas del transhumanismo de finales del siglo XX. Estas son tres referencias que se desarrollan como metáforas literarias de esta pulsión antropológica por crear lo más grande jamás creado. El mito de Pigmalión representa el deseo primigenio de esculpir una criatura tan perfecta que cobre vida propia, un reflejo del afán narcisista del creador por superar sus propias limitaciones físicas. Luego se encuentra la sombra de Frankenstein, que introduce la advertencia moderna de esa misma soberbia humana: el monstruo cobrado en el laboratorio que escapa al control de su artífice, encarnando el miedo a que propia criatura diseñada se vuelva en contra de su creador. Sin embargo, Fernández Mallo da un paso más allá al fusionar estas tradiciones, recurriendo así a la figura del ángel caído. Las inteligencias artificiales actuales actúan, en el imaginario del ensayista, como entidades desterradas de su “paraíso de origen digital”, que cargan con la maldición de encarnarse en el “mundo terrenal”. No son solo autómatas robots, pues pueden llegar a ser entes a los que se pretende dotar de una voluntad propia (una libertad espuria), repitiendo una vez más el gran misterio de nuestra especie: la necesidad constante de inventar una imagen material e hipertrofiada de nosotros mismos, atrapados en un perpetuo equilibrio inestable entre la realidad y la ficción. Sin embargo, y a pesar de la fascinación que despierta esta pátina teológica, el autor insiste en descender la mirada desde el mito hasta lo que ocurre y cómo se desarrolla esta tecnología. Frente al relato de una inteligencia etérea, Fernández Mallo opone un contraste físico inapelable, “la desproporción energética que supone que mientras que el cerebro humano funciona con apenas 25 vatios, la modesta potencia de una bombilla corriente, capaz de generar arte y pensamiento profundo, mantener una conversación banal con una IA requiere el equivalente a la energía de una ciudad entera de 10.000 habitantes”. El autor reflexiona que lo que se está haciendo no es imitar la eficiencia biológica, sino “invertir recursos y energía en algo que no tiene nada que ver con la inteligencia”. El negocio del apocalipsis Si el mito habla de ambiciones metafísicas de un ser aterrado desde el cielo, la historia real de la tecnología tiene sus raíces en el pragmatismo de los conflictos bélicos y el capitalismo. Desde los algoritmos pioneros esbozados por Ada Lovelace en el siglo XIX hasta las máquinas de Alan Turing descifrando el código Enigma durante la Segunda Guerra Mundial, la innovación ha estado siempre atada al campo de batalla y a intereses geopolíticos. Ahora, el peligro ya no es meramente el enfrentamiento, también la creciente influencia de grandes corporaciones tecnológicas que amenazan con desestabilizar el propio funcionamiento de las democracias. Asimismo, otro de los ejes que recorren el ensayo es la genealogía oscura de la tecnología, un tema recurrente en anteriores trabajos del autor como La forma de la multitud , donde desarrolla que el avance tecnológico no nace de la convivencia civil pacífica, sino de intereses promovidos por las guerras. Desde los algoritmos pioneros esbozados por Ada Lovelace en el siglo XIX hasta las máquinas Enigma de Alan Turing al servicio del ejército británico durante la Segunda Guerra Mundial, la innovación ha estado atada a la geopolítica. No obstante, el peligro actual adquiere matices inéditos. Según advierte el autor, la gran amenaza no reside en una “rebelión autónoma” de las máquinas, sino en la erosión de las democracias liberales a manos de grandes corporaciones tecnológicas que buscan infiltrarse en el seno de los Estados. “Los estados tienen ahora mismo una responsabilidad grandísima”, revela. “Las democracias liberales que todos conocemos quedarán a merced de una o de muchas IA. Pero ojo, las IA no funcionan solas, no tienen autonomía, aún no son ángeles caídos. Están controladas por personas, y ahí van a obtener dividendos a costa del planeta entero”, agrega. Cuando un alumno le pregunta algo a una IA y en un segundo le da el resultado, no puede aprender a pensar Agustín Fernández Mallo — Escritor Con respecto a las constantes advertencias apocalípticas lanzadas por los propios magnates que desarrollan estas tecnologías, figuras como Elon Musk o líderes de grandes corporaciones, el autor desmitifica el fenómeno y atisba que pudiera ser una estrategia de control social. El miedo, recuerda, ha sido históricamente la herramienta más eficaz para someter a las poblaciones, creando una cohorte de sacerdotes seculares que dicen predecir un futuro inescrutable. En un plano más cotidiano, la irrupción de estas herramientas en la educación secundaria abre una brecha peligrosa sobre la cognición humana. Ante la facilidad con la que un alumno puede obtener un texto redactado en segundos, el ensayista lanza una advertencia sobre lo que denomina “la externalización total del cuerpo y de la mente”, y explica que “aprender a pensar es trazar un camino para resolver un problema a través de ensayo y error”. “Cuando un alumno le pregunta algo a una IA y en un segundo le da el resultado o le hace un texto de cuatro páginas, lo que está haciendo es un salto directo. El alumno no está haciendo ese camino y, al no hacer ese camino, no puede aprender a pensar”, apunta. El libro que advierte del peligro de la IA en la educación: “El alumno no puede aprender a pensar”. 'Deus ex machina' no es nacer Subyace una última frontera inquebrantable que separa para siempre al algoritmo del ser humano: la materia. Frente a la ilusión de invocar un Dios digital que resuelva todos nuestros enigmas o nos otorgue una falsa inmortalidad, Agustín Fernández Mallo insiste en que lo verdaderamente constitutivo de nuestra especie es “la finitud biológica y el hecho mismo de nacer con un cuerpo vulnerable”. Tal como subraya el autor, “el ser humano tiene cuerpo”: “Lo que nos hace humanos es precisamente tener cuerpo, no que tengamos memoria”. “Una inteligencia artificial puede recibir energía de manera indefinida y acumular petabytes de datos históricos, pero carece de carne, de heridas físicas y de la conciencia de su propia muerte”, indica. Esta conciencia de la mortalidad es, según el ensayo, el motor secreto que nos impulsa a crear arte, ciencia y pensamiento complejo. “La entropía, el aumento de la entropía del universo, lo vemos en nuestro cuerpo, tenemos heridas [...] y eso es lo que nos hace tener un lenguaje complejo”, dice Fernández Mallo. Sin esa corporalidad nacida de la fragilidad, sin esa memoria arbitraria construida en el presente y sin la certeza de la finitud, la máquina solo posee historia de datos, nunca memoria viva. Con la intención del creador, una IA podrá fingir ser humana y actuar como un falso oráculo mecánico, pero por ella jamás pasará la experiencia de la carne y de la muerte, trazando así una línea ontológica definitiva que la mantendrá, por siempre, al otro lado del espejo.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-20T20:25:25+00:00"
         }
       ]
     },
@@ -988,7 +988,7 @@
         {
           "title": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVDRyT1hzdkE1Um92Vk9Tb0tSMnc3ODFKbDhaS3FGLWk1LVdhV2k5SEVFSGU1YXF5R0VIS0RIWUlzVUNkTGhTbU9RbXJYSGtQTjI2MnRuUXFYVTN0OW5kOXl4VWVHRmRYemlMMWQ3elZteGxYTnJ6aEhtNk9FMlNudTZQemN5S2ZrVXRLa29oaUpmb3ExVVBNLTB5bDZsZTd6c1RFZ0Z2YWk2U2lhTHE4MWRuaUQxdFVPZVF1S2dlcDE3LXJyMThEMkFwTDN3Z1dLNFg4VjNpQkE1aHVuLWp2WnpZZFd3SDk2YTF5WW9faWR1TUlrOHZ6QmhFcW1fY3Q5?oc=5",
-          "desc": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa tarreo.com",
+          "desc": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa Tarreo",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-20T08:06:59+00:00"
         },
@@ -1068,6 +1068,13 @@
       "icono": "🖥️",
       "items": [
         {
+          "title": "¿Por qué repuntaron las acciones de IA tras la subida de tipos de la Fed? NVDA, MU y AMD lideran el sector de los chips",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHNiZW1fME4tczhqUjVrWWVNT0pvRHU3YTktUWZ0REZtV3dPRU01bjBCUGFsMEpCVEtaUFFMWWJnS2dtVzBySldiclpiX2xpeEMxZk9NcXZ0a29iZ0FIMy16eDJaTFgtRnJmWnEzWGxBTTMxeF9NV21nby03RjFmbjVFcXhYTExKNVd1M3lzZXBYRDNxVnlkWmEzQWc2ZjJnSmdvaUR0eWRBMkdrUnJsNV9HeWNNN2x4Y3BxbTRBUFJQTEZrU1F4WXJ6em5LcHV6LWZ0cw?oc=5",
+          "desc": "¿Por qué repuntaron las acciones de IA tras la subida de tipos de la Fed? NVDA, MU y AMD lideran el sector de los chips TradingKey",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T07:14:18+00:00"
+        },
+        {
           "title": "AMD reduce el consumo de memoria gráfica con trazado de rayos de 80 GB a 1,7 GB",
           "link": "https://www.muycomputer.com/2026/09/21/amd-reduce-el-consumo-de-memoria-grafica-con-trazado-de-rayos-de-80-gb-a-17-gb/",
           "desc": "AMD ha mostrado una tecnología gráfica que resulta espectacular, porque es capaz de reducir el consumo de memoria trabajando con trazado de rayos de 80 GB a 1,7 GB. En concreto, lo que se reduce es el peso de las estructuras BVH, que trabajan como cajas de datos donde se agrupa la geometría de la […] La entrada AMD reduce el consumo de memoria gráfica con trazado de rayos de 80 GB a 1,7 GB se publicó primero en MuyComputer .",
@@ -1077,7 +1084,7 @@
         {
           "title": "GEEKOM A5 Pro Mini PC: -110 € por tiempo limitado en el todoterreno con AMD Ryzen serie 7000 pensado para funcionar 24/7",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3dhLXc0U0hSOGRMVzNNSGEtb1JFN1RCZ1oyN2laSnVkSFZwVGJqYWdMdlFVeVJGVWRpdk5PWEtORTZhSmtuRnlienRKVEFGQTBfOURCOXBHdlY4aUFSTjR2MkswazBtYlpUMjNYdjRpOUhVUm12cTFhTkJ6VG84OXJJWVNXYnJiTzBmNjFMNFV0R3YtMy1mZF9lS0RKRU14UERaUU1sTTFfZ1ZXdmtvZWhqSXBYek5SZ0l3Y1N6ODZTYVp3N3hEU1FwaFlsUkRoT0tSWVNJa2xkTmpERFdTZUdLMk01T25Q?oc=5",
-          "desc": "GEEKOM A5 Pro Mini PC: -110 € por tiempo limitado en el todoterreno con AMD Ryzen serie 7000 pensado para funcionar 24/7 wwwhatsnew.com",
+          "desc": "GEEKOM A5 Pro Mini PC: -110 € por tiempo limitado en el todoterreno con AMD Ryzen serie 7000 pensado para funcionar 24/7 WWWhat's new",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T05:18:25+00:00"
         },
@@ -1227,13 +1234,6 @@
           "desc": "AMD, NVIDIA e Intel muestran sus últimas plataformas de IA en MLPerf Inference 6.1 madboxpc",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-17T12:45:46+00:00"
-        },
-        {
-          "title": "Así sería la rumoreada PS6 portátil: juegos de PS4, PS5 y PS6, hardware AMD y modo para el televisor",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLUlWSTR0X2FZYkxreEloNGNKR0N4VGp1aXgtZzVsenlBemd2bHRxdFZnM212OU5Ga3pYWE5mMEEtdjJCcXBtZjE3cFdXLWp5OWo1VndvN05USlNGZW1BaEpraTk4RmRuZ194Ml9VdHh0MXRLdnMzLUpDU1dER1FWRFJJc3p6VkUySnJDaFJidjRXTHVRWTJ0aDUyLUExZlJKamFWNWJHaERQYzR1VnBfSWVTbmtFcVlwOVo0WjRFZF9BRjlnOVFwZ0ZoaVd5SkdaTEFN0gHYAUFVX3lxTE03d04xZmFEcDF3ZHRXdWlmSDhIOVBCVkd2S3BLSUlVdG0ySVQxSGk2X0hiZV9DYmQ4d0ZfWUdpRnV0RHoyM1RhR2N3VGhqNkg1OWFGb1VpZXlyZEg4T3NLREJDLVBjanQwSk1xeUdHRWR4dkJtQVRWX1cwRHJBSEpDbXVPV0kzRXkwa0Z5V253WUthaVV6RVlFYzlwMlR5NTBVS08xVlUyRU5NLW9XNTc1eTVQNy1JSDRHN1kwZUhQS2pZTTVRYVFDdWJCUEQ3VVZIcEctZ2hwMw?oc=5",
-          "desc": "Así sería la rumoreada PS6 portátil: juegos de PS4, PS5 y PS6, hardware AMD y modo para el televisor Vandal",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-17T08:55:00+00:00"
         }
       ]
     }
