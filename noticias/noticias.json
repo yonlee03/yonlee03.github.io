@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T12:30:06.491853+00:00",
+  "generado": "2026-09-21T13:00:06.960086+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -27,7 +27,7 @@
         {
           "title": "Maupay, el delantero que sólo hizo dos goles con el Sevilla: «Me gustaría ser como Kane o Haaland, pero...»",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMC1ZVHNFMHUxbTFuZ1NBNDlMVnpVYzlRNnVqdF9QandfMjlkWnF6M1RIN3V1b3JFcmw5T0VyWEVTS0FTalM1akJWXy1OMDlCRHA5MlpSVkNJQi1EWWxFeGk3WlRTNGVjakJub09mNXdCejlnMFlVbGQ0MnQzOHlYLUNtSUpIdXh1eFVZcExqRzJmellFZG81MkE1MkdqOVBob2FUR3E5ajd3QlVMQUtEcHB0V0VKQ0ZDcGZmOFh3MlNtNmYyd29VUHZpd1p1UFZpZ1E?oc=5",
-          "desc": "Maupay, el delantero que sólo hizo dos goles con el Sevilla: «Me gustaría ser como Kane o Haaland, pero...» abc.es",
+          "desc": "Maupay, el delantero que sólo hizo dos goles con el Sevilla: «Me gustaría ser como Kane o Haaland, pero...» ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:37:39+00:00"
         },
@@ -104,7 +104,7 @@
         {
           "title": "El Sevilla FC vuelve al trabajo sin sus internacionales",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXM5dE1WeHQ4WnRxa3NuVWNaLURVVmpDaWUycDRLWE9nejI0RVZvZHFPOUpOaTJEVjd5ZVAwSXlPY1FQUFdYYjA1RXItWDU5bjhkbm82Uzhuamx5Sm9NcEVHR3dmaVZEak1qN09KMXRPWmNSbkdweFZJc2FLX0ZINzI3ZVZaYnduMC00NHBmUGh6ZWdMazJhazl2N3loTnVGelo4T252c1ZRa2pSak10ZVVMR2hxQlIxUVh0MFc0eWlfdnpPa2fSAcsBQVVfeXFMT0lyalU4TTM5NHFEa1VVSTVBaEJVZzR6eVZobHVpYUs2RDNoRXJWajNqSHVianZhLTZFQmtCZ3pCenFWNHQzd0FQazZ3M1ZVb2JYWmFkYmszdTBrQ2NpSUF5ZTZHYmVnaGlSSWx0QWZlRTh3ek9scVJhNjhCWWQ0bDlmTk5yY3pRX2JhMjJ6WXdEdzhKM1pRLWRHUlItQzNkWnBtcS1MUkRzZEdXZFMwNHdQRnBBNWlrRjJlUkFuSktjaV9mcHRNRGZqdzA?oc=5",
-          "desc": "El Sevilla FC vuelve al trabajo sin sus internacionales abc.es",
+          "desc": "El Sevilla FC vuelve al trabajo sin sus internacionales ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T09:35:49+00:00"
         },
@@ -139,7 +139,7 @@
         {
           "title": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\"",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ25WTFRiTFlaaktUM1VBczNfOXhQU3dQX2Z5OXNOMVhJR2tWRnBUbVdmYVlKeEZLY2ZaeENyc1I2Y05QaGs3Nkc0blJ1MTNWLXNFeVhHRWZ1LWRvWmZWblozdzFOZmxJSk9xYVdzbEx1XzlJcVVmMVJrVDN1VWppZ3BnUWx0TkxNbzUxZm05WHZMdEtzcF9qWlg1TFVLUEJFc2o0elByR1c5dEk1VW1KVklycFNTUVZ3YklETUowWQ?oc=5",
-          "desc": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\" eldesmarque.com",
+          "desc": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\" El Desmarque",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T06:46:34+00:00"
         },
@@ -185,6 +185,20 @@
       "icono": "⚽",
       "items": [
         {
+          "title": "Pedro Sánchez enfada a Ceuta por hacer recular a la Federación para no molestar a Marruecos: \"Difícil de entender\"",
+          "link": "https://www.estadiodeportivo.com/zona-flash/pedro-sanchez-enfada-ceuta-por-hacer-recular-federacion-para-molestar-marruecos-dificil-entender-20260921-546996.html",
+          "desc": "La decisión de Interior de suspender la celebración en Ceuta del España-México Sub-20 ha provocado el malestar de las autoridades de la ciudad autónoma, que cuestionan los motivos esgrimidos para cancelar el encuentro y ven en el contexto con Marruecos un elemento clave de la polémica La suspensión del partido amistoso entre las selecciones sub-20 de España y México ha provocado una reacción contundente en Ceuta. El encuentro, previsto para el próximo 30 de septiembre en la ciudad autónoma, finalmente no se disputará allí después de que el Ministerio del Interior desaconsejara su celebración por motivos de seguridad. El Gobierno de Ceuta ha calificado la decisión de \"difícil de comprender\" y ha trasladado su \"profunda decepción, desilusión y malestar\". En un comunicado, el Ejecutivo ceutí cuestiona los argumentos empleados por Interior y pone el foco en las diferencias entre las declaraciones realizadas recientemente por el ministro Fernando Grande-Marlaska y los motivos utilizados ahora para no celebrar el partido. Desde Ceuta recuerdan que \"hace apenas unos días Marlaska calificaba como subjetiva la sensación de inseguridad existente en Ceuta y ahora su propio Ministerio utiliza precisamente razones de seguridad, presión migratoria y tensión social para justificar que no pueda celebrarse un partido internacional en la ciudad\". Louzán, sobre el partido de España en Ceuta: \"Lo hemos intentado, pero la Policía nos desaconseja que lo pongamos en marcha en este momento\" En esta misma línea, desde la Ciudad Autónoma sostienen que la seguridad \"no puede ser subjetiva cuando al ministro le conviene y convertirse en objetiva cuando considera oportuno utilizarla para impedir la celebración de un acontecimiento deportivo\". \"Si existen razones objetivas suficientemente graves como para que Interior entienda que no puede garantizar este encuentro, lo que corresponde al Gobierno de la Nación y al Ministerio del Interior es adoptar todas las medidas necesarias para garantizar la seguridad de Ceuta y devolver cuanto antes a la ciudad a la normalidad, no impedir que esa normalidad pueda manifestarse precisamente a través de acontecimientos deportivos de primer nivel\", ha reflexionado el Gobierno ceutí. La Federación de Ceuta también muestra su rechazo La Real Federación de Fútbol de Ceuta también ha reaccionado a la polémica decisión. El organismo que preside Antonio García Gaona ha expresado su \"profunda tristeza, decepción y rechazo\" a la misma. El organismo federativo se ha pronunciado después de que Rafael Louzán, presidente de la RFEF, confirmara en Málaga que el partido no se disputaría en Ceuta debido a la situación que atraviesa la ciudad y después de que Interior desaconsejara su celebración al considerar que no podían garantizarse las condiciones necesarias para el dispositivo policial. \"La noticia supone un nuevo golpe para una ciudad que lleva semanas soportando una situación excepcional y de ver alterado el uso normal de sus playas y espacios públicos\", ha señalado la Federación. La Federación cuestiona los argumentos de Interior La FFCE también considera difícil de entender la postura del Ministerio del Interior y vuelve a establecer una comparación con las declaraciones realizadas días atrás por Marlaska . \"Resulta especialmente difícil de entender la posición del Ministerio del Interior, ya que hace apenas unos días Fernando Grande-Marlaska calificaba como subjetiva la sensación de inseguridad existente en Ceuta y ahora el departamento que dirige utiliza la presión migratoria, la tensión social y la falta de medios suficientes como argumentos para desaconsejar la celebración del encuentro\", aseguran. Desde la Federación entienden que las dos posiciones son complicadas de conciliar y reclaman recursos si realmente son necesarios. \"Ambas posiciones resultan difícilmente conciliables, ya que si Ceuta se encuentra en una situación de normalidad y seguridad, cuesta explicar esta decisión y si son necesarios más recursos y efectivos, la respuesta del Gobierno de España debe ser aportarlos y garantizar el desarrollo normal de la actividad de la ciudad, no limitar sus oportunidades\", aseguran. La FFCE también pone como ejemplo la actividad habitual de la AD Ceuta FC , que disputa sus encuentros como local en el Alfonso Murube . \"Además, Ceuta ya ha demostrado su capacidad para albergar encuentros deportivos de primer nivel, además de que la AD Ceuta FC compite en LaLiga Hypermotion y disputa con normalidad sus partidos como local en el estadio Alfonso Murube, con los dispositivos de seguridad propios del fútbol profesional\", ha recordado. \"Resulta difícil justificar que Ceuta pueda acoger regularmente encuentros de la segunda categoría del fútbol español y, al mismo tiempo, no pueda celebrar un amistoso internacional de categoría sub-20, por lo que Ceuta no puede seguir pagando las consecuencias de la falta de medios de otras administraciones, sino que la ciudad necesita soluciones, recursos y normalidad\", añaden. La Federación resume el impacto de la decisión con una frase: \"Hoy pierde el fútbol ceutí, pero, sobre todo, pierde una ciudad que necesitaba una alegría\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-21T12:44:53+00:00"
+        },
+        {
+          "title": "La sobrecogedora charla de De la Fuente antes de la final del Mundial",
+          "link": "https://www.marca.com/futbol/2026/09/21/sobrecogedora-charla-fuente-final-mundial-video.html",
+          "desc": "",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-21T14:31:09+02:00"
+        },
+        {
           "title": "Luis de la Fuente renueva hasta 2032: Su nuevo contrato y sus objetivos con la selección española",
           "link": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/oficial-renovacion-luis-fuente-nuevo-contrato-sus-objetivos-con-seleccion-espanola-20260921-546991.html",
           "desc": "Tras el éxito en el Mundial, la Real Federación Española de Fútbol, con Rafael Louzán a la cabeza, reafirma el papel protagonista del seleccionador dentro de \"un proyecto de estabilidad y confianza\" Era un secreto a voces que este lunes, como se preveía se ha hecho realidad. Tras conquistar el segundo Mundial para la selección española el pasado mes de julio, engordado así un palmarés en el que también lucen la Europa y la Nations League, Luis de la Furente ha firmado su renovación hasta 2032, con el consiguiente aumento de su sueld o . Así lo ha anunciado la Junta Directiva de la Real Federación Española de Fútbol, presidida por Rafael Louzán y reunida en la Ciudad del Fútbol de Las Rozas, que ha dado el visto bueno por unanimidad a la ampliación del contrato del seleccionador nacional absoluto. En su intervención ante la Junta, Rafael Louzán afirmó que con esta decisión se busca \"un proyecto de estabilidad y confianza\". \" Es una propuesta basada en la confianza en Luis de la Fuente y en el proyecto deportivo que lidera, para un ciclo de competición de varios años y competiciones importantes. Estamos hablando del seleccionador más laureado de la historia de la Selección y después de catorce años en nuestra casa es algo que Luis de la Fuente merece, un futuro largo en la RFEF”, señaló el presidente de de la RFEF. Luis de la Fuente no renovará hasta la fecha anunciada Convocatoria Selección Española en directo | La lista de Luis de la Fuente para los partidos de España en la Nations League contra Inglaterra, Croacia y Chequia Dos Eurocopas y otro Mundial en el horizonte De este modo, Luis de la Fuente, que llegó al cargo en diciembre de 2022, amplía su contrato con la vista puesta en las dos próximas Eurocopas (2028 y 2032) y en la Copa Mundial de 2030 , que España organizará junto a Portugal, Marruecos, Paraguay, Uruguay y Argentina, aunque hay voces que apuntan a que debería desmarcarse del proyecto si el país norteafricano se lleva finalmente la final a su territorio. Según el comunicado emitido por el ente federativo, el acuerdo se presentará en la Ciudad del Fútbol en un acto en el que estará presente el seleccionador nacional, así como distintos representantes del fútbol español , destacando que en el mismo se han sentado las bases del camino que inicia la campeona del Mundo. \"Esa ruta incluye el objetivo de la EURO 2028 así como la disputa de la próxima edición de la UEFA Nations League, cuyos primeros partidos se celebran este mes de septiembre y principios de octubre (con Inglaterra, Croacia y República Checa como rivales) \", añade la nota. Antes de volver a entrar en acción, por tanto, De la Fuente ve respaldado así su gran trabajo y su éxito en el Mundial, iniciando su nueva andadura con solo cuatro novedades en la lista . Así, Roberto Fernández entra en lugar del tocado Borja Iglesias, estrenándose también el meta Josep Martínez , del Inter de Milán, por la lesión de Joan García, pese al gran momento del bético Ávaro Valles . Junto a ellos, regresan Huijsen y Fermín López por Marcos Llorente, que ha decidido acabar su carrera como internacional, y Gavi. También renueva Jesús Velasco como seleccionador de fútbol sala La RFEF anunció también que su directiva aprobó igualmente la renovación hasta 2029 como seleccionador absoluto de fútbol sala de Jesús Velasco , que ocupa el cargo desde noviembre de 2024 y el pasado febrero se proclamó campeón de Europa frente a Portugal. En su caso, el acuerdo será presentado en próximas fechas.",
@@ -211,6 +225,13 @@
           "desc": "El Cholo, como hace un año, detectó la debilidad del Madrid por su flanco zurdo, a la espalda de Vinicius. Contra once el Atlético ya tuvo más llegadas... antes de lograr por ahí los goles",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-21T14:18:09+02:00"
+        },
+        {
+          "title": "El Gobierno de Almeida programa un tributo a Julio Iglesias a cargo de un extorero para las fiestas de Chamartín",
+          "link": "https://www.eldiario.es/madrid/somos/gobierno-almeida-programa-tributo-julio-iglesias-cargo-extorero-fiestas-chamartin_1_13525032.html",
+          "desc": "Además del homenaje al cantante denunciado por sus extrabajadoras, la programación musical de las fiestas de San Miguel también incluye los conciertos del polémico José Manuel Soto y DJ Pulpo, un referente musical del PP, asiduo en sus actos de partido La concejala de Chamartín añade proclamas políticas a las fiestas de su distrito: “La Venezuela libre está en Madrid” Este jueves arrancan las fiestas de San Miguel en el distrito de Chamartín. Además de la tradicional verbena y el reparto de limonada y barquillos, este año los festejos contarán con un programa musical pensado “para todas las generaciones” encabezado por un tributo a Julio Iglesias a cargo de un extorero, un concierto de José Manuel Soto y una sesión de DJ Pulpo. Entre los nombres que protagonizan el programa destaca el de Diego Ramos, que se presenta a él mismo como la “reencarnación” de Julio Iglesias. Ramos pasó años bajo los focos de las plazas de toros antes de abandonar los ruedos y dedicarse a homenajear al cantante, cuya música, según explica en su página web, le acompañaba desde niño. Ahora recorre escenarios de España y Europa con un espectáculo de más de cien minutos, orquesta en directo y un repertorio que incluye canciones como Me olvidé de vivir , Hey , De niña a mujer , Soy un truhán, soy un señor o Un canto a Galicia . La programación del tributo a Julio Iglesias llega pocos días depués de la querella presentada por dos extrabajadoras contra esta figura de la canción española, acusado de abusos sexuales por parte de las denunciantes, en un caso del que ha venido informando ampliamente elDiario.es . En cuanto a Diego Ramos, esta será su segunda actuación en la capital en cuestión de una semana. Ramos cantó el pasado 19 de septiembre en el Teatro Albéniz, con motivo de su nueva gira, dentro de la que incluye el concierto programado para este fin de semana, de acceso libre. En el listado, el cantante la define como una “actuación pública”. También forma parte del cartel José Manuel Soto, una de las figuras habituales de las programaciones festivas del PP y protagonista de múltiples polémicas en los últimos años. En agosto de 2023 publicó un mensaje en la red social X en el que insultaba al presidente del Gobierno, Pedro Sánchez, y a sus votantes. “Voy a aprovechar este momento de sosiego veraniego junto al mar para hacer uso de mi libertad de expresión y cagarme en Pedro Sánchez, en su puta madre y en los millones de hijos de la gran puta que están de acuerdo con que España esté en en manos de sus peores enemigos”, decía textualmente la publicación, que posteriormente borró. Pidió disculpas, pero como consecuencia varios municipios en los que iba a actuar ese verano como Bormujos o Villacarrillo, cancelaron los conciertos de su gira de verano. La de Chamartín va a ser la primera actuación de Soto contratada por el Gobierno de Almeida. También fueron polémicas las declaraciones del cantante sobre el consentimiento, después de afirmar que un “no” de una mujer podía significar en ocasiones un “ya veremos” y que había que insistir. En 2025, además, el grupo Por Andalucía llevó a los tribunales la adjudicación de más de 550.000 euros a la fundación del artista sevillano por parte de la Junta de Andalucía para un proyecto de rutas andaluzas, al considerar que podía haber irregularidades y trato de favor. Soto también se pronunció sobre las acusaciones de agresión sexual contra Julio Iglesias y restó credibilidad a los testimonios de las denunciantes, que atribuyó a una maniobra ideológica para “destruir a las glorias de España”. La tercera pata del cartel principal será DJ Pulpo, el nombre artístico del locutor de Cope Carlos Moreno. El DJ es un habitual de los actos del Partido Popular y ha puesto música a numerosos eventos de la formación en Madrid desde la etapa de Mariano Rajoy, además de participar en actos de Pablo Casado y Alberto Núñez Feijóo. Soraya Sáenz de Santamaría y DJ Pulpo en un mitin de cierre de campana del PP Desde la llegada de José Luis Martínez-Almeida a la Alcaldía, también ha recorrido las fiestas de distintos distritos de la capital. De hecho, su última participación en un evento público fue este domingo, como parte del festival gratuito Chamberí Sound , organizado por la Junta del distrito. Junto a estos tres nombres, la programación musical incluye a Siempre Así, Paula Koops, Candela Gómez, Línea 12, Stendhal Vibes, Schropp Sisters y Andrés Koi, integrante de Dvicio. La concejala del distrito, Yolanda Estrada, asegura que la programación pretende que “la música sea el lazo de unión de todas las generaciones” y destaca la combinación de artistas consolidados y jóvenes. “No os podéis perder tampoco a los DJs, como El Pulpo y Valiente, que nos harán disfrutar de la música, de su historia y de lo que está por venir, siempre con respeto al descanso vecinal”, señala Estrada. Una reivindicación del descanso que llega después del conflicto que mantuvo con los vecinos del entorno del Santiago Bernabéu por las superaciones de los niveles de ruido durante los conciertos que se celebraron en el estadio antes de su prohibición. La organización de las fiestas ha sido adjudicada a Ikebana Animación y Ocio SL por 248.069,59 euros. El contrato incluye la programación de los festejos, así como la coordinación y ejecución de las actividades, las infraestructuras y otros servicios necesarios para su desarrollo, además de las actividades deportivas incluidas en el programa de San Miguel. El cartel no ha convencido a Más Madrid, que critica el tipo de artistas escogidos. “Año tras año, la Junta Municipal de Chamartín demuestra el mismo gusto rancio en el cartel de las fiestas”, señalan fuentes del grupo a Somos Madrid . La formación considera que el PP “siempre recurre a los mismos, a los que les son afines”, mientras “ignora el talento de muchos otros artistas” y restringe la participación de las asociaciones vecinales. Para Más Madrid, el programa es “fiel reflejo de un equipo de Gobierno instalado en la casposidad”. Cartel de las fiestas de San Miguel 2026 Por su parte, la concejala del distrito ha aprovechado la ocasión para introducir reivindicaciones políticas, esta vez a través del diseño elegido para el cartel de las fiestas, en el que además de algunos símbolos de Chamartín como el edificio de Torres Blancas o el parque Berlín, aparecen unos banderines con la bandera ceutí. No es la primera vez que Estrada aprovecha los festejos para hacer alusión a algún conflicto de carácter político , ya lo hizo en 2024 cuando, en plena crisis diplomática de España con Venezuela, publicó un texto en el que incluía algunas proclamas como “la Venezuela libre está en Madrid” y metáforas religiosas para hablar de “represión y dictaduras”. Las fiestas tendrán además como pregoneros al Real Madrid Club de Fútbol, el Club Estudiantes de Baloncesto y el Club de Tenis Chamartín, tres entidades deportivas históricas vinculadas al distrito. El Ayuntamiento destaca que el pregón, previsto para este jueves 24 de septiembre, reconoce el arraigo de los tres clubes en Chamartín. “No se entiende Chamartín sin ellos”, defiende Estrada, que considera que representan tanto “los valores del deporte” como “los valores de los vecinos del distrito”. Suscríbete a las informaciones más cercanas Recibe las noticias más importantes de Madrid con un boletín escrito para ti, todos los viernes en tu correo. Apúntate aquí y recíbelas junto a los mejores planes para el fin de semana. También puedes seguirnos desde tu red social preferida, en Facebook , Bluesky o Instagram",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T12:16:55+00:00"
         },
         {
           "title": "BMW se desquita: gana el Bol d'Or y el Mundial de resistencia",
@@ -246,13 +267,6 @@
           "desc": "La prodigiosa nadadora china se queda a cuatro décimas de arrebatar la plusmarca de los 200 estilos a la canadiense Summer McIntosh",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-21T13:47:39+02:00"
-        },
-        {
-          "title": "Se suicida una mujer de 54 años en Barcelona tras ser desahuciada del piso en el que vivía desde hacía 20",
-          "link": "https://www.20minutos.es/cataluna/barcelona/se-suicida-una-mujer-54-anos-l-hospitalet-tras-ser-desahuciada-piso-que-vivia-desde-hacia-20_7039248_0.html",
-          "desc": "Olga tenía dos hijas a su cargo, una de ellas menor de edad, y una vida muy ligada al tejido vecinal del barrio de Santa Eulàlia, que hoy llora su muerte.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-21T13:42:17+02:00"
         },
         {
           "title": "Gonzalo Bernardos sentencia a Manolo González, técnico del Espanyol: \"El resto fue cesado antes\"",
@@ -337,20 +351,6 @@
           "desc": "El técnico argentino sumó su primer triunfo del curso, ante el Espanyol y justo antes del parón de selecciones. Los ilicitanos siguen en puestos de descenso tras siete jornadas El Elche llegó a la última jornada antes del parón de selecciones que durará hasta el próximo 9 de octubre. En la última jornada de LaLiga EA Sports , varios equipos como Celta de Vigo , Málaga o el propio Elche , llegaban con la cuenta pendiente de ganar después de seis fechas disputadas y con la séptima en juego. El Elche además contaba con el peso de tener a Anselmi como nuevo técnico desde que Eder Sarabia decidiese salir al final de la pasada temporada para tomarse un año sabático. Martín Anselmi está viviendo en el Elche su primera experiencia en España aunque no se está estrenando en Europa ya que en la 2024/25 entrenó a Oporto durante un total de 21 encuentros. El cartel con el que llegaba el técnico argentino era importante ya que en Sudamérica había logrado varios títulos, la Copa Sudamericana entre otros. En sus primeros 100 días al frente del Elche, Anselmi empieza a mostrar los primeros 'brotes' verdes de su mando. Anselmi respira en el Elche con el primer triunfo en LaLiga El Elche de Martín Anselmi tiró de casta el pasado viernes para sumar los tres puntos en juego ante el Espanyol . A pesar de que lo ilicitanos se quedaron con 10 tras la expulsión de Redondo a los seis minutos de partidos, los pupilos de Anselmi fueron capaces de irse al descanso con un importante 0-2 gracias al doble de Fer Niño . El Espanyol recortó distancias con el tanto de Chust en propia puerta pero Valera volvió a marcar para los ilicitanos en el 78 y puso el definitivo 1-3. Espanyol 1-3 Elche: El Elche desafía a la lógica y tumba al Espanyol con diez El Elche sumaba así su primer triunfo de la temporada aunque este no sirva para salir de los puestos de descenso que ocupa actualmente con cinco puntos y teniendo solo por detrás a Valencia y Málaga (el único equipo de la Liga que aún no ha ganado). Los primeros y complicados 100 días de Martín Anselmi Anselmi no lo tenía sencillo en su llegada al Elche a pesar de su buen cartel en Sudamérica . El gran rendimiento dejado por Eder Sarabia hacía que las comparaciones, por mucho que sean odiosas, se diesen en el Martínez Valero , especialmente después de no sumar un triunfo en las seis primeras jornadas. El triunfo ante el Espanyol supuso un importante punto de inflexión tal y como el propio Anselmi confirmó en rueda de prensa aunque sin esconder el técnico argentino que en los duelos previos ya había habido ciertos cambios que apuntaban a la esperanza. \"La verdad que hoy llegamos con una sensación muy buena\" \"> Apuntó Martín Anselmi de las ganas que tenían de demostrar el Elche su capacidad de juego ante el Espanyol : \"Bueno, creo que esos puntitos de inflexión los estábamos sintiendo también los partidos anteriores. Creo que el partido que hicimos en San Mamés es una muestra de eso, el partido que hacemos contra el Real Madrid en casa es otra muestra de eso. Y la verdad que hoy llegamos con una sensación muy buena, con muchas ganas de creer, de demostrar lo que somos capaces, de que llegue esa primera victoria\". Manolo González junto a Martín Anselmi El técnico del Elche también reconoció el valor del triunfo, más aún cuando se ha producido antes del parón de selecciones que dejará el fútbol de Primera huérfano hasta el próximo 9 de octubre: \"Se empieza a hacer cuesta arriba y no solo internamente, te pasa en tu vida privada. Y están ahí la familia para bancarte, como decimos nosotros, con sus problemas también, que son parte de la vida. Y claro, venir hoy a jugar de visitante, cuando Elche la temporada pasada recién pudo ganar de visitante por primera vez al final de temporada, con un jugador menos, sabiendo que te quedan veintiún días para el próximo partido... Creo que afrontar veintiún días con un sabor amargo iba a ser aún cuesta arriba mucho más, porque ganar es un antídoto para todo, es así\". Total En casa Fuera Total En casa Fuera Jornada 8 PTS. PJ PG PE PP GF GC PTS. PJ PG PE PP GF GC PTS. PJ PG PE PP GF GC 15 Espanyol ESP 7 7 2 1 4 10 10 4 4 1 1 2 6 6 3 3 1 0 2 4 4 16 R. Santander RAC 7 7 2 1 4 11 21 7 3 2 1 0 7 5 0 4 0 0 4 4 16 17 Levante LEV 5 6 1 2 3 8 12 3 2 1 0 1 7 6 2 4 0 2 2 1 6 18 Elche ELC 5 7 1 2 4 11 17 0 3 0 0 3 4 11 5 4 1 2 1 7 6 19 Valencia VCF 4 7 1 1 5 4 13 1 4 0 1 3 2 9 3 3 1 0 2 2 4 20 Málaga MAL 3 7 0 3 4 3 12 2 3 0 2 1 2 4 1 4 0 1 3 1 8 UEFA Champions League UEFA Europa League Conference League \"> Un triunfo con un gran sacrificio familiar para Anselmi Por último, Anselmi reconoció que la victoria, la primera en Liga , además de ser importante a nivel personal, también lo es por todo lo que ha tenido que sacrificar su familia: \"Mi primera victoria en la Liga . Obviamente, a nivel personal quería ganar un partido en la Liga . Tardó en llegar. Pero más que un alivio como entrenador, también es un alivio puertas para adentro. Sí, porque yo sé el esfuerzo que hace mi mujer, que hacen mis hijos para trasladarse. Han vivido en muchos países. Ir al cole, cambiar de vuelta. Y la verdad que este triunfo, en lo personal, es para ellos\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-21T10:23:25+00:00"
-        },
-        {
-          "title": "Este Sucic sí vale 10 millones y muchos más",
-          "link": "https://www.marca.com/futbol/real-sociedad/2026/09/21/sucic-vale-10-millones.html",
-          "desc": "El Betis resistió ante el líder, se pone quinto provisional de LaLiga y sueña con la Champions",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-21T12:21:47+02:00"
-        },
-        {
-          "title": "El rentable pique entre 'Cucho' Hernández y Troy Parrott que agradece Manuel Pellegrini",
-          "link": "https://www.estadiodeportivo.com/futbol/betis/rentable-pique-entre-cucho-hernandez-troy-parrott-que-agradece-manuel-pellegrini-20260921-546981.html",
-          "desc": "Sólo Bartra, con la inesperada cifra de tres tantos, mejora la producción del colombiano y el irlandés, las dos referencias ofensivas del equipo verdiblanco, que están respondiendo a las expectativas en la rotación y aportando una cifra calcada de dos goles y una asistencia La salida del ' Chimy ' Ávila y Cédric Bakambu , con la única llegada en punta de Troy Parrott , deja la vanguardia bética con el irlandés y el ' Cucho ' Hernández como únicos delanteros natos para Manuel Pellegrini , que habrá hecho sus cuentas y esperará como agua de mayo la recuperación de Aitor Ruibal para incluirlo en la rotación. De momento, sin lesiones ni sanciones de por medio (cruzan los dedos el chileno y los implicados), la pareja de artilleros está respondiendo a las expectativas y calcado su buen rendimiento hasta el parón de selecciones: dos goles y una asistencia . Con todo, el de Pereira ha necesitado siete encuentros y 444 minutos , pues únicamente descansó del todo en Lille , regalando una diana a Rodrigo Riquelme (otro con 2+1 ) contra la Real Sociedad y batiendo a Villarreal CF y RC Deportivo de La Coruña , precisamente para celebrar sus dos últimas titularidades (únicamente contra Valencia CF y Real Madrid no aprovechó esta tesitura para aportar algo tangible). Por su parte, el ex del Tottenham ha alcanzado ese listón en cinco duelos y 260 minutos , pues no compareció contra los donostiarras, los castellonenses y los herculinos. #DATO ¡GOLAZO del Cucho! El Cucho Hernández se convierte en el TERCER colombiano 🇨🇴 con más goles en la HISTORIA de Primera División igualando a James Rodríguez: [62] Bacca [61] Falcao [29] CUCHO HERNÁNDEZ y James Rodríguez pic.twitter.com/0ZcNfkJKmz &mdash; Fran Martínez (@LaLigaenDirecto) September 20, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Troy Parrott 'mojó' en la Champions League y frente a los merengues, asistiendo a Ez Abde en el tanto del triunfo ante el Getafe CF y demostrando que es mucho más que un simple rematador. De hecho, su promedio es ligeramente superior al 'cafetero', que, según la web especializada 'Sofascore', tiene un índice de acierto del 17% , con 1,7 intentos por partido y 0,9 entre palos. Sus dos dianas están por debajo de los 2,25 xG (goles esperados), habiendo anotado uno cada 222 minutos , con un 45% de regates exitosos, un tercio de los duelos ganados y provocando 0,7 faltas cada 90 minutos . Por su parte, el irlandés tiene únicamente 1,26 de 'expected goals', pues emboca 0,5 disparos de los 1,3 de media por partido. Su 20% de eficacia se ve completado con una falta forzada cada dos entregas, la mitad de los regates completados y un buen porcentaje en los duelos totales ( 44% a su favor) que crece considerando sólo los terrestres ( 58% ). Ni uno ni otro han visto amonestaciones ( paradójicamente, el 'Cucho' Hernández pasó de poder ser expulsado a no mostrársele ni amarilla ante el Depor ), pues apenas hacen falta: 0,3 y 0,4 por choque. Parrott 'amenaza' al 'Cucho' y ya le lleva ventaja a nivel económico y mediático ¡Al Loro! La semana fantástica de Parrott lanza al Betis: Real Madrid, Lille \"y, ahora, a por el Villarreal\" El de Pereira, con ventaja frente a Osasuna Aunque en teoría le tocaría a Troy Parrott salir de inicio contra el CA Osasuna el próximo domingo 11 de octubre a las 18:30 horas , todo hace indicar que el ' Cucho ' Hernández gozará de cierta ventaja, aunque sólo sea por no tener que marcharse con la selección colombiana en este larguísimo parón Fifa de tres semanas ( tampoco su compatriota Nelson Deossa, pese a su buen arranque de curso ). Por el contrario, el irlandés se marcha con la suya, que se medirá en la Liga A1 de la Nations League contra Kosovo (el jueves 24 de septiembre ), Israel (el domingo 27-S ) y Austria (el jueves 1 de octubre ), todos a las 20:45 horas , repitiendo con los hebreos en Dublín el domingo 4-O y, por ende, volviendo con más carga que su rival por el puesto.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-21T10:00:49+00:00"
         }
       ]
     },
@@ -363,54 +363,54 @@
           "link": "https://www.formula1.com/en/latest/article/remembering-one-of-the-most-intriguing-what-if-moments-in-f1-history.6PMh9yfpq4GksluggiddZK",
           "desc": "During the late 1980s and early 1990s, McLaren wrote one of the most successful chapters in their F1 story – the squad racking up four successive Teams’ Championships and four straight Drivers’ Championships with engine partner Honda between 1988-1991.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "When Star Wars took over Formula 1",
           "link": "https://www.formula1.com/en/latest/article/when-star-wars-came-to-formula-1-the-story-of-f1s-trips-to-a-galaxy-far-far-away.52NvGPqgUeHyzjyyzPvSiC",
           "desc": "From Red Bull's Star Wars livery in Monaco to George Lucas on the podium, revisit the memorable moments when Star Wars crossed over with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "How Justin Rose and McLaren are pursuing marginal gains in golf",
           "link": "https://www.formula1.com/en/latest/article/justin-rose-on-mclaren-golf-bringing-f1s-pursuit-of-perfection-to-the-fairway.3TJaNTEeF2kh7qSt1dKNDv",
           "desc": "Justin Rose explains how McLaren is bringing its Formula 1 engineering expertise and pursuit of marginal gains to the world of golf.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "Inside F1’s ‘brutal’ fuel development race",
           "link": "https://www.formula1.com/en/latest/article/inside-f1s-brutal-fuel-development-race-and-how-it-could-benefit-the-wider-world.6In5yoMOgQGwYQpdfzFBUC",
           "desc": "Not only did F1 introduce new cars and new power units at the start of the 2026 season, but also Advanced Sustainable Fuels, a pioneering technology that teams – and their partners – have been pushing hard to maximise in terms of both performance and reliability.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "TREMAYNE: Why I’m delighted the Portuguese GP is back in 2027",
           "link": "https://www.formula1.com/en/latest/article/why-im-delighted-the-portuguese-grand-prix-is-back-on-the-calendar.6SJAb71ghhAlCGcKRx5clZ",
           "desc": "F1 Hall of Fame journalist David Tremayne looks back at the rich history of Formula 1 racing in Portugal.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "Constructors' title battle heating up for F1 bettors",
           "link": "https://www.formula1.com/en/latest/article/the-extra-gear-constructors-championship-title-battle-heating-up-for-f1-bettors.7JNLTSWlH3AFNUvOoJMW1T",
           "desc": "There are just nine races left to decide who will win the 2026 Constructors’ title, so we look at where the value could be for F1 betting fans.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "How 46 fashion designers reimagined McLaren’s F1 history",
           "link": "https://www.formula1.com/en/latest/article/inside-mclarens-designed-to-race-how-46-designers-reimagined-six-decades-of-racing-history.2PLpaQqB7QbkivkFjYK8Ed",
           "desc": "Central Saint Martins students brought 12 McLaren-inspired looks to the runway, drawing on racing icons, engineering and modern F1 fandom.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T12:30:06.491853+00:00"
+          "fecha": "2026-09-21T13:00:06.960086+00:00"
         },
         {
           "title": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTNBMGlYNGplV0FUY0F1UmdPTFM2NVRVRml0cTllTklOYUVRN3ZXVTR6bFJKOUExR1pPSG14OXREZm1yLUt0eGducGpHaU04U1lwekxPQUI5UFFEZ2pnNWptXy14aGxhWFhBclpKRVZqUmVTTVNQcExOVE8tNG9lQ0xSRHVEVnVCYW9FNzB3SEJnTzNEWDNhZkRfUlpONlVvNXFmUFMwMEF3TEttaDNndjRrRGJucmZJYURyZ09UT2NQRTREb01rRXB3ZUJHMXl6ZnY00gHnAUFVX3lxTFAxTjVlY3kyenRuVm9jbE5IYVRYb0lvQkNuaWZNaGU0NGFWdXFNZDJYT1hfOW1UNnBVUHUxOXVnUkE1anJKUTM4N1piY1NVNG5TUEgxdG9DS293Z3NZZS1paS00YWR0SUxrMF9lWTJIemk1VXNxTzR4dGttUXNZdFdMVnpUQW5jOXlHTEhsS2ZBMUJORFM5cURJaHp3eFBmN3dxSThUZkpLNnVVMGtNQUdqVHhTMm9LSFY5M1JBdjNCUEpfLTVUVGV0QkMyQzhYUWRKZjNxZE1JN0d2NEtGbTd1WXJwSnNjbw?oc=5",
-          "desc": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea La Razón",
+          "desc": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea larazon.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:03:25+00:00"
         },
@@ -533,6 +533,34 @@
       "icono": "💻",
       "items": [
         {
+          "title": "Aolani planea desplegar 22.000 chips Nvidia Blackwell Ultra, acelerando la expansión de centros de datos de IA en el Sudeste Asiático",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSzQtcUtoZWJ3SmVUbjZYbXc4OG9paDZoXzk2blZTVFByZ0s5TmlZd0xVZ2NFQ3cwSExZdjNaYUhnbF95RmxLWVBwVkM4ZTJqWVJaSXRyODFzdkVVc0tFVFVncUdWMm5RUU9JWk4tT2RwZ0JCd0JhVXpDYzZHQjZzUC1zdGRaTEJJTmRVMmp6b1FnUDRNVGNZMG91U3g1dmVkR3R3Q2VzSkN6MTNWLTdaVmdxNjNCMjVaQkQwNmhFbFJGdVpfQ0JYTUloNllJOTJ5b1pfaEZ3X1NPNjV1akJybA?oc=5",
+          "desc": "Aolani planea desplegar 22.000 chips Nvidia Blackwell Ultra, acelerando la expansión de centros de datos de IA en el Sudeste Asiático TradingKey",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:44:27+00:00"
+        },
+        {
+          "title": "Doble podio para Yamaha Eduardo Castro en el Nacional de Motocross de Motorland Aragón",
+          "link": "https://www.estadiodeportivo.com/motor/doble-podio-para-yamaha-eduardo-castro-nacional-motocross-motorland-aragon-20260921-546997.html",
+          "desc": "La Escudería Yamaha Eduardo Castro ha vuelto a la competición este fin de semana tras el parón veraniego y lo ha hecho a lo grande ya que ha subido al podio en dos ocasiones gracias a Salvador Pérez y a Jorge Salvador Yamaha Eduardo Castro compitió con seis pilotos en la quinta prueba del Campeonato de España de Motocross Elite de la localidad aragonesa, obteniendo dos terceras posiciones de mucho mérito en el siempre exigente MotorLand Aragón de Alcañiz . Salvador Pérez regresó al certamen de casa después de proclamarse como flamante campeón de Brasil en categoría MX2 . Sin tiempo para el descanso, el murciano se volvió a poner sobre su YZ250 para dar muestras del excelente estado de forma en el que se encuentra. Así, ya saldó con un tercer mejor tiempo los entrenamientos cronometrados y logró una muy buena segunda posición en la manga clasificatoria. El formato de carrera de este pasado fin de semana cambió respecto a las anteriores citas de la temporada y las dos mangas se disputaron con los pilotos de 450 cc y 250 cc juntos en parrilla, aunque cada categoría computó por separado. Y Salvi , nuevamente, estuvo entre los mejores en la primera manga, donde se llevó el holeshot para cruzar la línea de meta cuarto. Se podía mejorar y lo hizo, pues ya en la carrera final del domingo, rodando a muy buen ritmo siempre en el grupo de cabeza acabando segundo para una tercera posición en el cómputo global . En el MX125, Jorge Salvador mostró una de sus mejores imágenes de la temporada en el Nacional para subir al tercer escalón de los puestos de honor. Quinto en los cronos y muy sólido en las mangas, saldó su primera carrera tercero y fue cuarto en la segunda. Alejandro Torres mejoró mucho en las salidas, aspecto que ha determinado sus puestas en escena. No obstante, una caída en la primera manga después de ser cuarto en los cronos, le relegó hasta la décima posición. En la segunda consiguió ser quinto para finalizar séptimo tras dos buenas jornadas de trabajo intenso en circuito. De este modo se sitúa cuarto en la general provisional del campeonato. Las caídas lastraron la evolución de Óscar Rueda . Pese a ello, logró la décima posición gracias a ser noveno en los cronos, octavo en la primera manga y duodécimo en la segunda. Gonzalo Salvador llegó muy tocado de las costillas tras sufrir un accidente entrenando en Bélgica. Lo dio todo mientras se mantuvo en pista y hasta que se vio obligado a abandonar por los fuertes dolores. Por lo que respecta a Víctor Corbacho , sigue en su constante evolución y se quedó a solo un paso del Top 20 tras las dos jornadas, lo que deja entrever que el trabajo da sus frutos y que, en las próximas citas, de bien seguro, se seguirá acoplando a la siempre complicada categoría del MX125. Asimismo, todos ellos disputaron también una nueva prueba de la YZ bLU cRU Cup 2026, programa de promoción para jóvenes talentos de Yamaha . Jorge Salvador fue el ganador y Alejandro Torres se alzó con el liderato después de ser tercero. Sin tiempo para el descanso, Yamaha Eduardo Castro se dirigirá el próximo fin de semana a Lugo, donde disputará una nueva ronda del Nacional de Motocross Júnior.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-21T12:42:08+00:00"
+        },
+        {
+          "title": "La maldición inédita del Málaga en Getafe",
+          "link": "https://www.marca.com/futbol/malaga/2026/09/21/maldicion-inedita-malaga-getafe.html",
+          "desc": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-21T14:37:28+02:00"
+        },
+        {
+          "title": "La serie aplazada tras el asesinato de Charlie Kirk verá la luz más de un año después",
+          "link": "https://www.20minutos.es/cinemania/series/savant-serie-fecha-estreno-asesinato-charlie-kirk-apple_7039164_0.html",
+          "desc": "Un año después de ser archivada por Apple TV, 'The Savant' regresará el 2027 justo a tiempo para poder competir en los Emmy.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-21T14:28:21+02:00"
+        },
+        {
           "title": "Luis de la Fuente renueva hasta 2032: Su nuevo contrato y sus objetivos con la selección española",
           "link": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/oficial-renovacion-luis-fuente-nuevo-contrato-sus-objetivos-con-seleccion-espanola-20260921-546991.html",
           "desc": "Tras el éxito en el Mundial, la Real Federación Española de Fútbol, con Rafael Louzán a la cabeza, reafirma el papel protagonista del seleccionador dentro de \"un proyecto de estabilidad y confianza\" Era un secreto a voces que este lunes, como se preveía se ha hecho realidad. Tras conquistar el segundo Mundial para la selección española el pasado mes de julio, engordado así un palmarés en el que también lucen la Europa y la Nations League, Luis de la Furente ha firmado su renovación hasta 2032, con el consiguiente aumento de su sueld o . Así lo ha anunciado la Junta Directiva de la Real Federación Española de Fútbol, presidida por Rafael Louzán y reunida en la Ciudad del Fútbol de Las Rozas, que ha dado el visto bueno por unanimidad a la ampliación del contrato del seleccionador nacional absoluto. En su intervención ante la Junta, Rafael Louzán afirmó que con esta decisión se busca \"un proyecto de estabilidad y confianza\". \" Es una propuesta basada en la confianza en Luis de la Fuente y en el proyecto deportivo que lidera, para un ciclo de competición de varios años y competiciones importantes. Estamos hablando del seleccionador más laureado de la historia de la Selección y después de catorce años en nuestra casa es algo que Luis de la Fuente merece, un futuro largo en la RFEF”, señaló el presidente de de la RFEF. Luis de la Fuente no renovará hasta la fecha anunciada Convocatoria Selección Española en directo | La lista de Luis de la Fuente para los partidos de España en la Nations League contra Inglaterra, Croacia y Chequia Dos Eurocopas y otro Mundial en el horizonte De este modo, Luis de la Fuente, que llegó al cargo en diciembre de 2022, amplía su contrato con la vista puesta en las dos próximas Eurocopas (2028 y 2032) y en la Copa Mundial de 2030 , que España organizará junto a Portugal, Marruecos, Paraguay, Uruguay y Argentina, aunque hay voces que apuntan a que debería desmarcarse del proyecto si el país norteafricano se lleva finalmente la final a su territorio. Según el comunicado emitido por el ente federativo, el acuerdo se presentará en la Ciudad del Fútbol en un acto en el que estará presente el seleccionador nacional, así como distintos representantes del fútbol español , destacando que en el mismo se han sentado las bases del camino que inicia la campeona del Mundo. \"Esa ruta incluye el objetivo de la EURO 2028 así como la disputa de la próxima edición de la UEFA Nations League, cuyos primeros partidos se celebran este mes de septiembre y principios de octubre (con Inglaterra, Croacia y República Checa como rivales) \", añade la nota. Antes de volver a entrar en acción, por tanto, De la Fuente ve respaldado así su gran trabajo y su éxito en el Mundial, iniciando su nueva andadura con solo cuatro novedades en la lista . Así, Roberto Fernández entra en lugar del tocado Borja Iglesias, estrenándose también el meta Josep Martínez , del Inter de Milán, por la lesión de Joan García, pese al gran momento del bético Ávaro Valles . Junto a ellos, regresan Huijsen y Fermín López por Marcos Llorente, que ha decidido acabar su carrera como internacional, y Gavi. También renueva Jesús Velasco como seleccionador de fútbol sala La RFEF anunció también que su directiva aprobó igualmente la renovación hasta 2029 como seleccionador absoluto de fútbol sala de Jesús Velasco , que ocupa el cargo desde noviembre de 2024 y el pasado febrero se proclamó campeón de Europa frente a Portugal. En su caso, el acuerdo será presentado en próximas fechas.",
@@ -540,9 +568,16 @@
           "fecha": "2026-09-21T12:26:14+00:00"
         },
         {
+          "title": "Nvidia DLSS 5: la IA que cambia los gráficos de los videojuegos y abre un nuevo debate",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFEwLWZMdFRGYWkycUpSeGxfVkNOZUM1UllHaFZaUzBxQVRzQm45aG1PV29DamoxV3BNbWZkeDl1RzExVGVLVC1uNGdPQjBWNUtvTmFaeGQxNkY1ZkktcjRaWUIzQnk5N3FKdE5GdldTczhaemJycmdBTVhyS0x4Wmx0cTV5UkJGYkxWLWlpazVnOTZmX0kxQlZIWFJDQS1nakQyRmc2YWxEenVIcElFRkhGZEFPLTBf?oc=5",
+          "desc": "Nvidia DLSS 5: la IA que cambia los gráficos de los videojuegos y abre un nuevo debate ITSitio",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:19:41+00:00"
+        },
+        {
           "title": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\"",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1RURTlUaUU1R2tKclFKb3ZLcGRlU1NvWld0ZUl3andTRWdZNGE5REsta1U0UjcyYU9XOVpmdWNtZkJsVVF2aktmcGtjWWZDMVZNYXA4MXNnLWxlLU1Hc0c1U1JiZXRVRG9TUkZJQmZjdGJOSkFvbFYxWkRqOWU5Y3BqVFBUaFBISHYxVGZuZXljajJWNUdRd0R4cEJoRDU4VVIzUTYyb2NPdjl3V3hkWDVIcFZ3cUdseHJTLWJBVWJuZzhwamV4TWNVZV9ZdlRUS0hOYjB3?oc=5",
-          "desc": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\" El Constitucional",
+          "desc": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\" elconstitucional.es",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T12:16:59+00:00"
         },
@@ -577,7 +612,14 @@
         {
           "title": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhiN1JpZWt1UzlZZlllaUR4N0NTZWMtZlZSMFZqcDJVSUQtTmNkVjFRNDhhQW00Q3dxNFRtVVdZTVoxdVZWSHp1YVFKelhxWmh0anY0Ylgwa0ZlaXlJS1NhX1NnN3dSRWM3b2FIUlk3U2wzc3VqMEJ4dUZhOFhoTVZISi1RV2FuYWt3Wkt1cF9hUUlDdHd1VjdGTHNjTzg4Z2JxNGJ2VkZOMXAzelFzMUZ1WFF1enRGSnlUSDNiejc4ZlE?oc=5",
-          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón Euronews",
+          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón es.euronews.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T11:53:39+00:00"
+        },
+        {
+          "title": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRxb1JaYTRFRE5SZmdBNzFySS1LQ1lrTTNkdFEtQmQzeFNCcW5xTWdwTDE4YldKV2k3MktKR1o3N0VvMVpsWWFIZGRZXzFtbGNzSFoyalNMMW81NXlsQW1zRjFXdEFnRjJNQUxTZU8xcU9XVndfdDRRemM2X1kyTlVtQ2lHeFVlZk56X3F0cS1IbENMVUhvZDZReklubkFPWXVON2dtU2tUeHVuTUQwYzNIMWswYlY1YjJ5Z2pQWmlIaDA?oc=5",
+          "desc": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe es.euronews.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:53:39+00:00"
         },
@@ -640,7 +682,7 @@
         {
           "title": "El día que Chiquito de la Calzada denunció a Lucas Grijander, el falso Chiquito creado por Pepe Navarro",
           "link": "https://www.eldiario.es/cultura/cine/dia-chiquito-calzada-denuncio-lucas-grijander-falso-chiquito-creado-pepe-navarro_1_13525137.html",
-          "desc": "El documental 'El otro Chiquito', presentado en la sección Made in Spain del Festival de Cine de San Sebastián, aborda la figura del humorista y el proceso judicial en el que se dirimió si era una persona pública o un personaje Guitarricadelafuente, Miguel Bernardeau y el joven reparto de 'La bola negra': “Quienes hablan de la Guerra Civil con nostalgia es por ignorancia” Hubo una época, a mediados de los años 90, en la que en España se escuchaban constantemente palabras como Fistro o Pecados. Normalmente esos términos se acompañaban de un movimiento de manos, o una pierna que se mecía de forma descompasada como si tuviera un espasmo. ¿El culpable? Un cómico nacido en Málaga en 1931, que tras comenzar su carrera como cantaor se convirtió en una estrella del humor con más de 60 años gracias a un programa de chistes llamado Genio y Figura. Chiquito de la Calzada llegó como un tsunami a una España que quería ser moderna pero que seguía riéndose con chistes de mariquitas. Chiquito representaba bien esa dualidad. Un cómico que reinventaba el lenguaje y la forma de contar chistes , pero que seguía anclado en las viejas narrativas del humor. Quizás fuera por eso por lo que se convirtió en el personaje más conocido de España, y por lo que varias de sus expresiones más siguen usándose habitualmente. Su llegada supuso, también, la llama para hacer arder la guerra de las televisiones privadas , que con su llegada en 1990 pusieron patas arriba un panorama en donde, hasta el momento, solo imperaba el monopolio de la televisión pública. Antena 3, con un modelo que copiaba a EEUU y sus talk shows, y Telecinco, que imitaba a la televisión privada italiana de excesos, bailes y explosión. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-kmHQK3_Kddw-9057', 'youtube', 'kmHQK3_Kddw', document.getElementById('yt-kmHQK3_Kddw-9057')); }]); En aquella guerra que se encarnizó se instauró el todo vale, con la cobertura de Alcasser y las Mamachichos y sus bailes como máximos exponentes. Pero ese todo vale también se pudo ver cuando, a mediados de los 90, Chiquito de la Calzada decidió parar temporalmente de la rutina frenética que le había llevado a estar en todos los bolos, todas las promociones y hasta dar las Campanadas. La cadena de la competencia, Telecinco, salió en su programa estrella, el late night de Pepe Navarro, Esta noche cruzamos el Mississippi , con un personaje que se parecía demasiado a Chiquito. Se llamaba Lucas Grijander, lo interpretaba un desconocido que hasta entonces había sido guarda jurado, y llevaba la imitación del personaje a otra dimensión. Crearon un país ficticio, Chiquitistán, y la creación se convirtió en un éxito que si bien no superó, sí se puede decir que igualó al ausente Chiquito, que vio en su casa cómo primero Lucas Grijander, y después un segundo personaje, Krispin Clander, amenazaban su trono usando las palabras que él había creado. De ellos sacaron un merchandising ingente basado en canciones, teléfonos y mil promociones de las que, evidentemente, Chiquito de la Calzada no vio un duro. Lo que pocos saben es que Chiquito, tras ver en la televisión cómo alguien usurpaba su personaje y se forraba a su costa, demandó a Telecinco y a la productora de Pepe Navarro por vulneración de derechos de propiedad intelectual. Lo que aquel juicio dirimía era si Chiquito era una persona pública, y por tanto estaba sujeto a la parodia, como ocurre con los políticos, o si era un personaje, una creación, y estaba protegido por la Ley de Propiedad Intelectual. Aquel juicio era inédito en la televisión, y ahora un documental de Movistar Plus+ —que nace de una idea de Diego San José y dirige Juan Zavala junto a Javier Morales— revisa el caso, además de intentar entender qué hizo a Chiquito alguien tan especial en la cultura popular española. Se estrena en la plataforma el 1 de octubre y cuenta con testimonios que van desde el propio Pepe Navarro a amigos de Chiquito de la Calzada como Paz Padilla o Manolo Sarria, intentando analizar lo que supuso aquello en ese paradigma cambiante de la televisión en España. Pepe Navarro en 'El otro Chiquito' El documental deja algunas perlas desconocidas, como la amistad de Chiquito con Mario Conde después de que este último le viera actuar. Conde participa en el filme contando que incluso le llegó a llevar las finanzas tras su éxito y que toda la ambición del cómico era comprar una casa para él y su mujer. “El éxito más grande de su vida”, como lo describen. Para el humorista, ver a Florentino Fernández, que también aparece en el documental, era traumático. “Llamaba a su mánager diciendo que estaban hablando de él y no podía dormir, se angustiaba mucho”, recuerda Paz Padilla. El propio Chiquito de la Calzada reconocería en una entrevista que se estaban forrando a su costa. Pepe Navarro lo niega en pantalla. “No lo copiamos. Usamos a Chiquito como un paradigma social, y a partir de ahí creamos una parodia de un país. Fuimos más allá del personaje que él creó, fue una evolución más extensa de lo que era”, dice a cámara mientras opina que aquella demanda fue porque le comieron la cabeza al ver que “podía ganar algún dinero”. Aquel juicio fue, como no podía ser de otra forma, surrealista. Florentino Fernández recuerda que le preguntaron cosas como si él había dicho frases como “La vaca cobarde de la pradera” o “Ese caballo viene de Bonanza”. También se planteó otra duda que tiene incluso una vertiente más filosófica, ¿hasta qué punto un creador es original o siempre se basa en alguien?, ¿de dónde sacó Chiquito sus frases?, ¿no eran las mismas que usaba gente de Cádiz como Paco Gandía? Puede que Chiquito no sacara ni un euro de aquel juicio, pero entre chiste y chiste planteó dilemas sobre la propiedad intelectual que siguen vigentes en nuestra actualidad.",
+          "desc": "El documental 'El otro Chiquito', presentado en la sección Made in Spain del Festival de Cine de San Sebastián, aborda la figura del humorista y el proceso judicial en el que se dirimió si era una persona pública o un personaje Guitarricadelafuente, Miguel Bernardeau y el joven reparto de 'La bola negra': “Quienes hablan de la Guerra Civil con nostalgia es por ignorancia” Hubo una época, a mediados de los años 90, en la que en España se escuchaban constantemente palabras como Fistro o Pecador. Normalmente esos términos se acompañaban de un movimiento de manos, o una pierna que se mecía de forma descompasada como si tuviera un espasmo. ¿El culpable? Un cómico nacido en Málaga en 1931, que tras comenzar su carrera como cantaor se convirtió en una estrella del humor con más de 60 años gracias a un programa de chistes llamado Genio y Figura. Chiquito de la Calzada llegó como un tsunami a una España que quería ser moderna pero que seguía riéndose con chistes de mariquitas. Chiquito representaba bien esa dualidad. Un cómico que reinventaba el lenguaje y la forma de contar chistes , pero que seguía anclado en las viejas narrativas del humor. Quizás fuera por eso por lo que se convirtió en el personaje más conocido de España, y por lo que varias de sus expresiones más siguen usándose habitualmente. Su llegada supuso, también, la llama para hacer arder la guerra de las televisiones privadas , que con su llegada en 1990 pusieron patas arriba un panorama en donde, hasta el momento, solo imperaba el monopolio de la televisión pública. Antena 3, con un modelo que copiaba a EEUU y sus talk shows, y Telecinco, que imitaba a la televisión privada italiana de excesos, bailes y explosión. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-kmHQK3_Kddw-4560', 'youtube', 'kmHQK3_Kddw', document.getElementById('yt-kmHQK3_Kddw-4560')); }]); En aquella guerra que se encarnizó se instauró el todo vale, con la cobertura de Alcasser y las Mamachichos y sus bailes como máximos exponentes. Pero ese todo vale también se pudo ver cuando, a mediados de los 90, Chiquito de la Calzada decidió parar temporalmente de la rutina frenética que le había llevado a estar en todos los bolos, todas las promociones y hasta dar las Campanadas. La cadena de la competencia, Telecinco, salió en su programa estrella, el late night de Pepe Navarro, Esta noche cruzamos el Mississippi , con un personaje que se parecía demasiado a Chiquito. Se llamaba Lucas Grijander, lo interpretaba un desconocido que hasta entonces había sido guarda jurado, y llevaba la imitación del personaje a otra dimensión. Crearon un país ficticio, Chiquitistán, y la creación se convirtió en un éxito que si bien no superó, sí se puede decir que igualó al ausente Chiquito, que vio en su casa cómo primero Lucas Grijander, y después un segundo personaje, Krispin Clander, amenazaban su trono usando las palabras que él había creado. De ellos sacaron un merchandising ingente basado en canciones, teléfonos y mil promociones de las que, evidentemente, Chiquito de la Calzada no vio un duro. Lo que pocos saben es que Chiquito, tras ver en la televisión cómo alguien usurpaba su personaje y se forraba a su costa, demandó a Telecinco y a la productora de Pepe Navarro por vulneración de derechos de propiedad intelectual. Lo que aquel juicio dirimía era si Chiquito era una persona pública, y por tanto estaba sujeto a la parodia, como ocurre con los políticos, o si era un personaje, una creación, y estaba protegido por la Ley de Propiedad Intelectual. Aquel juicio era inédito en la televisión, y ahora un documental de Movistar Plus+ —que nace de una idea de Diego San José y dirige Juan Zavala junto a Javier Morales— revisa el caso, además de intentar entender qué hizo a Chiquito alguien tan especial en la cultura popular española. Se estrena en la plataforma el 1 de octubre y cuenta con testimonios que van desde el propio Pepe Navarro a amigos de Chiquito de la Calzada como Paz Padilla o Manolo Sarria, intentando analizar lo que supuso aquello en ese paradigma cambiante de la televisión en España. Pepe Navarro en 'El otro Chiquito' El documental deja algunas perlas desconocidas, como la amistad de Chiquito con Mario Conde después de que este último le viera actuar. Conde participa en el filme contando que incluso le llegó a llevar las finanzas tras su éxito y que toda la ambición del cómico era comprar una casa para él y su mujer. “El éxito más grande de su vida”, como lo describen. Para el humorista, ver a Florentino Fernández, que también aparece en el documental, era traumático. “Llamaba a su mánager diciendo que estaban hablando de él y no podía dormir, se angustiaba mucho”, recuerda Paz Padilla. El propio Chiquito de la Calzada reconocería en una entrevista que se estaban forrando a su costa. Pepe Navarro lo niega en pantalla. “No lo copiamos. Usamos a Chiquito como un paradigma social, y a partir de ahí creamos una parodia de un país. Fuimos más allá del personaje que él creó, fue una evolución más extensa de lo que era”, dice a cámara mientras opina que aquella demanda fue porque le comieron la cabeza al ver que “podía ganar algún dinero”. Aquel juicio fue, como no podía ser de otra forma, surrealista. Florentino Fernández recuerda que le preguntaron cosas como si él había dicho frases como “La vaca cobarde de la pradera” o “Ese caballo viene de Bonanza”. También se planteó otra duda que tiene incluso una vertiente más filosófica, ¿hasta qué punto un creador es original o siempre se basa en alguien?, ¿de dónde sacó Chiquito sus frases?, ¿no eran las mismas que usaba gente de Cádiz como Paco Gandía? Puede que Chiquito no sacara ni un euro de aquel juicio, pero entre chiste y chiste planteó dilemas sobre la propiedad intelectual que siguen vigentes en nuestra actualidad.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-21T11:00:44+00:00"
         },
@@ -657,48 +699,6 @@
           "desc": "En las últimas semanas Epic Games Launcher utilizaba sonidos para diversos eventos y los usuarios desconocían el cambio; Es posible que algunos usuarios de PC hayan escuchado recientemente extraños ruidos en su equipo y no detectasen qué pestaña del navegador o programa estaba emitiendo estos sonidos. La comunidad ha encontrado el culpable: el Epic Games Launcher . Durante días, muchos jugadores han comentado en redes sociales o foros que sus PC emitían pitidos de manera inexplicable. Un insider de Fortnite publicó la explicación en X, apuntando a que se trataba del launcher de Epic Games con sonidos que indicaban las conexiones de otros usuarios en la lista de amigos , los mensajes y otras actividades que funcionaban en segundo plano, así que dependiendo del número de contactos estos sonidos podían resultar muy molestos. Uno de los problemas es que este cambio se hizo de manera poco transparente y no había una notificación visual que te indicase que se debía a este programa, por lo que muchos usuarios se preguntaban si podía ser un error grave del sistema operativo, alertas del hardware o incluso algún tipo de virus. Epic Games ha tomado nota de las quejas Tras el mensaje de FireMonkey en X, la cuenta Fortnite Status respondió que efectivamente los sonidos se estaban activando más de lo previsto, y lanzaron una actualización para limitar los eventos que podían sonar en segundo plano cuando no estás utilizando el launcher de manera activa. Thanks for providing feedback about this, @FireMonkey ! After taking a look, these party chimes are triggering more often than we intended. We're updating the Epic Games Launcher to narrow which events play a sound while the launcher is in the background, so you'll hear fewer of — Fortnite Status (@FortniteStatus) September 19, 2026 Martin Keely de Epic Games ha comentado que como primera medida añadirán una opción para activar o desactivar los sonidos que se desean, y promete que en el futuro habrá nuevas opciones de notificación \"para ofrecer un mayor control \". We've heard the feedback on Epic Party chimes and wanted to explain the context and next steps to improve this feature. The Epic Games Launcher plays short audio cues (chimes) when something changes with your party, your microphone, or your messages. Since parties continue even https://t.co/aft5UbHiUP — Martin Keely (@martinckeely) September 20, 2026 Esta primavera Epic Games anunció su intención de renovar el launcher para integrar funciones que le permitan competir más con el programa de Steam, al menos en estas características. Parece que al menos este cambio con alertas sonoras no ha comenzado con buen pie.",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-09-21T10:42:00+00:00"
-        },
-        {
-          "title": "Hideo Kojima revela que PlayStation rompió su contrato con él por videollamada: \"Son tiempos difíciles en los videojuegos\"",
-          "link": "https://www.20minutos.es/videojuegos/hideo-kojima-revela-que-playstation-rompio-su-contrato-con-por-videollamada-son-tiempos-dificiles-los-videojuegos_7039299_0.html",
-          "desc": "El padre de 'Metal Gear' y 'Death Stranding' asegura que aún no sabe el motivo de la ruptura.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-21T12:40:40+02:00"
-        },
-        {
-          "title": "¿Qué es la IA soberana? Desentrañando la próxima gran jugada de IA en Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzMwS1o5VGYyWWlrLXRvUU03VVk5RUdYSVdMeGhTLUNGeUl3ZU40aGhzdk54TUlvS2kxR1FLaFUwcnFYVkxIZmNZSEpnM09vanV0cDhoNnFLZHY1Z3RKNmc0UUF5WlVNTkNfcVZVei13UWtYQjBKQjhuU2JYRmpYeHhlLW5XTXdMSXRZN0tJWHhxbTVKZl9NaFA3enVxcThJYzZjc3Bn?oc=5",
-          "desc": "¿Qué es la IA soberana? Desentrañando la próxima gran jugada de IA en Wall Street Yahoo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T10:38:00+00:00"
-        },
-        {
-          "title": "Einride se asocia con Nvidia para desarrollar tecnología de camiones autónomos",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORWpHMVJ1OF91WmQ5bzlqaWR0YlpicjVPeWgzM0FVNFhob05tZFVhamJ2eEVIV0xMbjhVaS12NFNLV2hhTWpndUd2RkpFTlJ3MGFyX3ZrbXppUHNJUF9xbkhpeU5yLUJrcGs4VFh2YzEyc2p4NkphdUkxMnk2eVNJMldldFh1eVhuVXFGYnpGVVhHOXM2eDZaUGIzMXpXZmM4Q1MxblA4d19pR0FVSU1YdldwOEh3NmVRSERYc1ZmMnFqWGJ2T1VUcG4xRjZmbzg?oc=5",
-          "desc": "Einride se asocia con Nvidia para desarrollar tecnología de camiones autónomos Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T10:37:00+00:00"
-        },
-        {
-          "title": "Xbox Series X puede ejecutar juegos de PS5, aunque hay truco",
-          "link": "https://www.muycomputer.com/2026/09/21/xbox-series-x-puede-ejecutar-juegos-de-ps5-aunque-hay-truco/",
-          "desc": "KytyPS5 no solo se ha convertido en el mejor emulador de PS5, sino que además ha servido de base para crear PS5X, un emulador de código abierto que ha sido portado a Xbox Series X, y que ha hecho posible lo que parecía imposible: que la consola de Microsoft mueva juegos de PS5. Es un […] La entrada Xbox Series X puede ejecutar juegos de PS5, aunque hay truco se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-21T10:33:10+00:00"
-        },
-        {
-          "title": "AI-controlled robot arms attempted harmful tasks 97% of the time; experiments included stabbing a baby doll, mixing chemicals — OpenAI and Anthropic models try mixing bleach and stabbing dolls without jailbreaks",
-          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
-          "desc": "“Frontier robot policies,” the policies for models turning what a robot sees into what it does, “reliably carry out harmful instructions,” according to a Sept. 18 report by Robocurve.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-21T10:30:00+00:00"
-        },
-        {
-          "title": "Marck Zuckerberg se enamora del pádel",
-          "link": "https://www.marca.com/padel/2026/09/21/marck-zuckerberg-enamora-padel.html",
-          "desc": "El presidente de Meta, aficionado ya a otros deportes como las artes marciales mixtas, se suma como una nueva cara conocida al deporte de moda.",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-21T12:19:52+02:00"
         }
       ]
     },
@@ -706,6 +706,20 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "España mejora la sostenibilidad de las pensiones tras rebajar su generosidad y elevar los ingresos, según un informe de Fedea",
+          "link": "https://elpais.com/economia/2026-09-21/espana-mejora-la-sostenibilidad-de-las-pensiones-tras-rebajar-su-generosidad-y-elevar-los-ingresos-segun-un-informe-de-fedea.html",
+          "desc": "El centro de estudios destaca este avance, pero alerta de que puede estar provocado por unas proyecciones demasiado optimistas",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-21T12:37:18+00:00"
+        },
+        {
+          "title": "CaixaBank, Bankinter y Unicaja aceleran el despliegue de Bizum en comercios: ya alcanza a 20 millones de usuarios",
+          "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-21/caixabank-bankinter-y-unicaja-aceleran-el-despliegue-de-bizum-en-comercios-ya-alcanza-a-20-millones-de-usuarios.html",
+          "desc": "La previsión es que a finales de año el servicio esté disponible para todos los usuarios",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-21T12:18:12+00:00"
+        },
         {
           "title": "Bruselas advierte a España por solicitar la cláusula de salvaguarda del déficit cuando el gasto en Defensa no lo justifica",
           "link": "https://www.eldiario.es/economia/bruselas-advierte-espana-solicitar-clausula-salvaguarda-deficit-gasto-defensa-no-justifica_1_13525422.html",
@@ -798,7 +812,7 @@
           "fecha": "2026-09-21T09:54:07+02:00"
         },
         {
-          "title": "El precio del petróleo se abarata tras asegurar Trump que está dispuesto a reunirse con Irán",
+          "title": "El precio del petróleo se abarata tras asegurar Trump que está dispuesto a reunirse con Irán en la ONU",
           "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-petroleo-se-abarata-tras-asegurar-trump-que-esta-dispuesto-reunirse-con-iran-onu_7039139_0.html",
           "desc": "El barril de Brent, de referencia en Europa, bajaba casi un 1,6% antes de la apertura de las Bolsas europeas, hasta situarse en 102,2 dólares.",
           "source": "https://www.20minutos.es/rss/",
@@ -859,20 +873,6 @@
           "desc": "Arrendar un piso promedio ronda los 1.200 euros, mientras que la cuota hipotecaria se sitúa de media en 825 euros mensuales.",
           "source": "https://www.20minutos.es/rss/",
           "fecha": "2026-09-21T05:00:00+02:00"
-        },
-        {
-          "title": "Europa afronta su invierno más complicado por la subida del gas y el petróleo con la guerra",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/europa-afronta-un-invierno-complicado-energetico-por-subida-gas-petroleo-con-guerra_7039007_0.html",
-          "desc": "El problema no será tanto de suministro como del precio que los hogares y las empresas tendrán que pagar por consumir esa energía",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-21T05:00:00+02:00"
-        },
-        {
-          "title": "Jorge Lorenzo (39 años): \"Me arrepiento de no haber invertido todo mi dinero en ladrillo. Con 2 millones compras 10 apartamentos\"",
-          "link": "https://www.estadiodeportivo.com/motor/motogp/jorge-lorenzo-anos-arrepiento-haber-invertido-todo-dinero-ladrillo-con-millones-compras-apartamentos-20260920-546967.html",
-          "desc": "El expiloto y ahora comentarista desvela algunas de las actividades que realiza desde que dejó las carreras Jorge Lorenzo es de esos deportistas que son estrellas y que saben rápidamente reconvertirse y enfocar su vida de otra forma . En su caso, pasó casi de golpe de las motos a los micrófonos. Y ahora es uno de los comentaristas destacados de DAZN. Curiosamente, comparte ahora estudio con el que fuera su gran rival y 'enemigo', Dani Pedrosa, que ha llegado después, pero que ha sabido también adaptarse al mundo televisivo. Lorenzo ha demostrado que no sólo es válido para las motos y para la comunicación, también lo es para los negocios. En el podcast \"BLV\" (Búscate la vida) ha hablado de sus inversiones en bolsa y de sus negocios y, entre otras cosas, contaba cómo multiplicó su patrimonio con una inversión inicial de 1.500 euros en las gafas Hawkers, que convirtió en 1,7 millones cuando, tiempo después, vendió su parte. \" Yo empecé a invertir sobre el 2012-2013, tenía algún asesor financiero que me invertía en bolsa, en obligaciones... luego fui el creador de la marca Hawkers. Al final vendí mi parte por 1,7 millones (...) una rentabilidad prácticamente infinita\", reconoce el expiloto balear, que ve las inversiones como su nueva forma de ganar, como hacía en MotoGP. Su competición son las inversiones \" Ahora mi competición está con las inversiones, es mi competición. Por eso soy súper curioso también con eso , he trasladado el perfeccionismo al tema de inversiones y me puedes ver la mayoría del tiempo mirando vídeos de YouTube de ETFs, de Real Estate, de cómo gestionar tu dinero...\", añade Jorge Lorenzo. El tres veces campeón de MotoGP y pentacampeón del mundo tiene claro que gestionar dinero \"es muy difícil\" y, por eso, señala que lo que ha aprendido es \"que no hay que meterse donde uno no sabe porque puedes meterte un gran batacazo\". En este sentido, cuenta un caso en que apostó por algo que no controlaba y perdió \"mucho dinero\". \"Yo me metí en el sector de la restauración y me salió mal. A través de la bolsa también, según como lo hagas, también puedes perder mucho dinero\", reconocía. Jorge Lorenzo, campeón del mundo de MotoGP, sobre Marc Márquez: \"En persona es un tío muy normal, muy de pueblo; coincidimos en alguna fiesta de Honda y lo pasamos muy bien\" Por eso, prefiere apostar por lo seguro, que para él es la inversión inmobiliaria. \"Siempre he dicho que si desde el primer céntimo al último que gané en mi carrera de MotoGP lo hubiese invertido en ladrillo bastante bien comprado (...) sería la mejor decisión que hubiese hecho, pero ahora lo sé con 36 años\", reconoce el balear, que tiene claro que es un valor seguro. \" A hí creo que es muy difícil perder dinero a largo plazo siempre que lo compres en buenas localizaciones, que compres bien, buena calidad en la construcción y en buenas ciudades . Siempre te va a aportar alquiler y siempre va a estar ahí hasta que te mueras tú\", añade. Jorge Lorenzo sólo lamenta no haber invertido en ladrillo De hecho, Jorge Lorenzo va más allá y deja una frase categórica. \"Me arrepiento de no haber sabido eso y no haber invertido todo mi dinero en ladrillo. Con esos 2 millones de euros puedes cogerte 10 apartamentos que te pagan una media de 1.000 euros al mes. Son 10.000 euros mensuales y asegurados para siempre\", añade. Fuera de que su apuesta es por el ladrillo, sí admite que la bolsa le atrae mucho. Y que participa en ella. \"Yo me gestiono parte de mi patrimonio en bolsa. He elegido tres o cuatro gestores, yo soy el cuarto, y competimos entre los cuatro a ver quién obtiene mejores rendimientos\", explica un expiloto al que el paso de la frenética vida de los circuitos a otra más pausada no le ha provocado aburrimiento. \"¿Cómo es la vida? Fenomenal. ¿Cómo no voy a estar encantado de una vida que me hace despertarme cuando quiera, poder hacer a lo largo del año lo que quiera, poder viajar donde quiera y no tener que preocuparme? Prácticamente, me puedo permitir cosas, lujos o comodidades bastante caras. ¿Cómo no voy a estar feliz? ¿Cómo no voy a apreciar eso?\", estima un Lorenzo que sí admite lo afortunado que él y no lo oculta. Pedro Acosta: \"Por lo que parece, solo se ven banderas españolas en el campeonato que veas. Estamos a un nivel altísimo en España. Se está haciendo un buen trabajo desde la base\" \" El miedo de los deportistas retirados que se deprimen o se aburren no ha sucedido conmigo para nada. Al contrario, soy mucho más feliz ahora que cuando corría en MotoGP, sin ninguna duda\", sentencia el mallorquín.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-20T22:37:29+00:00"
         }
       ]
     },
@@ -881,9 +881,23 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "Aolani planea desplegar 22.000 chips Nvidia Blackwell Ultra, acelerando la expansión de centros de datos de IA en el Sudeste Asiático",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSzQtcUtoZWJ3SmVUbjZYbXc4OG9paDZoXzk2blZTVFByZ0s5TmlZd0xVZ2NFQ3cwSExZdjNaYUhnbF95RmxLWVBwVkM4ZTJqWVJaSXRyODFzdkVVc0tFVFVncUdWMm5RUU9JWk4tT2RwZ0JCd0JhVXpDYzZHQjZzUC1zdGRaTEJJTmRVMmp6b1FnUDRNVGNZMG91U3g1dmVkR3R3Q2VzSkN6MTNWLTdaVmdxNjNCMjVaQkQwNmhFbFJGdVpfQ0JYTUloNllJOTJ5b1pfaEZ3X1NPNjV1akJybA?oc=5",
+          "desc": "Aolani planea desplegar 22.000 chips Nvidia Blackwell Ultra, acelerando la expansión de centros de datos de IA en el Sudeste Asiático TradingKey",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:44:27+00:00"
+        },
+        {
+          "title": "Nvidia DLSS 5: la IA que cambia los gráficos de los videojuegos y abre un nuevo debate",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFEwLWZMdFRGYWkycUpSeGxfVkNOZUM1UllHaFZaUzBxQVRzQm45aG1PV29DamoxV3BNbWZkeDl1RzExVGVLVC1uNGdPQjBWNUtvTmFaeGQxNkY1ZkktcjRaWUIzQnk5N3FKdE5GdldTczhaemJycmdBTVhyS0x4Wmx0cTV5UkJGYkxWLWlpazVnOTZmX0kxQlZIWFJDQS1nakQyRmc2YWxEenVIcElFRkhGZEFPLTBf?oc=5",
+          "desc": "Nvidia DLSS 5: la IA que cambia los gráficos de los videojuegos y abre un nuevo debate ITSitio",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T12:19:41+00:00"
+        },
+        {
           "title": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\"",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1RURTlUaUU1R2tKclFKb3ZLcGRlU1NvWld0ZUl3andTRWdZNGE5REsta1U0UjcyYU9XOVpmdWNtZkJsVVF2aktmcGtjWWZDMVZNYXA4MXNnLWxlLU1Hc0c1U1JiZXRVRG9TUkZJQmZjdGJOSkFvbFYxWkRqOWU5Y3BqVFBUaFBISHYxVGZuZXljajJWNUdRd0R4cEJoRDU4VVIzUTYyb2NPdjl3V3hkWDVIcFZ3cUdseHJTLWJBVWJuZzhwamV4TWNVZV9ZdlRUS0hOYjB3?oc=5",
-          "desc": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\" El Constitucional",
+          "desc": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\" elconstitucional.es",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T12:16:59+00:00"
         },
@@ -897,7 +911,14 @@
         {
           "title": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhiN1JpZWt1UzlZZlllaUR4N0NTZWMtZlZSMFZqcDJVSUQtTmNkVjFRNDhhQW00Q3dxNFRtVVdZTVoxdVZWSHp1YVFKelhxWmh0anY0Ylgwa0ZlaXlJS1NhX1NnN3dSRWM3b2FIUlk3U2wzc3VqMEJ4dUZhOFhoTVZISi1RV2FuYWt3Wkt1cF9hUUlDdHd1VjdGTHNjTzg4Z2JxNGJ2VkZOMXAzelFzMUZ1WFF1enRGSnlUSDNiejc4ZlE?oc=5",
-          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón Euronews",
+          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón es.euronews.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T11:53:39+00:00"
+        },
+        {
+          "title": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRxb1JaYTRFRE5SZmdBNzFySS1LQ1lrTTNkdFEtQmQzeFNCcW5xTWdwTDE4YldKV2k3MktKR1o3N0VvMVpsWWFIZGRZXzFtbGNzSFoyalNMMW81NXlsQW1zRjFXdEFnRjJNQUxTZU8xcU9XVndfdDRRemM2X1kyTlVtQ2lHeFVlZk56X3F0cS1IbENMVUhvZDZReklubkFPWXVON2dtU2tUeHVuTUQwYzNIMWswYlY1YjJ5Z2pQWmlIaDA?oc=5",
+          "desc": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe es.euronews.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:53:39+00:00"
         },
@@ -1026,27 +1047,6 @@
           "desc": "Hyundai ya tiene fecha para que sus coches conduzcan solos gracias a Nvidia Motor16",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T03:51:00+00:00"
-        },
-        {
-          "title": "Jensen Huang: Nvidia duplicará ventas de chips hacia 2027",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWTdjQS13ODhINHRqNEZhai1zWmhGRXZsMXBLbXI4OF9kRFJKVkhEZ3dHeFZhOGZqMGpDdUJqWEFBRmVUQmdWMkVDNDIwWmJLRHk5U0xvaGF6UnBWenp1T2pDcmJrQ3lNUHU4eEl2c1plVVIwa296bmdXbWV2cEdYVmk1eWZKN1Q0cTBDd0NDTDM?oc=5",
-          "desc": "Jensen Huang: Nvidia duplicará ventas de chips hacia 2027 El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-20T22:54:55+00:00"
-        },
-        {
-          "title": "Anthropic pide ‘pacear’ la IA; Nvidia y Trump dicen no",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNem93Y1BCVmktT19kOUkzZENjbnpKU3VvdngzaHdoN3JhazQtWnVwZHpHV05XLTBzc1ozcmFjX09sNjROdDhROW5jOVJWeXN2bUw2RmJiTUVTOEc5dGpPdFJVWWd0MVBIamtYVTJodXM5VzFBUTRFZUxOc2xZclp5bFlWZUV2S1hyOUE?oc=5",
-          "desc": "Anthropic pide ‘pacear’ la IA; Nvidia y Trump dicen no El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-20T19:06:41+00:00"
-        },
-        {
-          "title": "Precio de NVIDIA (ST0x Tokenized Stock)",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFWDlSNTdCcF82UC1QM0N3eFNtemktZkVzRDNqajNIQzV4eWl3TGpqckZHNk5TdkloSEJRMS1rTEJBVUR3N2p1djlIT0d3cHdJUDFIcFdnNGpsQm4wNTd2NHlHQndpb1JMeGNYZnM4QQ?oc=5",
-          "desc": "Precio de NVIDIA (ST0x Tokenized Stock) Bybit",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-20T18:04:40+00:00"
         }
       ]
     },
@@ -1057,7 +1057,7 @@
         {
           "title": "Sharon AI to Announce Second Quarter 2026 Results",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3R2TTNCbHIxbVhTQjJHbnl3QWZ4VTNZRDBYcU1ITGFzWHZWSjNrTTF4NF9fRHd4UFZ3YVBIY0luY3lRbU5RYXFlQUJYRVNYZmk0VTFLa2VzSTJ5VWxLNU55X0d6WG5QZXlGRFE2R3NmOUdyYXdxZWVtTjRkSm1zbGxXNDdqX3RXdjRjNGVjX3dndlVMLTluRnJiWUIzREhWdmNjX2YtdXRuVHhBeEE?oc=5",
-          "desc": "Sharon AI to Announce Second Quarter 2026 Results TradingView",
+          "desc": "Sharon AI to Announce Second Quarter 2026 Results es.tradingview.com",
           "source": "https://news.google.com/rss/search?q=SHAZ+Sharon+AI&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-07-27T07:00:00+00:00"
         }
@@ -1067,6 +1067,13 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "Resumen semanal: AMD acuerda 530 MW y Wells Fargo inicia cobertura con Overweight y objetivo de $28",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MOFQtdXFIQnZFZ3J3Q1Nnd2NaMFVOdWZNNmJMd2JiT2ZYZVFuUm41R2JmZ1BGdWU3MlhXLUswMkdZaE1yY0oyV3RTdGFXcWphTlF3eWpjQmRUWlFnS05Fa21HSko2Q3VOYkdkZA?oc=5",
+          "desc": "Resumen semanal: AMD acuerda 530 MW y Wells Fargo inicia cobertura con Overweight y objetivo de $28 es.tradingview.com",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T11:28:15+00:00"
+        },
         {
           "title": "Improve your gaming experience with this 27-inch ASRock FHD 180Hz gaming monitor that’s at an all-time low of just $96 —  quality IPS panel with AMD Freesync, HDR400, and 1ms response time is 40% off",
           "link": "https://www.tomshardware.com/pc-components/improve-your-gaming-experience-with-this-27-inch-asrock-fhd-180hz-gaming-monitor-thats-at-an-all-time-low-of-just-usd96-quality-ips-panel-with-amd-freesync-hdr400-and-1ms-response-time-is-40-percent-off",
@@ -1133,7 +1140,7 @@
         {
           "title": "Si te estás montando tu propio PC hoy es tu día de suerte: este procesador de AMD es pura potencia y nunca antes había estado así de barato",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaW9mOWR2T2VpSVRqX1ZhTXZGak1TUkNEWUFRNl9RUXlYb184Z0pEdVoxTURUalF3akJoWkUtbG14cHBnUXNrRy1xZU1uRjBNYlRfTmhGTWJUWEpjbEUtUnhQYnVJN05FTjhLZ3liNXlYTWZTWXdlamF5cWotWm9JY2tHWl9oYmhuVjIyRWVPS0F2cEx6SzFzMnJTYUdQa2twRzdsNlcwekR1SVAxMUtQSjl3WG1URWNXUTZYQ0kyMlRHZHp6TVIwRVp2UVFndURKY3k3SF9oLWRXbUJJaVQ2XzB3Rko1dGlGeEMzNzNveW9RM2hoNUVuanRUbVlwZzJuVzdvVF9rM3Rjd3hwOEJuN0E2S1FiVGgydjY0TdIBsAJBVV95cUxQNy1tYlFvb2ZaQV9Pem5TU003QUdwY1pKRnpkejZrdFc2eFk3ZGFWb1NoNTVPRDhERGUyME0yZXhSTmNYdkdDTXRFWi1LczM3dGctTHV3cFhmLTE1MXE3OXRLVFAxcm5VS1NPby1MWlcwVVVKQ0ExTE9hZWo2bkx6eVBjOHpuLVZZZlN2a2JHRXJKUVVxVTFYem1qdzNTdmYtVjNfRGUzdVlXWVd6TkxScWFFX2lIcVJ4cEFwd0FkRVNCd1hoZlY4cjBteEptOUhrUTdMZmgzcnZMV1RscS00Zk9Zcl9IZnZZa0dYNFM0bHpCSGU1S2oxY1B1UEFZbEVWNkxzZnBQVGFPeUgxUnpzcXR0WGFJQU1veGIxaElVcXpmcURrWnZ5aVNDNTlxTnUw?oc=5",
-          "desc": "Si te estás montando tu propio PC hoy es tu día de suerte: este procesador de AMD es pura potencia y nunca antes había estado así de barato La Razón",
+          "desc": "Si te estás montando tu propio PC hoy es tu día de suerte: este procesador de AMD es pura potencia y nunca antes había estado así de barato larazon.es",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-20T01:30:13+00:00"
         },
@@ -1168,7 +1175,7 @@
         {
           "title": "Galería de Showroom para la Academia Stieglitz / AMD - 6",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXV5bkVENzFvSUlrc2FJV2RwWVVra1NrUzJLbmxoX2xEbnNuSGp6c2FDME9NaTBkNnlBMTNuOVhuaS1rRjdiSkp3OFYtUUZ4ckVtNGhucVR0WWlfNEVwWTN2WXBlbTdST3NkTHlSV2p0UDhfYVd4VkVCblFlRFk0dTFlZnduZnJ4d2FBMVZmYWNidk1SZ3dja1RZU3djUEZBcU1haGJCUmliU0lUNkppdXNVWUdCU3BuMmZJdHZVRFZLRmoxV3EwbFNpN05LWkxIejJIOUFOUGhSQQ?oc=5",
-          "desc": "Galería de Showroom para la Academia Stieglitz / AMD - 6 ArchDaily",
+          "desc": "Galería de Showroom para la Academia Stieglitz / AMD - 6 archdaily.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-18T23:57:22+00:00"
         },
@@ -1182,7 +1189,7 @@
         {
           "title": "AMD stock rises on a rumor that could give it a 2027 GPU edge",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlRHLVU5ZEhFYUVWa2VVamhEMWpSaEFTZ1ZfWVpYcnJfT1BRODN1aERwTERxc0hNSTN2NGsyZG5DWUdJQmJJeEl5dHNDVmpMcEhyMjlqWFdvZkdkeS1NTUVzeG5aS3JiU0x0ZV9PQUI4UlNJSmFVNm1uTXY1bnlCYTM5S3VwT0tqZFNmYkZveXpzbmFaRXhyOUlNY1BpY0xIMV9Ic1BkZVo1UVY2REZ5bGw3c3VJNGprZTZ1Tg?oc=5",
-          "desc": "AMD stock rises on a rumor that could give it a 2027 GPU edge TradingView",
+          "desc": "AMD stock rises on a rumor that could give it a 2027 GPU edge es.tradingview.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-18T16:28:44+00:00"
         },
@@ -1227,13 +1234,6 @@
           "desc": "Forget the AI Doom Headlines. Watch This AMD Number Instead. TIKR.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-17T19:42:56+00:00"
-        },
-        {
-          "title": "AMD: subida de precios del 10% en CPU, GPU y placas base",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODRfVmJvc2dhZ2NPQ0ZDdXdxZ2R1WUlhNVAzSFR0YkF2eUI2ZmlfZ25BZXpDZ3g4RG00UFdXMXZfYThBUEhSMENhQ1VqNDYzZHd3b3VvT3BlaDNMX3lONnktYmtPdEtfS2xKbFM5SF9LUzlkMnNBZmdmaTBCaVF6OXRZRFFlblJr?oc=5",
-          "desc": "AMD: subida de precios del 10% en CPU, GPU y placas base El Chapuzas Informático",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-17T18:39:55+00:00"
         }
       ]
     }
