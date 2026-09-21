@@ -1,1139 +1,237 @@
 {
-  "generado": "2026-09-20T21:00:01.352030+00:00",
+  "generado": "2026-09-21T07:12:05.494644+00:00",
   "fuente": "laliga.com (oficial)",
-  "jornada": 7,
-  "jornada_nombre": "Jornada 7",
+  "jornada": 8,
+  "jornada_nombre": "Jornada 8",
   "partidos": [
     {
-      "id": "laliga-102313",
-      "slug": "temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-elche-cf-7",
-      "fecha": "2026-09-18T21:00:00+02:00",
-      "estado": "post",
-      "detalle": "1 - 3",
+      "id": "laliga-102324",
+      "slug": "temporada-2026-2027-laliga-ea-sports-malaga-cf-rcd-espanyol-de-barcelona-8",
+      "fecha": "2026-10-09T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
       "canal": [
         "DAZN"
       ],
       "local": {
-        "equipo": "RCD Espanyol de Barcelona",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Dmitrovic"
-          },
-          {
-            "num": 6,
-            "nombre": "Cabrera"
-          },
-          {
-            "num": 21,
-            "nombre": "R. Hinojo"
-          },
-          {
-            "num": 14,
-            "nombre": "Nuñez"
-          },
-          {
-            "num": 32,
-            "nombre": "Jose Angel"
-          },
-          {
-            "num": 8,
-            "nombre": "Edu Expósito"
-          },
-          {
-            "num": 28,
-            "nombre": "Javi H."
-          },
-          {
-            "num": 4,
-            "nombre": "Urko"
-          },
-          {
-            "num": 15,
-            "nombre": "Bryan"
-          },
-          {
-            "num": 22,
-            "nombre": "Cala"
-          },
-          {
-            "num": 9,
-            "nombre": "Roberto"
-          }
-        ],
-        "formacion": "4231",
-        "logo": "logos/rcd-espanyol-de-barcelona.png"
+        "equipo": "Málaga CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/malaga-cf.png"
       },
       "visitante": {
-        "equipo": "Elche CF",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "M. Dituro"
-          },
-          {
-            "num": 2,
-            "nombre": "B. Sangare"
-          },
-          {
-            "num": 3,
-            "nombre": "Revivo"
-          },
-          {
-            "num": 5,
-            "nombre": "Redondo"
-          },
-          {
-            "num": 23,
-            "nombre": "Victor Chust"
-          },
-          {
-            "num": 47,
-            "nombre": "Morcillo"
-          },
-          {
-            "num": 12,
-            "nombre": "G. Villar"
-          },
-          {
-            "num": 18,
-            "nombre": "Lemar"
-          },
-          {
-            "num": 11,
-            "nombre": "Germán V."
-          },
-          {
-            "num": 14,
-            "nombre": "F. Niño"
-          },
-          {
-            "num": 21,
-            "nombre": "Cepeda"
-          }
-        ],
-        "formacion": "433",
-        "logo": "logos/elche-cf.png"
+        "equipo": "RCD Espanyol de Barcelona",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rcd-espanyol-de-barcelona.png"
       },
       "aplazado": false
     },
     {
-      "id": "laliga-102315",
-      "slug": "temporada-2026-2027-laliga-ea-sports-ca-osasuna-rayo-vallecano-7",
-      "fecha": "2026-09-19T14:00:00+02:00",
-      "estado": "post",
-      "detalle": "1 - 1",
+      "id": "laliga-102326",
+      "slug": "temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
+      "fecha": "2026-10-10T14:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
       "canal": [
-        "Movistar LALIGA",
+        "DAZN",
         "DAZN EN ABIERTO"
       ],
       "local": {
-        "equipo": "CA Osasuna",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Aitor Fdez."
-          },
-          {
-            "num": 35,
-            "nombre": "Santos"
-          },
-          {
-            "num": 27,
-            "nombre": "Arguibide"
-          },
-          {
-            "num": 15,
-            "nombre": "Rico"
-          },
-          {
-            "num": 29,
-            "nombre": "A. Osambela"
-          },
-          {
-            "num": 24,
-            "nombre": "Catena"
-          },
-          {
-            "num": 14,
-            "nombre": "Rubén García"
-          },
-          {
-            "num": 11,
-            "nombre": "Kike Barja"
-          },
-          {
-            "num": 8,
-            "nombre": "Iker Muñoz"
-          },
-          {
-            "num": 7,
-            "nombre": "Moncayola"
-          },
-          {
-            "num": 17,
-            "nombre": "Budimir"
-          }
-        ],
-        "formacion": "541",
-        "logo": "logos/ca-osasuna.png"
-      },
-      "visitante": {
         "equipo": "Rayo Vallecano",
-        "once": [
-          {
-            "num": 25,
-            "nombre": "Emil Audero"
-          },
-          {
-            "num": 24,
-            "nombre": "Lejeune"
-          },
-          {
-            "num": 15,
-            "nombre": "Mujaid"
-          },
-          {
-            "num": 17,
-            "nombre": "Pedrosa"
-          },
-          {
-            "num": 2,
-            "nombre": "Andrei"
-          },
-          {
-            "num": 8,
-            "nombre": "Unai Lopez"
-          },
-          {
-            "num": 23,
-            "nombre": "Óscar V."
-          },
-          {
-            "num": 6,
-            "nombre": "Pathé I. Ciss"
-          },
-          {
-            "num": 18,
-            "nombre": "Álvaro"
-          },
-          {
-            "num": 19,
-            "nombre": "De Frutos"
-          },
-          {
-            "num": 10,
-            "nombre": "Camello"
-          }
-        ],
-        "formacion": "433",
+        "once": [],
+        "formacion": "",
         "logo": "logos/rayo-vallecano.png"
       },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102309",
-      "slug": "temporada-2026-2027-laliga-ea-sports-athletic-club-deportivo-alaves-7",
-      "fecha": "2026-09-19T16:15:00+02:00",
-      "estado": "post",
-      "detalle": "0 - 0",
-      "canal": [
-        "DAZN"
-      ],
-      "local": {
+      "visitante": {
         "equipo": "Athletic Club",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "Unai Simon"
-          },
-          {
-            "num": 14,
-            "nombre": "Laporte"
-          },
-          {
-            "num": 17,
-            "nombre": "Yuri"
-          },
-          {
-            "num": 4,
-            "nombre": "Paredes"
-          },
-          {
-            "num": 31,
-            "nombre": "Johaneko"
-          },
-          {
-            "num": 16,
-            "nombre": "R. De Galarreta"
-          },
-          {
-            "num": 18,
-            "nombre": "Jauregizar"
-          },
-          {
-            "num": 8,
-            "nombre": "O. Sancet"
-          },
-          {
-            "num": 23,
-            "nombre": "Navarro"
-          },
-          {
-            "num": 10,
-            "nombre": "Williams Jr"
-          },
-          {
-            "num": 9,
-            "nombre": "Williams"
-          }
-        ],
-        "formacion": "4231",
+        "once": [],
+        "formacion": "",
         "logo": "logos/athletic-club.png"
       },
-      "visitante": {
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102319",
+      "slug": "temporada-2026-2027-laliga-ea-sports-deportivo-alaves-atletico-de-madrid-8",
+      "fecha": "2026-10-10T16:15:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
         "equipo": "Deportivo Alavés",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "Sivera"
-          },
-          {
-            "num": 17,
-            "nombre": "J. Otto"
-          },
-          {
-            "num": 2,
-            "nombre": "Valentini"
-          },
-          {
-            "num": 16,
-            "nombre": "Koski"
-          },
-          {
-            "num": 21,
-            "nombre": "A. Rebbach"
-          },
-          {
-            "num": 14,
-            "nombre": "N. Tenaglia"
-          },
-          {
-            "num": 23,
-            "nombre": "C. Protesoni"
-          },
-          {
-            "num": 6,
-            "nombre": "Guevara"
-          },
-          {
-            "num": 19,
-            "nombre": "Ibáñez"
-          },
-          {
-            "num": 15,
-            "nombre": "Lucas Boyé"
-          },
-          {
-            "num": 9,
-            "nombre": "Mariano"
-          }
-        ],
-        "formacion": "532",
+        "once": [],
+        "formacion": "",
         "logo": "logos/deportivo-alaves.png"
       },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102311",
-      "slug": "temporada-2026-2027-laliga-ea-sports-rc-celta-r-racing-club-7",
-      "fecha": "2026-09-19T18:30:00+02:00",
-      "estado": "post",
-      "detalle": "5 - 0",
-      "canal": [
-        "Movistar LALIGA"
-      ],
-      "local": {
-        "equipo": "Celta",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Radu"
-          },
-          {
-            "num": 18,
-            "nombre": "Yoel Lago"
-          },
-          {
-            "num": 21,
-            "nombre": "S. Caceres"
-          },
-          {
-            "num": 15,
-            "nombre": "Álvaro N.c."
-          },
-          {
-            "num": 8,
-            "nombre": "M. Román"
-          },
-          {
-            "num": 6,
-            "nombre": "Moriba"
-          },
-          {
-            "num": 17,
-            "nombre": "Javi Rueda"
-          },
-          {
-            "num": 23,
-            "nombre": "Hugo A."
-          },
-          {
-            "num": 9,
-            "nombre": "Jutgla"
-          },
-          {
-            "num": 16,
-            "nombre": "H. González"
-          },
-          {
-            "num": 19,
-            "nombre": "Williot"
-          }
-        ],
-        "formacion": "343",
-        "logo": "logos/celta.png"
-      },
       "visitante": {
-        "equipo": "R. Racing Club",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Agirrezabala"
-          },
-          {
-            "num": 17,
-            "nombre": "Salinas"
-          },
-          {
-            "num": 5,
-            "nombre": "Pablo Ramón"
-          },
-          {
-            "num": 2,
-            "nombre": "Mantilla"
-          },
-          {
-            "num": 24,
-            "nombre": "Belocian"
-          },
-          {
-            "num": 23,
-            "nombre": "Iván Martín"
-          },
-          {
-            "num": 10,
-            "nombre": "Vicente"
-          },
-          {
-            "num": 8,
-            "nombre": "Almeida"
-          },
-          {
-            "num": 15,
-            "nombre": "Pablo G."
-          },
-          {
-            "num": 19,
-            "nombre": "Iker Luque"
-          },
-          {
-            "num": 21,
-            "nombre": "Zabiri"
-          }
-        ],
-        "formacion": "4141",
-        "logo": "logos/r-racing-club.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102316",
-      "slug": "temporada-2026-2027-laliga-ea-sports-sevilla-fc-fc-barcelona-7",
-      "fecha": "2026-09-19T21:00:00+02:00",
-      "estado": "post",
-      "detalle": "1 - 3",
-      "canal": [
-        "Movistar LALIGA",
-        "Movistar Plus+",
-        "Orange Fútbol 1"
-      ],
-      "local": {
-        "equipo": "Sevilla FC",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "Odysseas"
-          },
-          {
-            "num": 17,
-            "nombre": "Suazo"
-          },
-          {
-            "num": 2,
-            "nombre": "Iglesias"
-          },
-          {
-            "num": 12,
-            "nombre": "Sangante"
-          },
-          {
-            "num": 5,
-            "nombre": "A. Castrin"
-          },
-          {
-            "num": 30,
-            "nombre": "Miguel Sierra"
-          },
-          {
-            "num": 8,
-            "nombre": "Kochorashvili"
-          },
-          {
-            "num": 20,
-            "nombre": "Felix"
-          },
-          {
-            "num": 24,
-            "nombre": "Fofana"
-          },
-          {
-            "num": 6,
-            "nombre": "Agoumé"
-          },
-          {
-            "num": 9,
-            "nombre": "Robbie Ure"
-          }
-        ],
-        "formacion": "4231",
-        "logo": "logos/sevilla-fc.png"
-      },
-      "visitante": {
-        "equipo": "FC Barcelona",
-        "once": [
-          {
-            "num": 25,
-            "nombre": "Livakovic"
-          },
-          {
-            "num": 2,
-            "nombre": "Joao Cancelo"
-          },
-          {
-            "num": 15,
-            "nombre": "Christensen"
-          },
-          {
-            "num": 24,
-            "nombre": "Eric"
-          },
-          {
-            "num": 5,
-            "nombre": "Cubarsí"
-          },
-          {
-            "num": 16,
-            "nombre": "Rodrigo"
-          },
-          {
-            "num": 8,
-            "nombre": "Pedri"
-          },
-          {
-            "num": 7,
-            "nombre": "Fermin"
-          },
-          {
-            "num": 11,
-            "nombre": "Raphinha"
-          },
-          {
-            "num": 17,
-            "nombre": "Anthony Gordon"
-          },
-          {
-            "num": 10,
-            "nombre": "Lamine Yamal"
-          }
-        ],
-        "formacion": "433",
-        "logo": "logos/fc-barcelona.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102314",
-      "slug": "temporada-2026-2027-laliga-ea-sports-getafe-cf-malaga-cf-7",
-      "fecha": "2026-09-20T14:00:00+02:00",
-      "estado": "post",
-      "detalle": "1 - 0",
-      "canal": [
-        "DAZN"
-      ],
-      "local": {
-        "equipo": "Getafe CF",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "David Soria"
-          },
-          {
-            "num": 2,
-            "nombre": "Djene"
-          },
-          {
-            "num": 21,
-            "nombre": "Andres Garcia"
-          },
-          {
-            "num": 24,
-            "nombre": "Z.romero"
-          },
-          {
-            "num": 22,
-            "nombre": "Johan Mojica"
-          },
-          {
-            "num": 10,
-            "nombre": "Satriano"
-          },
-          {
-            "num": 16,
-            "nombre": "Francho"
-          },
-          {
-            "num": 20,
-            "nombre": "Ivan"
-          },
-          {
-            "num": 11,
-            "nombre": "R. Terrats"
-          },
-          {
-            "num": 8,
-            "nombre": "Gudelj"
-          },
-          {
-            "num": 19,
-            "nombre": "Enes Ünal"
-          }
-        ],
-        "formacion": "451",
-        "logo": "logos/getafe-cf.png"
-      },
-      "visitante": {
-        "equipo": "Málaga CF",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "A. Herrero"
-          },
-          {
-            "num": 12,
-            "nombre": "Salinas"
-          },
-          {
-            "num": 31,
-            "nombre": "Rafita"
-          },
-          {
-            "num": 15,
-            "nombre": "Recio"
-          },
-          {
-            "num": 25,
-            "nombre": "J. Berrocal"
-          },
-          {
-            "num": 11,
-            "nombre": "Joaquín"
-          },
-          {
-            "num": 8,
-            "nombre": "Dotor"
-          },
-          {
-            "num": 10,
-            "nombre": "D. Larrubia"
-          },
-          {
-            "num": 14,
-            "nombre": "Rafa R."
-          },
-          {
-            "num": 22,
-            "nombre": "Dani Lorenzo"
-          },
-          {
-            "num": 17,
-            "nombre": "Jauregi"
-          }
-        ],
-        "formacion": "4141",
-        "logo": "logos/malaga-cf.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102310",
-      "slug": "temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-real-madrid-7",
-      "fecha": "2026-09-20T16:15:00+02:00",
-      "estado": "post",
-      "detalle": "2 - 1",
-      "canal": [
-        "DAZN"
-      ],
-      "local": {
         "equipo": "Atlético de Madrid",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Oblak"
-          },
-          {
-            "num": 22,
-            "nombre": "Grimaldo"
-          },
-          {
-            "num": 18,
-            "nombre": "Marc Pubill"
-          },
-          {
-            "num": 21,
-            "nombre": "Romero"
-          },
-          {
-            "num": 17,
-            "nombre": "Hancko"
-          },
-          {
-            "num": 14,
-            "nombre": "M. Llorente"
-          },
-          {
-            "num": 5,
-            "nombre": "Johnny"
-          },
-          {
-            "num": 20,
-            "nombre": "Giuliano"
-          },
-          {
-            "num": 10,
-            "nombre": "Álex B."
-          },
-          {
-            "num": 7,
-            "nombre": "Kang In"
-          },
-          {
-            "num": 15,
-            "nombre": "J.david"
-          }
-        ],
-        "formacion": "442",
+        "once": [],
+        "formacion": "",
         "logo": "logos/atletico-de-madrid.png"
       },
-      "visitante": {
-        "equipo": "Real Madrid",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "Courtois"
-          },
-          {
-            "num": 4,
-            "nombre": "Huijsen"
-          },
-          {
-            "num": 17,
-            "nombre": "Cucurella"
-          },
-          {
-            "num": 24,
-            "nombre": "Dumfries"
-          },
-          {
-            "num": 16,
-            "nombre": "Konaté"
-          },
-          {
-            "num": 14,
-            "nombre": "Tchouameni"
-          },
-          {
-            "num": 15,
-            "nombre": "Arda Güler"
-          },
-          {
-            "num": 7,
-            "nombre": "Vini Jr."
-          },
-          {
-            "num": 5,
-            "nombre": "Bellingham"
-          },
-          {
-            "num": 8,
-            "nombre": "Valverde"
-          },
-          {
-            "num": 10,
-            "nombre": "Mbappé"
-          }
-        ],
-        "formacion": "4231",
-        "logo": "logos/real-madrid.png"
-      },
       "aplazado": false
     },
     {
-      "id": "laliga-102312",
-      "slug": "temporada-2026-2027-laliga-ea-sports-rc-deportivo-real-betis-7",
-      "fecha": "2026-09-20T18:30:00+02:00",
-      "estado": "post",
-      "detalle": "1 - 1",
+      "id": "laliga-102322",
+      "slug": "temporada-2026-2027-laliga-ea-sports-fc-barcelona-getafe-cf-8",
+      "fecha": "2026-10-10T18:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
       "canal": [
         "DAZN"
       ],
       "local": {
-        "equipo": "RC Deportivo",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Leo Román"
-          },
-          {
-            "num": 23,
-            "nombre": "X. Navarro"
-          },
-          {
-            "num": 20,
-            "nombre": "J. M. Giménez"
-          },
-          {
-            "num": 22,
-            "nombre": "Ede"
-          },
-          {
-            "num": 12,
-            "nombre": "Quagliata"
-          },
-          {
-            "num": 21,
-            "nombre": "Mario S."
-          },
-          {
-            "num": 11,
-            "nombre": "Mella"
-          },
-          {
-            "num": 6,
-            "nombre": "M. Casadó"
-          },
-          {
-            "num": 14,
-            "nombre": "Riki"
-          },
-          {
-            "num": 18,
-            "nombre": "Asp - Jensen"
-          },
-          {
-            "num": 32,
-            "nombre": "Nsongo Bil"
-          }
-        ],
-        "formacion": "442",
-        "logo": "logos/rc-deportivo.png"
+        "equipo": "FC Barcelona",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/fc-barcelona.png"
       },
       "visitante": {
-        "equipo": "Real Betis",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "Á.valles"
-          },
-          {
-            "num": 5,
-            "nombre": "Bartra"
-          },
-          {
-            "num": 2,
-            "nombre": "Bellerín"
-          },
-          {
-            "num": 4,
-            "nombre": "Natan"
-          },
-          {
-            "num": 11,
-            "nombre": "Fran García"
-          },
-          {
-            "num": 21,
-            "nombre": "Marc Roca"
-          },
-          {
-            "num": 18,
-            "nombre": "N. Deossa"
-          },
-          {
-            "num": 8,
-            "nombre": "P. Fornals"
-          },
-          {
-            "num": 9,
-            "nombre": "C. Hernández"
-          },
-          {
-            "num": 7,
-            "nombre": "Antony"
-          },
-          {
-            "num": 10,
-            "nombre": "Ez Abde"
-          }
-        ],
-        "formacion": "433",
-        "logo": "logos/real-betis.png"
+        "equipo": "Getafe CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/getafe-cf.png"
       },
       "aplazado": false
     },
     {
-      "id": "laliga-102318",
-      "slug": "temporada-2026-2027-laliga-ea-sports-villarreal-cf-levante-ud-7",
-      "fecha": "2026-09-20T18:30:00+02:00",
-      "estado": "post",
-      "detalle": "3 - 1",
+      "id": "laliga-102327",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-madrid-villarreal-cf-8",
+      "fecha": "2026-10-10T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
       "canal": [
         "Movistar LALIGA"
       ],
       "local": {
+        "equipo": "Real Madrid",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-madrid.png"
+      },
+      "visitante": {
         "equipo": "Villarreal CF",
-        "once": [
-          {
-            "num": 25,
-            "nombre": "Gulácsi"
-          },
-          {
-            "num": 23,
-            "nombre": "S. Cardona"
-          },
-          {
-            "num": 12,
-            "nombre": "Renato Veiga"
-          },
-          {
-            "num": 3,
-            "nombre": "Freeman"
-          },
-          {
-            "num": 6,
-            "nombre": "Pau Navarro"
-          },
-          {
-            "num": 18,
-            "nombre": "Gueye"
-          },
-          {
-            "num": 17,
-            "nombre": "Buchanan"
-          },
-          {
-            "num": 24,
-            "nombre": "Saliba"
-          },
-          {
-            "num": 11,
-            "nombre": "I. Akhomach"
-          },
-          {
-            "num": 10,
-            "nombre": "A. Moleiro"
-          },
-          {
-            "num": 22,
-            "nombre": "Ayoze"
-          }
-        ],
-        "formacion": "4231",
+        "once": [],
+        "formacion": "",
         "logo": "logos/villarreal-cf.png"
       },
-      "visitante": {
-        "equipo": "Levante UD",
-        "once": [
-          {
-            "num": 13,
-            "nombre": "Ryan"
-          },
-          {
-            "num": 22,
-            "nombre": "Toljan"
-          },
-          {
-            "num": 4,
-            "nombre": "Dela"
-          },
-          {
-            "num": 23,
-            "nombre": "Manu Sánchez"
-          },
-          {
-            "num": 2,
-            "nombre": "Mandi"
-          },
-          {
-            "num": 18,
-            "nombre": "Enzo Bardeli"
-          },
-          {
-            "num": 8,
-            "nombre": "Olasagasti"
-          },
-          {
-            "num": 20,
-            "nombre": "O. Rey"
-          },
-          {
-            "num": 7,
-            "nombre": "R. Brugué"
-          },
-          {
-            "num": 9,
-            "nombre": "I. Romero"
-          },
-          {
-            "num": 24,
-            "nombre": "Thiago"
-          }
-        ],
-        "formacion": "433",
-        "logo": "logos/levante-ud.png"
-      },
       "aplazado": false
     },
     {
-      "id": "laliga-102317",
-      "slug": "temporada-2026-2027-laliga-ea-sports-valencia-cf-real-sociedad-7",
-      "fecha": "2026-09-20T21:00:00+02:00",
-      "estado": "post",
-      "detalle": "2 - 3",
+      "id": "laliga-102321",
+      "slug": "temporada-2026-2027-laliga-ea-sports-elche-cf-rc-celta-8",
+      "fecha": "2026-10-11T14:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
       "canal": [
         "Movistar LALIGA"
       ],
       "local": {
-        "equipo": "Valencia CF",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "Dimitrievski"
-          },
-          {
-            "num": 14,
-            "nombre": "Gayà"
-          },
-          {
-            "num": 24,
-            "nombre": "Maffeo"
-          },
-          {
-            "num": 18,
-            "nombre": "Pepelu"
-          },
-          {
-            "num": 12,
-            "nombre": "De Haas"
-          },
-          {
-            "num": 33,
-            "nombre": "Mayol"
-          },
-          {
-            "num": 23,
-            "nombre": "Ugrinic"
-          },
-          {
-            "num": 7,
-            "nombre": "Danjuma"
-          },
-          {
-            "num": 2,
-            "nombre": "G. Rodriguez"
-          },
-          {
-            "num": 9,
-            "nombre": "Hugo Duro"
-          },
-          {
-            "num": 8,
-            "nombre": "Javi Guerra"
-          }
-        ],
-        "formacion": "442",
-        "logo": "logos/valencia-cf.png"
+        "equipo": "Elche CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/elche-cf.png"
       },
       "visitante": {
+        "equipo": "Celta",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/celta.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102328",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-sociedad-rc-deportivo-8",
+      "fecha": "2026-10-11T16:15:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
         "equipo": "Real Sociedad",
-        "once": [
-          {
-            "num": 1,
-            "nombre": "A. Remiro"
-          },
-          {
-            "num": 6,
-            "nombre": "Jon Martín"
-          },
-          {
-            "num": 17,
-            "nombre": "Sergio Gómez"
-          },
-          {
-            "num": 34,
-            "nombre": "Beitia"
-          },
-          {
-            "num": 2,
-            "nombre": "Aramburu"
-          },
-          {
-            "num": 11,
-            "nombre": "Guedes"
-          },
-          {
-            "num": 18,
-            "nombre": "C.soler"
-          },
-          {
-            "num": 12,
-            "nombre": "Ochieng"
-          },
-          {
-            "num": 4,
-            "nombre": "Gorrotxa"
-          },
-          {
-            "num": 10,
-            "nombre": "Oyarzabal"
-          },
-          {
-            "num": 24,
-            "nombre": "Sucic"
-          }
-        ],
-        "formacion": "442",
+        "once": [],
+        "formacion": "",
         "logo": "logos/real-sociedad.png"
+      },
+      "visitante": {
+        "equipo": "RC Deportivo",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rc-deportivo.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102320",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-betis-ca-osasuna-8",
+      "fecha": "2026-10-11T18:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Real Betis",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-betis.png"
+      },
+      "visitante": {
+        "equipo": "CA Osasuna",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/ca-osasuna.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102325",
+      "slug": "temporada-2026-2027-laliga-ea-sports-r-racing-club-valencia-cf-8",
+      "fecha": "2026-10-11T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "R. Racing Club",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/r-racing-club.png"
+      },
+      "visitante": {
+        "equipo": "Valencia CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/valencia-cf.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102323",
+      "slug": "temporada-2026-2027-laliga-ea-sports-levante-ud-sevilla-fc-8",
+      "fecha": "2026-10-12T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Levante UD",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/levante-ud.png"
+      },
+      "visitante": {
+        "equipo": "Sevilla FC",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/sevilla-fc.png"
       },
       "aplazado": false
     }
