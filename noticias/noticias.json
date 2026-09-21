@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T14:00:07.170820+00:00",
+  "generado": "2026-09-21T14:30:06.981477+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,13 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "EL DUELO ANTE OSASUNA EN EL RAMÓN SÁNCHEZ-PIZJUÁN SERÁ EL LUNES 26 DE OCTUBRE A LAS 21 HORAS",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaG1sNWM3ZE5LRXZwTFRMcGJjNnR2U2RjTDVvR0NTeE9vcE5ZR0U2dmhpaUp6bzJXQzNpNUljQXVSX29qbk5lSF9BZW5wa0hycHNKOU55SFlqUFEzeFYyeThxOXpUdXpiOXBxUGc0c0R5VzlzNEdHekFPVGxXc2ZOR3JvQVBnSmR4VVNjeXI1SkM?oc=5",
+          "desc": "EL DUELO ANTE OSASUNA EN EL RAMÓN SÁNCHEZ-PIZJUÁN SERÁ EL LUNES 26 DE OCTUBRE A LAS 21 HORAS Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:21:35+00:00"
+        },
         {
           "title": "Y por fin pudo debutar Jassina Blom con el Sevilla FC Femenino",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0VRMFRmc1BFb0VkRXdhWkZqazdHeWgycVpXY1FpWi1meUpHOWxFZmhwSEd0T2lpN282ZThuMC1oU0phdVJVUkpEZHl6YjNwMXVzWFR5YjVIbVctaHJreHczR3BZRGN6NkpDTmowZDd4dXVtbGtzN18xaDVaem94TFZ1VDUyWFU?oc=5",
@@ -153,7 +160,7 @@
         {
           "title": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\"",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ25WTFRiTFlaaktUM1VBczNfOXhQU3dQX2Z5OXNOMVhJR2tWRnBUbVdmYVlKeEZLY2ZaeENyc1I2Y05QaGs3Nkc0blJ1MTNWLXNFeVhHRWZ1LWRvWmZWblozdzFOZmxJSk9xYVdzbEx1XzlJcVVmMVJrVDN1VWppZ3BnUWx0TkxNbzUxZm05WHZMdEtzcF9qWlg1TFVLUEJFc2o0elByR1c5dEk1VW1KVklycFNTUVZ3YklETUowWQ?oc=5",
-          "desc": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\" eldesmarque.com",
+          "desc": "Así se gestó el fichaje de Juan Iglesias por el Sevilla: \"Fue una decisión fácil\" El Desmarque",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T06:46:34+00:00"
         },
@@ -170,13 +177,6 @@
           "desc": "El Ceuta salvó en la prolongación un empate que le permite sumar su primer punto esta temporada El Leganés, con Morata suplente, sacó la cabeza en un partido clave en la lucha por la zona alta y se metió de lleno en la pelea, mientras que condenaba al Granada a la zona baja de la tabla en una jornada que vivió el primer punto del Ceuta a costa del un Valladolid que no escapa de la quema. El Almería suma su tercer triunfo seguido que le permite empezar a soñar con el regreso a Primera , mismo sueño que acaricia un Burgos que se mete en zona de 'play off' a costa de dejar tocado al Las Palmas. Frenazo también para el Oviedo, que intercala alegrías con fiascos. Esta vez tocó lo segundo en su visita a la nova Creu Alta. En la clasificación, Castellón y Eibar aseguraron las plazas de ascenso desde el día anterior, pero por detrás la pelea está muy reñida, con tres puntos de diferencia entre el tercero y el undécimo. Leganés 3-2 Granada El Leganés se impuso al Granada, gracias a un gol de Gharbi en el último minuto, en un partido de ritmo alto y marcado por las alternativas. El resultado permite al Leganés reencontrarse con la victoria después de dos jornadas, mientras que el Granada encadena su tercer partido sin ganar, con dos derrotas y un empate. El conjunto madrileño tomó una ventaja de dos goles en apenas ocho minutos gracias a Naim García y Soko, pero el Granada reaccionó con fuerza y comenzó a acumular ocasiones. Los visitantes recortaron distancias antes del descanso y, tras el paso por vestuarios, Marques estableció el empate en el minuto 52. El equipo andaluz dispuso después de varias oportunidades para completar la remontada, incluido un disparo al larguero de Arnaiz, pero no logró convertir su dominio en goles. Cuando el encuentro parecía encaminado al empate, el Leganés encontró el gol de la victoria en el tramo final. Gharbi decidió el choque en el minuto 90 con un disparo que tocó en Gumbau y acabó en la portería. Las Palmas 1–2 Burgos El Burgos remontó en el tramo final a Las Palmas, se llevó los tres puntos gracias a un gol de David González en el tiempo añadido y se sitúa en zona de 'play off' de ascenso a Primera. El conjunto canario dominó una primera mitad en la que su presión alta dificultó la salida visitante y le permitió generar varias ocasiones. Jesé Rodríguez adelantó a los locales pasada la media hora con un disparo desde la frontal que desvió ligeramente un defensor, después de que el delantero ya hubiera estrellado un potente lanzamiento en el larguero. El Burgos apenas inquietó la portería de Caro antes del descanso y Las Palmas pudo incluso ampliar su ventaja. El conjunto burgalés reaccionó tras el descanso con un cambio de sistema y dos delanteros, una apuesta que dio resultado rápidamente. Forés aprovechó un pase en profundidad de Karrikaburu para superar a Caro y establecer el empate, devolviendo al partido la incertidumbre. El encuentro se abrió y ambos equipos encontraron espacios, aunque el Burgos terminó imponiendo su mayor amenaza ofensiva. Cuando todo apuntaba al reparto de puntos, David González recibió un pase de Javi Llabrés en el cuarto minuto del añadido, ganó la carrera a la defensa y batió a Caro con un disparo colocado para completar la remontada. Almería 2–0 Celta Fortuna El Almería sumó ante el Celta Fortuna su tercera victoria consecutiva y se coloca cuarto tras encarrilar el partido en una primera parte de gran nivel, en la que su presión, velocidad y acierto marcaron diferencias. Nico Melamed abrió el marcador en el minuto 6 con un potente disparo y Javi Muñoz amplió la ventaja en el 18 tras culminar una buena acción colectiva. El filial celeste, pese al golpe, mantuvo su propuesta ofensiva y generó peligro antes del descanso, aunque el Almería controló el encuentro y dispuso de ocasiones para haber ampliado todavía más la renta. Tras el paso por vestuarios, el Celta Fortuna dio un paso adelante y puso en apuros al conjunto local, que comenzó a sufrir para conservar su ventaja. Los visitantes encontraron más espacios y tuvieron varias oportunidades para recortar distancias, mientras el Almería buscaba sentenciar al contragolpe. Andrés Fernández fue decisivo en los minutos finales con varias intervenciones que evitaron el gol del filial, que terminó dominando y acumulando llegadas sin encontrar premio. El equipo de Xavi García Pimienta resistió el empuje visitante y aseguró tres puntos que prolongan su excelente dinámica. Ceuta 1–1 Valladolid El Ceuta estrenó su casillero y rescató un punto ante el Valladolid en un final agónico que permitió al conjunto caballa sumar después de cinco derrotas consecutivas. El partido llegó al descanso sin goles pese a las ocasiones de ambos equipos, incluido un disparo al palo de Meléndez y otro de Arnu para los visitantes. Tras el intermedio, el Valladolid aprovechó uno de sus ataques para adelantarse por medio de Latasa, que remató un centro de Ponceau. El Ceuta reaccionó y buscó el empate con insistencia, pero se encontró con varias intervenciones de mérito de Aceves. El tramo final estuvo marcado por la tensión y las expulsiones. La roja a Balboa dejó al Valladolid con diez en el minuto 86 y permitió al Ceuta volcarse sobre el área visitante. Los locales rozaron el empate con un remate de Joaquín al larguero y, cuando la derrota parecía inevitable, llegó el premio en el décimo minuto del añadido. Carlos Hernández apareció para rematar un centro desde la derecha y establecer el 1-1, desatando la celebración en el Alfonso Murube y dando al equipo de José Juan Romero su primer punto del campeonato. Sabadell 3–1 Real Oviedo El Sabadell confirmó su excelente inicio de temporada con una victoria ante el Oviedo que le permite situarse en puestos de 'play off' de ascenso . El conjunto catalán dominó desde el inicio, presionó con intensidad y se adelantó en el minuto 23 gracias a Gastón Valles, que aprovechó un centro de Joel Priego. El Oviedo apenas encontró espacios durante la primera mitad y el Sabadell amplió su ventaja tras el descanso con un cabezazo de Óscar Sanz, dejando al equipo local en una posición inmejorable para cerrar el partido. 𝐒𝐨𝐧̃𝐚𝐫 𝐞𝐬 𝐠𝐫𝐚𝐭𝐢𝐬. 🤩 Y eso lo saben en Sabadell. Baena puso el tercero de los suyos en la victoria ante el 𝐑𝐞𝐚𝐥 𝐎𝐯𝐢𝐞𝐝𝐨 en #LALIGAHYPERMOTION . #LaCasaDelFútbol pic.twitter.com/dUnpVDjSfT &mdash; Movistar Plus Deportes (@MPlusDeportes) September 20, 2026 \\n \\n\\n\",\"proveedor\":4}\"> El conjunto asturiano reaccionó con los cambios y consiguió recortar distancias en el minuto 67 mediante Estanis Pedrola, autor de un potente disparo desde fuera del área. Sin embargo, el Sabadell no permitió que el encuentro se complicara y sentenció poco después. Ángel Baena, tras una combinación con Quadri Liameed, marcó el 3-1 en el minuto 78 y aseguró la tercera victoria del equipo catalán en otros tantos partidos disputados esta temporada en la Nova Creu Alta. Con 11 puntos en seis jornadas, el recién ascendido se mantiene en la zona alta de la clasificación. Resultados de la jornada 6 de LaLiga Hypermotion Albacete 1–2 Córdoba Real Sociedad B 0–1 Mallorca Andorra 1–3 Sporting de Gijón Castellón 5–0 Tenerife Eldense 1–2 Eibar Cádiz 1–2 Girona Sabadell 3–1 Real Oviedo Ceuta 1–1 Valladolid Almería 2–0 Celta Fortuna Las Palmas 1–2 Burgos Leganés 3-2 Granada Clasificación de LaLiga Hypermotion tras la jornada 6 1. Castellón - 16 puntos (12 - 2) 2. Eibar - 15 puntos (12 - 4) 3. Mallorca - 13 puntos (8 - 2) 4. Almería - 12 puntos (10 - 4) 5. Burgos CF - 11 puntos (10 - 7) 6. Sabadell - 11 puntos (7 - 5) 7. Leganés - 11 puntos (6 - 5) 8. Girona - 10 puntos (12 - 8) 9. Sporting - 10 puntos (5 - 4) 10. Las Palmas - 10 puntos (8 - 8) 11. Tenerife - 10 puntos (7 - 8) 12. Real Sociedad B - 8 puntos (8 - 7) 13. Real Oviedo - 8 puntos (5 - 4) 14. Granada - 8 puntos (8 - 8) 15. Celta Fortuna - 7 puntos (7 - 10) 16. Córdoba - 6 puntos (9 - 13) 17. Eldense - 5 puntos (4 - 8) 18. Valladolid - 5 puntos (3 - 8) 19. Cádiz - 3 puntos (6 - 9) 20. Andorra - 3 puntos (9 - 13) 21. Albacete - 1 punto (4 - 10) 22. Ceuta - 1 punto (3 - 16)",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-20T22:19:45+00:00"
-        },
-        {
-          "title": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclhPX01DajZjLW9oZDhhaGdJbzlxbmlRSHZaZnFMY1ItRzZZVHZNcm1yeDVsVkxXQWFYRmpRNFgwZV9CckUxanRNaVN0T005Tm5EcTRqLUxISWMtM0JVTjJJQ2xBR251aWwzYzVGUC1xLXJMQ0Q2R1FsU1NjeHJWeVlkWWZ4QjBHbnBnY3daRFo1MTg3Z0duMG95QdIBmwFBVV95cUxNR18wVl9NYm1xUlJtV1NqNkFCbDB0Rm1YZnpPRHhyWDF6T0QwajkzSzFkazRPX3JiR0J1anpjd1lXYTR4SmlXakViakNaeU9sTlM2SUZyV2RLQjVreFAwdXVwRHRvMTYtU21YU1hJOEpCTVVBa1pBLWtPWVhybUZrTWFEMk9GblE1VzdRNFgxTWxYUnN1TnpodmpOYw?oc=5",
-          "desc": "Moeve Fútbol Zone: el derbi madrileño y el Sevilla-Barça, protagonistas de la jornada El Periódico",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-20T21:59:00+00:00"
         }
       ]
     },
@@ -184,6 +184,13 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Las miserias de juego del Real Madrid que se esconden tras su denuncia arbitral: de Vinicius al dúo Valverde-Tchouameni",
+          "link": "https://elpais.com/deportes/futbol/2026-09-21/las-miserias-de-juego-del-real-madrid-que-se-esconden-tras-su-denuncia-arbitral-de-vinicius-al-duo-valverde-tchouameni.html",
+          "desc": "El derbi perdido por los de Mourinho, más allá de la queja blanca por el colegiado, deja otro partido pobre por parte de varias de las apuestas del club, desde el brasileño a los hombres del centro del campo",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-21T14:02:35+00:00"
+        },
         {
           "title": "Flick, implacable: 354 goles en 125 partidos con el Barça",
           "link": "https://www.marca.com/futbol/barcelona/2026/09/21/flick-implacable-354-goles-125-partidos-barca.html",
@@ -197,6 +204,20 @@
           "desc": "",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-21T15:43:44+02:00"
+        },
+        {
+          "title": "Luis de la Fuente, seleccionador de España, tras renovar: \"No nos conformamos con lo conseguido, lo mejor está por llegar\"",
+          "link": "https://www.20minutos.es/deportes/futbol/luis-fuente-seleccionador-espana-tras-renovar-no-nos-conformamos-con-conseguido-mejor-esta-por-llegar_7039402_0.html",
+          "desc": "El técnico de Haro, que extiende su contrato seis años más, hasta 2032, celebró su renovación en un acto en la Ciudad de Fútbol de Las Rozas.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-21T15:41:28+02:00"
+        },
+        {
+          "title": "Sale a la luz un vídeo del derbi con una mano en el área del Atlético: \"No hubo ni una repetición de este penalti de Pubill\"",
+          "link": "https://www.20minutos.es/deportes/futbol/sale-luz-un-video-derbi-con-una-mano-area-atletico-no-hubo-ni-una-repeticion-este-penalti-pubill_7039383_0.html",
+          "desc": "Las imágenes, grabadas desde la grada, han provocado el enfado de la afición madridista con el arbitraje.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-21T15:32:49+02:00"
         },
         {
           "title": "Acosta se convierte en el invitado inesperado en el Mundial y Márquez pierde liderato: lo que deja el Gran Premio de Austria de Moto GP",
@@ -330,27 +351,6 @@
           "desc": "La presentadora de la nueva cadena responde a una serie de preguntas en la promoción del canal",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-21T13:18:43+02:00"
-        },
-        {
-          "title": "De la Fuente, renovado como seleccionador español: gran subida de sueldo y seguirá más allá del Mundial",
-          "link": "https://www.20minutos.es/deportes/futbol/luis-fuente-renovado-como-seleccionador-espanol-gran-subida-sueldo-seguira-mas-alla-mundial-casa_7039282_0.html",
-          "desc": "El técnico riojano, que tenía contrato hasta 2028, extiende su contrato para seguir dirigiendo España hasta al menos 2032.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-21T13:17:36+02:00"
-        },
-        {
-          "title": "El otro momento que no gustó a Florentino: Riquelme en el palco del Atlético",
-          "link": "https://www.marca.com/futbol/real-madrid/2026/09/21/momento-gusto-florentino-riquelme-palco-atletic-video.html",
-          "desc": "",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-21T13:11:05+02:00"
-        },
-        {
-          "title": "El mensaje de Pubill con Ceuta y Mbappé de protagonistas",
-          "link": "https://www.marca.com/futbol/atletico/2026/09/21/mensaje-pubill-ceuta-mbappe-protagonistas.html",
-          "desc": "El defensa del Atlético compartió en sus redes la pancarta de Ceuta que señalaba a Mbappé, Vinicius y Konaté",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-21T13:08:19+02:00"
         }
       ]
     },
@@ -359,53 +359,60 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "All F1 team cars coming to Hot Wheels video game",
+          "link": "https://www.formula1.com/en/latest/article/all-official-f1-team-cars-coming-to-hot-wheels-infinite-rush-video-game-in-new-f1-car-collection-pack.11CmeoP0HwEh2HxXEuXKxg",
+          "desc": "From March 2027, players of Hot Wheels Infinite Rush will be able to choose from the grid's 11 teams.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
+        },
+        {
           "title": "5 storylines we're excited about ahead of the Azerbaijan GP",
           "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-azerbaijan-grand-prix.6l5UWWsSVJdtKOpR8KDSzZ",
           "desc": "Chris Medland runs through the biggest talking points as F1 heads to Azerbaijan for Round 15 of the 2026 season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
         },
         {
           "title": "Remembering one of F1’s most intriguing ‘what if?’ moments",
           "link": "https://www.formula1.com/en/latest/article/remembering-one-of-the-most-intriguing-what-if-moments-in-f1-history.6PMh9yfpq4GksluggiddZK",
           "desc": "During the late 1980s and early 1990s, McLaren wrote one of the most successful chapters in their F1 story – the squad racking up four successive Teams’ Championships and four straight Drivers’ Championships with engine partner Honda between 1988-1991.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
         },
         {
           "title": "When Star Wars took over Formula 1",
           "link": "https://www.formula1.com/en/latest/article/when-star-wars-came-to-formula-1-the-story-of-f1s-trips-to-a-galaxy-far-far-away.52NvGPqgUeHyzjyyzPvSiC",
           "desc": "From Red Bull's Star Wars livery in Monaco to George Lucas on the podium, revisit the memorable moments when Star Wars crossed over with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
         },
         {
           "title": "How Justin Rose and McLaren are pursuing marginal gains in golf",
           "link": "https://www.formula1.com/en/latest/article/justin-rose-on-mclaren-golf-bringing-f1s-pursuit-of-perfection-to-the-fairway.3TJaNTEeF2kh7qSt1dKNDv",
           "desc": "Justin Rose explains how McLaren is bringing its Formula 1 engineering expertise and pursuit of marginal gains to the world of golf.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
         },
         {
           "title": "Inside F1’s ‘brutal’ fuel development race",
           "link": "https://www.formula1.com/en/latest/article/inside-f1s-brutal-fuel-development-race-and-how-it-could-benefit-the-wider-world.6In5yoMOgQGwYQpdfzFBUC",
           "desc": "Not only did F1 introduce new cars and new power units at the start of the 2026 season, but also Advanced Sustainable Fuels, a pioneering technology that teams – and their partners – have been pushing hard to maximise in terms of both performance and reliability.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
         },
         {
           "title": "TREMAYNE: Why I’m delighted the Portuguese GP is back in 2027",
           "link": "https://www.formula1.com/en/latest/article/why-im-delighted-the-portuguese-grand-prix-is-back-on-the-calendar.6SJAb71ghhAlCGcKRx5clZ",
           "desc": "F1 Hall of Fame journalist David Tremayne looks back at the rich history of Formula 1 racing in Portugal.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "fecha": "2026-09-21T14:30:06.981477+00:00"
         },
         {
-          "title": "Constructors' title battle heating up for F1 bettors",
-          "link": "https://www.formula1.com/en/latest/article/the-extra-gear-constructors-championship-title-battle-heating-up-for-f1-bettors.7JNLTSWlH3AFNUvOoJMW1T",
-          "desc": "There are just nine races left to decide who will win the 2026 Constructors’ title, so we look at where the value could be for F1 betting fans.",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T14:00:07.170820+00:00"
+          "title": "Los trabajadores alemanes explotan contra el \"apagón\" de la industria de automoción",
+          "link": "https://www.eldiario.es/motor/sector_y_mercado/trabajadores-alemanes-explotan-apagon-industria-automocion_1_13525828.html",
+          "desc": "El sindicato IG Metall convoca cerca de 300 protestas en toda Alemania en contra de la oleada de hasta 150.000 despidos y la \"ruina\" en la automoción, de la que culpan a las empresas 150.000 despidos a la vista: por qué se gripa la potente industria de la automoción en Alemania Los trabajadores de la industria del automóvil de Alemania han dicho basta y han salido a la calle para protestar contra la oleada de 150.000 despidos , cierres de fábricas y planes de reducción de costes que están sacudiendo al principal sector industrial del país. Un total de 175.000 empleados han participado en 280 movilizaciones convocadas por IG Metall en centros de producción de fabricantes y proveedores de todo el país en una jornada nacional de acción contra los recortes de empleo y las deslocalizaciones. Pese a la trascendencia, la protesta ha queado en un segundo plano en el país ante el impacto causado por el avance de la extrema derecha en las elecciones de varias regiones alemanas. El sindicato metalúrgico, el mayor del sector industrial alemán, sostiene que la competitividad de la automoción no se recuperará mediante nuevos ajustes sobre las plantillas, sino a través de inversiones en productos, tecnologías y fábricas. “Los trabajadores de la industria automovilística se oponen a las fantasías de recorte de gastos y deslocalización de los jefes de los consorcios”, señala IG Metall en la convocatoria de las protestas. La movilización llega en un momento especialmente delicado para el automóvil alemán. Los anuncios de recortes de empleo entre fabricantes y proveedores ya superan los 150.000 puestos de trabajo, mientras la destrucción de empleo comienza a reflejarse también en las estadísticas oficiales. Solo en 2025, la industria automovilística alemana perdió más de 41.000 trabajadores, hasta situar el empleo del conjunto del sector en 731.928 personas, un 5,3% menos que un año antes. Volkswagen concentra buena parte del conflicto Uno de los principales focos de tensión es Volkswagen. El grupo prepara el mayor ajuste de empleo de su historia, con un objetivo que puede alcanzar los 100.000 puestos de trabajo eliminados durante esta década. El plan amplía el acuerdo alcanzado a finales de 2024 para reducir unos 50.000 empleos mediante prejubilaciones y bajas incentivadas y contempla además una profunda reorganización de la producción alemana. La dimensión del ajuste explica en buena medida la movilización de IG Metall. Volkswagen empleaba en 2024 a unas 680.000 personas en todo el mundo, incluidas sus sociedades de riesgo compartido en China, de las que alrededor de 293.000 trabajaban en Alemania. El grupo también estudia reducir su estructura industrial y su oferta de modelos para mejorar la rentabilidad. El ajuste no se limita a Volkswagen. BMW ha acordado eliminar unos 8.000 puestos de trabajo, principalmente mediante bajas voluntarias en áreas administrativas y de desarrollo, mientras que Ford prevé suprimir 3.000 empleos en Alemania. Mercedes-Benz mantiene también programas de reducción de costes y reorganización de sus estructuras. Entre los proveedores, el impacto es igualmente elevado. Bosch prevé eliminar alrededor de 13.000 empleos adicionales hasta 2030 en su división de movilidad; ZF prepara hasta 14.000 salidas vinculadas a la transición hacia el vehículo eléctrico; Continental tiene unos 7.100 empleos afectados por su reorganización y Schaeffler prevé otros 4.700 puestos afectados. El sindicato acusa a los fabricantes de pagar sus errores con los trabajadores IG Metall considera que los trabajadores no deben asumir el coste de una crisis que, a su juicio, tiene buena parte de su origen en decisiones empresariales. El sindicato acusa a las direcciones de las empresas de haber reaccionado demasiado tarde en ámbitos como los modelos pequeños y asequibles, la digitalización o las baterías, así como de haber descuidado inversiones en tecnologías futuras y centros de producción. “Competitividad” es precisamente una de las palabras clave de la jornada. Frente a las estrategias de reducción de costes planteadas por numerosos fabricantes, IG Metall defiende que Alemania necesita invertir para conservar su capacidad industrial. “La competitividad no se logra recortando gastos, sino invirtiendo”, sostiene la organización. IG Metall critica especialmente que, mientras las empresas reducen sus plantillas, algunas planteen incrementar el tiempo de trabajo sin una compensación salarial equivalente. Varias compañías han propuesto elevar la jornada semanal desde las actuales 35 horas hasta las 40 horas, una posibilidad a la que el sindicato se opone. La patronal mantiene una posición diferente. La presidenta de la Asociación Alemana de la Industria del Automóvil (VDA), Hildegard Müller, ha advertido de que “no podremos mantener abiertas todas las fábricas y proveedores” y ha defendido nuevas reformas para reducir los costes sociales, fiscales, burocráticos y energéticos de producir en Alemania. El enfrentamiento refleja así una discusión más amplia sobre el futuro del modelo industrial alemán. Los fabricantes afrontan al mismo tiempo la debilidad de algunos mercados, la creciente competencia de los fabricantes chinos, el exceso de capacidad, la transición hacia el vehículo eléctrico y el impacto de los aranceles estadounidenses. A la presión sobre los costes se suma el deterioro de la posición de los fabricantes alemanes en China, un mercado que durante años fue uno de los grandes motores de crecimiento de Volkswagen, BMW y Mercedes-Benz. Las marcas locales han ganado terreno con vehículos eléctricos más competitivos en precio y con ciclos de desarrollo más rápidos, mientras los fabricantes europeos afrontan mayores costes de producción. El problema no es, sin embargo, únicamente tecnológico. La industria alemana mantiene una enorme capacidad de inversión: el sector destinó 43.733 millones de euros a inversiones de capital en 2024 y alcanzó un récord de 59.408 millones en investigación y desarrollo. Pero las inversiones en el extranjero crecieron mientras las realizadas dentro de Alemania descendieron.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T13:54:40+00:00"
         },
         {
           "title": "Acosta se convierte en el invitado inesperado en el Mundial y Márquez pierde liderato: lo que deja el Gran Premio de Austria de Moto GP",
@@ -467,7 +474,7 @@
           "title": "Acosta, la primera de muchas",
           "link": "https://www.marca.com/motor/motogp/gp-austria/2026/09/21/acosta-primera-muchas.html",
           "desc": "Todos auguran que la de Austria es sólo el comienzo de una era en MotoGP",
-          "source": "https://www.marca.com/rss/portada.xml",
+          "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-21T06:08:52+02:00"
         },
         {
@@ -518,13 +525,6 @@
           "desc": "Emocionante carrera final con duelo con Bujosa",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-20T18:24:33+02:00"
-        },
-        {
-          "title": "Atlético de Madrid - Real Madrid: resultado, resumen y goles del partido de la jornada 7 de LaLiga EA Sports",
-          "link": "https://www.estadiodeportivo.com/futbol/primera-division/atletico-madrid-real-madrid-directo-partido-laliga-sports-vivo-online-20260920-546926.html",
-          "desc": "Sigue en directo el derbi que enfrenta al Atlético de Madrid y el Real Madrid, correspondiente a la jornada 7 de LaLiga EA Sports, en el estadio Riyadh Air Metropolitano Atlético de Madrid y Real Madrid se verán las caras en esta séptima jornada de LALIGA EA SPORTS . El partido tendrá lugar a las 16:15 de este domingo 20 de septiembre en el estadio Riyadh Air Metropolitano . El conjunto colchonero llega con 13 puntos en su casillero tras dos victorias contundentes (0-3 a la Real y 4-0 a Osasuna) que han hecho olvidar las derrotas ante el Athletic y el Liverpool. Si consigue la victoria, adelantaría a un Real Madrid que se encuentra segundo clasificado con 15 puntos. Sólo la derrota ante el Betis ha impedido el pleno de los blancos en LALIGA. Raúl y el Atlético: la historia que pudo cambiar para siempre el destino del '7' del Real Madrid Laporta lanza un duro palo al Real Madrid: \"Cuando tienen un problema, les recalifican un terreno y tan panchos” Precedentes en el Metropolitano: dominio del Atleti El Real Madrid lleva desde 2022 sin saborear una victoria en el estadio de su gran rival en la ciudad de Madrid. En ese partido, Rodrygo y Valverde pusieron los dos goles para dar la victoria y Mario Hermoso sólo pudo maquillar el resultado. Desde entonces, cuatro victorias del Atlético de Madrid y un empate, aunque es verdad que una de esas victorias tuvo un sabor amargo ya que se trataba de una eliminatoria de Champions en la que acabó pasando el Real Madrid en los penaltis. El último partido disputado entre ambos en campo colchonero se saldó con un 5-2 que fue una de las dos derrotas de Xabi Alonso en LALIGA la pasada temporada, cortando una racha de 18 puntos de 18 posibles con la que empezó el conjunto blanco. Pablo Barrios destaca entre las bajas del partido Ambos equipos llegan al derbi con algunas bajas . La mayoría de ellas se han perdido todo lo que va de temporada, con la excepción del centrocampista Pablo Barrios. En el Real Madrid, Rodrygo sigue con su recuperación de su lesión de rodilla, Ferland Mendy con sus problemas de cadera y Eder Militao con sus problemas musculares. Ninguno ha podido disputar ni un minuto aún en esta temporada. En el caso del Atlético, Sorloth sigue en su proceso de recuperación desde el inicio de la temporada y Barrios , que ya se ha perdido los dos últimos, también se quedará fuera por lesión. El centrocampista empezó siendo muy importante para su equipo pero ha vuelto a caer en su gran lastre de los últimos años: las lesiones musculares. Un árbitro inédito en el derbi y para el Real Madrid El partido será arbitrado por Miguel Ángel Ortiz Arias , del colegio madrileño. Su condición de pertenecer al Comité de Madrid hace que prácticamente no haya pitado en ninguna ocasión a ninguno de los dos equipos. LALIGA ya instauró la temporada pasada la novedad de poder arbitrar partidos de tu mismo colegio siempre que los dos rivales pertenezcan al mismo. Pasó con Munuera Montero en El Gran Derbi entre Sevilla y Betis, entre otros. Al Real Madrid no le pitado nunca y al Atlético lo hizo la pasada temporada en un duelo ante el Getafe con victoria rojiblanca por 1-0 . Por tanto, ninguno de los dos podrá argumentar nada en contra del colegiado antes de comenzar el duelo.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-20T16:18:52+00:00"
         }
       ]
     },
@@ -532,6 +532,55 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares impulsado por la demanda de IA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMkZ5VjlwbmQ0RC05SzJyZWE2UWVwYmlhdGUtZjREd3RHa2hqejVxQmhlRkJNcEIxSVhPNEd0QmJaMm4ta0Z3OUI5ZGdldEI4a0RmdjZkOHNHdGNsQlNkZGVsX2JPLUlSVXpBdGs2U3M0WDRjOUo0QU03NXlqUDFRRDBZSzFWa3VuWWFyME53VWYtcDFCMi1YQzJmM2h1RFhpd005WTlnZ1dXVjFyRzYxdXgyamszSDZCU0Uwdy1HWUszU1JIVmMwX0FoOTdUQWdzbmFXSE9YQ2h5VThXaHhWQ0NnV1RXLXI4dHc?oc=5",
+          "desc": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares impulsado por la demanda de IA MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:20:45+00:00"
+        },
+        {
+          "title": "OpenAI diseñó el chip Jalapeño con su propia IA y lo hizo en 20 meses: lo que eso cambia para Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFbTdwY0puR0tnNHN3OVRNN2hxUFdGY1RDa0NmWEZBLWlkX3hQekE0bzFPaGY0YnAwUWxKYWtTVUQzZ01rYmItZ1BtN3MxUEdRelJNY3RVY3pOdW9KUmdEVkMtTDdiVjZfYlU1Y1F1U0JlTXhfQ1V2X3ZuV2J5UTg?oc=5",
+          "desc": "OpenAI diseñó el chip Jalapeño con su propia IA y lo hizo en 20 meses: lo que eso cambia para Nvidia WWWhat's new",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:07:54+00:00"
+        },
+        {
+          "title": "NVIDIA supera la nube Ichimoku con resistencia en $228: niveles en vivo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDdQeE5WSmkwM0Q2NjFNbURtLWtnUUlGZFZPZ3lHa0NSaTBGcHFwT1h1eFdtenVtTXMyZ0w3Rl9PaE45bGlEYlBIV3ZvUS1UU0Q0YnBMbkZSY2dMaHFveEQ1TVhlYXY4emRoRWdsLXdycmx6bTI1d0tzYi15OVRjV1cxMjJIZWVPckhrZEhnN2pmc2hqZUhSNkdaQVVGal91MjdCc29lZ2I4SE9IWmtmSXNBRmNVTjNqSHF6dVJaR0QxTXo1a0pFWjdn?oc=5",
+          "desc": "NVIDIA supera la nube Ichimoku con resistencia en $228: niveles en vivo Investing.com España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:07:00+00:00"
+        },
+        {
+          "title": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDZBSzJpS2RmTWFBVG1vcHZBVEVlME92ZlVjdFFQZEVlV1NHSHNNRjZ5cFhFVzNkc01KeXRaQ00wVW1rUkNvWXpQaTJYN09YS0FuZWhxZmxfSmowdjBuVUstNll0R2RZU0NsVktBeXZvWXdESzBuVExQTng2b2wyaS1SMm84VWtNcG14TWpfRDdEOFI4QmtsRHZDckdsWXhEU1g2ZFVZSWdZMm5MTHRtYjloekhfNjVwMnNxcmVR0gHYAUFVX3lxTFAwY0ZYZUExN3NOZnN6akxtZklRUDY3by1jRk1FSW1lS1NoLVdTS3VwOWxNWW1VX29wR191VFgzVGtlQ3lsSXpZbkRhRENtckxUZUFRQTFSUGE0ZDhBTl9rQm5qaElka2tMb0Nxako0U1VMMXVzY09fcThuYXJrOENiYkZtaEEyeDVTN2tvd1VnLUFWWEdHRUM1YkFteHQxYlNuanJKaFVjVkxWbXNTSUJWcUx6d3lDeGpPbk9NbUlDalJGdkQzbXVKN1FuRXBEUmRteTZBT2hscg?oc=5",
+          "desc": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028 Infobae",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:06:54+00:00"
+        },
+        {
+          "title": "XBOX patenta un sistema de publicidad para mostrar anuncios al completar una misión o al terminar una ronda",
+          "link": "https://vandal.elespanol.com/noticia/2026264027/xbox-patenta-un-sistema-de-publicidad-para-mostrar-anuncios-al-completar-una-mision-o-al-terminar-una-ronda/",
+          "desc": "Microsoft ha registrado en Estados Unidos una patente para mostrar publicidad en videojuegos de PC y XBOX sin interrumpir la partida en momentos importantes. Microsoft ha patentado un sistema de publicidad que coloca anuncios en videojuegos para PC , XBOX y potencialmente el juego en la nube, pero sin interrumpir la partida en momentos clave , pues es capaz de detectar lo que está ocurriendo en el juego. Este movimiento se suma a otras iniciativas de la compañía de Windows para incluir publicidad en sus juegos y servicios. La empresa norteamericana registró la patente en la Oficina de Patentes y Marcas Registradas de Estados Unidos (USPTO) el 3 de septiembre , según detectó el medio Respawn First . Microsoft describe el sistema como \"consciente del contexto\" . Al reconocer un \"evento desencadenante\", lanza el anuncio y otorga a quien juega una cantidad de tiempo durante el que no se mostrará más publicidad . La patente indica que esta herramienta de publicidad no interrumpirá la partida la ser capaz de reconocer lo que está ocurriendo en el juego. En el mismo documento se ejemplifican algunas de las situaciones en las que el programa se puede suspender para que aparezca un anuncio: una pantalla de carga , el fin de una ronda en un multijugador competitivo o al terminar una misión en una aventura o un juego de rol. Funciona con un sistema de créditos El sistema reconoce esos momentos como tiempo de inactividad. En esas situaciones muestra o no publicidad dependiendo de un sistema de créditos, que asigna tiempo sin anuncios y, cuando se agota, se muestra publicidad al llegar al siguiente momento de inactividad e el juego. \"Un sistema de gestión de contenidos puede establecer un crédito basado, al menos en parte, en el contenido audiovisual promocionado , de modo que dicho crédito retrase la suspensión de la interacción del usuario con la aplicación de software interactiva durante la duración del crédito\", se lee en la patente. Como ocurre con toda patente, su registro no indica que Microsoft vaya a lanzar esta tecnología al público. Además, en el documento no se especifica si este sistema se aplicará a todo tipo de juegos de XBOX para consola, PC o la nube, o solo a juegos gratuitos. Microsoft lanzó en julio una versión gratuita en fase de pruebas de XBOX Cloud Gaming con publicidad . A mediados de septiembre se filtró una nueva modalidad de XBOX Game Pass con publicidad cuya existencia la compañía no ha negado.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-21T14:01:00+00:00"
+        },
+        {
+          "title": "Switch 2, Steam Deck y...Ayn: esta desconocida consola está arrasando en ventas",
+          "link": "https://www.20minutos.es/ofertas-descuentos/switch-2-steam-deck-ayn-esta-desconocida-consola-esta-arrasando-ventas_7039227_0.html",
+          "desc": "Una de las consolas Android más vendidas baja de precio, y es ideal para jugar en cualquier parte.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-21T16:00:00+02:00"
+        },
+        {
+          "title": "New RTX 5070 Autumn Limited Edition gaming GPU doubles as an air freshener with built-in 'e-sports aromatherapy' — AX Gaming's white and purple card also features an anime character and floral graphics",
+          "link": "https://www.tomshardware.com/pc-components/gpus/new-rtx-5070-autumn-limited-edition-gaming-gpu-doubles-as-an-air-freshener-with-built-in-e-sports-aromatherapy-ax-gamings-white-and-purple-card-also-features-an-anime-character-and-floral-graphics",
+          "desc": "AX Gaming has revealed its latest seasonal anime-themed limited edition graphics card which, this time, is designed to please your nose as much as your eyes.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-21T14:00:00+00:00"
+        },
         {
           "title": "Sánchez reclama “un nuevo contrato social” para abordar la IA: “La autorregulación no funciona”",
           "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
@@ -544,7 +593,7 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN2VqamZLckdJWUJ0S21EUEE3WlpkbmxQTGtQaGVadWxVZ3RaZ3dhamh0Yk5ULW96dmNZbU10SWpCWVRjc3F2Vmk3ZlFKX0RVVEZ1N08tNGlDeGdlamJ1a3pHWG1yWlpvRTMtSjU4ejRlV0tjTkE?oc=5",
           "desc": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos es.qz.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T13:53:33+00:00"
+          "fecha": "2026-09-21T13:52:29+00:00"
         },
         {
           "title": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm",
@@ -552,6 +601,13 @@
           "desc": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm Notebookcheck.org",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T13:34:00+00:00"
+        },
+        {
+          "title": "El CEO de Nvidia descarta que la IA tenga alguna probabilidad de destruir el mundo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUs4V196QU5ZX3ZiRUM3MWpQSkp4TTQ1dXFTT1ZaM19ZZ2VfS3lCLXc2QWM3Ni1VUmlEOHI4UlNval9CY2lOLXczNWxNVlc1RU8tVVo0bW9QUjA1eTNVQkpOVEt0WDdlUFN4Szg4eWlNT1VxWGlEbEpuSzdMYlpUZkhfdnN2eWU1cEhJLVEwSDhUWmRPbFRpRm1QYUxSZjhRR3JndlBIM3F5dC1NVEE0V1lRN281U3Z6a3BVUmZnQmhXd29Ra0o4cW9nWnhCazB2LW9mNjhicWVvSjlhdm10VWNR0gHnAUFVX3lxTE5rb2tXYXJsOHdHNXdGVzdZSkdiWExVaW9iZTltV1hYNTFFbVB4RnFqNTJQazY0X3hfM1JJaWRxYUJwcXJxZmRYQ3RFeWIxYnRUVnh3NkNxaFBwdWVsX2Ftc25Ic1JDNTNoTDJCVnNEY09GRHBMbXBUUG84em1ZUlRWbUE0WVlRb0FTdGFtaHlDTlVPMFh5ZUdsOWxJUjc4a3A1YzU0WnFuVU43dE9hOHJscEU1VFZQUDZoaGxTNXFXTHdGNkQ3UURoT2YzUU80OVE1Yjk2OVJRcExMQVQtLWRpVG01QXpLcw?oc=5",
+          "desc": "El CEO de Nvidia descarta que la IA tenga alguna probabilidad de destruir el mundo Diario en Positivo",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:28:35+00:00"
         },
         {
           "title": "El jefe de Nvidia descarta el apocalipsis por la IA",
@@ -643,62 +699,6 @@
           "desc": "La Escudería Yamaha Eduardo Castro ha vuelto a la competición este fin de semana tras el parón veraniego y lo ha hecho a lo grande ya que ha subido al podio en dos ocasiones gracias a Salvador Pérez y a Jorge Salvador Yamaha Eduardo Castro compitió con seis pilotos en la quinta prueba del Campeonato de España de Motocross Elite de la localidad aragonesa, obteniendo dos terceras posiciones de mucho mérito en el siempre exigente MotorLand Aragón de Alcañiz . Salvador Pérez regresó al certamen de casa después de proclamarse como flamante campeón de Brasil en categoría MX2 . Sin tiempo para el descanso, el murciano se volvió a poner sobre su YZ250 para dar muestras del excelente estado de forma en el que se encuentra. Así, ya saldó con un tercer mejor tiempo los entrenamientos cronometrados y logró una muy buena segunda posición en la manga clasificatoria. El formato de carrera de este pasado fin de semana cambió respecto a las anteriores citas de la temporada y las dos mangas se disputaron con los pilotos de 450 cc y 250 cc juntos en parrilla, aunque cada categoría computó por separado. Y Salvi , nuevamente, estuvo entre los mejores en la primera manga, donde se llevó el holeshot para cruzar la línea de meta cuarto. Se podía mejorar y lo hizo, pues ya en la carrera final del domingo, rodando a muy buen ritmo siempre en el grupo de cabeza acabando segundo para una tercera posición en el cómputo global . En el MX125, Jorge Salvador mostró una de sus mejores imágenes de la temporada en el Nacional para subir al tercer escalón de los puestos de honor. Quinto en los cronos y muy sólido en las mangas, saldó su primera carrera tercero y fue cuarto en la segunda. Alejandro Torres mejoró mucho en las salidas, aspecto que ha determinado sus puestas en escena. No obstante, una caída en la primera manga después de ser cuarto en los cronos, le relegó hasta la décima posición. En la segunda consiguió ser quinto para finalizar séptimo tras dos buenas jornadas de trabajo intenso en circuito. De este modo se sitúa cuarto en la general provisional del campeonato. Las caídas lastraron la evolución de Óscar Rueda . Pese a ello, logró la décima posición gracias a ser noveno en los cronos, octavo en la primera manga y duodécimo en la segunda. Gonzalo Salvador llegó muy tocado de las costillas tras sufrir un accidente entrenando en Bélgica. Lo dio todo mientras se mantuvo en pista y hasta que se vio obligado a abandonar por los fuertes dolores. Por lo que respecta a Víctor Corbacho , sigue en su constante evolución y se quedó a solo un paso del Top 20 tras las dos jornadas, lo que deja entrever que el trabajo da sus frutos y que, en las próximas citas, de bien seguro, se seguirá acoplando a la siempre complicada categoría del MX125. Asimismo, todos ellos disputaron también una nueva prueba de la YZ bLU cRU Cup 2026, programa de promoción para jóvenes talentos de Yamaha . Jorge Salvador fue el ganador y Alejandro Torres se alzó con el liderato después de ser tercero. Sin tiempo para el descanso, Yamaha Eduardo Castro se dirigirá el próximo fin de semana a Lugo, donde disputará una nueva ronda del Nacional de Motocross Júnior.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-21T12:42:08+00:00"
-        },
-        {
-          "title": "NVIDIA Corporation : recomendación de compra de Bernstein",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmNEWFVFaUtrN2gwY3l0dk1uOWZSSnF1dlVIbWxUVkpsRkdFVkhBcFctWm1BVEFBdHFiV2E5UWFWME9GaTlUcG5YcDlEYjZkNWRPTC1ja0JlWWl1ZGVfU2RmYk9nOFB6UFRkNEE2bHdaQzlpcklibFR5RW1fcHFGbWxKZzlZckxSMG9LWGFKU3d2X1hDdGVsc2dPTnhsTDRsX1NQcElKYzdoMUJNQWIxNA?oc=5",
-          "desc": "NVIDIA Corporation : recomendación de compra de Bernstein MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T12:37:47+00:00"
-        },
-        {
-          "title": "La maldición inédita del Málaga en Getafe",
-          "link": "https://www.marca.com/futbol/malaga/2026/09/21/maldicion-inedita-malaga-getafe.html",
-          "desc": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-21T14:37:28+02:00"
-        },
-        {
-          "title": "La serie aplazada tras el asesinato de Charlie Kirk verá la luz más de un año después",
-          "link": "https://www.20minutos.es/cinemania/series/savant-serie-fecha-estreno-asesinato-charlie-kirk-apple_7039164_0.html",
-          "desc": "Un año después de ser archivada por Apple TV, 'The Savant' regresará el 2027 justo a tiempo para poder competir en los Emmy.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-21T14:28:21+02:00"
-        },
-        {
-          "title": "Luis de la Fuente renueva hasta 2032: Su nuevo contrato y sus objetivos con la selección española",
-          "link": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/oficial-renovacion-luis-fuente-nuevo-contrato-sus-objetivos-con-seleccion-espanola-20260921-546991.html",
-          "desc": "Tras el éxito en el Mundial, la Real Federación Española de Fútbol, con Rafael Louzán a la cabeza, reafirma el papel protagonista del seleccionador dentro de \"un proyecto de estabilidad y confianza\" Era un secreto a voces que este lunes, como se preveía se ha hecho realidad. Tras conquistar el segundo Mundial para la selección española el pasado mes de julio, engordado así un palmarés en el que también lucen la Europa y la Nations League, Luis de la Furente ha firmado su renovación hasta 2032, con el consiguiente aumento de su sueld o . Así lo ha anunciado la Junta Directiva de la Real Federación Española de Fútbol, presidida por Rafael Louzán y reunida en la Ciudad del Fútbol de Las Rozas, que ha dado el visto bueno por unanimidad a la ampliación del contrato del seleccionador nacional absoluto. En su intervención ante la Junta, Rafael Louzán afirmó que con esta decisión se busca \"un proyecto de estabilidad y confianza\". \" Es una propuesta basada en la confianza en Luis de la Fuente y en el proyecto deportivo que lidera, para un ciclo de competición de varios años y competiciones importantes. Estamos hablando del seleccionador más laureado de la historia de la Selección y después de catorce años en nuestra casa es algo que Luis de la Fuente merece, un futuro largo en la RFEF”, señaló el presidente de de la RFEF. Luis de la Fuente no renovará hasta la fecha anunciada Convocatoria Selección Española en directo | La lista de Luis de la Fuente para los partidos de España en la Nations League contra Inglaterra, Croacia y Chequia Dos Eurocopas y otro Mundial en el horizonte De este modo, Luis de la Fuente, que llegó al cargo en diciembre de 2022, amplía su contrato con la vista puesta en las dos próximas Eurocopas (2028 y 2032) y en la Copa Mundial de 2030 , que España organizará junto a Portugal, Marruecos, Paraguay, Uruguay y Argentina, aunque hay voces que apuntan a que debería desmarcarse del proyecto si el país norteafricano se lleva finalmente la final a su territorio. Según el comunicado emitido por el ente federativo, el acuerdo se presentará en la Ciudad del Fútbol en un acto en el que estará presente el seleccionador nacional, así como distintos representantes del fútbol español , destacando que en el mismo se han sentado las bases del camino que inicia la campeona del Mundo. \"Esa ruta incluye el objetivo de la EURO 2028 así como la disputa de la próxima edición de la UEFA Nations League, cuyos primeros partidos se celebran este mes de septiembre y principios de octubre (con Inglaterra, Croacia y República Checa como rivales) \", añade la nota. Antes de volver a entrar en acción, por tanto, De la Fuente ve respaldado así su gran trabajo y su éxito en el Mundial, iniciando su nueva andadura con solo cuatro novedades en la lista . Así, Roberto Fernández entra en lugar del tocado Borja Iglesias, estrenándose también el meta Josep Martínez , del Inter de Milán, por la lesión de Joan García, pese al gran momento del bético Ávaro Valles . Junto a ellos, regresan Huijsen y Fermín López por Marcos Llorente, que ha decidido acabar su carrera como internacional, y Gavi. También renueva Jesús Velasco como seleccionador de fútbol sala La RFEF anunció también que su directiva aprobó igualmente la renovación hasta 2029 como seleccionador absoluto de fútbol sala de Jesús Velasco , que ocupa el cargo desde noviembre de 2024 y el pasado febrero se proclamó campeón de Europa frente a Portugal. En su caso, el acuerdo será presentado en próximas fechas.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-21T12:26:14+00:00"
-        },
-        {
-          "title": "Nvidia DLSS 5: la IA que cambia los gráficos de los videojuegos y abre un nuevo debate",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFEwLWZMdFRGYWkycUpSeGxfVkNOZUM1UllHaFZaUzBxQVRzQm45aG1PV29DamoxV3BNbWZkeDl1RzExVGVLVC1uNGdPQjBWNUtvTmFaeGQxNkY1ZkktcjRaWUIzQnk5N3FKdE5GdldTczhaemJycmdBTVhyS0x4Wmx0cTV5UkJGYkxWLWlpazVnOTZmX0kxQlZIWFJDQS1nakQyRmc2YWxEenVIcElFRkhGZEFPLTBf?oc=5",
-          "desc": "Nvidia DLSS 5: la IA que cambia los gráficos de los videojuegos y abre un nuevo debate ITSitio",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T12:19:41+00:00"
-        },
-        {
-          "title": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\"",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1RURTlUaUU1R2tKclFKb3ZLcGRlU1NvWld0ZUl3andTRWdZNGE5REsta1U0UjcyYU9XOVpmdWNtZkJsVVF2aktmcGtjWWZDMVZNYXA4MXNnLWxlLU1Hc0c1U1JiZXRVRG9TUkZJQmZjdGJOSkFvbFYxWkRqOWU5Y3BqVFBUaFBISHYxVGZuZXljajJWNUdRd0R4cEJoRDU4VVIzUTYyb2NPdjl3V3hkWDVIcFZ3cUdseHJTLWJBVWJuZzhwamV4TWNVZV9ZdlRUS0hOYjB3?oc=5",
-          "desc": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\" El Constitucional",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T12:16:59+00:00"
-        },
-        {
-          "title": "El universo de Poppy Playtime crece con un nuevo juego cooperativo de terror que ya tiene fecha",
-          "link": "https://vandal.elespanol.com/noticia/2026264024/el-universo-de-poppy-playtime-crece-con-un-nuevo-juego-cooperativo-de-terror-que-ya-tiene-fecha/",
-          "desc": "Escape from Playtime, un survival horror cooperativo para hasta cuatro jugadores ambientado antes del primer Poppy Playtime, llegará a Steam en acceso anticipado el 21 de octubre. Mob Entertainment continúa ampliando el universo de Poppy Playtime , y acaba de anunciar que Escape from Playtime , su nuevo juego de terror cooperativo , se lanzará el 21 de octubre en PC a través de Steam, inicialmente en formato de acceso anticipado. La aventura transcurre antes de los acontecimientos del primer capítulo de la saga, y en esta ocasión no controlaremos a un humano atrapado en las instalaciones de Playtime Co., sino a los Smiling Critters , los inquietantes juguetes que conocimos en Poppy Playtime: Capítulo 3 . Se podrá jugar en solitario o en grupos de hasta cuatro jugadores , que deberán adentrarse en diferentes zonas de la fábrica para recoger materiales y regresar con vida. Cada partida cambiará la distribución de la fábrica Una misteriosa Voz enviará a los jugadores a buscar piezas y recursos necesarios para construir un supuesto hogar que permitirá escapar a los juguetes. El problema es que las instalaciones están repletas de creaciones rechazadas de Playtime Co. que intentarán darles caza , obligándonos a decidir cuándo separarnos del grupo, escondernos o emprender la retirada. Vídeo: Las partidas tendrán un componente imprevisible , ya que la distribución de aulas, almacenes, laboratorios y pasillos cambiará mediante generación procedimental en cada intento. Podremos buscar herramientas, resolver puzles, descubrir pistas, crear distracciones o encontrar rutas alternativas para evitar a las criaturas. También habrá chat de voz por proximidad , por lo que hablar demasiado puede revelar nuestra posición. Otra de sus peculiaridades será el denominado Mini Mode , que aprovechará el pequeño tamaño de los Smiling Critters para permitirnos arrastrarnos, saltar y trepar por rincones de la fábrica que no resultaban accesibles desde la perspectiva habitual de la saga. El acceso anticipado arrancará con los ocho Smiling Critters jugables, una zona inicial y una primera selección de enemigos. Mob Entertainment irá incorporando nuevas áreas, criaturas, personajes y funciones en función de las opiniones de la comunidad.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-21T12:06:00+00:00"
-        },
-        {
-          "title": "OpenAI projections point to a massive $278 billion cash burn through 2030 that exceeds the national budgets of Indonesia and Norway — $856 billion compute tab outpaces tenfold revenue surge",
-          "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-projections-point-to-a-massive-usd278-billion-cash-burn-through-2030-that-exceeds-the-national-budgets-of-indonesia-and-norway-usd856-billion-compute-tab-outpaces-tenfold-revenue-surge",
-          "desc": "OpenAI reportedly expects to spend $278 billion more money than it generates between 2026 and 2030 due to aggressive spending on compute capacity and adjacent infrastructure.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-21T12:00:00+00:00"
         }
       ]
     },
@@ -707,9 +707,16 @@
       "icono": "📈",
       "items": [
         {
+          "title": "¿Por qué las acciones de AMD se disparan hoy? - Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVd3djRsVVMxMThHeE1uM2V6VVB2aktiZXhfbHIxOEM2OE1iYnc0Z3BBc2piT3lpUGw5UDNPTTZmN3JxNXBMMFpVcnRMWXZYVTV1c0NRRHk4eDNjU3poZ3FITHdwMEJuTmF2aU5xS3FvdHJ6Ul9mVWNUbFc4ZjNHcHlUOUE3NUdDcGhqQl9oa0RNcHhJMG1aM3FBME83aTJDOGdwVTFwcw?oc=5",
+          "desc": "¿Por qué las acciones de AMD se disparan hoy? Investing.com México - Finanzas, Bolsa y Forex",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:13:14+00:00"
+        },
+        {
           "title": "Cuánto más puede resistir Friedrich Merz al frente de Alemania",
           "link": "https://www.eldiario.es/internacional/resistir-friedrich-merz-frente-alemania_129_13525343.html",
-          "desc": "Los poscomunistas de La Izquierda ganan en Berlín y la ultraderecha de Alternativa para Alemania, AfD, es primera fuerza en Mecklemburgo-Antepomerania, donde los democristianos del canciller se quedan fuera del Parlamento La ultraderecha vuelve a ganar en Alemania y la CDU de Merz sufre un descalabro histórico Poco antes de que las encuestas a pie urna en Schwerin anunciasen el peor resultado de la historia de los conservadores de la CDU en unas elecciones regionales, una noticia saltaba el domingo en Berlín: Friedrich Merz comparecería poco después de las seis de la tarde en la central democristiana en la capital federal, justo después del cierre de los locales electorales. No se recuerda algo similar en Alemania: que un canciller se adelante a las valoraciones de los candidatos regionales de los partidos y tome la palabra robando el protagonismo al resto de actores políticos. “El resultado en Mecklemburgo-Antepomerania es un desastre. La CDU ha peleado, pero ha quedado destrozada por la polarización entre SPD y AfD”, dijo Merz con gesto de derrota y evidente cansancio. El canciller y presidente democristiano calificó el resultado de su partido de “respetable” en las otras elecciones de la jornada: en Berlín, la CDU perdió más de nueve puntos y quedó en segunda posición, por detrás de los poscomunistas de La Izquierda, que ganaron claramente las elecciones en la capital. Contra pronóstico, cuando todo apuntaba a una bomba informativa, Merz sorprendió una vez más: “Alemania es capaz de llevar a cabo reformas. Me atrevo incluso a afirmar que estas reformas son el antídoto contra el veneno autoritario”, dijo el canciller, sin nombrar expresamente a AfD. “Lo que hay que hacer ahora requiere firmeza, constancia y paciencia. Yo voy a poner de mi parte. Como presidente del partido CDU y, sobre todo, como canciller federal de nuestro país”. Merz se mantiene al frente de Alemania y de su partido. El canciller pronunció esas palabras antes de que hubiese resultados definitivos en Mecklemburgo-Antepomerania. Cuatro horas más tarde, poco después de medianoche, se hacía oficial el peor escenario para los conservadores: la CDU, con 4,9% de los votos, se queda fuera del Parlamento regional, situación inédita en la historia de la República Federal. El partido que reconstruyó la Alemania de posguerra cae en el extraparlamentarismo en el noreste del país. Las palabras de Merz de media tarde habían envejecido meses en tan sólo unas horas. Dudas sobre la Gran Coalición Merz unió este domingo su futuro político a la capacidad del Gobierno federal de la Gran Coalición de sacar adelante su agenda de reformas económicas y políticas . Pero los resultados de la doble cita electoral dejan aún más dudas sobre el futuro del Ejecutivo liderado por Merz. Democristianos y socialdemócratas perdieron juntos más de 15 puntos en Berlín, ciudad que han gobernado también en Gran Coalición durante los últimos tres años. El castigo a los partidos que hoy dirigen Alemania es innegable en la capital, que se enfrenta ahora a la difícil tarea de formar Gobierno. El mensaje que las urnas lanzan desde el norte, en Mecklemburgo-Antepomerania, no es mucho más alentador para Merz: los conservadores de la CDU pierden más de ocho puntos y caen en la irrelevancia política del extraparlamentarismo. La primera ministra regional, la socialdemócrata Manuela Schwesig, pierde las elecciones frente a la ultraderecha, pero probablemente podrá mantenerse en el poder si consigue armar una coalición con los poscomunistas de La Izquierda y Los Verdes. Se puede decir que Schwesig ha conseguido aguantar el pulso a la ultraderecha, que gana casi 20 puntos respecto a las últimas elecciones regionales, pese a su partido: la primera ministra ha hecho campaña centrándose en su figura, muy popular en Mecklemburgo-Antepomerania, y no ha dudado en atacar algunas de las reformas propuestas por la Gran Coalición de Merz, de la que su partido forma parte, como, por ejemplo, la prolongación de la edad de jubilación o los recortes sociales. Los resultados lanzan un mensaje común al Gobierno de Merz: si la única respuesta del canciller federal es mantener inalterado el curso de sus impopulares reformas, la crisis dentro del Gran Coalición parece servida en bandeja. Cuesta imaginar cómo Merz conseguirá agotar la legislatura y mantener el Gobierno unido, con una dirección socialdemócrata muy desacreditada y una creciente oposición interna dentro de las filas conservadoras. La destrucción de la CDU Los resultados de este domingo vuelven a confirmar el auténtico proyecto de la ultraderecha de AfD: la destrucción de la democracia cristiana de la CDU para alcanzar la hegemonía política y electoral en un país esencialmente conservador. AfD quiere convertir ese conservadurismo en voto reaccionario para poner en marcha proyectos como el de la “remigración: es decir, la expulsión de millones de personas para recuperar la homogeneidad etnocultural de Alemania, una posición que raya claramente con el neonazismo. La salida de los democristianos del parlamento regional de Mecklemburgo-Antepomerania confirman que la ultraderecha va por buen camino. La buena noticia para Merz es que las elecciones del pasado domingo cierran un año electoral que ha dejado dos victorias electorales de la ultraderecha –una en Sajonia-Anhalt y otra en Meclemburgo Anteporania– y una de los poscomunistas de La Izquierda –en Berlín–. Hasta abril del próximo año las urnas no se volverán a abrir en Alemania. Será con tres comicios regionales en Schleswig-Holstein, el Sarre y Renania del Norte-Westfalia, en esta ocasión en el Occidente del país. El plan de Merz parece ser resistir en el poder y al frente de su partido hasta entonces. Pero durante estos meses, Alemania podría tener su primer ministro regional ultraderechista en Sajonia-Anhalt , estado en el que Ulrich Siegmund se quedó al borde de la mayoría absoluta a inicios de este septiembre. Entre las filas de la CDU las voces críticas con la gestión de Merz amenazan con convertirse en una rebelión dentro del conservadurismo. La dimisión a plazos que Merz podría entonces convertirse en una renunciada forzada. A estas alturas la cuestión no es si Merz caerá, sino cuándo.",
+          "desc": "Los poscomunistas de La Izquierda ganan en Berlín y la ultraderecha de Alternativa para Alemania, AfD, es primera fuerza en Mecklemburgo-Antepomerania, donde los democristianos del canciller se quedan fuera del Parlamento La ultraderecha vuelve a ganar en Alemania y la CDU de Merz sufre un descalabro histórico Poco antes de que las encuestas a pie urna en Schwerin anunciasen el peor resultado de la historia de los conservadores de la CDU en unas elecciones regionales, una noticia saltaba el domingo en Berlín: Friedrich Merz comparecería poco después de las seis de la tarde en la central democristiana en la capital federal, justo después del cierre de los locales electorales. No se recuerda algo similar en Alemania: que un canciller se adelante a las valoraciones de los candidatos regionales de los partidos y tome la palabra robando el protagonismo al resto de actores políticos. “El resultado en Mecklemburgo-Antepomerania es un desastre. La CDU ha peleado, pero ha quedado destrozada por la polarización entre SPD y AfD”, dijo Merz con gesto de derrota y evidente cansancio. El canciller y presidente democristiano calificó el resultado de su partido de “respetable” en las otras elecciones de la jornada: en Berlín, la CDU perdió más de nueve puntos y quedó en segunda posición, por detrás de los poscomunistas de La Izquierda, que ganaron claramente las elecciones en la capital. Contra pronóstico, cuando todo apuntaba a una bomba informativa, Merz sorprendió una vez más: “Alemania es capaz de llevar a cabo reformas. Me atrevo incluso a afirmar que estas reformas son el antídoto contra el veneno autoritario”, dijo el canciller, sin nombrar expresamente a AfD. “Lo que hay que hacer ahora requiere firmeza, constancia y paciencia. Yo voy a poner de mi parte. Como presidente del partido CDU y, sobre todo, como canciller federal de nuestro país”. Merz se mantiene al frente de Alemania y de su partido. El canciller pronunció esas palabras antes de que hubiese resultados definitivos en Mecklemburgo-Antepomerania. Cuatro horas más tarde, poco después de medianoche, se hacía oficial el peor escenario para los conservadores: la CDU, con 4,9% de los votos, se queda fuera del Parlamento regional, situación inédita en la historia de la República Federal. El partido que reconstruyó la Alemania de posguerra cae en el extraparlamentarismo en el noreste del país. Las palabras de Merz de media tarde habían envejecido meses en tan sólo unas horas. Dudas sobre la Gran Coalición Merz unió este domingo su futuro político a la capacidad del Gobierno federal de la Gran Coalición de sacar adelante su agenda de reformas económicas y políticas . Pero los resultados de la doble cita electoral dejan aún más dudas sobre el futuro del Ejecutivo liderado por Merz. Democristianos y socialdemócratas perdieron juntos más de 15 puntos en Berlín, ciudad que han gobernado también en Gran Coalición durante los últimos tres años. El castigo a los partidos que hoy dirigen Alemania es innegable en la capital, que se enfrenta ahora a la difícil tarea de formar Gobierno. El mensaje que las urnas lanzan desde el norte, en Mecklemburgo-Antepomerania, no es mucho más alentador para Merz: los conservadores de la CDU pierden más de ocho puntos y caen en la irrelevancia política del extraparlamentarismo. La primera ministra regional, la socialdemócrata Manuela Schwesig, pierde las elecciones frente a la ultraderecha, pero probablemente podrá mantenerse en el poder si consigue armar una coalición con los poscomunistas de La Izquierda y Los Verdes. Se puede decir que Schwesig ha conseguido aguantar el pulso a la ultraderecha, que gana casi 20 puntos respecto a las últimas elecciones regionales, pese a su partido: la primera ministra ha hecho campaña centrándose en su figura, muy popular en Mecklemburgo-Antepomerania, y no ha dudado en atacar algunas de las reformas propuestas por la Gran Coalición de Merz, de la que su partido forma parte, como, por ejemplo, la prolongación de la edad de jubilación o los recortes sociales. Los resultados lanzan un mensaje común al Gobierno de Merz: si la única respuesta del canciller federal es mantener inalterado el curso de sus impopulares reformas, la crisis dentro del Gran Coalición parece servida en bandeja. Cuesta imaginar cómo Merz conseguirá agotar la legislatura y mantener el Gobierno unido, con una dirección socialdemócrata muy desacreditada y una creciente oposición interna dentro de las filas conservadoras. La destrucción de la CDU Los resultados de este domingo vuelven a confirmar el auténtico proyecto de la ultraderecha de AfD: la destrucción de la democracia cristiana de la CDU para alcanzar la hegemonía política y electoral en un país esencialmente conservador. AfD quiere convertir ese conservadurismo en voto reaccionario para poner en marcha proyectos como el de la “remigración”: es decir, la expulsión de millones de personas para recuperar la homogeneidad etnocultural de Alemania, una posición que raya claramente con el neonazismo. La salida de los democristianos del parlamento regional de Mecklemburgo-Antepomerania confirman que la ultraderecha va por buen camino. La buena noticia para Merz es que las elecciones del pasado domingo cierran un año electoral que ha dejado dos victorias electorales de la ultraderecha —una en Sajonia-Anhalt y otra en Meclemburgo Anteporania— y una de los poscomunistas de La Izquierda —en Berlín—. Hasta abril del próximo año las urnas no se volverán a abrir en Alemania. Será con tres comicios regionales en Schleswig-Holstein, el Sarre y Renania del Norte-Westfalia, en esta ocasión en el Occidente del país. El plan de Merz parece ser resistir en el poder y al frente de su partido hasta entonces. Pero durante estos meses, Alemania podría tener su primer ministro regional ultraderechista en Sajonia-Anhalt , estado en el que Ulrich Siegmund se quedó al borde de la mayoría absoluta a inicios de este septiembre. Entre las filas de la CDU las voces críticas con la gestión de Merz amenazan con convertirse en una rebelión dentro del conservadurismo. La dimisión a plazos que Merz podría entonces convertirse en una renunciada forzada. A estas alturas la cuestión no es si Merz caerá, sino cuándo.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-21T13:22:11+00:00"
         },
@@ -812,6 +819,13 @@
           "fecha": "2026-09-21T10:08:49+00:00"
         },
         {
+          "title": "Acaban de llegar a Zara las novedades de la semana con aroma a otoño: abrigos cortos, cazadoras bomber, chaquetas de punto y mucho más",
+          "link": "https://www.elmundo.es/yodona/moda/2026/09/21/6ab0d26c21efa071348b4572.html",
+          "desc": "¿Tienes que renovar tu armario de otoño? Echa un vistazo a las novedades de la semana de Zara. La firma de Inditex acaba de lanzar abrigos cortos, cazadoras bomber, chaquetas de punto y otras prendas ideales para esta época. Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-21T11:54:08+02:00"
+        },
+        {
           "title": "El principal sospechoso en el caso de Madeleine McCann admite que se encontraba a 137 metros de la habitación de la niña la noche de su desaparición: \"Estaba vendiendo drogas\"",
           "link": "https://www.elmundo.es/internacional/2026/09/21/6ab0f57921efa0a07d8b459e.html",
           "desc": "Christian Brueckner asegura que se encontraba en una playa de Praia da Luz vendiendo droga y que la Policía portuguesa lo paró tres veces mientras buscaba a la niña Leer",
@@ -859,20 +873,6 @@
           "desc": "La eurodiputada de Podemos, que propone una candidatura amplia a las generales, reclama un viraje en la política migratoria “criminal y racista” de la UE",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-21T03:30:01+00:00"
-        },
-        {
-          "title": "Los expertos dudan de la aplicación del 6% del PIB en educación: “No es viable”",
-          "link": "https://elpais.com/espana/catalunya/2026-09-21/los-expertos-dudan-de-la-aplicacion-del-6-del-pib-en-educacion-no-es-viable.html",
-          "desc": "La Generalitat debería aumentar el gasto en al menos 7.700 millones de euros (un 65%) para alcanzar esa meta",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-21T03:30:01+00:00"
-        },
-        {
-          "title": "Francia negocia los recortes del último presupuesto de la era Macron en plena crisis por el precio de la energía",
-          "link": "https://elpais.com/internacional/2026-09-21/francia-negocia-los-recortes-del-ultimo-presupuesto-de-la-era-macron-en-plena-crisis-por-el-precio-de-la-energia.html",
-          "desc": "Lecornu pretende recortar 54.000 millones mientras los movimientos sociales empiezan a prepararse en la calle con el destello de fondo de un posible regreso de los ‘chalecos amarillos’",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-21T03:30:01+00:00"
         }
       ]
     },
@@ -881,11 +881,46 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "OpenAI diseñó el chip Jalapeño con su propia IA y lo hizo en 20 meses: lo que eso cambia para Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFbTdwY0puR0tnNHN3OVRNN2hxUFdGY1RDa0NmWEZBLWlkX3hQekE0bzFPaGY0YnAwUWxKYWtTVUQzZ01rYmItZ1BtN3MxUEdRelJNY3RVY3pOdW9KUmdEVkMtTDdiVjZfYlU1Y1F1U0JlTXhfQ1V2X3ZuV2J5UTg?oc=5",
+          "desc": "OpenAI diseñó el chip Jalapeño con su propia IA y lo hizo en 20 meses: lo que eso cambia para Nvidia WWWhat's new",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:07:54+00:00"
+        },
+        {
+          "title": "NVIDIA supera la nube Ichimoku con resistencia en $228: niveles en vivo",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDdQeE5WSmkwM0Q2NjFNbURtLWtnUUlGZFZPZ3lHa0NSaTBGcHFwT1h1eFdtenVtTXMyZ0w3Rl9PaE45bGlEYlBIV3ZvUS1UU0Q0YnBMbkZSY2dMaHFveEQ1TVhlYXY4emRoRWdsLXdycmx6bTI1d0tzYi15OVRjV1cxMjJIZWVPckhrZEhnN2pmc2hqZUhSNkdaQVVGal91MjdCc29lZ2I4SE9IWmtmSXNBRmNVTjNqSHF6dVJaR0QxTXo1a0pFWjdn?oc=5",
+          "desc": "NVIDIA supera la nube Ichimoku con resistencia en $228: niveles en vivo Investing.com España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:07:00+00:00"
+        },
+        {
+          "title": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDZBSzJpS2RmTWFBVG1vcHZBVEVlME92ZlVjdFFQZEVlV1NHSHNNRjZ5cFhFVzNkc01KeXRaQ00wVW1rUkNvWXpQaTJYN09YS0FuZWhxZmxfSmowdjBuVUstNll0R2RZU0NsVktBeXZvWXdESzBuVExQTng2b2wyaS1SMm84VWtNcG14TWpfRDdEOFI4QmtsRHZDckdsWXhEU1g2ZFVZSWdZMm5MTHRtYjloekhfNjVwMnNxcmVR0gHYAUFVX3lxTFAwY0ZYZUExN3NOZnN6akxtZklRUDY3by1jRk1FSW1lS1NoLVdTS3VwOWxNWW1VX29wR191VFgzVGtlQ3lsSXpZbkRhRENtckxUZUFRQTFSUGE0ZDhBTl9rQm5qaElka2tMb0Nxako0U1VMMXVzY09fcThuYXJrOENiYkZtaEEyeDVTN2tvd1VnLUFWWEdHRUM1YkFteHQxYlNuanJKaFVjVkxWbXNTSUJWcUx6d3lDeGpPbk9NbUlDalJGdkQzbXVKN1FuRXBEUmRteTZBT2hscg?oc=5",
+          "desc": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028 Infobae",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:06:54+00:00"
+        },
+        {
+          "title": "New RTX 5070 Autumn Limited Edition gaming GPU doubles as an air freshener with built-in 'e-sports aromatherapy' — AX Gaming's white and purple card also features an anime character and floral graphics",
+          "link": "https://www.tomshardware.com/pc-components/gpus/new-rtx-5070-autumn-limited-edition-gaming-gpu-doubles-as-an-air-freshener-with-built-in-e-sports-aromatherapy-ax-gamings-white-and-purple-card-also-features-an-anime-character-and-floral-graphics",
+          "desc": "AX Gaming has revealed its latest seasonal anime-themed limited edition graphics card which, this time, is designed to please your nose as much as your eyes.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-21T14:00:00+00:00"
+        },
+        {
           "title": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN2VqamZLckdJWUJ0S21EUEE3WlpkbmxQTGtQaGVadWxVZ3RaZ3dhamh0Yk5ULW96dmNZbU10SWpCWVRjc3F2Vmk3ZlFKX0RVVEZ1N08tNGlDeGdlamJ1a3pHWG1yWlpvRTMtSjU4ejRlV0tjTkE?oc=5",
           "desc": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos es.qz.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T13:53:33+00:00"
+          "fecha": "2026-09-21T13:52:29+00:00"
+        },
+        {
+          "title": "El CEO de Nvidia descarta que la IA tenga alguna probabilidad de destruir el mundo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUs4V196QU5ZX3ZiRUM3MWpQSkp4TTQ1dXFTT1ZaM19ZZ2VfS3lCLXc2QWM3Ni1VUmlEOHI4UlNval9CY2lOLXczNWxNVlc1RU8tVVo0bW9QUjA1eTNVQkpOVEt0WDdlUFN4Szg4eWlNT1VxWGlEbEpuSzdMYlpUZkhfdnN2eWU1cEhJLVEwSDhUWmRPbFRpRm1QYUxSZjhRR3JndlBIM3F5dC1NVEE0V1lRN281U3Z6a3BVUmZnQmhXd29Ra0o4cW9nWnhCazB2LW9mNjhicWVvSjlhdm10VWNR0gHnAUFVX3lxTE5rb2tXYXJsOHdHNXdGVzdZSkdiWExVaW9iZTltV1hYNTFFbVB4RnFqNTJQazY0X3hfM1JJaWRxYUJwcXJxZmRYQ3RFeWIxYnRUVnh3NkNxaFBwdWVsX2Ftc25Ic1JDNTNoTDJCVnNEY09GRHBMbXBUUG84em1ZUlRWbUE0WVlRb0FTdGFtaHlDTlVPMFh5ZUdsOWxJUjc4a3A1YzU0WnFuVU43dE9hOHJscEU1VFZQUDZoaGxTNXFXTHdGNkQ3UURoT2YzUU80OVE1Yjk2OVJRcExMQVQtLWRpVG01QXpLcw?oc=5",
+          "desc": "El CEO de Nvidia descarta que la IA tenga alguna probabilidad de destruir el mundo Diario en Positivo",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T13:28:35+00:00"
         },
         {
           "title": "El jefe de Nvidia descarta el apocalipsis por la IA",
@@ -967,14 +1002,14 @@
         {
           "title": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhiN1JpZWt1UzlZZlllaUR4N0NTZWMtZlZSMFZqcDJVSUQtTmNkVjFRNDhhQW00Q3dxNFRtVVdZTVoxdVZWSHp1YVFKelhxWmh0anY0Ylgwa0ZlaXlJS1NhX1NnN3dSRWM3b2FIUlk3U2wzc3VqMEJ4dUZhOFhoTVZISi1RV2FuYWt3Wkt1cF9hUUlDdHd1VjdGTHNjTzg4Z2JxNGJ2VkZOMXAzelFzMUZ1WFF1enRGSnlUSDNiejc4ZlE?oc=5",
-          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón Euronews",
+          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón Euronews.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:53:39+00:00"
         },
         {
           "title": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRxb1JaYTRFRE5SZmdBNzFySS1LQ1lrTTNkdFEtQmQzeFNCcW5xTWdwTDE4YldKV2k3MktKR1o3N0VvMVpsWWFIZGRZXzFtbGNzSFoyalNMMW81NXlsQW1zRjFXdEFnRjJNQUxTZU8xcU9XVndfdDRRemM2X1kyTlVtQ2lHeFVlZk56X3F0cS1IbENMVUhvZDZReklubkFPWXVON2dtU2tUeHVuTUQwYzNIMWswYlY1YjJ5Z2pQWmlIaDA?oc=5",
-          "desc": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe Euronews",
+          "desc": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe Euronews.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:53:39+00:00"
         },
@@ -1012,41 +1047,6 @@
           "desc": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
           "source": "https://blogs.nvidia.com/feed/",
           "fecha": "2026-09-21T10:00:35+00:00"
-        },
-        {
-          "title": "El CEO de Nvidia rechaza los 'relatos apocalípticos' sobre la evolución de la inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDhEbkxraEVURi1yWU9Rd2NaSm5aYW5Fb0FQaGRuZ2QxSS1EVEdLMTZIYlVpQk8xbFpSaFdlUm1FNU9DNmYzRkJ6ZENJakR6V3lQczRjLXZTWm1sYWxsNGlrNXRJc19EVW13NzRlREhON3Brc0tpc3BXeW9IaGlRY1htUWpGeFVhTTRNdXpCTlVaVGxkVGVWYko1Zmk?oc=5",
-          "desc": "El CEO de Nvidia rechaza los 'relatos apocalípticos' sobre la evolución de la inteligencia artificial Yahoo en Español Vida y Estilo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T10:00:00+00:00"
-        },
-        {
-          "title": "¿Se notan las diferencias? Comparan el detalle gráfico de Stellar Blade en PS5 y Switch 2",
-          "link": "https://vandal.elespanol.com/noticia/2026264016/se-notan-las-diferencias-comparan-el-detalle-grafico-de-stellar-blade-en-ps5-y-switch-2/",
-          "desc": "La demo de Stellar Blade en Nintendo Switch 2 permite ver las primeras comparativas directas en vídeo del juego de acción con la versión de PS5. Stellar Blade se lanza el 5 de noviembre en Nintendo Switch 2 con la Stellar Blade Complete Edition , llevando la aventura de acción de Shift Up a la consola híbrida tras su paso por PS5 y PC. Una comparativa nos muestra cómo luce frente a la consola de Sony . El canal ElAnalistaDeBits ha puesto frente a frente la demo de Stellar Blade en Switch 2 con el juego en PS5. El vídeo incluye un vistazo al nivel de detalle, el framerate , la calidad de efectos o texturas , y podemos ver que la desarrolladora surcoreana ha hecho ligeros cambios en algunas zonas del entorno, aunque la ambientación no se ha visto alterada. Shift Up ha utilizado varias técnicas para no comprometer demasiado los recortes La tasa de imágenes por segundo en Switch 2 sí suele sufrir más en los momentos de más estrés ; os recordamos que utilizará FSR 3.1 frame gen para la interpolación de fotogramas y DLSS para el reescalado. En cualquier caso, es posible que el juego sea optimizado durante las próximas semanas. \"Lo que hicimos fue tomar la tecnología FSR 3.1 de AMD para PC y utilizar la función de interpolación de fotogramas para alcanzar el objetivo de 60 fps . Utilizamos DLSS para el escalado y, a partir del resultado obtenido, empleamos la interpolación de fotogramas de FSR 3.1 para lograr esos 60 fotogramas por segundo\", reveló el director técnico de Shift Up. El estudio ya ha presentado Stellar Blade: Blood Rain , que ha sufrido algunas polémicas por el uso de IA en un vídeo promocional y, entre algunos fans, por el aspecto demasiado joven de la nueva protagonista .",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-21T09:56:00+00:00"
-        },
-        {
-          "title": "Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products",
-          "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products",
-          "desc": "Leaker Kopite7kimi claims that Nvidia's next-gen RTX 60 series may not be released until 2028, meaning that consumers will have to wait three years between GPU generations",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-21T09:52:19+00:00"
-        },
-        {
-          "title": "Nvidia podría duplicar la venta de chips en 2027, según Jensen Huang",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kWUxEZDNYMVExQWZpbm1BamNLM3BhMDVJSWdoeVFQMlZHOERSMG1KaGtOMUtHeG5wVVBEVHE3NEpqbWZYVzNVMkhXMFBNWDRHNmtPZmI3aEhYWm1xR3hTVTNIVU12V0JCRTB0ei14SnhMR3FSQWhENzgyTWh3dw?oc=5",
-          "desc": "Nvidia podría duplicar la venta de chips en 2027, según Jensen Huang Opinando San Nicolás",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T09:45:24+00:00"
-        },
-        {
-          "title": "Jensen Huang, CEO de Nvidia, descarta un escenario apocalíptico por la IA: «El 2030 no va a ser el fin del mundo»",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHBsY09SLVRocjBzNGZaclFJLXoxREFSUmpVTWJteVNxWGdmUUJiT1E4bmRJWGtGaklFbW5VVlJPc1VnMHdKSzdLTXNqZHoydTQ4MTE0VDhQbnJIaGJRVXZxUkVyYzJrVmVNRTFVWkg5c1lGdkMtZnJHdlR3bm9DT2RSRTZhWGJfM2QzcjlzYVhRNGNGT3g2ODNOSnBGRDNvUWM2ekFQU01xeEdCT3pGRklscGoyMFpad0tLVGJmR2dDWjBLV25GOGtn0gHPAUFVX3lxTFBwWk43X3VsZ2F3ODBHYlI5V3B2bHM5a21mbnUxZWtCeE4zek1vNnhiZlJINWxPTDk3SlRyckFXM2o1MTYwNjN2dVkxeEpDRXpsQUJrUVlocjNFaHNvMDFmYmxsT2JoMjZGRG1ZcmdYQVBub2t5bHdMZWIzM2gzeDBpeWRGQkRFSkNRSU1QTTk0SF9ncFY2T1ZkU2FsUGotLUNtem5lWGVhaGd6bjFoZWx4VHZFYTNFQ29UZHFvUTVBQTJSblBveUVnR3VZS2FRWQ?oc=5",
-          "desc": "Jensen Huang, CEO de Nvidia, descarta un escenario apocalíptico por la IA: «El 2030 no va a ser el fin del mundo» El Debate",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T09:42:28+00:00"
         }
       ]
     },
@@ -1067,6 +1067,34 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares impulsado por la demanda de IA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMkZ5VjlwbmQ0RC05SzJyZWE2UWVwYmlhdGUtZjREd3RHa2hqejVxQmhlRkJNcEIxSVhPNEd0QmJaMm4ta0Z3OUI5ZGdldEI4a0RmdjZkOHNHdGNsQlNkZGVsX2JPLUlSVXpBdGs2U3M0WDRjOUo0QU03NXlqUDFRRDBZSzFWa3VuWWFyME53VWYtcDFCMi1YQzJmM2h1RFhpd005WTlnZ1dXVjFyRzYxdXgyamszSDZCU0Uwdy1HWUszU1JIVmMwX0FoOTdUQWdzbmFXSE9YQ2h5VThXaHhWQ0NnV1RXLXI4dHc?oc=5",
+          "desc": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares impulsado por la demanda de IA MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:20:45+00:00"
+        },
+        {
+          "title": "¿Por qué las acciones de AMD se disparan hoy? - Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVd3djRsVVMxMThHeE1uM2V6VVB2aktiZXhfbHIxOEM2OE1iYnc0Z3BBc2piT3lpUGw5UDNPTTZmN3JxNXBMMFpVcnRMWXZYVTV1c0NRRHk4eDNjU3poZ3FITHdwMEJuTmF2aU5xS3FvdHJ6Ul9mVWNUbFc4ZjNHcHlUOUE3NUdDcGhqQl9oa0RNcHhJMG1aM3FBME83aTJDOGdwVTFwcw?oc=5",
+          "desc": "¿Por qué las acciones de AMD se disparan hoy? Investing.com México - Finanzas, Bolsa y Forex",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:13:14+00:00"
+        },
+        {
+          "title": "AMD sobreextendido 16% sobre SMA(20) con RSI en sobrecompra: niveles en vivo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1laMDVyUGZMU3hYckR6OWxtS0hWVWIxNGJ3RmdRa2ktNkFXNWNSa2VId05qa25fajM4azBNd0MxMlRhUXM2RElhbXV3M05KUG9uMnJXOVhWZHJ3Zk9CbDlFSHNHTmpuN0V0QVdOb2thNXQ4Nkd1MkdQeWNQSVhCOXdHcENITkd1WUtjbi1mcEkzYjZjSWF4SkZyb09HU1lqNDlQdG9LVmVYNk9sYzVaM180eXo5WjgxbzhYVXRNU0JBNVJRWmpzS2ZkUU1jUQ?oc=5",
+          "desc": "AMD sobreextendido 16% sobre SMA(20) con RSI en sobrecompra: niveles en vivo Investing.com España",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:08:00+00:00"
+        },
+        {
+          "title": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDZBSzJpS2RmTWFBVG1vcHZBVEVlME92ZlVjdFFQZEVlV1NHSHNNRjZ5cFhFVzNkc01KeXRaQ00wVW1rUkNvWXpQaTJYN09YS0FuZWhxZmxfSmowdjBuVUstNll0R2RZU0NsVktBeXZvWXdESzBuVExQTng2b2wyaS1SMm84VWtNcG14TWpfRDdEOFI4QmtsRHZDckdsWXhEU1g2ZFVZSWdZMm5MTHRtYjloekhfNjVwMnNxcmVR0gHYAUFVX3lxTFAwY0ZYZUExN3NOZnN6akxtZklRUDY3by1jRk1FSW1lS1NoLVdTS3VwOWxNWW1VX29wR191VFgzVGtlQ3lsSXpZbkRhRENtckxUZUFRQTFSUGE0ZDhBTl9rQm5qaElka2tMb0Nxako0U1VMMXVzY09fcThuYXJrOENiYkZtaEEyeDVTN2tvd1VnLUFWWEdHRUM1YkFteHQxYlNuanJKaFVjVkxWbXNTSUJWcUx6d3lDeGpPbk9NbUlDalJGdkQzbXVKN1FuRXBEUmRteTZBT2hscg?oc=5",
+          "desc": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028 Infobae",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:06:54+00:00"
+        },
         {
           "title": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkJXWHhJNGY5WHo5eG5QNUZqdHpRRWNZSXdqbnk2a1J2bkY2NVBCMHpoamNKN3lXM09pOFc1by1GSmtFWVQ3TnhWdjM5SWMyWmphRzN2U3RDblNJNHF5OEVpdVU0TEs1bUdvOGNfelZLZUhrdlVlLWJYay00V2ppei1xaHJtbDkxa3Mzb0xTT01SQ2N3UFU1c1ZNNjAtbFctaVg0ZGVFaEYxRi1NTjFUbFhkQWFET1h5U2NJMFlvcFpNNnRZa2pUdXhTVS1ONnBzNml5QUJn?oc=5",
@@ -1182,7 +1210,7 @@
         {
           "title": "AMD Radeon RX 9050 de 4 GB es puesto a prueba y su rendimiento es muy bajo",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1lJdkloUjY2dGtsNFlSTFJTMl9WVGRmUDYzX1N1Q2ZhakFUUG84UkRaNnJxZW95ZEpvV05VX3J5akh0NWVmeHdvOGdzSFBxZHRkUzZLcUVPbGExbVQ5NmplM1EyX21OczBJdENOMTc2LXFFNXRUbW4ySnRrXzRfOTgwWTZoQzhRLURFMTk1RWNYODda0gGaAUFVX3lxTE9mQS1DVFVUNjZ5ajlyeE1PdXBteHlsUUtfcVFDb3U3empIZ1RHMDFzRnp3VzJVZllLWE9TUGI4Ny1qLVAyemRmSktVb3pacmNlOGw0VmhnUFh2ajFFWG9CeTJhTWRHVk5ydkFQcXJ4U2lZT1VkVHdFd0ZmM0syMWFLblRfa3R3cHljbUZBclB5dzlxbG5UMzdTT2c?oc=5",
-          "desc": "AMD Radeon RX 9050 de 4 GB es puesto a prueba y su rendimiento es muy bajo profesionalreview.com",
+          "desc": "AMD Radeon RX 9050 de 4 GB es puesto a prueba y su rendimiento es muy bajo Profesional Review",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-19T02:59:28+00:00"
         },
@@ -1206,34 +1234,6 @@
           "desc": "AMD stock rises on a rumor that could give it a 2027 GPU edge TradingView",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-18T16:28:44+00:00"
-        },
-        {
-          "title": "AMD subirá el precio de sus productos en un 10%, incluyendo CPUs y GPUs",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbThyOHdqQklSNXRjYURPaC1HZFUxUkR4a09GOHZ0R1dhYUJVSHk3bUVrc1czTEZKazRCWE9oaW56X0l5bGNHam9HUW1YRW5aNkFfbTZLb01hUzFQVXdIUjc4UUREQk00bUJabE1raE5zdXJ2SmlBTGxUS3J4TjFOb3N4MWJ6dw?oc=5",
-          "desc": "AMD subirá el precio de sus productos en un 10%, incluyendo CPUs y GPUs Noticias 3D",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-18T15:25:34+00:00"
-        },
-        {
-          "title": "Apple, AMD, NVIDIA y otros gigantes evaluarían Intel 14A mientras mejora su curva de defectos",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEo4UE8zQk0wU2d2MFBDbm9XR1djUHFfQ21QYzZ5TEkyUzh3RGEwSWcwLXBWcC01d3NhRndsSy1DNUNpRHh6eTlMRDlBeXVZRmZKa0VEeUFDNmRhSVFJME5ZeDBBWnpGMFVQUklzV0JyUGhqRnpPVGlWZ1VoRm5LTTY4SWZkTHRaa2JKb2Jha01hN1dHN05Ga1h1Y3ZwVW9uQk42V0pJV3d5UlV5VDdXQlhhaElqLW52T2M2WUdrcWM1ZXc?oc=5",
-          "desc": "Apple, AMD, NVIDIA y otros gigantes evaluarían Intel 14A mientras mejora su curva de defectos Fanáticos del Hardware",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-18T15:17:16+00:00"
-        },
-        {
-          "title": "AMD subirá el precio de sus procesadores Ryzen, os explicamos por qué",
-          "link": "https://www.muycomputer.com/2026/09/18/amd-subira-el-precio-de-sus-procesadores-ryzen-os-explicamos-por-que/",
-          "desc": "Fuentes dentro de la industria aseguran que AMD ha notificado a sus socios una subida de precio en sus procesadores AMD Ryzen. No se trata de una decisión aleatoria del gigante de Sunnyvale, tiene una explicación, y es que TSMC ha subido el coste de sus obleas de semiconductores, y de ellas salen precisamente estos […] La entrada AMD subirá el precio de sus procesadores Ryzen, os explicamos por qué se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-18T09:59:10+00:00"
-        },
-        {
-          "title": "Informe diario de mercado de TradingKey: Las acciones de semiconductores repuntan mientras Micron sube más de un 5%, AMD gana más de un 6% e Intel se dispara casi un 8%",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdFE1RENTZVR2cmJoRVcxaEVVNm5YOFcxOVo2OGlfNHczR0tPWHd6LWhfLVYyTHFiOWw4dnFfc1kzeVFwZ0xpRWc5My1lN3BJQTlIS0JXaTh4ODNiYlBSQWlKODZyUzVDR1o3U3Y0Sm1nUEp5ZW91U3dNZTQ1V1lTTXBEcEJDaVhHdzU2U0UwVWZYVmNfM01aU25fQXRIZmxVOHFfclk2UHJOUThUa1J4enN1RnJwdGJabDhYNlBWZUQyYkYtVWFobXJn?oc=5",
-          "desc": "Informe diario de mercado de TradingKey: Las acciones de semiconductores repuntan mientras Micron sube más de un 5%, AMD gana más de un 6% e Intel se dispara casi un 8% TradingKey",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-18T00:47:39+00:00"
         }
       ]
     }
