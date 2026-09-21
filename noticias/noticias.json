@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T15:00:07.785785+00:00",
+  "generado": "2026-09-21T15:30:07.705386+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -12,7 +12,7 @@
       "items": [
         {
           "title": "El Sevilla - Osasuna ya tiene fecha y hora",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnJRbmUyTDdPUm5mQjRnWGh4N3VrYVlqMVZLVFpmZnFJSWJXTTZUTHU2dHVZbXdaNEsxTk5ZNmpIV0JOZFI4RUplb0I5eTJYR0FCd2wya3l5d1RKV2NmZy14cXhmM3pqeklhcGpKbUN2VnpmcG9Md18zQW9sRmxaNnltUEhRZTZqTjJNeDdiTk55ZFh1ekR4Y2tRQlBfa0ZhTThwc3I3UXE3ZlZoVVdHUU1pYnZmQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnJRbmUyTDdPUm5mQjRnWGh4N3VrYVlqMVZLVFpmZnFJSWJXTTZUTHU2dHVZbXdaNEsxTk5ZNmpIV0JOZFI4RUplb0I5eTJYR0FCd2wya3l5d1RKV2NmZy14cXhmM3pqeklhcGpKbUN2VnpmcG9Md18zQW9sRmxaNnltUEhRZTZqTjJNeDdiTk55ZFh1ekR4Y2tRQlBfa0ZhTThwc3I3UXE3ZlZoVVdHUU1pYnZmQdIBuwFBVV95cUxOc0RfQ1l0WkJVYUYtOFRpOWhDNGpaU2JoQ0pxSDVfWXhDZ3hvMF9nRDZianlMOTRReGRmWXVjRDNYUTFWY29PbXVQdXZBZGhpVEZ3N09CWHFYMnRwZUlPS0xXbFRsVlV6Q3RiTjdWajlWc1ZvUWYyemJqWjktdEVLSC1MdFFPRDVrNlFYcTgxcmpfYzZvYWJiRDZnV2kzYVJaNXdHRnJrdy1Pd0pldjlha2VSRklBNy1vNnJV?oc=5",
           "desc": "El Sevilla - Osasuna ya tiene fecha y hora ABC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T14:24:33+00:00"
@@ -123,6 +123,13 @@
           "fecha": "2026-09-21T09:35:49+00:00"
         },
         {
+          "title": "«El Sevilla de LGP no se deshace en el campo»",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWDE5VXpLdkhnWjEyRUpEQm82VG0tVGlSU0ZSUGx3Z3hCcjRQbXJ5c2lJcFpzMXJnVDlXSFhXMmxORTd0WUtkYUExckQwLXZqTjRVMndhVm1aMWRFeXlXdk43S0FiMUYxOUYyUkVJMHZxcHJBdWw1SEo5eW13d1QwRE94R0pmTzYyejNUMDFxYmUyOTkxRzFUclRhaXloZw?oc=5",
+          "desc": "«El Sevilla de LGP no se deshace en el campo» ABC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T08:51:42+00:00"
+        },
+        {
           "title": "Tote: \"Reyes o Joaquín no eran peores que Olise\"",
           "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/tote-reyes-joaquin-eran-peores-que-olise-20260921-546977.html",
           "desc": "El exfutbolista de Real Madrid o Betis, entre otros, estuvo invitado en el podcast de Iker Casillas y comparó el fútbol actual con el de hace unos años Jorge López Marco, conocido como Tote , fue uno de esos jugadores de gran talento de la década de los 90 y los 2000 que al final no triunfaron como se esperaba de ellos. Canterano del Real Madrid, tuvo un par de cesiones a Benfica y Valladolid, siendo traspasado al Real Betis en 2003. Después pasó por Málaga y Hércules, club en el que más jugó, con 182 encuentros disputados. Tote ha comentado en varias ocasiones que prefiere el fútbol de antaño, ya que ahora se ha perdido esa esencia que se tenía antes porque los \"futbolistas están muy robotizados\". En una entrevista en el podcast de Iker Casillas, Tote vuelve a recalcar que su fútbol favorito es el de antes. \"Yo me he criado yendo a jugar con el Espanyol y estaba Iván de la Peña, estaba Tamudo... En el Espanyol. Ya no te hablo de equipos como Madrid, Barça o Atleti. Te ibas a Valencia y estaba Vicente, que era un jugador... Ahora ves a Olise y la gente se vuelve loca. Hace 20 años ya existían esos jugadores o mejores. Por eso estos jugadores llaman la atención. ¿ Reyes en el Sevilla era peor que Olise ? Ni loco. O Vicente o Joaquín , ni loco\", explica el exdelantero madrileño. \"El fútbol ha cambiado, hay poco talento. Y ahora quieren robot. Ahora yo me pongo a ver un partido y estoy con el móvil en la mano. Me cuesta mucho. Tiene que ser un jugador especial... He ido al Bernabéu a ver a Isco, he ido a ver a Benzema, he ido a ver a Marcelo, a Özil… Porque son los que me divierten\", añade Tote. @bajolospalos.podcast Tote se moja: entre el fútbol de ahora y el de antes, se queda con el de antes. ⚽️ Más talento, más calle y una forma de entender el juego que, para él, tenía algo especial. BajoLosPalos IkerCasillas Tote Fútbol Podcast ♬ sonido original - Bajo los Palos - Bajo los Palos \"}\"> Sobre qué jugadores le gusta ver ahora, en la actualidad, el ex del Betis es claro: \"Jugadores del Paris Saint-Germain\". \" Kvaratskhelia me encanta. Me parece un jugador de los antiguos, de antes. Que te encara, te la enseña, se va por dentro o por fuera... Me gusta ver a Pedri y a Lamine, pero del Madrid, sinceramente, me cuesta ver a alguno\". Eso sí, Tote asegura que en el pasado sí disfrutó con el Real Madrid, aunque el actual no tiene nada que ver. \"Yo me he vuelto loco con la Quinta del Buitre. Yo he disfrutado la Quinta del Buitre. La Quinta del Buitre era algo como los Beatles para mí. Estos chicos, ¿cómo se puede jugar a ese fútbol? Pero el Madrid no puede, después de Modric y de Kroos , cambiar talento por músculo. Es un error del Madrid, pero la transición es la peor que se puede hacer en la historia. Al final, la gente te habla de la actitud. La actitud la sabe uno. Yo no puedo hablar de la actitud de un jugador. Solo la sabe uno que la tiene dentro. Te puedo hablar de talento, te puedo hablar de jerarquía. Y es el Madrid más irreconocible que yo he visto en los últimos 40 años\", afirma.",
@@ -170,13 +177,6 @@
           "desc": "¡Blindaje en la Carretera de Utrera! El Sevilla FC acelera cuatro operaciones estratégicas para amarrar el futuro de su cantera Vamos Mi Sevilla",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T05:29:52+00:00"
-        },
-        {
-          "title": "Así queda la clasificación de LaLiga Hypermotion tras la sorpresa del Burgos y las victorias de Leganés, Almería y Sabadell en la jornada 6",
-          "link": "https://www.estadiodeportivo.com/futbol/granada/asi-queda-clasificacion-laliga-hypermotion-tras-sorpresa-del-burgos-las-victorias-leganes-almeria-sabadell-jornada-20260920-546965.html",
-          "desc": "El Ceuta salvó en la prolongación un empate que le permite sumar su primer punto esta temporada El Leganés, con Morata suplente, sacó la cabeza en un partido clave en la lucha por la zona alta y se metió de lleno en la pelea, mientras que condenaba al Granada a la zona baja de la tabla en una jornada que vivió el primer punto del Ceuta a costa del un Valladolid que no escapa de la quema. El Almería suma su tercer triunfo seguido que le permite empezar a soñar con el regreso a Primera , mismo sueño que acaricia un Burgos que se mete en zona de 'play off' a costa de dejar tocado al Las Palmas. Frenazo también para el Oviedo, que intercala alegrías con fiascos. Esta vez tocó lo segundo en su visita a la nova Creu Alta. En la clasificación, Castellón y Eibar aseguraron las plazas de ascenso desde el día anterior, pero por detrás la pelea está muy reñida, con tres puntos de diferencia entre el tercero y el undécimo. Leganés 3-2 Granada El Leganés se impuso al Granada, gracias a un gol de Gharbi en el último minuto, en un partido de ritmo alto y marcado por las alternativas. El resultado permite al Leganés reencontrarse con la victoria después de dos jornadas, mientras que el Granada encadena su tercer partido sin ganar, con dos derrotas y un empate. El conjunto madrileño tomó una ventaja de dos goles en apenas ocho minutos gracias a Naim García y Soko, pero el Granada reaccionó con fuerza y comenzó a acumular ocasiones. Los visitantes recortaron distancias antes del descanso y, tras el paso por vestuarios, Marques estableció el empate en el minuto 52. El equipo andaluz dispuso después de varias oportunidades para completar la remontada, incluido un disparo al larguero de Arnaiz, pero no logró convertir su dominio en goles. Cuando el encuentro parecía encaminado al empate, el Leganés encontró el gol de la victoria en el tramo final. Gharbi decidió el choque en el minuto 90 con un disparo que tocó en Gumbau y acabó en la portería. Las Palmas 1–2 Burgos El Burgos remontó en el tramo final a Las Palmas, se llevó los tres puntos gracias a un gol de David González en el tiempo añadido y se sitúa en zona de 'play off' de ascenso a Primera. El conjunto canario dominó una primera mitad en la que su presión alta dificultó la salida visitante y le permitió generar varias ocasiones. Jesé Rodríguez adelantó a los locales pasada la media hora con un disparo desde la frontal que desvió ligeramente un defensor, después de que el delantero ya hubiera estrellado un potente lanzamiento en el larguero. El Burgos apenas inquietó la portería de Caro antes del descanso y Las Palmas pudo incluso ampliar su ventaja. El conjunto burgalés reaccionó tras el descanso con un cambio de sistema y dos delanteros, una apuesta que dio resultado rápidamente. Forés aprovechó un pase en profundidad de Karrikaburu para superar a Caro y establecer el empate, devolviendo al partido la incertidumbre. El encuentro se abrió y ambos equipos encontraron espacios, aunque el Burgos terminó imponiendo su mayor amenaza ofensiva. Cuando todo apuntaba al reparto de puntos, David González recibió un pase de Javi Llabrés en el cuarto minuto del añadido, ganó la carrera a la defensa y batió a Caro con un disparo colocado para completar la remontada. Almería 2–0 Celta Fortuna El Almería sumó ante el Celta Fortuna su tercera victoria consecutiva y se coloca cuarto tras encarrilar el partido en una primera parte de gran nivel, en la que su presión, velocidad y acierto marcaron diferencias. Nico Melamed abrió el marcador en el minuto 6 con un potente disparo y Javi Muñoz amplió la ventaja en el 18 tras culminar una buena acción colectiva. El filial celeste, pese al golpe, mantuvo su propuesta ofensiva y generó peligro antes del descanso, aunque el Almería controló el encuentro y dispuso de ocasiones para haber ampliado todavía más la renta. Tras el paso por vestuarios, el Celta Fortuna dio un paso adelante y puso en apuros al conjunto local, que comenzó a sufrir para conservar su ventaja. Los visitantes encontraron más espacios y tuvieron varias oportunidades para recortar distancias, mientras el Almería buscaba sentenciar al contragolpe. Andrés Fernández fue decisivo en los minutos finales con varias intervenciones que evitaron el gol del filial, que terminó dominando y acumulando llegadas sin encontrar premio. El equipo de Xavi García Pimienta resistió el empuje visitante y aseguró tres puntos que prolongan su excelente dinámica. Ceuta 1–1 Valladolid El Ceuta estrenó su casillero y rescató un punto ante el Valladolid en un final agónico que permitió al conjunto caballa sumar después de cinco derrotas consecutivas. El partido llegó al descanso sin goles pese a las ocasiones de ambos equipos, incluido un disparo al palo de Meléndez y otro de Arnu para los visitantes. Tras el intermedio, el Valladolid aprovechó uno de sus ataques para adelantarse por medio de Latasa, que remató un centro de Ponceau. El Ceuta reaccionó y buscó el empate con insistencia, pero se encontró con varias intervenciones de mérito de Aceves. El tramo final estuvo marcado por la tensión y las expulsiones. La roja a Balboa dejó al Valladolid con diez en el minuto 86 y permitió al Ceuta volcarse sobre el área visitante. Los locales rozaron el empate con un remate de Joaquín al larguero y, cuando la derrota parecía inevitable, llegó el premio en el décimo minuto del añadido. Carlos Hernández apareció para rematar un centro desde la derecha y establecer el 1-1, desatando la celebración en el Alfonso Murube y dando al equipo de José Juan Romero su primer punto del campeonato. Sabadell 3–1 Real Oviedo El Sabadell confirmó su excelente inicio de temporada con una victoria ante el Oviedo que le permite situarse en puestos de 'play off' de ascenso . El conjunto catalán dominó desde el inicio, presionó con intensidad y se adelantó en el minuto 23 gracias a Gastón Valles, que aprovechó un centro de Joel Priego. El Oviedo apenas encontró espacios durante la primera mitad y el Sabadell amplió su ventaja tras el descanso con un cabezazo de Óscar Sanz, dejando al equipo local en una posición inmejorable para cerrar el partido. 𝐒𝐨𝐧̃𝐚𝐫 𝐞𝐬 𝐠𝐫𝐚𝐭𝐢𝐬. 🤩 Y eso lo saben en Sabadell. Baena puso el tercero de los suyos en la victoria ante el 𝐑𝐞𝐚𝐥 𝐎𝐯𝐢𝐞𝐝𝐨 en #LALIGAHYPERMOTION . #LaCasaDelFútbol pic.twitter.com/dUnpVDjSfT &mdash; Movistar Plus Deportes (@MPlusDeportes) September 20, 2026 \\n \\n\\n\",\"proveedor\":4}\"> El conjunto asturiano reaccionó con los cambios y consiguió recortar distancias en el minuto 67 mediante Estanis Pedrola, autor de un potente disparo desde fuera del área. Sin embargo, el Sabadell no permitió que el encuentro se complicara y sentenció poco después. Ángel Baena, tras una combinación con Quadri Liameed, marcó el 3-1 en el minuto 78 y aseguró la tercera victoria del equipo catalán en otros tantos partidos disputados esta temporada en la Nova Creu Alta. Con 11 puntos en seis jornadas, el recién ascendido se mantiene en la zona alta de la clasificación. Resultados de la jornada 6 de LaLiga Hypermotion Albacete 1–2 Córdoba Real Sociedad B 0–1 Mallorca Andorra 1–3 Sporting de Gijón Castellón 5–0 Tenerife Eldense 1–2 Eibar Cádiz 1–2 Girona Sabadell 3–1 Real Oviedo Ceuta 1–1 Valladolid Almería 2–0 Celta Fortuna Las Palmas 1–2 Burgos Leganés 3-2 Granada Clasificación de LaLiga Hypermotion tras la jornada 6 1. Castellón - 16 puntos (12 - 2) 2. Eibar - 15 puntos (12 - 4) 3. Mallorca - 13 puntos (8 - 2) 4. Almería - 12 puntos (10 - 4) 5. Burgos CF - 11 puntos (10 - 7) 6. Sabadell - 11 puntos (7 - 5) 7. Leganés - 11 puntos (6 - 5) 8. Girona - 10 puntos (12 - 8) 9. Sporting - 10 puntos (5 - 4) 10. Las Palmas - 10 puntos (8 - 8) 11. Tenerife - 10 puntos (7 - 8) 12. Real Sociedad B - 8 puntos (8 - 7) 13. Real Oviedo - 8 puntos (5 - 4) 14. Granada - 8 puntos (8 - 8) 15. Celta Fortuna - 7 puntos (7 - 10) 16. Córdoba - 6 puntos (9 - 13) 17. Eldense - 5 puntos (4 - 8) 18. Valladolid - 5 puntos (3 - 8) 19. Cádiz - 3 puntos (6 - 9) 20. Andorra - 3 puntos (9 - 13) 21. Albacete - 1 punto (4 - 10) 22. Ceuta - 1 punto (3 - 16)",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-20T22:19:45+00:00"
         }
       ]
     },
@@ -184,6 +184,34 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "El Atlético reacciona: \"Stop acoso arbitral ya\"",
+          "link": "https://www.marca.com/futbol/atletico/2026/09/21/atletico-reacciona-stop-acoso-arbitral.html",
+          "desc": "Los rojiblancos responden a las quejas de Mourinho tras el derbi",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-21T17:19:34+02:00"
+        },
+        {
+          "title": "El Atlético contraataca... ¡con una impresora!: \"Stop acoso arbitral ya\"",
+          "link": "https://www.marca.com/futbol/atletico/2026/09/21/atletico-reacciona-stop-acoso-arbitral.html",
+          "desc": "Los rojiblancos responden a las quejas de Mourinho tras el derbi",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-21T17:19:34+02:00"
+        },
+        {
+          "title": "El lema de vida de David Beckham para educar a sus hijos sorprende a todos: “Nunca verás a mis hijos entrar en una habitación y no dejar que una mujer pase primero”",
+          "link": "https://www.estadiodeportivo.com/zona-flash/lema-vida-david-beckham-para-educar-sus-hijos-sorprende-todos-nunca-veras-mis-hijos-entrar-una-habitacion-dejar-que-una-mujer-pase-primero-20260921-547002.html",
+          "desc": "El exfutbolista David Beckham sorprende a sus 51 años con unas declaraciones en las que demuestra que mantiene las buenas formas que aprendió durante su humilde infancia, algo que ha querido transmitir a sus cuatro hijos (Brooklyn, Romeo, Cruz y Harper Seven), que se han criado en otro contexto muy diferente David Beckham es una figura que genera el interés de todos mucho más allá del fútbol. El exfutbolista inglés, convertido desde hace años en un ícono del deporte, la moda y los negocios , ha explicado cómo intenta educar a sus hijos y cuáles son los valores que considera irrenunciables dentro de su familia. Cuatro son los hijos -Brooklyn, Romeo, Cruz y Harper Seven- que Beckham y Victoria han criado como padres en unas circunstancias que, lógicamente, han sido muy diferentes a las que ellos mismos vivieron durante su infancia. Los cuatro han crecido rodeados de cámaras, viajes, lujo y una enorme exposición pública. Sin embargo, el exfutbolista insiste en que hay algo que el dinero y la fama no pueden sustituir: la educación recibida en casa. Y para hablar de ello, el actual propietario del Inter de Miami de la MLS de Estados Unidos ha puesto como ejemplo un lema que ha sorprendido a muchos, al tratarse simplemente de un gesto tan sencillo como dejar pasar primero a una mujer. David Beckham tiene una norma muy clara con sus hijos \"Nunca verás a mis hijos entrar en una habitación y no dejar que una mujer pase primero por la puerta, ni dejar de estrechar la mano a la gente”, explicó David Beckham en una entrevista recogida por diferentes medios. Dicha frase se ha convertido en uno de los aspectos más comentados de sus declaraciones sobre la crianza de sus hijos. No porque se trate de algo especialmente complejo, sino precisamente por todo lo contrario: Beckham habla de pequeños gestos que aprendió durante su propia infancia y que ahora ha intentado trasladar a sus hijos. Para Beckham, la fama no puede convertirse en una excusa para olvidar la formas más sencillas de ser educado: \"Nunca verás a mis hijos dejar de estrechar la mano a la gente\" \"> Para Beckham, la fama no puede convertirse en una excusa para olvidar la formas más sencillas de ser educado. Sus hijos han crecido en un entorno privilegiado y bajo una exposición mediática que comenzó prácticamente desde que nacieron, pero eso no significa que deban comportarse de una manera diferente con las personas que tienen alrededor. Beckham sorprende con una confesión inesperada sobre su teléfono Una educación que David Beckham aprendió en su propia casa La forma de entender la educación de Beckham tiene mucho que ver con la que recibió cuando era niño. El otrora futbolista del Manchester United y del Real Madrid, entre otros, ha explicado que determinados comportamientos que hoy pueden parecer antiguos forman parte de las enseñanzas que sus padres le transmitieron. Uno de ellos, sin ir más lejos, tiene que ver precisamente con Victoria. David ha contado que todavía mantiene una costumbre que aprendió en su infancia: cuando su mujer se levanta de la mesa, él también se pone de pie. \"Así me educaron y he intentado transmitírselo a mis hijos\", defiende un David Beckham que, a sus 51 años, no olvida sus orígenes humildes \"> Como él mismo ha reconocido, es un gesto que en ocasiones provoca miradas de sorpresa entre quienes lo presencian. Sin embargo, para él representa simplemente una cuestión de educación y una tradición que decidió mantener con el paso de los años: \"Así me educaron y he intentado transmitírselo a mis hijos\". La fama y el dinero no son una excusa para los Beckham La situación de Brooklyn, Romeo, Cruz y Harper ha sido muy diferente de la que vivieron David y Victoria durante su infancia. Los cuatro han crecido sabiendo que cualquier aparición pública, fotografía o decisión personal puede terminar convertida en noticia. Por eso, Beckham considera especialmente importante que sus hijos sepan desenvolverse en ese mundo sin olvidar determinados principios. \"Aunque pienses que tus hijos no están mirando o escuchando, la mayoría de las veces sí lo están\", afirmó David Beckham en otra de sus reflexiones sobre la educación. La frase resume otra de las ideas que el exfutbolista ha repetido sobre la paternidad: los niños aprenden tanto de lo que sus padres dicen como de aquello que hacen delante de ellos. La fama y el dinero no son suficientes David Beckham, a sus 51 años , sabe perfectamente lo que significa crecer hasta convertirse en una celebridad mundial. Su carrera como futbolista le llevó a jugar en algunos de los clubes más importantes del planeta y posteriormente construyó, junto a Victoria, una familia convertida también en un fenómeno mediático. Pero precisamente esa experiencia parece haber reforzado su preocupación por la educación de sus hijos. Brooklyn, Romeo, Cruz y Harper han tenido desde pequeños acceso a oportunidades que sus padres no tuvieron en su infancia y David Beckham, por ello, ha insistido en que ese privilegio no debería impedirles entender la importancia de tratar correctamente a los demás. Los buenos modales, defiende Beckham, no dependen del dinero ni del apellido . Se aprenden mediante el ejemplo y mediante pequeños comportamientos cotidianos. \"Nunca verás a mis hijos entrar en una habitación y no dejar que una mujer pase primero\", asegura David Beckham a sus 51 años , momento en el que defiende que los buenos mdales forman parte de una educación que debe mantenerse incluso cuando se vive bajo una atención pública constante.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-21T15:17:39+00:00"
+        },
+        {
+          "title": "¡Secuestro de película en la AP-7!: falsos policías sacan por la fuerza a un hombre tras un choque y se lo llevan",
+          "link": "https://www.marca.com/tiramillas/sucesos/2026/09/21/secuestro-pelicula-ap-7-falsos-policias-sacan-fuerza-hombre-choque-llevan.html",
+          "desc": "Se dio a la altura de Montornès del Vallès (Barcelona)",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-21T16:59:47+02:00"
+        },
         {
           "title": "Movimientos en la plantilla del Getafe ante la última petición de Bordalás",
           "link": "https://www.estadiodeportivo.com/futbol/getafe/movimientos-plantilla-del-getafe-ante-ultima-peticion-bordalas-20260921-546999.html",
@@ -211,6 +239,13 @@
           "desc": "",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-21T16:52:20+02:00"
+        },
+        {
+          "title": "Muere a los 69 años el escritor, periodista y crítico teatral Marcos Ordóñez",
+          "link": "https://www.eldiario.es/catalunya/muere-69-anos-escritor-periodista-critico-teatral-marcos-ordonez_1_13526673.html",
+          "desc": "El autor barcelonés fue durante décadas una de las voces más reconocibles de la crítica teatral española y combinó el periodismo con la literatura, la docencia y su pasión por el cine y las artes escénicas El escritor, periodista y tótem de la crítica teatral Marcos Ordóñez ha muerto este lunes a los 69 años. Nacido en Barcelona en 1957, fue durante décadas una de las voces de referencia de la crítica de teatro en nuestro país mientras desarrolló una fructífera carrera en la docencia y la literatura. Crítico de El País desde 2000, colaboró durante años con el diario y publicó semanalmente sus críticas teatrales en el suplemento Babelia hasta diciembre de 2021, cuando dejó de escribir por problemas de salud que se agravaron en los últimos años, según ha informado el periódico. Su trayectoria combinó el periodismo, la literatura y la docencia. Fue profesor en la Universitat Pompeu Fabra, donde impartió guion cinematográfico y dirección de actores, y también dio clases relacionadas con el teatro, el guion y la crítica. Antes y durante su etapa en El País colaboró con distintos diarios y revistas, entre ellos El Correo Catalán, Ajoblanco, ABC, Avui y Fotogramas. Ordóñez desarrolló a su vez una obra literaria que abarcó la narrativa, la autobiografía, el ensayo y los libros vinculados al teatro y al cine. Entre sus novelas y obras de carácter autobiográfico figuran El signo de los tiempos (1988), La esencia del guaguancó (1991), Una vuelta por el Rialto (1994), Rancho aparte (1997), Puerto Ángel (1999), Tarzán en Acapulco (2001), Comedia con fantasmas (2002), Detrás del hielo (2006), Turismo interior (2010), Un jardín abandonado por los pájaros (2013) y Juegos reunidos (2016). También dedicó buena parte de su obra a personajes y episodios relacionados con el cine y el teatro. En Beberse la vida: Ava Gardner en España (2004) reconstruyó la relación de la actriz estadounidense con España, mientras que en Big Time: la gran vida de Perico Vidal (2014) contó la trayectoria del ayudante de dirección y productor cinematográfico español y sus experiencias junto a figuras como Orson Welles, Frank Sinatra, Ava Gardner y David Lean durante los rodajes realizados en España en los años cincuenta y sesenta. También escribió biografías de Alfredo Landa y Álex de la Iglesia. El teatro ocupó un lugar central en su obra. En Telón de fondo (2011), parcialmente autobiográfico, repasó cinco décadas de teatro español y reconstruyó su propia relación con la crítica teatral. En 2019 publicó Una cierta edad, un dietario en el que mezcló recuerdos personales con historias del mundo teatral y encuentros con figuras de la escena como Peter Brook, Josep Maria Pou, Mario Gas o Lluís Pasqual. Su último libro fue Una joven pareja (Pepitas de Calabaza, 2021), una novela ambientada en la Barcelona de finales de los años setenta y marcada por la memoria de la ciudad y de la adolescencia del autor.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T14:49:28+00:00"
         },
         {
           "title": "GTA 6 prepara un despliegue publicitario en la Miami real y filtran el primer gran cartel de Rockstar",
@@ -316,41 +351,6 @@
           "desc": "Tras el éxito en el Mundial, la Real Federación Española de Fútbol, con Rafael Louzán a la cabeza, reafirma el papel protagonista del seleccionador dentro de \"un proyecto de estabilidad y confianza\" Era un secreto a voces que este lunes, como se preveía se ha hecho realidad. Tras conquistar el segundo Mundial para la selección española el pasado mes de julio, engordado así un palmarés en el que también lucen la Europa y la Nations League, Luis de la Furente ha firmado su renovación hasta 2032, con el consiguiente aumento de su sueld o . Así lo ha anunciado la Junta Directiva de la Real Federación Española de Fútbol, presidida por Rafael Louzán y reunida en la Ciudad del Fútbol de Las Rozas, que ha dado el visto bueno por unanimidad a la ampliación del contrato del seleccionador nacional absoluto. En su intervención ante la Junta, Rafael Louzán afirmó que con esta decisión se busca \"un proyecto de estabilidad y confianza\". \" Es una propuesta basada en la confianza en Luis de la Fuente y en el proyecto deportivo que lidera, para un ciclo de competición de varios años y competiciones importantes. Estamos hablando del seleccionador más laureado de la historia de la Selección y después de catorce años en nuestra casa es algo que Luis de la Fuente merece, un futuro largo en la RFEF”, señaló el presidente de de la RFEF. Luis de la Fuente no renovará hasta la fecha anunciada Convocatoria Selección Española en directo | La lista de Luis de la Fuente para los partidos de España en la Nations League contra Inglaterra, Croacia y Chequia Dos Eurocopas y otro Mundial en el horizonte De este modo, Luis de la Fuente, que llegó al cargo en diciembre de 2022, amplía su contrato con la vista puesta en las dos próximas Eurocopas (2028 y 2032) y en la Copa Mundial de 2030 , que España organizará junto a Portugal, Marruecos, Paraguay, Uruguay y Argentina, aunque hay voces que apuntan a que debería desmarcarse del proyecto si el país norteafricano se lleva finalmente la final a su territorio. Según el comunicado emitido por el ente federativo, el acuerdo se presentará en la Ciudad del Fútbol en un acto en el que estará presente el seleccionador nacional, así como distintos representantes del fútbol español , destacando que en el mismo se han sentado las bases del camino que inicia la campeona del Mundo. \"Esa ruta incluye el objetivo de la EURO 2028 así como la disputa de la próxima edición de la UEFA Nations League, cuyos primeros partidos se celebran este mes de septiembre y principios de octubre (con Inglaterra, Croacia y República Checa como rivales) \", añade la nota. Antes de volver a entrar en acción, por tanto, De la Fuente ve respaldado así su gran trabajo y su éxito en el Mundial, iniciando su nueva andadura con solo cuatro novedades en la lista . Así, Roberto Fernández entra en lugar del tocado Borja Iglesias, estrenándose también el meta Josep Martínez , del Inter de Milán, por la lesión de Joan García, pese al gran momento del bético Ávaro Valles . Junto a ellos, regresan Huijsen y Fermín López por Marcos Llorente, que ha decidido acabar su carrera como internacional, y Gavi. También renueva Jesús Velasco como seleccionador de fútbol sala La RFEF anunció también que su directiva aprobó igualmente la renovación hasta 2029 como seleccionador absoluto de fútbol sala de Jesús Velasco , que ocupa el cargo desde noviembre de 2024 y el pasado febrero se proclamó campeón de Europa frente a Portugal. En su caso, el acuerdo será presentado en próximas fechas.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-21T12:26:14+00:00"
-        },
-        {
-          "title": "El futbolista más rico que Cristiano Ronaldo y Messi busca equipo",
-          "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/futbolista-mas-rico-que-cristiano-ronaldo-messi-busca-equipo-20260921-546994.html",
-          "desc": "A sus 28 años, Faiq Bolkiah no ha cumplido con las expectativas que había sobre él ya que llegó a pasar por la cantera del Southampton, Leicester City y del Chelsea. Ha acabado contrato con el Ratchaburi FC de Tailandia y espera propuestas para continuar su carrera deportiva Hay futbolistas que no buscan el dinero y que juegan por el profundo amor que tienen por el deporte. Ese es el caso de Faiq Bolkiah el cual tiene una fortuna mayor que superestrellas como Cristiano Ronaldo o Lionel Messi. Sin embargo, el lograr dedicarse al fútbol profesional no es fácil ya que hacerse hueco no es sencillo. De hecho, a Faiq Bolkiah le está constando bastante trabajo ya que ahora mismo se encuentra en busca de un nuevo club para seguir con su carrera deportiva después de que haya terminado contrato con el Ratchaburi FC de Tailandia. Faiq Bolkiah, el sobrino del sultán de Brunéi, Hassanal Bolkiah Faiq Bolkian , es un extremo poco conocido en el mundo del fútbol, debido a que más allá de su paso por las canteras de Southampton , Leicester City y Chelsea apenas ha jugado o tenido minutos en la élite del fútbol europeo. Este atacante, que ahora se encuentra sin equipo, es famoso por tener una fortuna inmensa ya que es sobrino del sultán de Brunéi , Hassanal Bolkiah . Esta familia se caracteriza por haber hecho su fortuna gracias a las reservas petroleras y a poseer un portafolio global de activos que incluye hoteles y propiedades en Londres, París y Nueva York. Se le atribuyen más de 7.000 vehículos y un Boeing 747 con interiores dorados valuado en unos 620 millones de dólares . El sultán acumula cerca de 30.000 millones, según Celebrity Net Worth . Faiq Bolkiah es internacional por Brunéi con quien jugó un total de seis partidos, marcando un gol. Aunque tenía la opción de jugar por Estados Unidos, país donde nació y del que tiene ciudadanía, siempre se decantó por jugar con la camiseta de la selección de sus orígenes. También integró el equipo Sub 23 en los Juegos del Sudeste Asiático de 2015, una etapa formativa importante. A pesar de ello, este jugador es conocido por haber pasado por algunas canteras importantes de equipos de la Premier League como el Southampton , el Leicester City y el Chelsea , siendo lo más destacado sus partidos jugados de la Youth League con el Leicester City en el año 2016. Tras no rendir el el Leicester City , o más bien no cumplir con las expectativas, el bruneano se marchó al Maritimo de Portugal en donde pasó sin pena ni gloria ya que nunca entró en los planes de ningún entrenador, dando por cerrada esa etapa en el año 2021. Desde entonces, Faiq Bolkiah lleva jugando en Tailandia , en donde se ha sentido futbolista, si bien es cierto que tampoco es que haya brillado demasiado ya que ni en el Chonburi FC ni en el Ratchaburi FC ha dado un gran nivel. Con el Chonburi FC jugó un total de 32 partidos en los que marcó 2 goles y dio 4 asistencias , mientras que en el Ratchaburi FC jugó sólo 23 partidos anotando 2 goles y dando 1 asistencia . Unas cifras bajas sin consideramos que es un delantero que estaba atravesando los, a priori, mejores años de su carrera deportiva.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-21T12:25:52+00:00"
-        },
-        {
-          "title": "Simeone lo volvió a hacer: así fue su plan medido que desarboló a Mourinho",
-          "link": "https://www.marca.com/futbol/atletico/2026/09/21/simeone-volvio-asi-plan-medido-desarbolo-mourinho.html",
-          "desc": "El Cholo, como hace un año, detectó la debilidad del Madrid por su flanco zurdo, a la espalda de Vinicius. Contra once el Atlético ya tuvo más llegadas... antes de lograr por ahí los goles",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-21T14:18:09+02:00"
-        },
-        {
-          "title": "El agujero del Madrid que Simeone volvió a explotar",
-          "link": "https://www.marca.com/futbol/atletico/2026/09/21/simeone-volvio-asi-plan-medido-desarbolo-mourinho.html",
-          "desc": "El Cholo, como hace un año, detectó la debilidad del Madrid por su flanco zurdo, a la espalda de Vinicius. Contra once el Atlético ya tuvo más llegadas... antes de lograr por ahí los goles",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-21T14:18:09+02:00"
-        },
-        {
-          "title": "El Gobierno de Almeida programa un tributo a Julio Iglesias a cargo de un extorero para las fiestas de Chamartín",
-          "link": "https://www.eldiario.es/madrid/somos/gobierno-almeida-programa-tributo-julio-iglesias-cargo-extorero-fiestas-chamartin_1_13525032.html",
-          "desc": "Además del homenaje al cantante denunciado por sus extrabajadoras, la programación musical de las fiestas de San Miguel también incluye los conciertos del polémico José Manuel Soto y DJ Pulpo, un referente musical del PP, asiduo en sus actos de partido La concejala de Chamartín añade proclamas políticas a las fiestas de su distrito: “La Venezuela libre está en Madrid” Este jueves arrancan las fiestas de San Miguel en el distrito de Chamartín. Además de la tradicional verbena y el reparto de limonada y barquillos, este año los festejos contarán con un programa musical pensado “para todas las generaciones” encabezado por un tributo a Julio Iglesias a cargo de un extorero, un concierto de José Manuel Soto y una sesión de DJ Pulpo. Entre los nombres que protagonizan el programa destaca el de Diego Ramos, que se presenta a él mismo como la “reencarnación” de Julio Iglesias. Ramos pasó años bajo los focos de las plazas de toros antes de abandonar los ruedos y dedicarse a homenajear al cantante, cuya música, según explica en su página web, le acompañaba desde niño. Ahora recorre escenarios de España y Europa con un espectáculo de más de cien minutos, orquesta en directo y un repertorio que incluye canciones como Me olvidé de vivir , Hey , De niña a mujer , Soy un truhán, soy un señor o Un canto a Galicia . La programación del tributo a Julio Iglesias llega pocos días depués de la querella presentada por dos extrabajadoras contra esta figura de la canción española, acusado de abusos sexuales por parte de las denunciantes, en un caso del que ha venido informando ampliamente elDiario.es . En cuanto a Diego Ramos, esta será su segunda actuación en la capital en cuestión de una semana. Ramos cantó el pasado 19 de septiembre en el Teatro Albéniz, con motivo de su nueva gira, dentro de la que incluye el concierto programado para este fin de semana, de acceso libre. En el listado, el cantante la define como una “actuación pública”. También forma parte del cartel José Manuel Soto, una de las figuras habituales de las programaciones festivas del PP y protagonista de múltiples polémicas en los últimos años. En agosto de 2023 publicó un mensaje en la red social X en el que insultaba al presidente del Gobierno, Pedro Sánchez, y a sus votantes. “Voy a aprovechar este momento de sosiego veraniego junto al mar para hacer uso de mi libertad de expresión y cagarme en Pedro Sánchez, en su puta madre y en los millones de hijos de la gran puta que están de acuerdo con que España esté en en manos de sus peores enemigos”, decía textualmente la publicación, que posteriormente borró. Pidió disculpas, pero como consecuencia varios municipios en los que iba a actuar ese verano como Bormujos o Villacarrillo, cancelaron los conciertos de su gira de verano. La de Chamartín va a ser la primera actuación de Soto contratada por el Gobierno de Almeida. También fueron polémicas las declaraciones del cantante sobre el consentimiento, después de afirmar que un “no” de una mujer podía significar en ocasiones un “ya veremos” y que había que insistir. En 2025, además, el grupo Por Andalucía llevó a los tribunales la adjudicación de más de 550.000 euros a la fundación del artista sevillano por parte de la Junta de Andalucía para un proyecto de rutas andaluzas, al considerar que podía haber irregularidades y trato de favor. Soto también se pronunció sobre las acusaciones de agresión sexual contra Julio Iglesias y restó credibilidad a los testimonios de las denunciantes, que atribuyó a una maniobra ideológica para “destruir a las glorias de España”. La tercera pata del cartel principal será DJ Pulpo, el nombre artístico del locutor de Cope Carlos Moreno. El DJ es un habitual de los actos del Partido Popular y ha puesto música a numerosos eventos de la formación en Madrid desde la etapa de Mariano Rajoy, además de participar en actos de Pablo Casado y Alberto Núñez Feijóo. Soraya Sáenz de Santamaría y DJ Pulpo en un mitin de cierre de campana del PP Desde la llegada de José Luis Martínez-Almeida a la Alcaldía, también ha recorrido las fiestas de distintos distritos de la capital. De hecho, su última participación en un evento público fue este domingo, como parte del festival gratuito Chamberí Sound , organizado por la Junta del distrito. Junto a estos tres nombres, la programación musical incluye a Siempre Así, Paula Koops, Candela Gómez, Línea 12, Stendhal Vibes, Schropp Sisters y Andrés Koi, integrante de Dvicio. La concejala del distrito, Yolanda Estrada, asegura que la programación pretende que “la música sea el lazo de unión de todas las generaciones” y destaca la combinación de artistas consolidados y jóvenes. “No os podéis perder tampoco a los DJs, como El Pulpo y Valiente, que nos harán disfrutar de la música, de su historia y de lo que está por venir, siempre con respeto al descanso vecinal”, señala Estrada. Una reivindicación del descanso que llega después del conflicto que mantuvo con los vecinos del entorno del Santiago Bernabéu por las superaciones de los niveles de ruido durante los conciertos que se celebraron en el estadio antes de su prohibición. La organización de las fiestas ha sido adjudicada a Ikebana Animación y Ocio SL por 248.069,59 euros. El contrato incluye la programación de los festejos, así como la coordinación y ejecución de las actividades, las infraestructuras y otros servicios necesarios para su desarrollo, además de las actividades deportivas incluidas en el programa de San Miguel. El cartel no ha convencido a Más Madrid, que critica el tipo de artistas escogidos. “Año tras año, la Junta Municipal de Chamartín demuestra el mismo gusto rancio en el cartel de las fiestas”, señalan fuentes del grupo a Somos Madrid . La formación considera que el PP “siempre recurre a los mismos, a los que les son afines”, mientras “ignora el talento de muchos otros artistas” y restringe la participación de las asociaciones vecinales. Para Más Madrid, el programa es “fiel reflejo de un equipo de Gobierno instalado en la casposidad”. Cartel de las fiestas de San Miguel 2026 Por su parte, la concejala del distrito ha aprovechado la ocasión para introducir reivindicaciones políticas, esta vez a través del diseño elegido para el cartel de las fiestas, en el que además de algunos símbolos de Chamartín como el edificio de Torres Blancas o el parque Berlín, aparecen unos banderines con la bandera ceutí. No es la primera vez que Estrada aprovecha los festejos para hacer alusión a algún conflicto de carácter político , ya lo hizo en 2024 cuando, en plena crisis diplomática de España con Venezuela, publicó un texto en el que incluía algunas proclamas como “la Venezuela libre está en Madrid” y metáforas religiosas para hablar de “represión y dictaduras”. Las fiestas tendrán además como pregoneros al Real Madrid Club de Fútbol, el Club Estudiantes de Baloncesto y el Club de Tenis Chamartín, tres entidades deportivas históricas vinculadas al distrito. El Ayuntamiento destaca que el pregón, previsto para este jueves 24 de septiembre, reconoce el arraigo de los tres clubes en Chamartín. “No se entiende Chamartín sin ellos”, defiende Estrada, que considera que representan tanto “los valores del deporte” como “los valores de los vecinos del distrito”. Suscríbete a las informaciones más cercanas Recibe las noticias más importantes de Madrid con un boletín escrito para ti, todos los viernes en tu correo. Apúntate aquí y recíbelas junto a los mejores planes para el fin de semana. También puedes seguirnos desde tu red social preferida, en Facebook , Bluesky o Instagram",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-21T12:16:55+00:00"
-        },
-        {
-          "title": "BMW se desquita: gana el Bol d'Or y el Mundial de resistencia",
-          "link": "https://www.marca.com/motor/mas-motor/2026/09/21/bmw-desquita-gana-bol-d-or-mundial-resistencia.html",
-          "desc": "Lo perdió por avería en 2025 y ahora se impone",
-          "source": "https://www.marca.com/rss/motor.xml",
-          "fecha": "2026-09-21T14:07:14+02:00"
         }
       ]
     },
@@ -363,49 +363,49 @@
           "link": "https://www.formula1.com/en/latest/article/all-official-f1-team-cars-coming-to-hot-wheels-infinite-rush-video-game-in-new-f1-car-collection-pack.11CmeoP0HwEh2HxXEuXKxg",
           "desc": "From March 2027, players of Hot Wheels Infinite Rush will be able to choose from the grid's 11 teams.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "5 storylines we're excited about ahead of the Azerbaijan GP",
           "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-azerbaijan-grand-prix.6l5UWWsSVJdtKOpR8KDSzZ",
           "desc": "Chris Medland runs through the biggest talking points as F1 heads to Azerbaijan for Round 15 of the 2026 season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "Remembering one of F1’s most intriguing ‘what if?’ moments",
           "link": "https://www.formula1.com/en/latest/article/remembering-one-of-the-most-intriguing-what-if-moments-in-f1-history.6PMh9yfpq4GksluggiddZK",
           "desc": "During the late 1980s and early 1990s, McLaren wrote one of the most successful chapters in their F1 story – the squad racking up four successive Teams’ Championships and four straight Drivers’ Championships with engine partner Honda between 1988-1991.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "When Star Wars took over Formula 1",
           "link": "https://www.formula1.com/en/latest/article/when-star-wars-came-to-formula-1-the-story-of-f1s-trips-to-a-galaxy-far-far-away.52NvGPqgUeHyzjyyzPvSiC",
           "desc": "From Red Bull's Star Wars livery in Monaco to George Lucas on the podium, revisit the memorable moments when Star Wars crossed over with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "How Justin Rose and McLaren are pursuing marginal gains in golf",
           "link": "https://www.formula1.com/en/latest/article/justin-rose-on-mclaren-golf-bringing-f1s-pursuit-of-perfection-to-the-fairway.3TJaNTEeF2kh7qSt1dKNDv",
           "desc": "Justin Rose explains how McLaren is bringing its Formula 1 engineering expertise and pursuit of marginal gains to the world of golf.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "Inside F1’s ‘brutal’ fuel development race",
           "link": "https://www.formula1.com/en/latest/article/inside-f1s-brutal-fuel-development-race-and-how-it-could-benefit-the-wider-world.6In5yoMOgQGwYQpdfzFBUC",
           "desc": "Not only did F1 introduce new cars and new power units at the start of the 2026 season, but also Advanced Sustainable Fuels, a pioneering technology that teams – and their partners – have been pushing hard to maximise in terms of both performance and reliability.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "TREMAYNE: Why I’m delighted the Portuguese GP is back in 2027",
           "link": "https://www.formula1.com/en/latest/article/why-im-delighted-the-portuguese-grand-prix-is-back-on-the-calendar.6SJAb71ghhAlCGcKRx5clZ",
           "desc": "F1 Hall of Fame journalist David Tremayne looks back at the rich history of Formula 1 racing in Portugal.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-21T15:00:07.785785+00:00"
+          "fecha": "2026-09-21T15:30:07.705386+00:00"
         },
         {
           "title": "Los trabajadores alemanes explotan contra el \"apagón\" de la industria de automoción",
@@ -424,7 +424,7 @@
         {
           "title": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTNBMGlYNGplV0FUY0F1UmdPTFM2NVRVRml0cTllTklOYUVRN3ZXVTR6bFJKOUExR1pPSG14OXREZm1yLUt0eGducGpHaU04U1lwekxPQUI5UFFEZ2pnNWptXy14aGxhWFhBclpKRVZqUmVTTVNQcExOVE8tNG9lQ0xSRHVEVnVCYW9FNzB3SEJnTzNEWDNhZkRfUlpONlVvNXFmUFMwMEF3TEttaDNndjRrRGJucmZJYURyZ09UT2NQRTREb01rRXB3ZUJHMXl6ZnY00gHnAUFVX3lxTFAxTjVlY3kyenRuVm9jbE5IYVRYb0lvQkNuaWZNaGU0NGFWdXFNZDJYT1hfOW1UNnBVUHUxOXVnUkE1anJKUTM4N1piY1NVNG5TUEgxdG9DS293Z3NZZS1paS00YWR0SUxrMF9lWTJIemk1VXNxTzR4dGttUXNZdFdMVnpUQW5jOXlHTEhsS2ZBMUJORFM5cURJaHp3eFBmN3dxSThUZkpLNnVVMGtNQUdqVHhTMm9LSFY5M1JBdjNCUEpfLTVUVGV0QkMyQzhYUWRKZjNxZE1JN0d2NEtGbTd1WXJwSnNjbw?oc=5",
-          "desc": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea La Razón",
+          "desc": "Nico Guillén, el futbolista del Sevilla al que Xabi Alonso quiere llevar al Chelsea larazon.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:03:25+00:00"
         },
@@ -533,18 +533,74 @@
       "icono": "💻",
       "items": [
         {
-          "title": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUlfMkVSYV9RN25qSzZVb0tQejZuQlpEUXBlVlJhczVOeVlnZzVsZ0F0U19rXzRFR2ZPTTdlUlk0eTQwbjRSTXNkX1FlRVJtZzE1cS1XNVNva1dJYlM2eTViQVVlLTRwNU5vdFVZbVBCV2tmRmRkdlV4MzdGR3BBVGRpUURBQldGUUFBaFQ2R1Zta1NqOElidnJyUmxRc1U5dm5qdDZIUTZORlJfcnNCZXhRSW1QOU9UT0FIdFI4bEpLUUpHZTBHQ1poNS04aG0wMW1hc0Z0RHJLT0luWkRR?oc=5",
-          "desc": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable DefOnline",
+          "title": "Sánchez reclama “un nuevo contrato social” para abordar la IA: “La autorregulación no funciona”",
+          "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
+          "desc": "El presidente del Gobierno presenta medidas para adaptar a España a esta nueva tecnología y anuncia que convocará a los agentes sociales para abordarlo",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-21T15:22:42+00:00"
+        },
+        {
+          "title": "Jensen Huang (Nvidia) no quiere perder su imperio: \"Hay un 0% de probabilidades\" de que la IA acabe con el mundo",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSEUzS1dnNTl5amtkcXhYaXRPWG9odDZyaDhEeE04Ty0zMzVqWVpQMkJLdVJoNUdmVDdsQlBtTDlxUzRUWGE1cDQ3MXRVT05BcjJ1bWE5cG9tNEZZUG83RWZfRWU2WEhWM1JTSGUwM3BlRHJHbnlsQU5oZnJTei1XMFM5WXpraWpMOFRKb1BlcGVJeGFCWEdGLTdGaU5TMy1GS2x0aDFnN01PNnZKczBORXpDZTdaWExWbk5nMlh4ajh3bkFnOHZfVDhic3lCVE1GX244cWVUbWZpWjRLUVVNUjFFUmlMbUNfR0h5SlRUeFUzdkk5ZTE5dTU1cUt4VkZ6OTJ0Ug?oc=5",
+          "desc": "Jensen Huang (Nvidia) no quiere perder su imperio: \"Hay un 0% de probabilidades\" de que la IA acabe con el mundo El Economista",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T14:57:48+00:00"
+          "fecha": "2026-09-21T15:22:31+00:00"
+        },
+        {
+          "title": "NVIDIA y AMD retrasarían sus nuevas GPU hasta 2028, según filtraciones",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW9TbkpzUWVCaXpXRjVSUE9kejJ5SWVINHhWZ1o3R0p0QVVpWFVnbXQyQ1RnY0x0T0NlNF9FekM2dEhuemJvZVp1TERtTktnWHlSSU5XWGhWU0M3NGZBVDZvTWo0bEJQNjFtUm1RYXNTUURrV0JwWXhLbExTYjZEeVNKSjZrM1IzcmkxYWlzMDk4TkZGelBXa21xZGVMNVp0X3F0WjN0N0ZQNjFnN3c?oc=5",
+          "desc": "NVIDIA y AMD retrasarían sus nuevas GPU hasta 2028, según filtraciones KCH FM",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T15:03:21+00:00"
+        },
+        {
+          "title": "CEO de Nvidia, que hace chips para IA, rechaza posibilidad de \"fin del mundo\" en los próximos 4 años",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMzRXcXozT2MyOEtrZXBnand2WjhUYXFua3gwNGh5Z0psbU1rc0JoTi1QTTZSZkVoMFZ2YnV0N2tYUTVVX2R4Qi1maW53UTNyQXkzY3NDMThLRTdPOFdkd0NHaXlsaTMyajZpOXJTZ0pWcWNnS3dsanE1TURaZXNqN0k2U0R0dWFhNjdob1lpc05FNS0yZEQ1UVFMU1RGdFRBaE9FRmNqRGdhRkJoTlNteGx5dy1LWWMwUEJMYm9RVkk4SG9pMkZ6Rkp5UWMzUDFWblNBSjRCUHAzckljcjJyTjd2NEdndEpVdFh3c0hRVE5WRW9oSHZ0MFExTXVtSmdTMTBzTlJQMEJOdEF4UjV3Y05R?oc=5",
+          "desc": "CEO de Nvidia, que hace chips para IA, rechaza posibilidad de \"fin del mundo\" en los próximos 4 años BioBioChile",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T15:01:39+00:00"
+        },
+        {
+          "title": "El Gobierno acelera para aprobar el decreto de los centros de datos en octubre pese a la ola de alegaciones",
+          "link": "https://www.elmundo.es/economia/empresas/2026/09/21/6ab11244e85ece64278b4591.html",
+          "desc": "El Ejecutivo recoge en la nueva estrategia de IA este objetivo Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-21T17:01:35+02:00"
+        },
+        {
+          "title": "El audio que encendió la chispa y que acabó en agresión al coche de la diputada ceutí: \"Apoyan a ETA\"",
+          "link": "https://www.eldiario.es/politica/audio-encendio-chispa-acabo-agresion-coche-diputada-ceuti-apoyan-eta_1_13526246.html",
+          "desc": "Decenas de personas se concentraron el domingo en el puerto de Ceuta para protestar contra la llegada de un colectivo navarro en defensa de los migrantes y al que acusaban de proetarra, pero acabaron agrediendo a otras personas Julia Ferreras y Rafael Borrego, tras la agresión a su coche en Ceuta: “Éramos el enemigo, el objetivo a abatir” Eran las 16:38 del domingo cuando un mensaje acabó de encender la chispa en el grupo de Whatsapp de la Federación de Asociaciones de Vecinos de Ceuta. “Figúrate si son peligrosos que son los que apoyan a la banda terrorista de ETA. Son los que van persiguiendo a niños de 12 años y les dan palizas por llevar la bandera de España, a militares, a ancianos. Es gente muy peligrosa. Son skins de izquierdas y no se van a cortar ni un pelo a la hora de atacar a la policía y de atacar a los caballas”, dice un audio al que ha accedido elDiario.es, trasladado en primer lugar a través de mensaje privado de Instagram y compartido posteriormente por distintos chats. “Lo mejor que se puede hacer es que os organicéis igual que hicisteis con Nucleo Nacional, para echarlos. Porque son incluso más peligrosos que Nucleo Nacional”, añadía el mensaje. Dos horas después, decenas de vecinos, cargados con baneras de España —y alguna carlista— se acumulaban a la entrada del puerto para “recibir” al colectivo navarro Negu Gorriak, que viajaba a la ciudad con el objetivo de llevar ayuda humanitaria y denunciar las violaciones de derechos humanos a los migrantes por parte de las fuerzas y cuerpos de seguridad del Estado, según fuentes próximas a los activistas. Aunque les esperaban a ellos, acabaron siendo agredidos otras personas que nada tenían que ver con la organización navarra: el vehículo de la diputada de la Asamblea ceutí Julia Ferreras acabó destrozado, golpeado con piedras por decenas de vecinos que pensaron que quien iban en su interior eran miembros “de una ONG”. Además del cargo público, estaba en el coche el activista Rafael Borrego y la abogada de derechos humanos Sofía Cánovas. El mensaje se envió, al menos a través del grupo de la Federación de Asociaciones de Vecinos de Ceuta, junto a una convocatoria de protesta frente a la entrada del Puerto de la ciudad autónoma. El cartel, que no detalla el colectivo promotor de la iniciativa, llamaba a la movilización vecinal en la salida de vehículos del puerto de Ceuta. “No queremos que los grupos radicales proetarras entren a Ceuta”, recogía el llamamiento, que añadía una fotografía de varias personas del colectivo y una imagen de un vehículo SEAT gris con el número de matrícula visible. El coche que aparece en el cartel, difundido a través del chat de la Federación de Vecinos de Ceuta es del mismo color, pero distinta marca que el vehículo que acabó siendo atacado horas después por los manifestantes, propiedad de la diputada de la Asamblea de Ceuta. El audio que alertaba del supuesto caracter “peligroso” y “proetarra” del colectivo Negu Gorriak procede de la cuenta de Instagram llamada “La voz de Pamplona”. Según la propia descripción del perfil de la red socal, la cuenta corresponde a la delegación navarra del Movimiento Cívico del Pueblo, grupo de ideología ultraderechista. La delegación de Navarra estuvo detrás de la convocatoria de la manifestación “en apoyo a Ceuta” del pasado 2 de septiembre en Pamplona, que acabó con varias personas identificadas por acosar a periodistas. Aquel día, la cabecera de la protesta desplegó una pancarta con el lema “Remigración ordenada, convivencia garantizada”. Sus portadores vestían camisetas negras con una cruz de borgoña estampada en el pecho, como publicó elDiario.es . La Federación de Asociaciones de Vecinos de Ceuta, entidad que aglutina a la mayoría de asociaciones de vecinos de la ciudad autónoma, recibe anualmente subvenciones públicas por parte del Gobierno de la ciudad autónoma. Según publicaron varios medios locales, en 2026, el Gobierno de Juan Vivas aprobó la dotación de dos convenios de colaboración por un valor de cerca de 200.000 euros. El primero asignaba 97.000 euros a la Federación de Asociaciones. El segundo repartía unos 96.000 euros entre entidades vecinales que la componen. Negu Gorriak, un colectivo navarro que apoya a migrantes Negu Gorriak (crudos inviernos en euskera)/derecho a techo es un colectivo surgido en Pamplona para denunciar la situación de sinhogarismo a la que se enfrentan muchas personas de origen migrante, especilamente magrebí, en la capital navarra. Pese a que comparten nombre, nada tiene que ver con el grupo vasco de rock que formaron los hermanos Muguruza. Este colectivo inició su actividad a comienzos de este año acogiendo, en colaboración con la librería Katakrak, que les cedió el espacio, a una veintena de migrantes que estaban pasando el invierno en la calle . Lo hicieron con críticas al Ayuntamiento de Pamplona, gobernado por EH Bildu, por no ser capaz de darles un recurso habitacional. La semana pasada anunciaron que varios integrantes del colectivo se trasladarían a Ceuta en furgonetas para llevar ayuda humanitaria a los migrantes frente a los “ataques racistas” y la “actitud violenta de las fuerzas y cuerpos de seguridad del Estado y del ejército”, informa Rodrígo Saiz. El activista de la Flotilla Rafael Borrego, la diputada autonómica Julia Ferreras y la abogada Sofía Cánovas han presentado sendas denuncias tras la agresión . En elDiario.es hemos accedido a los documentos . Según la denuncia que ha presentado Borrego ante la Policía, todo comenzó cuando comenzó a grabar a un tumulto que se acercaba a un coche y un hombre “de unos 60 o 65 años” le dijo: “No me grabes”. Fue el mismo individuo quien se dirigió a la muchedumbre y avisó: “Este es uno, este es uno de ellos”. Entonces, gran parte de las personas empezaron a increparlo y a intimidarlo con insultos. El activista declaró que se subió al vehículo de Julia Ferreras, que intentaba avanzar por el único carril abierto al tráfico, pero la conductora tuvo que detenerse porque la multitud estaba cortando el paso. “En ese momento, un gran número de personas rodeó el vehículo, golpeándolo con patadas e increpando a los ocupantes, lanzando también huevos y piedras”, tal y como consta en la denuncia. Uno de los atacantes “golpeó la luna delantera del vehículo por la parte derecha”, la cual se rompió. Unos minutos después, “algunas de las personas de la multitud lanzaron algún objeto contra la luna trasera del vehículo, fracturándola”, al igual que la delantera. Borrego declaró que la conductora “en todo momento manifestó que se estaban equivocando de personas y que ella era una diputada de Ceuta Ya, haciendo caso omiso” los asaltantes. Varios minutos después, un agente de la Policía Nacional le indicó a la conductora que pasara de su asiento a la parte trasera del vehículo y él se subió en el asiento del piloto. “Finalmente, dicho agente, consiguió maniobrar con el vehículo, marcha atrás, consiguiendo salir del lugar en dirección contraria al tráfico” y condujo hasta el garaje privado de la diputada. En la denuncia presentada por Julia Ferreras, a la que también ha accedido este medio, la diputada aseguró que durante el incidente, “se indentificó en reiteradas ocasiones como diputada de la Asamblea y como ciudadana de Ceuta, informando que estaban cometiendo un error” a los atacantes, que no se detuvieron. También, afirmó que los asaltantes “proferían todo tipo de amenezas”, por lo que “llegó a sentir miedo por su integridad física, pensando incluso que no pudieran salir de esa situación”.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-21T15:00:08+00:00"
         },
         {
           "title": "Jensen Huang, CEO de Nvidia, asegura que “hay un 0% de probabilidad de que la IA destruya el mundo”",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQTdjRzFxMUxENFhQemF2Q0VQSGcxNUhyUGhMRm03YkJxMTg5NXZQZlpTMUYtZDMwX21HX25PZ2tZRklBNHk3SjVrR2wtVGFWRjlySWlwNHBzZVRHNmk5NWI0RjdwM2IyREh4RzdmeFVBMjc1eU5rWDZJb1JoZ2ZKVWhzckRGamNyU2UydEpoTXhOd1RlTGhUbTJJQXlkV2FCbTJFS01IYXVzRXBQdTdIMllRSnRtWUhsNk52Mk5ZdmVRYVVHWUQ3ejhTZ19BeTNXNWfSAewBQVVfeXFMT1MyOUk4WnF2SHE2a0xzbEZOS1hOazJrTmtDMTNxNG1jRGpzOUUwdE9fZUk3YmFKbDYwWUxGekhJLXV3dzRLdTU4cjAxeDRQWkVaOGJROFctcWdwV1RFSjBtNE5tVmFrd3V2clFaWW90VVQ4a3RuMi1mOGVPTjNTWE9PVl9vb1VQeDRjOXF3M0tXbm44MS0xMnhYcW9xN1RSMnQ2R1pYd01keG16S0ZsYVY4SmF5cmtIbTUtUC00aGxBaDN0REhaaEpfZHl4TXAyUFNJYmRoVEt0dXhxc25Eei1LTTZWaTJaMS1rdTg?oc=5",
           "desc": "Jensen Huang, CEO de Nvidia, asegura que “hay un 0% de probabilidad de que la IA destruya el mundo” Infobae",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T14:52:26+00:00"
+          "fecha": "2026-09-21T14:59:47+00:00"
+        },
+        {
+          "title": "AMD EPYC impulsa la infraestructura detrás de la era de la IA Agéntica",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2hCNlZReDJMWUVDTmNhNUhtQjU3YXZvMEVkcUFMdFFlOFZaSkh6aHNFNEtuN0YxcW1lNkFBTHV0VlR6NXZ4VFMwNk9jNllXWDFyTDkwZURvVzVoMWRGMkFkSU9mLTZCeEkyeVJucG9aYl9CdS1kbmxiLTNkNFlVX2VYaGxZWlp4U242b0dfS1dBZ2gwM1p0eTlSZw?oc=5",
+          "desc": "AMD EPYC impulsa la infraestructura detrás de la era de la IA Agéntica Edomex Al Día",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:59:15+00:00"
+        },
+        {
+          "title": "El juez Juan Carlos Peinado envía a Begoña Gómez a juicio con jurado por tráfico de influencias y malversación",
+          "link": "https://www.elmundo.es/espana/2026/09/21/6ab102c3e4d4d8b2188b4583.html",
+          "desc": "El auto de apertura de juicio oral a la esposa del presidente del Gobierno se extiende a su asesora en La Moncloa, Cristina Álvarez, por colaborar en el uso privado del 'software' de la Complutense Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-21T16:58:55+02:00"
+        },
+        {
+          "title": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUlfMkVSYV9RN25qSzZVb0tQejZuQlpEUXBlVlJhczVOeVlnZzVsZ0F0U19rXzRFR2ZPTTdlUlk0eTQwbjRSTXNkX1FlRVJtZzE1cS1XNVNva1dJYlM2eTViQVVlLTRwNU5vdFVZbVBCV2tmRmRkdlV4MzdGR3BBVGRpUURBQldGUUFBaFQ2R1Zta1NqOElidnJyUmxRc1U5dm5qdDZIUTZORlJfcnNCZXhRSW1QOU9UT0FIdFI4bEpLUUpHZTBHQ1poNS04aG0wMW1hc0Z0RHJLT0luWkRR?oc=5",
+          "desc": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable DefOnline",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:57:48+00:00"
         },
         {
           "title": "Nvidia y Einride escalan camiones autónomos con Hyperion",
@@ -559,6 +615,13 @@
           "desc": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
           "source": "https://blogs.nvidia.com/feed/",
           "fecha": "2026-09-21T14:51:34+00:00"
+        },
+        {
+          "title": "Wall Street tras la apertura: Intel, AMD y Meta disparan el rally tecnológico",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdDhMbXIzZXAzQm1kS2hraHFTYzAzSVZPaTFjQ0FCMTJHVDY0QVdfd2lLcTFxVktndWlMR2lTUFN5QmNxcXhiVEdfZ2Z3WnB5Z3laX015eUN2RFdWRlVnc3ZyeFNrVGd1NmNDVnpJbzRSbWJEX3lOVG4yRmluckdGeFhxcUlnMWRXdzdBYWpXTXgyWE5kLVpTdXR3a294anlCR0xyZ0dLX2JMWHdILTJ5TXpPbU1PamxX?oc=5",
+          "desc": "Wall Street tras la apertura: Intel, AMD y Meta disparan el rally tecnológico CriptoTendencia",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:49:41+00:00"
         },
         {
           "title": "AMD se une al club del billón de dólares impulsada por la demanda de inteligencia artificial",
@@ -612,7 +675,7 @@
         {
           "title": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares gracias a la demanda de IA",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTelRQemhpTzREakpCVm1HdmI0OVVaRk0zdzJDVGVOT0dIOFlibWUzb2dmRzhLaWVScGtvNGNfc0VKN1hDY0pZdzRGR2dSOGtYZHYxV0VlemJ0MUhKZXJaQzhlS0xzaFVYemgyQl96YmlKT0VIVlA4?oc=5",
-          "desc": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares gracias a la demanda de IA es.tradingview.com",
+          "desc": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares gracias a la demanda de IA TradingView",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T14:19:31+00:00"
         },
@@ -636,69 +699,6 @@
           "desc": "NVIDIA y AMD frenan sus nuevas GPU: la próxima generación no llegaría hasta 2028 Infobae",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T14:06:54+00:00"
-        },
-        {
-          "title": "XBOX patenta un sistema de publicidad para mostrar anuncios al completar una misión o al terminar una ronda",
-          "link": "https://vandal.elespanol.com/noticia/2026264027/xbox-patenta-un-sistema-de-publicidad-para-mostrar-anuncios-al-completar-una-mision-o-al-terminar-una-ronda/",
-          "desc": "Microsoft ha registrado en Estados Unidos una patente para mostrar publicidad en videojuegos de PC y XBOX sin interrumpir la partida en momentos importantes. Microsoft ha patentado un sistema de publicidad que coloca anuncios en videojuegos para PC , XBOX y potencialmente el juego en la nube, pero sin interrumpir la partida en momentos clave , pues es capaz de detectar lo que está ocurriendo en el juego. Este movimiento se suma a otras iniciativas de la compañía de Windows para incluir publicidad en sus juegos y servicios. La empresa norteamericana registró la patente en la Oficina de Patentes y Marcas Registradas de Estados Unidos (USPTO) el 3 de septiembre , según detectó el medio Respawn First . Microsoft describe el sistema como \"consciente del contexto\" . Al reconocer un \"evento desencadenante\", lanza el anuncio y otorga a quien juega una cantidad de tiempo durante el que no se mostrará más publicidad . La patente indica que esta herramienta de publicidad no interrumpirá la partida la ser capaz de reconocer lo que está ocurriendo en el juego. En el mismo documento se ejemplifican algunas de las situaciones en las que el programa se puede suspender para que aparezca un anuncio: una pantalla de carga , el fin de una ronda en un multijugador competitivo o al terminar una misión en una aventura o un juego de rol. Funciona con un sistema de créditos El sistema reconoce esos momentos como tiempo de inactividad. En esas situaciones muestra o no publicidad dependiendo de un sistema de créditos, que asigna tiempo sin anuncios y, cuando se agota, se muestra publicidad al llegar al siguiente momento de inactividad e el juego. \"Un sistema de gestión de contenidos puede establecer un crédito basado, al menos en parte, en el contenido audiovisual promocionado , de modo que dicho crédito retrase la suspensión de la interacción del usuario con la aplicación de software interactiva durante la duración del crédito\", se lee en la patente. Como ocurre con toda patente, su registro no indica que Microsoft vaya a lanzar esta tecnología al público. Además, en el documento no se especifica si este sistema se aplicará a todo tipo de juegos de XBOX para consola, PC o la nube, o solo a juegos gratuitos. Microsoft lanzó en julio una versión gratuita en fase de pruebas de XBOX Cloud Gaming con publicidad . A mediados de septiembre se filtró una nueva modalidad de XBOX Game Pass con publicidad cuya existencia la compañía no ha negado.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-21T14:01:00+00:00"
-        },
-        {
-          "title": "Switch 2, Steam Deck y...Ayn: esta desconocida consola está arrasando en ventas",
-          "link": "https://www.20minutos.es/ofertas-descuentos/switch-2-steam-deck-ayn-esta-desconocida-consola-esta-arrasando-ventas_7039227_0.html",
-          "desc": "Una de las consolas Android más vendidas baja de precio, y es ideal para jugar en cualquier parte.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-21T16:00:00+02:00"
-        },
-        {
-          "title": "New RTX 5070 Autumn Limited Edition gaming GPU doubles as an air freshener with built-in 'e-sports aromatherapy' — AX Gaming's white and purple card also features an anime character and floral graphics",
-          "link": "https://www.tomshardware.com/pc-components/gpus/new-rtx-5070-autumn-limited-edition-gaming-gpu-doubles-as-an-air-freshener-with-built-in-e-sports-aromatherapy-ax-gamings-white-and-purple-card-also-features-an-anime-character-and-floral-graphics",
-          "desc": "AX Gaming has revealed its latest seasonal anime-themed limited edition graphics card which, this time, is designed to please your nose as much as your eyes.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-21T14:00:00+00:00"
-        },
-        {
-          "title": "Sánchez reclama “un nuevo contrato social” para abordar la IA: “La autorregulación no funciona”",
-          "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
-          "desc": "El presidente del Gobierno presenta medidas para adaptar a España a esta nueva tecnología y anuncia que convocará a los agentes sociales para abordarlo",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-21T13:54:49+00:00"
-        },
-        {
-          "title": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PN2VqamZLckdJWUJ0S21EUEE3WlpkbmxQTGtQaGVadWxVZ3RaZ3dhamh0Yk5ULW96dmNZbU10SWpCWVRjc3F2Vmk3ZlFKX0RVVEZ1N08tNGlDeGdlamJ1a3pHWG1yWlpvRTMtSjU4ejRlV0tjTkE?oc=5",
-          "desc": "Nvidia se asocia con Einride para escalar la flota de camiones autónomos es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T13:52:29+00:00"
-        },
-        {
-          "title": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkJXWHhJNGY5WHo5eG5QNUZqdHpRRWNZSXdqbnk2a1J2bkY2NVBCMHpoamNKN3lXM09pOFc1by1GSmtFWVQ3TnhWdjM5SWMyWmphRzN2U3RDblNJNHF5OEVpdVU0TEs1bUdvOGNfelZLZUhrdlVlLWJYay00V2ppei1xaHJtbDkxa3Mzb0xTT01SQ2N3UFU1c1ZNNjAtbFctaVg0ZGVFaEYxRi1NTjFUbFhkQWFET1h5U2NJMFlvcFpNNnRZa2pUdXhTVS1ONnBzNml5QUJn?oc=5",
-          "desc": "Análisis del SoC M6 de Apple: el chip de 2 nm de Apple supera con creces a AMD, Intel y Qualcomm Notebookcheck.org",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T13:34:00+00:00"
-        },
-        {
-          "title": "El CEO de Nvidia descarta que la IA tenga alguna probabilidad de destruir el mundo",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUs4V196QU5ZX3ZiRUM3MWpQSkp4TTQ1dXFTT1ZaM19ZZ2VfS3lCLXc2QWM3Ni1VUmlEOHI4UlNval9CY2lOLXczNWxNVlc1RU8tVVo0bW9QUjA1eTNVQkpOVEt0WDdlUFN4Szg4eWlNT1VxWGlEbEpuSzdMYlpUZkhfdnN2eWU1cEhJLVEwSDhUWmRPbFRpRm1QYUxSZjhRR3JndlBIM3F5dC1NVEE0V1lRN281U3Z6a3BVUmZnQmhXd29Ra0o4cW9nWnhCazB2LW9mNjhicWVvSjlhdm10VWNR0gHnAUFVX3lxTE5rb2tXYXJsOHdHNXdGVzdZSkdiWExVaW9iZTltV1hYNTFFbVB4RnFqNTJQazY0X3hfM1JJaWRxYUJwcXJxZmRYQ3RFeWIxYnRUVnh3NkNxaFBwdWVsX2Ftc25Ic1JDNTNoTDJCVnNEY09GRHBMbXBUUG84em1ZUlRWbUE0WVlRb0FTdGFtaHlDTlVPMFh5ZUdsOWxJUjc4a3A1YzU0WnFuVU43dE9hOHJscEU1VFZQUDZoaGxTNXFXTHdGNkQ3UURoT2YzUU80OVE1Yjk2OVJRcExMQVQtLWRpVG01QXpLcw?oc=5",
-          "desc": "El CEO de Nvidia descarta que la IA tenga alguna probabilidad de destruir el mundo Diario en Positivo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T13:28:35+00:00"
-        },
-        {
-          "title": "El jefe de Nvidia descarta el apocalipsis por la IA",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFV0dmZ0TFNuN2QwRVltZWstYkhCZTIzMEhodjduZTdhM2VwU2hVY0p3N01HM2VIZ2hDSzRoYVVSaHdyY29fWVRNT05Rb01aeGtRZ0ZmLVdBVkhyUXJXQ0ZZU2dmdGhXMjRsbUxqMnVuMHVUTHZxbVFfalR1Y1JRNk5WaG51M3A3aXRnbzhMcjJXamF1bjFtUWxLck9UVFhZRHVSOEpteGhmWTVXVkNxX9IB1AFBVV95cUxPa3VVd1NZMGdINV9ocHFqNUV4Q2RxOTJCMEtUcTN0MGxuMFRtbkk1UlhXV0NHWF9QUTVXb3Fhb1BiNTd1VVpaa1ktWGUwakt5ZXVYdkJaeVN2QXpwY3I3TXBVX0VQUmdfZWNiUGRRQ2lMSEhXU1VONHVTYk1ZRmVPSDdac3BuSWlTT1hLc0s4MXRLd2ZMNDItRU0tUDhEdGR2a1RkeGNyN0hYYWFtZm9acEZpdkdoWFNBRVVGaTBzRklqSHJNcjVFeDg1eDE5aVh6LWs2ZQ?oc=5",
-          "desc": "El jefe de Nvidia descarta el apocalipsis por la IA Montevideo Portal",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T13:18:00+00:00"
-        },
-        {
-          "title": "El juez Juan Carlos Peinado envía a Begoña Gómez a juicio con jurado por tráfico de influencias y malversación",
-          "link": "https://www.elmundo.es/espana/2026/09/21/6ab102c3e4d4d8b2188b4583.html",
-          "desc": "El auto de apertura de juicio oral a la esposa del presidente del Gobierno se extiende a su asesora en La Moncloa, Cristina Álvarez, por colaborar en el uso privado del 'software' de la Complutense Leer",
-          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-          "fecha": "2026-09-21T15:11:40+02:00"
         }
       ]
     },
@@ -725,7 +725,7 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVd3djRsVVMxMThHeE1uM2V6VVB2aktiZXhfbHIxOEM2OE1iYnc0Z3BBc2piT3lpUGw5UDNPTTZmN3JxNXBMMFpVcnRMWXZYVTV1c0NRRHk4eDNjU3poZ3FITHdwMEJuTmF2aU5xS3FvdHJ6Ul9mVWNUbFc4ZjNHcHlUOUE3NUdDcGhqQl9oa0RNcHhJMG1aM3FBME83aTJDOGdwVTFwcw?oc=5",
           "desc": "¿Por qué las acciones de AMD se disparan hoy? Investing.com México - Finanzas, Bolsa y Forex",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T14:13:14+00:00"
+          "fecha": "2026-09-21T14:33:22+00:00"
         },
         {
           "title": "Cuánto más puede resistir Friedrich Merz al frente de Alemania",
@@ -881,18 +881,39 @@
       "icono": "🎮",
       "items": [
         {
-          "title": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUlfMkVSYV9RN25qSzZVb0tQejZuQlpEUXBlVlJhczVOeVlnZzVsZ0F0U19rXzRFR2ZPTTdlUlk0eTQwbjRSTXNkX1FlRVJtZzE1cS1XNVNva1dJYlM2eTViQVVlLTRwNU5vdFVZbVBCV2tmRmRkdlV4MzdGR3BBVGRpUURBQldGUUFBaFQ2R1Zta1NqOElidnJyUmxRc1U5dm5qdDZIUTZORlJfcnNCZXhRSW1QOU9UT0FIdFI4bEpLUUpHZTBHQ1poNS04aG0wMW1hc0Z0RHJLT0luWkRR?oc=5",
-          "desc": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable DefOnline",
+          "title": "Jensen Huang (Nvidia) no quiere perder su imperio: \"Hay un 0% de probabilidades\" de que la IA acabe con el mundo",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSEUzS1dnNTl5amtkcXhYaXRPWG9odDZyaDhEeE04Ty0zMzVqWVpQMkJLdVJoNUdmVDdsQlBtTDlxUzRUWGE1cDQ3MXRVT05BcjJ1bWE5cG9tNEZZUG83RWZfRWU2WEhWM1JTSGUwM3BlRHJHbnlsQU5oZnJTei1XMFM5WXpraWpMOFRKb1BlcGVJeGFCWEdGLTdGaU5TMy1GS2x0aDFnN01PNnZKczBORXpDZTdaWExWbk5nMlh4ajh3bkFnOHZfVDhic3lCVE1GX244cWVUbWZpWjRLUVVNUjFFUmlMbUNfR0h5SlRUeFUzdkk5ZTE5dTU1cUt4VkZ6OTJ0Ug?oc=5",
+          "desc": "Jensen Huang (Nvidia) no quiere perder su imperio: \"Hay un 0% de probabilidades\" de que la IA acabe con el mundo El Economista",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T14:57:48+00:00"
+          "fecha": "2026-09-21T15:22:31+00:00"
+        },
+        {
+          "title": "NVIDIA y AMD retrasarían sus nuevas GPU hasta 2028, según filtraciones",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW9TbkpzUWVCaXpXRjVSUE9kejJ5SWVINHhWZ1o3R0p0QVVpWFVnbXQyQ1RnY0x0T0NlNF9FekM2dEhuemJvZVp1TERtTktnWHlSSU5XWGhWU0M3NGZBVDZvTWo0bEJQNjFtUm1RYXNTUURrV0JwWXhLbExTYjZEeVNKSjZrM1IzcmkxYWlzMDk4TkZGelBXa21xZGVMNVp0X3F0WjN0N0ZQNjFnN3c?oc=5",
+          "desc": "NVIDIA y AMD retrasarían sus nuevas GPU hasta 2028, según filtraciones KCH FM",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T15:03:21+00:00"
+        },
+        {
+          "title": "CEO de Nvidia, que hace chips para IA, rechaza posibilidad de \"fin del mundo\" en los próximos 4 años",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMzRXcXozT2MyOEtrZXBnand2WjhUYXFua3gwNGh5Z0psbU1rc0JoTi1QTTZSZkVoMFZ2YnV0N2tYUTVVX2R4Qi1maW53UTNyQXkzY3NDMThLRTdPOFdkd0NHaXlsaTMyajZpOXJTZ0pWcWNnS3dsanE1TURaZXNqN0k2U0R0dWFhNjdob1lpc05FNS0yZEQ1UVFMU1RGdFRBaE9FRmNqRGdhRkJoTlNteGx5dy1LWWMwUEJMYm9RVkk4SG9pMkZ6Rkp5UWMzUDFWblNBSjRCUHAzckljcjJyTjd2NEdndEpVdFh3c0hRVE5WRW9oSHZ0MFExTXVtSmdTMTBzTlJQMEJOdEF4UjV3Y05R?oc=5",
+          "desc": "CEO de Nvidia, que hace chips para IA, rechaza posibilidad de \"fin del mundo\" en los próximos 4 años BioBioChile",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T15:01:39+00:00"
         },
         {
           "title": "Jensen Huang, CEO de Nvidia, asegura que “hay un 0% de probabilidad de que la IA destruya el mundo”",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQTdjRzFxMUxENFhQemF2Q0VQSGcxNUhyUGhMRm03YkJxMTg5NXZQZlpTMUYtZDMwX21HX25PZ2tZRklBNHk3SjVrR2wtVGFWRjlySWlwNHBzZVRHNmk5NWI0RjdwM2IyREh4RzdmeFVBMjc1eU5rWDZJb1JoZ2ZKVWhzckRGamNyU2UydEpoTXhOd1RlTGhUbTJJQXlkV2FCbTJFS01IYXVzRXBQdTdIMllRSnRtWUhsNk52Mk5ZdmVRYVVHWUQ3ejhTZ19BeTNXNWfSAewBQVVfeXFMT1MyOUk4WnF2SHE2a0xzbEZOS1hOazJrTmtDMTNxNG1jRGpzOUUwdE9fZUk3YmFKbDYwWUxGekhJLXV3dzRLdTU4cjAxeDRQWkVaOGJROFctcWdwV1RFSjBtNE5tVmFrd3V2clFaWW90VVQ4a3RuMi1mOGVPTjNTWE9PVl9vb1VQeDRjOXF3M0tXbm44MS0xMnhYcW9xN1RSMnQ2R1pYd01keG16S0ZsYVY4SmF5cmtIbTUtUC00aGxBaDN0REhaaEpfZHl4TXAyUFNJYmRoVEt0dXhxc25Eei1LTTZWaTJaMS1rdTg?oc=5",
           "desc": "Jensen Huang, CEO de Nvidia, asegura que “hay un 0% de probabilidad de que la IA destruya el mundo” Infobae",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T14:52:26+00:00"
+          "fecha": "2026-09-21T14:59:47+00:00"
+        },
+        {
+          "title": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUlfMkVSYV9RN25qSzZVb0tQejZuQlpEUXBlVlJhczVOeVlnZzVsZ0F0U19rXzRFR2ZPTTdlUlk0eTQwbjRSTXNkX1FlRVJtZzE1cS1XNVNva1dJYlM2eTViQVVlLTRwNU5vdFVZbVBCV2tmRmRkdlV4MzdGR3BBVGRpUURBQldGUUFBaFQ2R1Zta1NqOElidnJyUmxRc1U5dm5qdDZIUTZORlJfcnNCZXhRSW1QOU9UT0FIdFI4bEpLUUpHZTBHQ1poNS04aG0wMW1hc0Z0RHJLT0luWkRR?oc=5",
+          "desc": "Guerra de visiones en la IA: por qué el CEO de Nvidia cree que el pánico catastrófico es irresponsable DefOnline",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:57:48+00:00"
         },
         {
           "title": "Nvidia y Einride escalan camiones autónomos con Hyperion",
@@ -967,7 +988,7 @@
         {
           "title": "El CEO de Nvidia rechaza las advertencias sobre la IA: \"Hay un 0% de probabilidades\" de que acabe con el mundo",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSzZaWEpMd0pXYlpCRjlTWXFHWFFXRkMtQi1VSUxZMllod0oydnUtZWJ6S3AtcWt5MkU3R2UxcXNaWUxXQUlCUXc1R1FodzlTWC1qZkRSMkxRNG0weUxrdU5ESU1UQ0dqSlZod0JkMDdKYWQ4VF84SjVOLTE0bFFFZmQ1RUtZWGFSMkVXeks4RDZBVmgwZlJGLV9oa3pqaFZCZjZGbTVKUTM5LWItSkV1dHZFMHBLUVpMWDFjMG1CWGFoNVI5XzV2V3psdEM3TkNUa2xB?oc=5",
-          "desc": "El CEO de Nvidia rechaza las advertencias sobre la IA: \"Hay un 0% de probabilidades\" de que acabe con el mundo Europa Press",
+          "desc": "El CEO de Nvidia rechaza las advertencias sobre la IA: \"Hay un 0% de probabilidades\" de que acabe con el mundo europapress.es",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T13:01:28+00:00"
         },
@@ -1026,27 +1047,6 @@
           "desc": "Jensen Huang, CEO de Nvidia, asegura que la IA no destruirá el mundo: \"Hay un 0% de probabilidad\" El Constitucional",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T12:16:59+00:00"
-        },
-        {
-          "title": "DeepSeek prepara un despliegue masivo de chips Huawei para reducir su dependencia de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVNDRUthdTNIUnFYS0FNajFBaFJoeEhOZ0RzSjZIN3UtRk1kZnVkaWlGZVlfMjBJemtpTGdVbjhFd1hRVTYtbFlGTDFnM3NXN3UwTlFXUndxV0VBeG85TGkwbXU4bEsxRl9HOVVITUl4VVhQcm40enBGcGttLWhkRkxMck5UVEhjYk5vSUNBcVhzNmlpQWdBUVh0YlA3Smp2bzZWMk9hbzhMekI5NmFLQVRIcmpHMFJLNVlhTDBUVVZUczJaSEJz?oc=5",
-          "desc": "DeepSeek prepara un despliegue masivo de chips Huawei para reducir su dependencia de Nvidia DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T11:57:57+00:00"
-        },
-        {
-          "title": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhiN1JpZWt1UzlZZlllaUR4N0NTZWMtZlZSMFZqcDJVSUQtTmNkVjFRNDhhQW00Q3dxNFRtVVdZTVoxdVZWSHp1YVFKelhxWmh0anY0Ylgwa0ZlaXlJS1NhX1NnN3dSRWM3b2FIUlk3U2wzc3VqMEJ4dUZhOFhoTVZISi1RV2FuYWt3Wkt1cF9hUUlDdHd1VjdGTHNjTzg4Z2JxNGJ2VkZOMXAzelFzMUZ1WFF1enRGSnlUSDNiejc4ZlE?oc=5",
-          "desc": "Un informe equipara las emisiones de los chips de Nvidia a una empresa estatal rusa del carbón Euronews.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T11:53:39+00:00"
-        },
-        {
-          "title": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTRxb1JaYTRFRE5SZmdBNzFySS1LQ1lrTTNkdFEtQmQzeFNCcW5xTWdwTDE4YldKV2k3MktKR1o3N0VvMVpsWWFIZGRZXzFtbGNzSFoyalNMMW81NXlsQW1zRjFXdEFnRjJNQUxTZU8xcU9XVndfdDRRemM2X1kyTlVtQ2lHeFVlZk56X3F0cS1IbENMVUhvZDZReklubkFPWXVON2dtU2tUeHVuTUQwYzNIMWswYlY1YjJ5Z2pQWmlIaDA?oc=5",
-          "desc": "Las emisiones del uso de chips de Nvidia igualan a las de una minera estatal rusa, según un informe Euronews.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T11:53:39+00:00"
         }
       ]
     },
@@ -1057,7 +1057,7 @@
         {
           "title": "Sharon AI to Announce Second Quarter 2026 Results",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3R2TTNCbHIxbVhTQjJHbnl3QWZ4VTNZRDBYcU1ITGFzWHZWSjNrTTF4NF9fRHd4UFZ3YVBIY0luY3lRbU5RYXFlQUJYRVNYZmk0VTFLa2VzSTJ5VWxLNU55X0d6WG5QZXlGRFE2R3NmOUdyYXdxZWVtTjRkSm1zbGxXNDdqX3RXdjRjNGVjX3dndlVMLTluRnJiWUIzREhWdmNjX2YtdXRuVHhBeEE?oc=5",
-          "desc": "Sharon AI to Announce Second Quarter 2026 Results es.tradingview.com",
+          "desc": "Sharon AI to Announce Second Quarter 2026 Results TradingView",
           "source": "https://news.google.com/rss/search?q=SHAZ+Sharon+AI&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-07-27T07:00:00+00:00"
         }
@@ -1068,6 +1068,34 @@
       "icono": "🖥️",
       "items": [
         {
+          "title": "AMD supera el billón de dólares tras cinco sesiones de alzas",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDZXWF9ieDJwc1U0VlJaT1BnLTI2d1FxTy1ONE9VeVZ4Q0RKNWtaNGt1QXp6MDRSMUtfQ21EUUFpc3FZd09uaFNnTmJZNllWSFVsbEVhc3I0OG5BVDFJS0pBMUpHSUtGaWZSbG9QRHpveGZ5REpaSXo5cnZ4WTZYZVFZYk5pRDZuMjhhMms0bEwzck1HRXdzSXNWTVVwbHRtUE1ITA?oc=5",
+          "desc": "AMD supera el billón de dólares tras cinco sesiones de alzas DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T15:21:31+00:00"
+        },
+        {
+          "title": "NVIDIA y AMD retrasarían sus nuevas GPU hasta 2028, según filtraciones",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW9TbkpzUWVCaXpXRjVSUE9kejJ5SWVINHhWZ1o3R0p0QVVpWFVnbXQyQ1RnY0x0T0NlNF9FekM2dEhuemJvZVp1TERtTktnWHlSSU5XWGhWU0M3NGZBVDZvTWo0bEJQNjFtUm1RYXNTUURrV0JwWXhLbExTYjZEeVNKSjZrM1IzcmkxYWlzMDk4TkZGelBXa21xZGVMNVp0X3F0WjN0N0ZQNjFnN3c?oc=5",
+          "desc": "NVIDIA y AMD retrasarían sus nuevas GPU hasta 2028, según filtraciones KCH FM",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T15:03:21+00:00"
+        },
+        {
+          "title": "AMD EPYC impulsa la infraestructura detrás de la era de la IA Agéntica",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2hCNlZReDJMWUVDTmNhNUhtQjU3YXZvMEVkcUFMdFFlOFZaSkh6aHNFNEtuN0YxcW1lNkFBTHV0VlR6NXZ4VFMwNk9jNllXWDFyTDkwZURvVzVoMWRGMkFkSU9mLTZCeEkyeVJucG9aYl9CdS1kbmxiLTNkNFlVX2VYaGxZWlp4U242b0dfS1dBZ2gwM1p0eTlSZw?oc=5",
+          "desc": "AMD EPYC impulsa la infraestructura detrás de la era de la IA Agéntica Edomex Al Día",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:59:15+00:00"
+        },
+        {
+          "title": "Wall Street tras la apertura: Intel, AMD y Meta disparan el rally tecnológico",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdDhMbXIzZXAzQm1kS2hraHFTYzAzSVZPaTFjQ0FCMTJHVDY0QVdfd2lLcTFxVktndWlMR2lTUFN5QmNxcXhiVEdfZ2Z3WnB5Z3laX015eUN2RFdWRlVnc3ZyeFNrVGd1NmNDVnpJbzRSbWJEX3lOVG4yRmluckdGeFhxcUlnMWRXdzdBYWpXTXgyWE5kLVpTdXR3a294anlCR0xyZ0dLX2JMWHdILTJ5TXpPbU1PamxX?oc=5",
+          "desc": "Wall Street tras la apertura: Intel, AMD y Meta disparan el rally tecnológico CriptoTendencia",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:49:41+00:00"
+        },
+        {
           "title": "AMD Ryzen 5 5500F and 7500 show up at retail with pricing above MSRP — budget CPUs are $20 more expensive than list price, even from first-party sellers",
           "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-and-7500-show-up-at-retail-with-pricing-above-msrp-budget-cpus-are-usd20-more-expensive-than-list-price-even-from-first-party-sellers",
           "desc": "Nearly two weeks after they were announced, AMD's Ryzen 5 5500F and 7500 (non-F) are available for sale, though prices are slightly above MSRP.",
@@ -1076,7 +1104,7 @@
         },
         {
           "title": "Logra AMD superar la valoración de 1 billón de dólares",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHFWQlRMZG5WbVNRM0xVUy1rbW5Cd2xod1RscTZQLWRuTWI2bG01NzNjbTFRRzE0azlpTWRVYzJQVjZZTWdFMnNNWWNUVkVPcjU1UDZ0MG9hODdNU3hGSktkaFpRc04xNnlma2tUc2JQRzQ4Y0p6OF93Z2hkTmkzSUNCLV9IdXRvWFhGeDJuYjMwWFBaTzRV?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2hRV0RwVEhTZDlUYmhpWDBHOC1MVDdHYkNQbGFvR0RKZml5NHJjcHdYZUVHZng4NEVEc2dRZUk2Yk1mZWRQU09hYjFELXFOQjJPc2NhVFlWVjVNdFphZ1dBUFdUeVR2eW5hZ0NTOXZLM1dYZE9YdWt3X0xXb1drZXpicWFPNWdXOVM5R2RITW5ldw?oc=5",
           "desc": "Logra AMD superar la valoración de 1 billón de dólares reforma.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T14:44:51+00:00"
@@ -1117,6 +1145,13 @@
           "fecha": "2026-09-21T14:36:49+00:00"
         },
         {
+          "title": "¿Por qué las acciones de AMD se disparan hoy? - Investing.com México",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVd3djRsVVMxMThHeE1uM2V6VVB2aktiZXhfbHIxOEM2OE1iYnc0Z3BBc2piT3lpUGw5UDNPTTZmN3JxNXBMMFpVcnRMWXZYVTV1c0NRRHk4eDNjU3poZ3FITHdwMEJuTmF2aU5xS3FvdHJ6Ul9mVWNUbFc4ZjNHcHlUOUE3NUdDcGhqQl9oa0RNcHhJMG1aM3FBME83aTJDOGdwVTFwcw?oc=5",
+          "desc": "¿Por qué las acciones de AMD se disparan hoy? Investing.com México - Finanzas, Bolsa y Forex",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-21T14:33:22+00:00"
+        },
+        {
           "title": "AMD se convierte en el último fabricante de chips en alcanzar valoración de 1 billón de dólares",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGNDN1hobXVoYnIzN1RCN0lBU3c2VWh2N2ZHMU5lTVJpbWN6WTI0eld2bC1aTVgxcHJtdE0tRGFtOXdQRmJfakVyMkVmdTdwNkFaeEpwNTlGV3QwQzRvRzRuWFlVaWE3ZTQ4ZnotMUJpbFlqSmcxbnNnYzVwTEVwVFc1Y3g1WHowR2FRaE8zenRKRGRTZjg4eXhpd09zS3JDOUtSbVVCLWt2VVdPNTViODRCOEQ5QmZvUEJ4Y1U1UnkyRTZYdnpmRklBZHNZRjZOdUptdWJVdVZzdllITWtQTHVJaVE?oc=5",
           "desc": "AMD se convierte en el último fabricante de chips en alcanzar valoración de 1 billón de dólares MarketScreener España",
@@ -1133,16 +1168,9 @@
         {
           "title": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares gracias a la demanda de IA",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTelRQemhpTzREakpCVm1HdmI0OVVaRk0zdzJDVGVOT0dIOFlibWUzb2dmRzhLaWVScGtvNGNfc0VKN1hDY0pZdzRGR2dSOGtYZHYxV0VlemJ0MUhKZXJaQzhlS0xzaFVYemgyQl96YmlKT0VIVlA4?oc=5",
-          "desc": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares gracias a la demanda de IA es.tradingview.com",
+          "desc": "AMD se convierte en el último fabricante de chips en alcanzar una valoración de 1 billón de dólares gracias a la demanda de IA TradingView",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T14:19:31+00:00"
-        },
-        {
-          "title": "¿Por qué las acciones de AMD se disparan hoy? - Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVd3djRsVVMxMThHeE1uM2V6VVB2aktiZXhfbHIxOEM2OE1iYnc0Z3BBc2piT3lpUGw5UDNPTTZmN3JxNXBMMFpVcnRMWXZYVTV1c0NRRHk4eDNjU3poZ3FITHdwMEJuTmF2aU5xS3FvdHJ6Ul9mVWNUbFc4ZjNHcHlUOUE3NUdDcGhqQl9oa0RNcHhJMG1aM3FBME83aTJDOGdwVTFwcw?oc=5",
-          "desc": "¿Por qué las acciones de AMD se disparan hoy? Investing.com México - Finanzas, Bolsa y Forex",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T14:13:14+00:00"
         },
         {
           "title": "AMD sobreextendido 16% sobre SMA(20) con RSI en sobrecompra: niveles en vivo",
@@ -1175,7 +1203,7 @@
         {
           "title": "Resumen semanal: AMD acuerda 530 MW y Wells Fargo inicia cobertura con Overweight y objetivo de $28",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MOFQtdXFIQnZFZ3J3Q1Nnd2NaMFVOdWZNNmJMd2JiT2ZYZVFuUm41R2JmZ1BGdWU3MlhXLUswMkdZaE1yY0oyV3RTdGFXcWphTlF3eWpjQmRUWlFnS05Fa21HSko2Q3VOYkdkZA?oc=5",
-          "desc": "Resumen semanal: AMD acuerda 530 MW y Wells Fargo inicia cobertura con Overweight y objetivo de $28 es.tradingview.com",
+          "desc": "Resumen semanal: AMD acuerda 530 MW y Wells Fargo inicia cobertura con Overweight y objetivo de $28 TradingView",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T11:28:15+00:00"
         },
@@ -1206,34 +1234,6 @@
           "desc": "AMD \"Tetrahedral Cages\", la técnica para Ray Tracing en juegos que reduce 47 veces el uso de VRAM y es hasta 90 veces más rápida El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-21T07:50:29+00:00"
-        },
-        {
-          "title": "AMD reduce de 80 a 1,7 GB la memoria BVH al hacer ray tracing sobre 500 millones de triángulos",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkVxSnVjd3lHMU9yOHloRHJvX01rZmVldmZSeU9rZEZRSm9WeEdORVk2RE9LNnk5enpISjBxU1Y2TjkybW9RSW9QNjFUOHB1TFhScWtVVmN0U3pIdzJLRlJNQy1qLVlFUDZUb29WNm1rcDR2dHVfMVpINk50emZsTzFVai14UmNZdDFBMXdycXRnOTdTajBuR1pBa2ZYc1lwWXdjNXpIOTlXS0tPRjY3ekZnM2dQZFQtSlZwQjJBeldhYmEyYVE?oc=5",
-          "desc": "AMD reduce de 80 a 1,7 GB la memoria BVH al hacer ray tracing sobre 500 millones de triángulos Fanáticos del Hardware",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T07:48:59+00:00"
-        },
-        {
-          "title": "GEEKOM A5 Pro 2026 con 110 euros de descuento: un mini PC con Ryzen 7000 capaz y a buen precio por tiempo limitado",
-          "link": "https://www.muycomputer.com/2026/09/21/geekom-a5-pro-2026-con-110-euros-de-descuento-un-mini-pc-con-ryzen-7000-capaz-a-buen-precio-por-tiempo-limitado/",
-          "desc": "Si estabas buscando un mini PC económico pero capaz con el que afrontar la vuelta al cole con garantías estás de suerte, porque el GEEKOM A5 Pro 2026 está disponible en oferta por tiempo limitado. Ahora mismo puedes comprarlo en la web oficial de GEEKOM por 549 euros, pero si además utilizas el cupón de […] La entrada GEEKOM A5 Pro 2026 con 110 euros de descuento: un mini PC con Ryzen 7000 capaz y a buen precio por tiempo limitado se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-21T07:47:46+00:00"
-        },
-        {
-          "title": "¿Por qué repuntaron las acciones de IA tras la subida de tipos de la Fed? NVDA, MU y AMD lideran el sector de los chips",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHNiZW1fME4tczhqUjVrWWVNT0pvRHU3YTktUWZ0REZtV3dPRU01bjBCUGFsMEpCVEtaUFFMWWJnS2dtVzBySldiclpiX2xpeEMxZk9NcXZ0a29iZ0FIMy16eDJaTFgtRnJmWnEzWGxBTTMxeF9NV21nby03RjFmbjVFcXhYTExKNVd1M3lzZXBYRDNxVnlkWmEzQWc2ZjJnSmdvaUR0eWRBMkdrUnJsNV9HeWNNN2x4Y3BxbTRBUFJQTEZrU1F4WXJ6em5LcHV6LWZ0cw?oc=5",
-          "desc": "¿Por qué repuntaron las acciones de IA tras la subida de tipos de la Fed? NVDA, MU y AMD lideran el sector de los chips TradingKey",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-21T07:14:18+00:00"
-        },
-        {
-          "title": "AMD reduce el consumo de memoria gráfica con trazado de rayos de 80 GB a 1,7 GB",
-          "link": "https://www.muycomputer.com/2026/09/21/amd-reduce-el-consumo-de-memoria-grafica-con-trazado-de-rayos-de-80-gb-a-17-gb/",
-          "desc": "AMD ha mostrado una tecnología gráfica que resulta espectacular, porque es capaz de reducir el consumo de memoria trabajando con trazado de rayos de 80 GB a 1,7 GB. En concreto, lo que se reduce es el peso de las estructuras BVH, que trabajan como cajas de datos donde se agrupa la geometría de la […] La entrada AMD reduce el consumo de memoria gráfica con trazado de rayos de 80 GB a 1,7 GB se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-21T06:30:54+00:00"
         }
       ]
     }
