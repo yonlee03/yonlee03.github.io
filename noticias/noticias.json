@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T09:00:04.087314+00:00",
+  "generado": "2026-09-28T09:30:06.340461+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -62,7 +62,7 @@
         {
           "title": "El Central se lleva el primer derbi sevillano ante el Sevilla Atlético (2-0)",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0o3dkEwQ1pZUHpxLUZzellLd0tnUDAtdlZRZm5aeERoOWU0MnAydU9kcjUyNnhudWJLSFpobml4Y0Q3R25nRFVUdUg3bU1jZUpUcy1vYVhoaXZNRFJlRjAzcGRkS0NKUmFxSkFOY0JEX1FGM3ExVjJ6bk1WblhLelBwa0lLY09aeHpJUDA2UjQ1eml2V3Rab0ZNeXlNWGppd2xHTVlFNldfQnFkVmhzQkprUDhQc18wZUxMWkM4TUU2cE9Mc1NpUnFJWDBCTXI0UXFBRNIB2gFBVV95cUxOXzVLMElUamJMS21WbkZlZ3dvbGN2VldmMjFEY3E5Q04zNzBBSkFwSnEzV1k1UU5EbVB1Y3N2TWdsNDRidnVHLThMMTdvT0VhR0tYakV6aXdRMHVjV2I0SGVNSW1VNE1JY3JZZE10bjFmX0VzeW1POHNFZGU0M09wWVBvaVgxMFBNcTVwOHczQTE0SkQtUnBQZUk1U0toa1pjSVBYdGhaVkdmeEpiTWhqQWJtNlZTdENHTTB4Q281cjlLZUk3UTViWmNMTVQ5TWJIYS1LTDZyMWNmZw?oc=5",
-          "desc": "El Central se lleva el primer derbi sevillano ante el Sevilla Atlético (2-0) ABC",
+          "desc": "El Central se lleva el primer derbi sevillano ante el Sevilla Atlético (2-0) abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T20:20:28+00:00"
         },
@@ -111,7 +111,7 @@
         {
           "title": "El Sánchez-Pizjuán alza de nuevo sus muros con García Plaza",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDRZWXhTeFowVEJONmhOUnBwNDJyTURHQ0RtSV9scldpRFNTd0NsY2ZtUlVjM2h3dEVxN2FFMmR3Mm1VNzE3bTRya1VkNjZYckNNaEwzQmxUSnM4R3VBN3p3ZW80eTBKRXdYalJMT2dqUGxkUWI2Vkt1R0ZsdE1MRnROWkFHRk1TT0hLeENjc2ZweThOVEF5X0YxZ1VIT1JUdXNDaXNfMXhYWThuYWRlMVFQX25MdlUwTkdIaEtxMVAwanlTNzRGVElLMVFvUdIB0wFBVV95cUxPWG1GOUJNZWVNR2d1Q280QVJobHpJU2JYWGFZVVR3T2Jfd3dHTEphNWlqN1BNY1Z0cVZHNzVpZkNjWTlYSUlzOHlVNHdyMnhkWU9nS183MjhIVWt4RWVMWUdnOVV3M1AxMFp3cGUtSmFTdXdZbVAwTjhvWVhxd2otSlF1aHRxblNMUE9wb0tjTzZ5RklqeUpJNGdIYjRwWmZZd3lDRmx0VnBFaHdKYWR0ejRyVC1kN1Z0VWdaNnE0N1hNZ1EzVURBMU5yb1pRdHllRmlJ?oc=5",
-          "desc": "El Sánchez-Pizjuán alza de nuevo sus muros con García Plaza ABC",
+          "desc": "El Sánchez-Pizjuán alza de nuevo sus muros con García Plaza abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T18:24:25+00:00"
         },
@@ -174,7 +174,7 @@
         {
           "title": "Kike Salas y Miguel Sierra, los duelistas más efectivos del Sevilla FC",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaHhUTldnNWRmNmV6bVRPUklVbk9UWlZOa19TQk5jMFhuQnRkaUEyeUJVTnJRWlBTdDRHUTZJbGhud2c0WjJkMUZad0dRYWtDS3MxSmpUNWVWU192YzNuZkphUHBXQ2xWOGZyNlVmOXp2WEFHWUxDOElzR3R5eVRxV1RuQ3pfdENNNEZkTVdaVWJ1ZC0zZzN1MGdpT0tUaHJBOHpkX1J1cEc2NUVSY0xpVGxsdU5rMmR4b2VfcFFXLXpvYzVYazJ0SEE2TkRJU19pdXBubTUzSHbSAd4BQVVfeXFMTUdfbUI3TDNhNGh4aEh0NFBPSWJXVnZwRVVJdzBtYU5KUFRSSDlxbnV0MFZvMmVzeDk5aFEzOTJmOTJ5LWpvVHp5TFZzN0R0LU80UmRyaE1DUFgyZ3RVcHlXRk5mQnhGSHd6WUpoNnloRXRSVkFscjhYTHhPVlpNUlMyZUozbFBkWkdaeURlM2t0MEFfbFU2ODMtWXo0aFRpR1hLVFZRbDZkSzdYb2RIM29LTUp4eFJpbVZ4ckxGOGNuT09hSjFvUjJSNDk1dm5uZHo1YW40RDZqSGk0TVpn?oc=5",
-          "desc": "Kike Salas y Miguel Sierra, los duelistas más efectivos del Sevilla FC ABC",
+          "desc": "Kike Salas y Miguel Sierra, los duelistas más efectivos del Sevilla FC abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T16:40:58+00:00"
         }
@@ -189,7 +189,35 @@
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
+        },
+        {
+          "title": "Cañizares 'vota' para el Balón de Oro, ni Lamine Yamal ni Mbappé: \"Es más difícil lo que han hecho ellos\"",
+          "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/canizares-vota-para-balon-oro-lamine-yamal-mbappe-mas-dificil-que-han-hecho-ellos-20260928-547424.html",
+          "desc": "El ex guardameta y actual tertuliano de Cope, apostó por Fabián Ruiz o por Harry Kane, \"por lo que han hecho en la temporada\" El próximo 26 de octubre en París , la revista France Football entregará una nueva edición del Balón de Oro . Entre los máximos candidatos están Lamine Yamal , que en su último partido con España ante Inglaterra abrió el marcador cuando aún no se habían cumplido los dos minutos de juego y Mbappé , que también marcó con Francia en el estreno de Zidane como seleccionador galo. El ganador del próximo Balón de Oro, del que Dembelé es el vigente poseedor del trofeo, es uno de los debates más en boca de todas las tertulias fubolísticas. Lamine Yamal y Mbappé apuntan a disputarse el trofeo que es votado por futbolistas, entrenadores y periodistas. Pero para Santiago Cañizares , ex guardameta de equipos como Real Madrid o Valencia , ni el jugador del Barcelona ni el del Real Madrid son los máximos favoritos y así lo expresó en su última participación en la cadena Cope. Santi Cañizares tiene claro sus favoritos para el Balón de Oro Cañizares prefirió ceñirse a expresar a quién votaría para el Balón de Oro y no dejarse llevar por divagaciones sobre el que está más en forma: \"Yo me voy a ceñir a quién votaría en el Balón de Oro porque si empezamos a divagar que quién está en forma, quiénes el que no se que...\". Cañizares dejó claro que el más valioso era Lamine Yamal al ser el más joven y también remarcó la importancia de ser mediático: \"El que más en forma está, el más valioso, el más valioso es Lamine , que es el más joven. El más mediático, que también es importante para los clubes porque vende camisetas\". Rakitic no le da el Balón de Oro a Lamine Yamal: \"Es todavía muy pronto para algunos\" Edu Aguirre se moja sobre el Balón de Oro y el techo de Cristiano Ronaldo con 41 años: \"Hay que disfrutar de ese animal\" Lamine Yamal y Mbappé no son favoritos para Cañizares Pero Cañizares sorprendió a sus compañeros de la tertulia cuando 'descartó' tanto a Lamine Yamal como a Kylian Mbappé y apostó por otros dos futbolistas que a pesar de no estar entre los favoritos, suenan también con fuerza: \"Me voy a ceñir a lo que es el Balón de Oro y para mí, antes que Lamine y antes que Mbappé hay dos candidatos superiores, que son Harry Kane y Fabián . Por lo que han hecho en la temporada. Para mí es más difícil lo que han hecho ellos\". En el caso de Harry Kane , el delantero inglés del Bayern de Múnich , cuajó el pasado curso una gran temporada en lo que a goles se refiere. En la Bundesliga marcó un total de 36 tantos, 10 en la Copa de Alemania y 14 en la Champions League . Harry Kane celebrando el último gol que marcó, el sábado ante España Además en el pasado Mundial , el delantero ayudó a Inglaterra a terminar tercero en la cita veraniega con seis dianas. Por lo tanto, un total de 66 goles. Muchos lo colocan como un candidato más tapado pero igualmente merecedor del Balón de Oro . Fabián, con su juego y sus títulos como mejor argumento para el Balón de Oro En el caso de Fabián Ruiz , sumó su segunda Champions League consecutiva con el PSG y logró el Mundial con España . Luis Enrique, su entrenador en Francia , dejó claro que le daría el premio al jugador nacido en Los Palacios . \"Ha ganado el Mundial, la Eurocopa hace dos años, la Champions League dos veces seguidas, la Liga de Naciones \", afirmó en agosto.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-28T09:27:10+00:00"
+        },
+        {
+          "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
+          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
+          "desc": "La protesta se extiende a Barcelona coincidiendo con la visita de Sánchez y en Madrid los manifestantes encaran el tercer día",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-28T09:26:52+00:00"
+        },
+        {
+          "title": "Investigan otro secuestro exprés en Barcelona: la víctima, aún no localizada",
+          "link": "https://www.20minutos.es/cataluna/barcelona/investigan-un-nuevo-secuestro-expres-este-domingo-calella-victima-todavia-no-ha-aparecido_7042081_0.html",
+          "desc": "Varias personas habrían sacado a la víctima de su coche y se la habrían llevado en otro vehículo.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-28T11:12:30+02:00"
+        },
+        {
+          "title": "¿Ya no interesa? EA Sports FC 27 registra el peor lanzamiento de la saga en Steam",
+          "link": "https://vandal.elespanol.com/noticia/2026271012/ya-no-interesa-ea-sports-fc-27-registra-el-peor-lanzamiento-de-la-saga-en-steam/",
+          "desc": "EA Sports FC 27 se ha estrenado en consolas y PC, y el número de jugadores simultáneos en Steam es ligeramente inferior al de los últimos juegos. Ya está a la venta EA Sports FC 27 en todas las plataformas, y los primeros datos de jugadores simultáneos indican que el debut ha sido ligeramente más flojo que en las últimas ediciones, al menos en Steam . Es cierto que la diferencia en esta métrica no es muy grande, pero podría indicar que algunos fans habituales han decidido adquirir otro de los muchos lanzamientos de este mes o han considerado que no trae suficientes novedades respecto a otros años. Teniendo en cuenta que Steam crece en número de jugadores cada año, lo lógico sería que cada año mejorase sus datos. Hay que recordar un detalle importante: la mayor base de jugadores de EA FIFA/EA Sports FC está en consolas y el descenso de EA Sports FC 27 en esta tienda puede compensarse con el éxito en PlayStation, Xbox y las Nintendo Switch. EA Sports FC 27 se ha estrenado por debajo de los 100.000 jugadores simultáneos en Steam Según indica SteamDB , EA Sports FC 24 logró un pico de 107.359 jugadores -si bien lo hizo en enero de 2024, no en su debut-, mientras que EA Sports FC 25 se estrenó con 110.026 jugadores simultáneos. EA Sports FC 26 debutó con 100.283 , aunque su pico subió hasta los 160.728 jugadores en julio, en las fechas de la final de la Copa Mundial de Fútbol de 2026 que ganó España. En los primeros días, EA Sports FC 27 ha conseguido un pico de 95.985 jugadores simultáneos , y en estos momentos hay 26.942 jugadores -el juego del año pasado tiene 16.371 jugadores-. ¿Una simple anécdota o un cambio en la tendencia? Electronic Arts sigue reinando en el género y la competencia que esperan muchos fans de este deporte no presenta una alternativa fuerte a excepción de los gratuitos eFootball de Konami y UFL . 2K Sports está preparando un nuevo estudio que podría enfocarse al fútbol , pero este juego no llegaría pronto .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-28T09:11:00+00:00"
         },
         {
           "title": "En Brasil apuestan por... Míchel Salgado",
@@ -204,13 +232,6 @@
           "desc": "El extremo bendice a su compañero de vestuario en el Barça",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-28T10:54:02+02:00"
-        },
-        {
-          "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
-          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
-          "desc": "La protesta se extiende a Barcelona coincidiendo con la visita de Sánchez y en Madrid los manifestantes encaran el tercer día",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-28T08:52:38+00:00"
         },
         {
           "title": "Endrick pone el fútbol en su sitio: \"Difícil es levantarte a las cinco de la mañana para trabajar\"",
@@ -239,6 +260,13 @@
           "desc": "El jugador canario de La Cerámica confesó en una entrevista para el diario AS que el hecho de tener que adaptarse al nuevo entrenador generó las primeras dudas en relación al nivel del equipo. \"Este año estamos capacitados para más y seguramente lo daremos\" El Villarreal no ha tenido un arranque de temporada sencillo. Tras la salida de Marcelino García Toral al final del pasado curso, los groguets apostaba por Iñigo Pérez como el continuador de un equipo que en la 2025/26 brilló en Liga pero que tuvo como cuenta pendiente su papel en la Champions League . Tuvieron que pasar seis jornadas de Liga y una de Champions League para que el Villarreal sumase su primera victoria de la temporada, fue ante el Málaga y uno de sus protagonistas fue Alberto Moleiro . El canario ha estado con dos goles y dos asistencias en las dos primeras victorias del Villarreal , ante el citado Málaga y ante el Levante en el derbi valenciano el pasado 20 de septiembre. En una entrevista para el diario AS , Alberto Moleiro justificó el mal arranque de temporada del equipo basándose en el periodo de adaptación que han tenido que vivir con Iñigo Pérez . Alberto Moleiro explica el periodo de adaptación con Iñigo Pérez en el Villarreal Alberto Moleiro valoró la exigencia de Iñigo Pérez al tiempo que lo definió como cercano: \"Muy cercano y muy exigente, la verdad es que nos aprieta bastante en los entrenamientos. Y ama el fútbol, se nota que le gusta muchísimo el juego, se conoce a todos los jugadores, eso es importante. Sabe mucho y nos da mucha información para que nosotros dentro del campo solo juguemos, muy contento con él\". Dorsales 2026/2027: Moleiro hereda el '10', Diatta y Rubén Gómez ascienden y quedan dos libres Moleiro se queda finalmente fuera de la lista del Mundial y entran cuatro ex del Villarreal Cuestionado el mediapunta sobre si entendían a Iñigo Pérez , Moleiro alegó que era cuestión de adaptarse: \"Bueno, no era que no lo entendíamos, sino que el equipo se estaba adaptando a una idea y eso tiene un precio, al final llevábamos seis jornadas y ya estaban las dudas. También llegaron por el año pasado que hicimos muy bueno, es normal. Este año estamos capacitados para más y seguramente lo daremos\". Las dudas lógicas en el Villarreal Alberto Moleiro se mostró comprensivo con las dudas que ha generado el Villarreal en el arranque de temporada: \"Sí, entendíamos el nervio. Estábamos nosotros dentro también algo nerviosos, porque al final piensas que no vas a ganar nunca. Pero creo que la clave fue el seguir entrenando fuerte, seguir entrenando bien, confiar en la idea y al final se acabó dando y ahora queremos más\". Alberto Moleiro, junto a Ayoze Pérez, celebrando uno de sus últimos goles con el Villarreal Parte de ese cambio en el Villarreal ha corrido de la mano de un Moleiro que ha visto modificada su posición, dejando la banda y participando ahora como segundo punta. El propio Moleiro confesó que se siente muy cómodo porque tiene libertad para mostrar su fútbol: \"Yo dentro del campo es donde me siento bien. Intento adaptarme a la posición que me ponga. Pero sí, es verdad que donde estoy jugando ahora, de segunda punta, de número diez, estoy bien. Me siento muy cómodo, porque al final tengo esa libertad de estar libre y de expresarme como soy, y me siento muy cómodo en esa posición. El año pasado también me encontraba bien, porque al final jugué siempre ahí y con los partidos fui mejorando yo creo. Pero este año pienso que es otra idea totalmente distinta y me siento muy bien ahí\". La llegada a la Selección española que Alberto Moleiro ve complicada Alberto Moleiro también fue preguntado por la posibilidad de llegar a la Selección española y el canario confesó que a día de hoy la ve un poco lejos por el gran grupo que conforman los de Luis de la Fuente: \"Vienen de ser un muy buen grupo, tienen mucho nivel y yo creo que la Selección para mí, a día de hoy, está un poco lejos. Pero bueno, yo voy a seguir preparándome, sé que algún día me va a llegar, no sé si de aquí a cinco o seis años, pero algún día me va a llegar seguro y hay que estar ahí preparado\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T08:23:08+00:00"
+        },
+        {
+          "title": "1x1 | Las notas del Club Atlético Central 2-0 Sevilla Atlético",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUJhTTh0YllTcV9OQ0pSSm5JYVJyN3BMNXVwLWFxWkdQVDQwVUNMOTB4Nl9FN09JaUFwUG04MnJxRDlnNktLWDgxZ0xoRnJsREhQSnlSVlRTdWlLclZvcHZsYnFPZ1dXcUZjRlV3bFlEMG43RkZ6ems5TS1HMGd4U3MyNUtfV1U?oc=5",
+          "desc": "1x1 | Las notas del Club Atlético Central 2-0 Sevilla Atlético elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T08:15:00+00:00"
         },
         {
           "title": "Rakitic no le da el Balón de Oro a Lamine Yamal: \"Es todavía muy pronto para algunos\"",
@@ -290,13 +318,6 @@
           "fecha": "2026-09-28T09:49:39+02:00"
         },
         {
-          "title": "Klopp y Schweinsteiger retratan la crisis de Alemania",
-          "link": "https://www.marca.com/futbol/nations-league/2026/09/28/klopp-schweinsteiger-retratan-crisis-alemania-mediocridad-culpa-asma.html",
-          "desc": "Bastian Schweinsteiger y Jürgen Klopp reconocen las carencias del fútbol alemán",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-28T09:49:39+02:00"
-        },
-        {
           "title": "La 'nueva vida' de Enric Gallego",
           "link": "https://www.estadiodeportivo.com/futbol/tenerife/nueva-vida-enric-gallego-20260928-547421.html",
           "desc": "El delantero catalán, a sus 40 años, lidera en solitario la tabla de goleadores de LaLiga Hypermotion Enric Gallego explotó tarde, llegó al fútbol de elite ya bien metido en la treintena, pero casi una década más tarde no sólo sigue ahí, sino que no para de sorprender. El delantero catalán del Tenerife se ha situado como nuevo líder de la clasificación de goleadores de LaLiga Hypermotion con un total de cinco dianas , tras lograr el único tanto del conjunto chicharrero en el empate (1-1) ante el Cádiz. El conjunto insular esta sobreviviendo en este arranque de campaña gracias a sus goles. Lleva cinco de los ocho que ha metido su equipo . Aparte de él sólo han anotado Jesús Álvarez, Iván Chapela y Fabricio. Y está tenido un media e casi a gol por partido. Concretamente, un gol cada 94,6 minutos. Álvaro Cervera lo suele sustituir en casi todos los encuentros, pero antes de marcharse le deja un 'regalito'. Gallego admite que, a falta de otras cosas, sigue aportando lucha y determinación. Y eso, por ahora, está siendo sinónimo de gol. \"Es una acción en donde veo el balón ahí y voy a por todo. He tenido la suerte de poner el pie por encima y ver la puerta. Ya saben que no doy nada por perdido y doy el máximo\", señalaba ante los medios al final del duelo ante el Cádiz. De hecho, ni sabía que se había puesto líder de la tabla de goleadores, algo que conserva al final de la jornada a falta del partido entre el Leganés y el Castellón. \"No pienso mucho en estas cosas. Pienso en el día a día. En disfrutar de cada día, entrenamiento y partido\", aseguraba el barcelonés. Enric Gallego, con mal sabor de boca Ante el cuadro cadista, Enric Gallego volvió a demostrar su viveza en el interior del área al aprovechar un error en el despeje de la defensa gaditana y adelantarse al portero David Gil para adelantar a su equipo. Luego empatarían los amarillos. \" No hemos estado muy acercados en la presión en la primera parte, lo cual hemos corregido en la segunda parte. Aun así, te pones por delante y se te queda el sabor de no cerrar el partido por una acción que te cogen a las espaldas y te empatan el encuentro . Tenemos que mejorar mucho en ese aspecto. Pierdes puntos con una única acción en la que se te van dos puntos. Seguir, corregir y mirar hacia delante\", señala el delantero del Tenerife, que mandaba un aviso a los suyos: \"Al no estar acertados en la presión, ellos aprovechaban esas acciones. No todos los partidos vamos a estar acertados\". El calvario del Cádiz continúa en Tenerife, el Andorra rompe las quinielas y el Sabadell suma y sigue Su entrenador, Álvaro Cervera , tampoco estaba satisfecho y daba un toque de atención a todo el grupo . \"¿De qué sirve que Enric meta 40 goles si quedamos segundos por la cola?\", afirma el cántabro , que de momento mantiene al Tenerife a mitad de tabla. Así queda la lucha por el Pichichi de 2ª tras la jornada 7ª En cuanto a la lucha por el Pichichi de Segunda, Enric Gallego se coloca como líder en solitario, pero por detrás hay muchos aspirantes . Jordi Cano (Andorra) firmó un doblete en el campo del Granada y se ha unido al grupo de cinco jugadores que comparte la segunda posición con cuatro goles. Un quinteto en el que además de Cano figuran el delantero del Mallorca Adrián Fuentes y el atacante colombiano del Girona, Yaser Asprilla, que no pudo disputar el encuentro con el Albacete a causa de sus compromisos internacionales. Con 5 goles: Enric Gallego (1p) (Tenerife) Con 4 goles: Jordi Cano (Andorra); Ousmane Camara (Castellón); Carlos Hernández (Ceuta); Yaser Asprilla (Girona); Adri Fuentes (Mallorca). Con 3 goles: Álex Forés y David González (Burgos); Álvaro Marín (Celta Fortuna); Jon Guruzeta (Eibar); Nicholas Gioacchini (Sabadell).",
@@ -330,27 +351,6 @@
           "desc": "El exfutbolista gaditano ha repasado su breve paso por el Celta de Vigo, marcado por su complicada relación con el entonces técnico, al que ya le veía poco futuro, pero decidió marcharse... Muchos aficionados del Celta de Vigo no recordarán que Álvaro Vadillo estuvo en las filas del club celeste. El extremo gaditano, formado en la cantera del Real Betis , llegó a Balaídos en el verano de 2020 pero no llegó a debutar oficialmente y acabó marchándose en esa misma ventana cedido al Espanyol, que se guardó una opción de compra obligatoria en caso de ascender a Primera división como así sucedió finalmente. Apenas estuvo dos meses en Vigo pero le sirvieron para darse cuenta de que con Óscar García , el entonces técnico del primer equipo, no tenía 'feeling' y no iba a jugar prácticamente nada. Su paso por Balaídos fue testimonial pero ahora, seis años más tarde, el de Puerto Real, retirado del fútbol desde hace dos años, ha hablado de su paso por el club olívico y no precisamente bien sobre el que era su entrenador. \" Era el entrenador, horrorosamente malo. No te hablo a nivel deportivo, sino un tío que llega allí y no te da los buenos días... malo. Todos los entrenamientos los hacía el segundo entrenador. Horroroso. Y como persona peor porque ni te saluda. Yo debería haber dicho 'este tío va a durar poco aquí' , me voy a callar y voy a seguir entrenando y estar en forma para cuando me llegue el momento, pero fui caprichoso y no quería estar allí. Fui tonto y niñatillo \", reconoce también por su parte el gaditano, en una larga chara con el podcast Climbers . De hecho, Óscar García no contó con Vadillo ni para los amistosos previos al comienzo de LaLiga, lo que le llevó al ex del Huesca o Granada a tomar la decisión salir en los últimos días del mercado. \"El Celta me firmó porque era joven, estaba libre y podía reunir condiciones para aportar. Desde que llego ni juego los partidos de pretemporada. Juego poquito. Hablo con Felipe (Miñambres) y le digo '¿ustedes me han firmado con el sí del entrenador? Porque esto no tiene ni pies ni cabeza'. Antes de que cerrara el mercado jugamos cinco partidos y no es que no jugara ni uno, es que ni calenté. Es que muchas veces es para reírte\", recuerda Vadillo.\" \"Hablo con Felipe (Miñambres) y le digo '¿ustedes me han firmado con el sí del entrenador? Porque esto no tiene ni pies ni cabeza\" \"> Al final, logró el ascenso con el Espanyol y el Celta acabó incluso ganando dinero con un movimiento que en lo deportivo no aportó nada: \"El Celta hizo un negocio redondo. Me coge libre, no paga el sueldo porque el Espanyol paga la ficha entera y luego saca 1,7 millones de euros, creo que fue. Miñambres me tiene que coger y decir 'Alvarito te voy a invitar a otro lenguado' \". Un mes después de la salida de Álvaro Vadillo, Óscar García fue destituido como técnico del Celta por los malos resultados y una tensa situación con la plantilla celeste. Tras salir del Celta no volvió a ser el del Granada El extremo gaditano encadenó varias experiencias en Segunda división tras su salida del Celta de Vigo. Pasó por el Espanyol , el Málaga y el Eibar antes de cerrar su última etapa conocida en el fútbol profesional con el Racing de Ferrol . A su paso por el Espanyol dejó uno de los momentos más destacados de su trayectoria reciente. En la temporada 2020-21, Vadillo formó parte de la plantilla que logró el ascenso a Primera división como campeona de Segunda. Tras aquella campaña, el club barcelonés se hizo con sus servicios en propiedad, aunque su continuidad en el equipo no se prolongó demasiado. En enero de 2022, el atacante puso rumbo al Málaga en calidad de cedido hasta final de temporada. En el conjunto andaluz volvió a competir en Segunda división y firmó tres goles en 18 partidos, en una segunda mitad de curso en la que buscó recuperar sensaciones y protagonismo. La siguiente parada de su carrera fue el Eibar . Vadillo llegó al conjunto armero en el verano de 2022, también como cedido, para afrontar la temporada 2022-23. Durante aquel curso disputó 22 encuentros de Liga, aunque no consiguió marcar. El equipo vasco terminó quinto en la clasificación y se quedó a las puertas del ascenso tras disputar la promoción. Borja Iglesias se moja con las críticas de Rodri al Valencia y da un consejo a Mbappé y Lamine Yamal: \"Si es injusto, dilo\" Borja Iglesias tiene dos semanas para convertirse en el refuerzo que necesita el Celta El extremo inició la campaña 2023-24 en el Eibar , pero en el transcurso de la temporada cambió de destino para incorporarse al Racing de Ferrol . En el conjunto gallego encontró su último equipo conocido en el fútbol profesional. Entre ambos clubes sumó 36 partidos de Liga y dos goles, repartidos entre los 14 encuentros disputados con el Eibar y los 22 que jugó con el Racing. De esta manera, Vadillo cerró una etapa marcada por los cambios de camiseta y la búsqueda de continuidad lejos de Vigo . Su trayectoria posterior al Celta tuvo como principal éxito colectivo el ascenso con el Espanyol en 2021, mientras que sus últimas temporadas transcurrieron en Segunda división. Tras su campaña con el Racing de Ferrol, correspondiente al curso 2023-24, colgó las botas como futbolista profesional.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T07:26:52+00:00"
-        },
-        {
-          "title": "La hija legítima que nunca reconoció Gento reclama que el Real Madrid le deje inventariar su patrimonio",
-          "link": "https://www.20minutos.es/gente/hija-legitima-que-nunca-reconocio-gento-reclaba-que-real-madrid-le-deje-inventariar-su-ingente-patrimonio_7042003_0.html",
-          "desc": "Paqui, la hija reconocida judicialmente del exfutbolista del club blanco acude a los tribunales para saber exactamente qué patrimonio dejó su padre.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T09:24:43+02:00"
-        },
-        {
-          "title": "Brazaletes negros, sin saludo y el plante de un jugador: las reivindicaciones de Irlanda en su partido de fútbol contra Israel",
-          "link": "https://www.eldiario.es/rastreador/irlanda-golea-israel-partido-marcado-genocidio-gaza-brazaletes-negros-saludo-plante-jugador_132_13542585.html",
-          "desc": "La selección irlandesa decidió jugar el encuentro ante la israelí tras una votación interna. El partido, marcado por reivindicaciones, terminó con una victoria de Irlanda por 0-3 El seleccionador de Irlanda, sobre el partido de fútbol contra Israel: “Nosotros jugamos contra el genocidio” Un partido de selecciones de fútbol que se juega en Budapest, pero en el que no participa Hungría. Una grada vacía. Brazaletes negros. Sin saludos entre los dos equipos. Y con la duda, hasta un día antes, si se llegaría a jugar. El domingo, el fútbol volvió a ser lo menos importante en el partido que disputaron Israel e Irlanda en la Liga de Naciones y que terminó con una goleada de tres goles a cero a favor de los irlandeses. La polémica comenzó hace siete meses, en febrero, desde que el sorteo del grupo certificó que ambos países se enfrentarían en el grupo 3 de la Liga de Naciones B, competición que pertenece al organismo europeo UEFA y de la que Israel forma parte desde 1994 . Desde entonces, había actuado la campaña 'Stop de Game' organizada por el colectivo Irish Sport for Palestine, que pedía un boicot contra Israel por el genocidio que comete en la Franja de Gaza desde octubre de 2023 y que ha matado a más de 73.000 palestinos. Pero tomó aún más fuerza a lo largo de la pasada semana. “Nosotros jugamos contra el genocidio” , llegó a decir el seleccionador irlandés Heimir Hallgrimsson. Tenían que jugarse dos encuentros, de ida y de vuelta, ambos con sede neutral (en Hungría y Serbia, respectivamente) por razones de seguridad en Tel Aviv y por decisión política por parte de Dublín. Pero la presión seguía creciendo. Irlanda no vendió entradas a sus aficionados. Israel, solo unas pocas. Hasta el sábado, un día antes del partido, no se podía confirmar si habría partido. Finalmente sí. El CEO de la Federación Irlandesa de Fútbol, David Courell, lo anunció en una rueda de prensa: el equipo había votado y una “mayoría significativa” había optado por seguir adelante. El portero suplente, Gavin Bazunu, compartió posteriormente un comunicado en el que se negaba a formar parte de los dos choques: “Soy un hombre de fe firme y trato de hacer todo lo posible por ser una persona íntegra y fiel a mis principios. Por ello, siento que estaría mal participar en los próximos partidos contra Israel. Mi decisión se basa únicamente en mi convicción personal de que matar a personas inocentes está mal”. Y añadió: “Hay pocas ocasiones en la vida en las que uno tiene la oportunidad de alzar la voz por algo más grande que uno mismo, y creo firmemente que esta es una de ellas”. El jugador israelí Manor Solomon (de azul) y el irlandés Jack Moylan (blanco y verde), durante el partido de la Liga de Naciones de la UEFA en Hungría, el pasado domingo. El partido entonces se jugó, pero con reivindicaciones. En primer lugar, los irlandeses decidieron no hacer el pasamanos protocolario con los israelíes: no se saludaron antes ni después del partido ni se intercambiaron banderines los capitanes. Durante el himno de Israel, los irlandeses agacharon además la cabeza durante el himno del equipo contrario. Todos los jugadores de Irlanda llevaron un brazalete negro en honor a los asesinados en Gaza y el jugador Jack Moylan, que marcó el 0-3, se besó la banda durante la celebración. El próximo domingo 4 de octubre tendrá lugar la vuelta en la localidad serbia de Backa Topola.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-28T07:23:10+00:00"
-        },
-        {
-          "title": "Raúl Varela celebra el dominio de España: \"Hoy por hoy vivimos el mejor momento de nuestra historia\"",
-          "link": "https://www.marca.com/radio/2026/09/28/raul-varela-celebra-dominio-espana-hoy-hoy-vivimos-mejor-momento-nuestra-historia.html",
-          "desc": "La conquista del Mundial sub20 femenino y la racha de la absoluta llevan al presentador de La Tribu a hablar de un momento sin precedentes",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-28T08:46:23+02:00"
         }
       ]
     },
@@ -359,46 +359,46 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Vasseur offers Ferrari upgrade promise to frustrated Leclerc",
+          "link": "https://www.formula1.com/en/latest/article/vasseur-promises-frustrated-leclerc-that-ferrari-will-bring-upgrades-soon.3zh1dESFZnVmBLkiBxgoOl",
+          "desc": "Ferrari Team Principal Fred Vasseur has promised that the Maranello-based squad will bring developments to the SF-26 “soon” after Charles Leclerc cited a lack of recent development as a reason behind their poor form in Azerbaijan.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
+        },
+        {
           "title": "Red Bull's Baku brilliance gives Verstappen fresh hope",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
         },
         {
           "title": "How Baku highlighted McLaren’s straight line weakness",
           "link": "https://www.formula1.com/en/latest/article/a-very-frustrating-saturday-stella-explains-how-baku-highlighted-mclarens-straight-line-weakness.4iY4EWmrhkVVgus2tothvn",
           "desc": "McLaren Team Principal Andrea Stella has explained why McLaren's performance was limited in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
         },
         {
           "title": "Mekies praises Hadjar's 'outstanding' Baku podium on return",
           "link": "https://www.formula1.com/en/latest/article/it-was-outstanding-mekies-praises-hadjars-azerbaijan-gp-podium-on-return.5suUJmpAuHzbzrUe5SzELk",
           "desc": "Laurent Mekies has praised Isack Hadjar’s performance in the Azerbaijan Grand Prix as “outstanding”, after the Red Bull driver returned from a wrist injury to claim a podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
         },
         {
           "title": "Leclerc urges Ferrari to ‘bring upgrades to close the gap’",
           "link": "https://www.formula1.com/en/latest/article/we-were-quite-far-off-leclerc-urges-ferrari-to-bring-upgrades-to-close-the-gap-after-baku.6zFmpztQcYlGBeNtCK6CF9",
           "desc": "Charles Leclerc was left concerned by Ferrari’s deficit to their rivals in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
         },
         {
           "title": "How the faster Hadjar helped Verstappen to second place in Baku",
           "link": "https://www.formula1.com/en/latest/article/how-the-faster-hadjar-helped-verstappen-to-second-place-in-baku.4lE3Qf6v36f4q8wyEq2Qe4",
           "desc": "Michael Lamonato assesses Isack Hadjar's role in helping Red Bull team mate Max Verstappen to second in the 2026 Azerbaijan Grand Prix, with the team celebrating a double podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
-        },
-        {
-          "title": "The 2026 Qualifying and race head-to-heads so far",
-          "link": "https://www.formula1.com/en/latest/article/in-numbers-the-qualifying-and-race-head-to-heads-between-team-mates-so-far-in-2026.D8AYcVEPGOs8OjIiVisZw",
-          "desc": "This is how each team mate pairing has stacked up against each other so far during the 2026 F1 season.",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:00:04.087314+00:00"
+          "fecha": "2026-09-28T09:30:06.340461+00:00"
         },
         {
           "title": "Horarios del GP de Japón de MotoGP: fechas y dónde ver en TV a Marc Márquez y Jorge Martín en el Motegi Twin Ring",
@@ -438,16 +438,9 @@
         {
           "title": "El rey de las Superbikes: Bulega es campeón por aplastamiento antes del salto a MotoGP",
           "link": "https://www.marca.com/motor/mas-motor/2026/09/27/rey-superbikes-bulega-campeon-aplastamiento-salto-motogp.html",
-          "desc": "El italiano volverá a competir bajo el manto de Valentino Rossi tras su salida del Mundial por la puerta de atrás",
-          "source": "https://www.marca.com/rss/motor.xml",
-          "fecha": "2026-09-27T17:03:51+02:00"
-        },
-        {
-          "title": "‘Cohete’ sube el listón: tetracampeón del SuperCER en su campaña más dominante con Skoda",
-          "link": "https://www.marca.com/motor/rallies/2026/09/27/cohete-sube-liston-tetracampeon-supercer-campana-dominante-skoda.html",
           "desc": "El piloto madrileño, previo a hablar con los comisarios de carrera, se mostro pesimista sobre su encuentro con Hamilton",
           "source": "https://www.marca.com/rss/motor.xml",
-          "fecha": "2026-09-27T16:16:45+02:00"
+          "fecha": "2026-09-27T17:03:51+02:00"
         },
         {
           "title": "Los insultos y el abuso salpican a la F1 en redes y Alpine pide calma",
@@ -525,6 +518,13 @@
           "desc": "Pese a lo sucedido en Australia, avisa de que no se va a \"quedar mierando\" si hay agua en el GP de Japón",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-26T22:35:59+02:00"
+        },
+        {
+          "title": "Carlos Alcaraz salva a Europa y se carga el récord de Roger Federer en la Laver Cup: \"Es algo que tenía en mente\"",
+          "link": "https://www.estadiodeportivo.com/tenis/carlos-alcaraz-salva-europa-carga-record-roger-federer-laver-cup-20260926-547343.html",
+          "desc": "El murciano sufrió de lo lindo para imponerse al estadounidense Taylor Fritz y salvó dos bolas de partido para poner la igualada a cinco en este torneo de exhibición entre el continente europeo y el resto del mundo Carlos Alcaraz va cogiendo ritmo y la Laver Cup parece sentarle de maravilla al murciano. Tras un regreso agridulce en el US Open, el tenista español está disputando un año más este torneo de exhibición que organiza Roger Federer y que enfrenta a las primeras espadas del tenis europeo contra las del resto del mundo. Carlos Alcaraz ha ganado tres de los cinco puntos de Europa en esta Laver Cup . El murciano, que estrenó su cuenta este viernes en el dobles junto a Jakub Mensik, triunfó también en el individuales al vencer a Taylor Fritz salvando dos puntos de partido (6-3, 4-6 y 13-11) e iguala la competición con el Resto del Mundo (5-5). Alcaraz vengó de esta manera la única derrota de su carrera ante Fritz , producida el año pasado en la Laver Cup de San Francisco, días después de que el español conquistase el US Open. Una derrota casi anecdótica, por la importancia de la misma dentro de un torneo de exhibición, pero de la que Alcaraz aprendió, ya que ha ganado los últimos cuatro enfrentamientos ante el estadounidense y en ese camino solo ha cedido dos sets. Este sábado, en la sesión nocturna del O2 y después de que Europa se dejara los dos enfrentamientos previos con las derrotas de Flavio Cobolli y Alexander Zverev, Alcaraz se echó al equipo a los hombros, venció al mejor de los de Andre Agassi en un superdesempate muy tenso en el que incluso salvó dos puntos de partido en contra e iguala la Laver Cup a la espera de lo que ocurra en el dobles. Rafa Jódar y Carlos Alcaraz revolucionan la Laver Cup con sendos triunfos para Europa La intención de Alcaraz es volver a jugar un individual este domingo, cuando el torneo se decidirá valiendo cada victoria tres puntos. Carlos Alcaraz iguala a Roger Federer Carlos Alcaraz, con apenas 23 años, es uno de los tenistas récord de la actualidad. El número 1 más joven de la historia, a la vez que el más precoz en ganar los cuatro títulos del Grand Slam, ya es el tercero en el ranking de puntos sumados en la Laver Cup . Los 18 que atesora, tras su victoria ante Taylor Fritz le igualan a Roger Federer. El extenista suizo, presente en la grada del 02 como propietario de la competición, llegó a esa cifra tras la disputa de 12 partidos. El helvético tiene en su palmarés un total de ocho triunfos y cuatro derrotas, todas ellas sufridas en el dobles. Dos partidos menos ha necesitado Alcaraz, que ha decantado a su favor ocho de sus 10 duelos en el torneo por equipos que cumple su novena edición con Mercedes-Benz de patrocinador global. Por delante restan Alexander Zverev, con 21 puntos ganados, y Jack Sock, que tiene 20. Carlos Alcaraz empieza la Laver Cup con una gran protesta de la pista: \"Hay que poner un límite, sería lo mejor\" Alcaraz es sinónimo de espectáculo y lo sabían los asistentes al 02 que llenaron las gradas. Carlitos se llevó todos los puntos espectaculares. Una dejada por aquí, un globo por allá, otra volea muerta, para deleite de los miembros del equipo europeo y sus dos capitanes, Yannick Noah y Tim Henman. Carlos Alcaraz aclara cuál es su nivel en estos momentos El tenista español afirmó que \"poco a poco\" está volviendo a su mejor ritmo, tanto física como tenísticamente: \"La intensidad con la que hemos jugado ha sido muy alta . Esta pista y estas bolas permiten jugar intercambios largos . Estoy muy contento de poder jugar a este nivel\". \"Fueron muy importantes para mí las dos semanas después del Abierto de Estados Unidos. Me tomé una semana de descanso sin tocar una raqueta. Trabajé mucho mi físico. Poco a poco estoy volviendo a mi mejor ritmo, tanto en mi tenis como en mi físico. He estado practicando mucho en mi servicio, he hecho un par de cambios en mi servicio\", ha manifestado el murciano. El hermano de Zverev: \"Alcaraz y Sinner no son lo suficientemente fuertes o se han esforzado demasiado\" Tema tenístico creo que estoy a un buen nivel. He ido mejorando poco a poco, hemos pulido muchos detalles, muchos golpes. Me siento con mucha confianza\", dijo Alcaraz.Con los 18 puntos que lleva en esta Laver, Alcaraz ha igualado los puntos que hizo Roger Federer en la competición: \"Es algo que tenía en mente. Ser el tercero, empatado con Federer y solo con Sock y Zverev por delante, es algo increíble. Intentamos ayudar al equipo todo lo posible\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-26T20:31:33+00:00"
         }
       ]
     },
@@ -532,6 +532,55 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Los nuevos chips de inteligencia artificial de Nvidia podrían entrar en el mercado chino",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZENaSWR5MDBmeXNzUlRkbTE2aVFpVGlzNXJtWWtyZk1PUHZHTXZDM3dvcjlKa0FfaWFMR1M2dUIxWnFKdmdsMm1NTlRZYWVIYXlYX2RJLUV5SVlydXBBUTVSNXFnYjRKSkJJME1aeGNmZ2QtYjdHX1hjWFJJZ25nMzN6ZmR4aVdET2dNRE15NnQ1ZEd6TkY3akdqZFdmOTY4NlBhTi00M0s2dDIzTWw5a3JDUXVjLXViazNjVHF2QV9wenVZWmY5M0VXWTZvYWFZcFNhbE45a2FDRk0y?oc=5",
+          "desc": "Los nuevos chips de inteligencia artificial de Nvidia podrían entrar en el mercado chino MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:22:06+00:00"
+        },
+        {
+          "title": "Save $300 on this 1440p-ready gaming PC with an RTX 5060 Ti 16GB, now $1,399.99",
+          "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-now-usd1-399-99-newegg-deal-on-abs-cyclone-aqua-rig-nets-you-a-20-core-intel-cpu-along-with-16gb-of-ddr5-and-a-1tb-ssd",
+          "desc": "This ABS Cyclone Aqua gaming PC, featuring an RTX 5060 Ti 16GB, Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD has a $300 discount, now $1,399.99.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T09:15:46+00:00"
+        },
+        {
+          "title": "¿Ya no interesa? EA Sports FC 27 registra el peor lanzamiento de la saga en Steam",
+          "link": "https://vandal.elespanol.com/noticia/2026271012/ya-no-interesa-ea-sports-fc-27-registra-el-peor-lanzamiento-de-la-saga-en-steam/",
+          "desc": "EA Sports FC 27 se ha estrenado en consolas y PC, y el número de jugadores simultáneos en Steam es ligeramente inferior al de los últimos juegos. Ya está a la venta EA Sports FC 27 en todas las plataformas, y los primeros datos de jugadores simultáneos indican que el debut ha sido ligeramente más flojo que en las últimas ediciones, al menos en Steam . Es cierto que la diferencia en esta métrica no es muy grande, pero podría indicar que algunos fans habituales han decidido adquirir otro de los muchos lanzamientos de este mes o han considerado que no trae suficientes novedades respecto a otros años. Teniendo en cuenta que Steam crece en número de jugadores cada año, lo lógico sería que cada año mejorase sus datos. Hay que recordar un detalle importante: la mayor base de jugadores de EA FIFA/EA Sports FC está en consolas y el descenso de EA Sports FC 27 en esta tienda puede compensarse con el éxito en PlayStation, Xbox y las Nintendo Switch. EA Sports FC 27 se ha estrenado por debajo de los 100.000 jugadores simultáneos en Steam Según indica SteamDB , EA Sports FC 24 logró un pico de 107.359 jugadores -si bien lo hizo en enero de 2024, no en su debut-, mientras que EA Sports FC 25 se estrenó con 110.026 jugadores simultáneos. EA Sports FC 26 debutó con 100.283 , aunque su pico subió hasta los 160.728 jugadores en julio, en las fechas de la final de la Copa Mundial de Fútbol de 2026 que ganó España. En los primeros días, EA Sports FC 27 ha conseguido un pico de 95.985 jugadores simultáneos , y en estos momentos hay 26.942 jugadores -el juego del año pasado tiene 16.371 jugadores-. ¿Una simple anécdota o un cambio en la tendencia? Electronic Arts sigue reinando en el género y la competencia que esperan muchos fans de este deporte no presenta una alternativa fuerte a excepción de los gratuitos eFootball de Konami y UFL . 2K Sports está preparando un nuevo estudio que podría enfocarse al fútbol , pero este juego no llegaría pronto .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-28T09:11:00+00:00"
+        },
+        {
+          "title": "WhatsApp para Android prepara un cambio histórico: la app se verá como en el iPhone",
+          "link": "https://hipertextual.com/tecnologia/whatsapp-para-android-prepara-un-cambio-historico-la-app-se-vera-como-en-el-iphone/",
+          "desc": "WhatsApp se ha cansado de ofrecer una interfaz diferente en iOS y Android. La compañía lleva ya varios años (desde 2023) sin cambiar demasiado el diseño para los móviles bajo el ecosistema de Google, algo que no es dramático, pero que empieza a despertar una necesidad de actualización para muchos usuarios. La buena noticia es […] Seguir leyendo: WhatsApp para Android prepara un cambio histórico: la app se verá como en el iPhone",
+          "source": "https://hipertextual.com/feed",
+          "fecha": "2026-09-28T09:05:20+00:00"
+        },
+        {
+          "title": "Nvidia lanza un software de seguridad para inteligencia artificial que, según afirma, habría evitado el ciberataque a Hugging Face",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUlXblNzSXVuZVhLT2lrejBESnFvcDl4Zi1HQTNQOVZpLXNRcFgteXZqTjJraGd6LWcyaGNQQWRqOW9rNnl3MnRqVHJMLWZReTEyR0Z0V1dUNmYxVDlrOXBlMWJXeW9sZlNQcGtOdDJyejlTSHljMHMxM0doVTg5N25XNGN4RzhqTUxWNmVhRm5hNnhUZmZDM20xbm83REk1OElZZFFkQ3VYbzRjVzJ6MmJyd3JLMVRueWF3dFIySGhldGRDVnZTSi1QeDA1bWFMajhGSEpHTnhpbWZIRkwtNUtfNTBBQ1dCMmc?oc=5",
+          "desc": "Nvidia lanza un software de seguridad para inteligencia artificial que, según afirma, habría evitado el ciberataque a Hugging Face MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:01:26+00:00"
+        },
+        {
+          "title": "Nvidia lanza un software de seguridad para IA que, según afirma, podría haber evitado el ataque informático a Hugging Face",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaV2QyOVlDaF9OdUoydlpFRXc1Ukh1enpUd19pdWd6VFQ1RWFveXZsMnhSb2FyeFdTQzlxTDdsRl8zakVtWDRCQm1UMFRCNk85Z2owUG9wUXJHeGJYWmhwd0U2U0hWZDJBS2FweXVIZjBRZW1OX1J3?oc=5",
+          "desc": "Nvidia lanza un software de seguridad para IA que, según afirma, podría haber evitado el ataque informático a Hugging Face TradingView",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:00:24+00:00"
+        },
+        {
+          "title": "Trend Micro Incorporated respalda la plataforma de seguridad de agentes de NVIDIA",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRGFld2w1TmJwcXZYYzA2aU5ZOEp2ZHlYOXcxMjJqOTN3VlJVNkxTOTNoUUZDZi1VUUN2MXJULVRmeFpZX3VXUUxhM1lVWUY0VEwyZTV2X0x1amFIUWFhY3pqQXFtOG5PODAzeQ?oc=5",
+          "desc": "Trend Micro Incorporated respalda la plataforma de seguridad de agentes de NVIDIA TradingView",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:00:00+00:00"
+        },
         {
           "title": "China allana el terreno para los nuevos chips de Nvidia",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3ROeGlHaGdBaklRWXVUR0NlRTdMNTNRNDVqRmFxWEljTE5HRW54bFI5T013cDNEbi03SGJyWHN0QlFBdmZlSGxrdU9OMmJsNGN6WG1GT0tPazhPRmNWVVlOZUpxaGxFVkxKaFVfa200emZfREtIUzVidHVVVDR3X1hJWUY?oc=5",
@@ -650,55 +699,6 @@
           "desc": "La magistrada admite la querella de entidades sociales colomenses y cita como investigado a Aitor Navarro por delito de odio y revelación de secretos Los datos que desmienten a Vox: España tiene el doble de extranjeros que en 2005 y una tasa de delincuencia más baja Una jueza de Santa Coloma de Gramenet (Barcelona) ha imputado por un delito de odio y otro de revelación de secretos al concejal de Vox Aitor Navarro por sus discursos abiertamente xenófobos y por haber desvelado la identidad de migrantes que reciben ayudas sociales del municipio. En un auto, al que ha tenido acceso elDiario.es, la jueza acepta la querella que distintas entidades sociales de Santa Coloma presentaron de la mano del abogado David Aranda, y cita a Navarro para comparecer como investigado el próximo 17 de noviembre. Desde que obtuvo el acta de concejal en las elecciones de 2023, Navarro se ha caracterizado por discursos racistas y xenófobos que vinculan la inmigración con la inseguridad. El edil, además de polémicas intervenciones en los plenos, cuenta con una amplia presencia en redes sociales, donde emite su ideario a golpe de vídeo. La querella de SOS Racisme, el Centre d'Acolliment de Santa Coloma, Ca la Sisqueta, Espai Gramenet, Papers i Drets per Tothom y Ningú Sense Llar Gramenet enumera las intervenciones del edil que, a juicio de las entidades, suponen un delito de odio y otro de revelación de secretos. Las entidades han celebrado la admisión a trámite de la querella y han valorado que los mensajes de Navarro “ponen en peligro la tolerancia, la convivencia y la cohesión social que ha sobrevivido a diferentes migraciones que Santa Coloma de Gramenet ha vivido en su historia” Especial atención fijan las entidades en la intervención de Navarro en un programa de videostreaming , donde el edil difundió nombres de pila y nombres y apellidos de personas que habían recibido alguna subvención o ayuda social del consistorio colomense. Además de los nombres y la cantidad de ayuda percibida, Navarro salpimentó su intervención con comentarios como “depende de la hoja se ven nombres chinos, pakistaníes y dices, ¿guau, el español dónde está? En su casa trabajando sin llegar a final de mes”. Los querellantes resaltan que las expresiones del edil, “más allá de un contenido típico de discurso de odio”, podrían suponer un delito de revelación de secretos, ya que sospechan que Navarro podría haber accedido a los datos tras acceder “indebidamente” a los registros informáticos del Ayuntamiento. Es más, en otro post de Instragram, Navarro incluyó un enlace que llevaba a un documento de 48 páginas donde constaban nombres y apellidos de personas “que han recibido en algún momento una subvención o ayuda pública” del consistorio, agregan las entidades. Navarro es uno de los dos concejales de Vox en el municipio colomense, donde el PSC gobierna desde hace décadas con una cómoda mayoría absoluta. Sin embargo, según fuentes conocedoras de la política local, el edil emplea un tono duro tanto contra el equipo de gobierno como contra el PP y “enciende” los plenos habitualmente. En redes sociales, Navarro tira del manual de la extrema derecha de toda Europa para instalar la xenofobia entre las clases populares y vincula de forma reiterada delincuencia e inmigración, pese a los datos que lo desmienten . Varios de los discursos del edil en los plenos y redes aparecen en la querella, ya que las entidades sociales creen que podrían suponer un delito de odio. “No toleraremos actitudes que promuevan el odio y la discriminación racista contra las personas migradas a fin de obtener rédito electoral y distraer la atención de otros problemas sociales más graves, como la crisis de la vivienda”, agregan las organizaciones sociales. En la querella aparece otro episodio sucedido a pie de cale. A finales de 2024, aseguran los denunciantes, Navarro increpó por la calle a una activista musulmana que repartía octavillas de una manifestación para bajar los alquileres y le dijo “te cambio uno de los tuyos por uno de los míos”. En su TikTok, agrega la querella, Navarro se ha grabado colgando carteles con el mensaje “¡Extreme la precaución en esta zona! PP y PSOE están repartiendo ilegales aquí”, y llamando a decir “no al reparto de ilegales”. En otro de sus vídeos en redes, Navarro criticó una iniciativa municipal porque, a su juicio, ofrecía “un plan ocupacional para mujeres inmigrantes tengan o no la documentación”, y en otra grabación se situó en un parque que tildó de “zona cero de la islamización” de un barrio de la ciudad.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-28T06:00:04+00:00"
-        },
-        {
-          "title": "Las acciones chinas de semiconductores caen ante posible venta de chips Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcHJrckt5aHRfNXlNdjN2ZWJ6cFRGVGVJeWZvajFZci1TZDVDZHRSYlI0NFh4QjdtcUNfTlo1MERXUUNpOEdVNW9XVXY2bVNfQzhnck10VlVFUkVQSnFiVzdudXhobzZaMmxaNTZKdU9HYWVOQk8tcmxrRlpsTXd4Nk5kMXBWbjlKWlZubENoYTFNVThMWktQWFdqUjNTQTRFRVJaMDktMlF6T1JaX256dHJsOUNsb0ZuZkZWZk1oN001ZUxMODI0OXBBc3pYazg?oc=5",
-          "desc": "Las acciones chinas de semiconductores caen ante posible venta de chips Nvidia Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T05:52:00+00:00"
-        },
-        {
-          "title": "Fortnite confirma su esperado crossover con Five Nights at Freddy's y ya tiene fecha para Halloween",
-          "link": "https://vandal.elespanol.com/noticia/2026271001/fortnite-confirma-su-esperado-crossover-con-five-nights-at-freddys-y-ya-tiene-fecha-para-halloween/",
-          "desc": "Epic Games confirma que Five Nights at Freddy's será una de las grandes colaboraciones de Fortnitemares, que comenzará el 1 de octubre con nuevos contenidos y skins. Epic Games ha confirmado oficialmente una de las colaboraciones que más tiempo llevaban esperando los jugadores de Fortnite . Five Nights at Freddy's llegará al popular battle royale el próximo 1 de octubre , coincidiendo con el inicio de Fortnitemares , su tradicional evento de Halloween. Es oficial: FNAF llega a FORTNITE 😱 #fortnite #fnaf #gaming #videojuegos #vandal pic.twitter.com/pg94U7PN6e — Vandal (@VandalOnline) September 28, 2026 La colaboración se había filtrado hace unas semanas y el propio mapa ya contenía una pista bastante evidente, como un edificio todavía en construcción que guardaba un gran parecido con Freddy Fazbear's Pizza , la famosa pizzería de la saga de terror creada por Scott Cawthon. Ahora Epic ha despejado cualquier duda con un primer tráiler del crossover. Freddy, Bonnie, Chica y Foxy se apoderan de Fortnite El vídeo confirma la presencia de Freddy Fazbear, Bonnie, Chica y Foxy , los cuatro animatrónicos originales de Five Nights at Freddy's . La pizzería aparecerá en el escenario de battle royale y los personajes actuarán como enemigos o jefes a los que los jugadores tendrán que enfrentarse durante el evento. A continuación podéis ver el primer tráiler de esa colaboración: Vídeo: Además, los cuatro animatrónicos tendrán sus propios trajes para los jugadores . El tráiler permite ver tanto sus apariencias habituales como versiones deterioradas, similares a los conocidos diseños \"Withered\" de la saga. También se esperan otros objetos cosméticos relacionados con la franquicia. La colaboración irá algo más allá de añadir personajes a la tienda. Epic también ha mostrado una experiencia inspirada en la fórmula de Five Nights at Freddy's , en la que los jugadores tendrán que sobrevivir durante una noche en Freddy Fazbear's Pizza mientras los animatrónicos les dan caza. El crossover estará disponible a partir del 1 de octubre , cuando comenzará Fortnitemares 2026. Por el momento Epic Games no ha detallado los precios de los trajes ni todos los cosméticos que formarán parte de la colaboración.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-28T05:44:00+00:00"
-        },
-        {
-          "title": "Roban dos remolques con logos de NVIDIA y PlusAI",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVEpyOWJBUTU1VjJKVXpBb2JOekd4S3JnU2RuMk5Lb1djMWNLYTZxaS1WS2xpd0NnMlhOd1ZpZzlENy1zMEtHa0VjQV9PMGpnaXpVMl93YWhRSm84QmJUbzFsYlBqSGNBOWc5VGI3NUgyV1VQMm9EODJ5VndlVDdQbXRiZzZDRWxVMUNId0M1Wi1tT0FtcV9nbWZPRk1RdW1mYm1kb0RB?oc=5",
-          "desc": "Roban dos remolques con logos de NVIDIA y PlusAI elchapuzasinformatico.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T05:30:15+00:00"
-        },
-        {
-          "title": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnVpWllBbW9jUk5wLXFfYy1VMlNoUE94NGZ0MWZPS1FoczVnLUZScmZnUEhMUmg1TDVOY3oza0cxcE9pM05nY2h2bDg3U1hVYzVWRC1JeWlUYjRPenYwbTRQbEV4c2xQdkowOXlfdlU1OG5CZ0JBd3dOZFJlejJXV3JHREJ1WldDaktqNWVxc0VHekx1V0U3SGlIcVoxX3hs0gGgAUFVX3lxTFBiYVBiU0pLSmtqTEJwa0QxOS10UWJta3dRdk44RnZ2RWh3WjlGMUNRUExJdllCLWRlYk9WVE45S05XM2FkUjc4Z0V0eHdhYm9zdExjZnl4dnQzdDJsdE1HTVNFRVMxUm5Db3lWZG5JMnVaZk9ESDlVc3VHVThBWEtEeGlxN3NwbE9tRVVBRHQtY2tTcTBHQ2VCVDU1bl8zV3g?oc=5",
-          "desc": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida Expansión",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T05:22:43+00:00"
-        },
-        {
-          "title": "China estudia permitir a Alibaba y ByteDance comprar nuevas GPU de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmdUcmVpQjA5akNyMjB3NDR4ZkhqTlZUZWEtSmthYXNHSU0yelYtejF0NXNPTjdpTEoybnVNdHVZSHN3ZVdrNGxJeTlNaTdsRHRfdGV2b1RlOHFicHdVeHlZRDJlNXVUMzRQa2JLVVJYZkJVOHlWa21OX19jVW9TZ0w0QTM2SFltNlZSWnluT0V1dkE1QnNfQXpfNVV5X3ZEUjBNMnE1N00wUnVMaHNybHhmMA?oc=5",
-          "desc": "China estudia permitir a Alibaba y ByteDance comprar nuevas GPU de Nvidia CriptoTendencia",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T05:12:00+00:00"
-        },
-        {
-          "title": "Jensen Huang (Nvidia) en Barcelona el 13 de octubre // Feijóo “presidente, presidente” en una boda de la élite catalana",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRGF2VGZZaEVXLWVhdnVTYWdtaGJaN0p0b1d1NHY4c1Y4Ykx3OHJ0VmgwMk5sMHNlUFMwdWFDekprZjl6S2pXN3N1dS13Q3JTbGxoRmFuVm5fZ0VDdmlKUS1vV0c3TXlORlRzQ1V0RWl6RURfaERrY0NtU2toR0w3ekZyQW5sWXZ1QXFyTkJMQ1MwTWVwblNHLWk3eXBSRDFlbDdnankxRkhEcFJRbUlRcFJabEFidzZQMEMyeDhUMDNYLTN4dEpPb3lvZ25SZHZRRWd2Y01icjdxSHhTY3B2UlpYaTnSAeoBQVVfeXFMUE0ydVhYTEQ2UmZ6bmEyd2FlM2kxcnBhSjlHS1FIS0VQa0lHLXpXb29FTnh6VURCd1BVcWFYOXIzUjlYRkxxdEd3YnpuamNXWmRqY2JTNUpkOU80WVo5bFF5WDNraGw3WEJRZjRSMWxLeEVPSHRucVg5eFpMTDlNMGdidktVWGYzYkN5Y2JhUHowVUdhaDFqRmFVUU42WTBqTGkwdFBTenlTZWlpY2lUMzdwd2x3dm93U2lfcFF1U0ZtR0cyRjVqcVJkTHZ1aGUtc2hWeDFZVlJaR1JySXc0dXhyYjYwOWh0RG1n?oc=5",
-          "desc": "Jensen Huang (Nvidia) en Barcelona el 13 de octubre // Feijóo “presidente, presidente” en una boda de la élite catalana La Vanguardia",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T04:00:00+00:00"
-        },
-        {
-          "title": "ByteDance compraría hasta un millón de chips de Nvidia si China los autoriza - López-Dóriga Digital",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGNxdjRfYUhWODh1ejNQWmZWRUk3STF6emx0eGJnaFpkd0NYcU1xUmg3TW9sY0xLWWp3U1RtVXJyaWJjSXNZSWFoc19seXpWU1Z3QlF0eXIxWk9RRklGT0xwWDN5SnhxVnp6WDVRNjNBc09mM0RudWdFWnlHNy03bGJPOTVHbFFoTVZaSlNYM2NlVFhxb3FfY2Jnd1R4bnRqVTM0SXRDOVk2aUR6M2NkYzZfOERwRzk1Y2M0MA?oc=5",
-          "desc": "ByteDance compraría hasta un millón de chips de Nvidia si China los autoriza López-Dóriga Digital",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T03:58:38+00:00"
         }
       ]
     },
@@ -881,6 +881,48 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDVEY2stTWlfZUlFMlVWOW16bHh1YmlwaVpXdVJsRTlJRm13OUJKMktXbkRIaUJYczFPSW9TNnJnaDl0QnFHcUk1M0dMVExkcjA2SHljSUEyaDdHcHc5aWR1akVNQzc0U3o2M2hEN3AzQ3VxQXNBSmRPZ2NSQnBQVFJTUDZSQlFO?oc=5",
+          "desc": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk NeoTeo",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:22:07+00:00"
+        },
+        {
+          "title": "Los nuevos chips de inteligencia artificial de Nvidia podrían entrar en el mercado chino",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZENaSWR5MDBmeXNzUlRkbTE2aVFpVGlzNXJtWWtyZk1PUHZHTXZDM3dvcjlKa0FfaWFMR1M2dUIxWnFKdmdsMm1NTlRZYWVIYXlYX2RJLUV5SVlydXBBUTVSNXFnYjRKSkJJME1aeGNmZ2QtYjdHX1hjWFJJZ25nMzN6ZmR4aVdET2dNRE15NnQ1ZEd6TkY3akdqZFdmOTY4NlBhTi00M0s2dDIzTWw5a3JDUXVjLXViazNjVHF2QV9wenVZWmY5M0VXWTZvYWFZcFNhbE45a2FDRk0y?oc=5",
+          "desc": "Los nuevos chips de inteligencia artificial de Nvidia podrían entrar en el mercado chino MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:22:06+00:00"
+        },
+        {
+          "title": "Save $300 on this 1440p-ready gaming PC with an RTX 5060 Ti 16GB, now $1,399.99",
+          "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-now-usd1-399-99-newegg-deal-on-abs-cyclone-aqua-rig-nets-you-a-20-core-intel-cpu-along-with-16gb-of-ddr5-and-a-1tb-ssd",
+          "desc": "This ABS Cyclone Aqua gaming PC, featuring an RTX 5060 Ti 16GB, Intel Core i7-14700F, 16GB DDR5, and a 1TB SSD has a $300 discount, now $1,399.99.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T09:15:46+00:00"
+        },
+        {
+          "title": "Nvidia lanza un software de seguridad para inteligencia artificial que, según afirma, habría evitado el ciberataque a Hugging Face",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUlXblNzSXVuZVhLT2lrejBESnFvcDl4Zi1HQTNQOVZpLXNRcFgteXZqTjJraGd6LWcyaGNQQWRqOW9rNnl3MnRqVHJMLWZReTEyR0Z0V1dUNmYxVDlrOXBlMWJXeW9sZlNQcGtOdDJyejlTSHljMHMxM0doVTg5N25XNGN4RzhqTUxWNmVhRm5hNnhUZmZDM20xbm83REk1OElZZFFkQ3VYbzRjVzJ6MmJyd3JLMVRueWF3dFIySGhldGRDVnZTSi1QeDA1bWFMajhGSEpHTnhpbWZIRkwtNUtfNTBBQ1dCMmc?oc=5",
+          "desc": "Nvidia lanza un software de seguridad para inteligencia artificial que, según afirma, habría evitado el ciberataque a Hugging Face MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:01:26+00:00"
+        },
+        {
+          "title": "Nvidia lanza un software de seguridad para IA que, según afirma, podría haber evitado el ataque informático a Hugging Face",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaV2QyOVlDaF9OdUoydlpFRXc1Ukh1enpUd19pdWd6VFQ1RWFveXZsMnhSb2FyeFdTQzlxTDdsRl8zakVtWDRCQm1UMFRCNk85Z2owUG9wUXJHeGJYWmhwd0U2U0hWZDJBS2FweXVIZjBRZW1OX1J3?oc=5",
+          "desc": "Nvidia lanza un software de seguridad para IA que, según afirma, podría haber evitado el ataque informático a Hugging Face TradingView",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:00:24+00:00"
+        },
+        {
+          "title": "Trend Micro Incorporated respalda la plataforma de seguridad de agentes de NVIDIA",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRGFld2w1TmJwcXZYYzA2aU5ZOEp2ZHlYOXcxMjJqOTN3VlJVNkxTOTNoUUZDZi1VUUN2MXJULVRmeFpZX3VXUUxhM1lVWUY0VEwyZTV2X0x1amFIUWFhY3pqQXFtOG5PODAzeQ?oc=5",
+          "desc": "Trend Micro Incorporated respalda la plataforma de seguridad de agentes de NVIDIA TradingView",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:00:00+00:00"
+        },
+        {
           "title": "China allana el terreno para los nuevos chips de Nvidia",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3ROeGlHaGdBaklRWXVUR0NlRTdMNTNRNDVqRmFxWEljTE5HRW54bFI5T013cDNEbi03SGJyWHN0QlFBdmZlSGxrdU9OMmJsNGN6WG1GT0tPazhPRmNWVVlOZUpxaGxFVkxKaFVfa200emZfREtIUzVidHVVVDR3X1hJWUY?oc=5",
           "desc": "China allana el terreno para los nuevos chips de Nvidia The Officer",
@@ -946,9 +988,9 @@
         {
           "title": "Roban dos remolques con logos de NVIDIA y PlusAI",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVEpyOWJBUTU1VjJKVXpBb2JOekd4S3JnU2RuMk5Lb1djMWNLYTZxaS1WS2xpd0NnMlhOd1ZpZzlENy1zMEtHa0VjQV9PMGpnaXpVMl93YWhRSm84QmJUbzFsYlBqSGNBOWc5VGI3NUgyV1VQMm9EODJ5VndlVDdQbXRiZzZDRWxVMUNId0M1Wi1tT0FtcV9nbWZPRk1RdW1mYm1kb0RB?oc=5",
-          "desc": "Roban dos remolques con logos de NVIDIA y PlusAI elchapuzasinformatico.com",
+          "desc": "Roban dos remolques con logos de NVIDIA y PlusAI El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T05:30:15+00:00"
+          "fecha": "2026-09-28T05:32:03+00:00"
         },
         {
           "title": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida",
@@ -1005,48 +1047,6 @@
           "desc": "LG figura en la red de refrigeración de NVIDIA NeoTeo",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T00:56:57+00:00"
-        },
-        {
-          "title": "IonQ Lined Up 3 Superion 256 Systems With NVIDIA, FIU, and SDT. Here’s Where the Stock Could Go",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzF6ZGNTSTVFQWVLOENjNTZTdU9paGxoUEFpN1FXRjFaelBJNkktczUxZ3ZfTnV0d3dfMFdQSzVqS3FPczRLRURWS1FVNFBhdmdlVXZYQWhndzRvNl8xQkYtRHB5VEVJbGVjLWtzUmlWcTZyVHhXLXZfRGNNejgyNUhMRVdPQnc5bmpjWFFST1hrSzdSaGY3WFV4RlRZREp5RXJ3VUpOMkcxZVRGNWJqdGt3dF9KSUF2UV9naQ?oc=5",
-          "desc": "IonQ Lined Up 3 Superion 256 Systems With NVIDIA, FIU, and SDT. Here’s Where the Stock Could Go TIKR.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T00:11:15+00:00"
-        },
-        {
-          "title": "CEO de Nvidia sorprende a todos al hablar sobre el fin del mundo en 2030",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzBZSDRlZjBuTWRpOExWSHVmcGhiSEVzTFBhMlh2MFc3QTlJSjQ1VVZ6M2lRelNBV3h6SlhpNld5bjdQbjhfM3N5VFA2aGpxaVVTdmhiS0lXcnZqMkx4SnRwdHYyNUt4ekZrQ0pnMHVKQjJiMWZxUkJBejJPckwwOGNuc1BmTlk0Q1JmcVJoODJNRHZUWlNBWmlaVTgwdnZqTzBfMElWTXNsXzBjT0pNbmVWZVUyVEp5TC1VcTFZSHhiSjVaTmhMTjJIX2dHVmx5S1NPWmZkeDlUTWxwRDhCeXpYOA?oc=5",
-          "desc": "CEO de Nvidia sorprende a todos al hablar sobre el fin del mundo en 2030 Vistazo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T00:00:00+00:00"
-        },
-        {
-          "title": "DLSS 5 en AMD: mejora declarada de Alpha 0.4.2",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09PeDhUdzloYm9VYWNOUWJDS2pEeVl6Wlp5RGNwMy1PdGtYbk40Z1BCUm4tX3ZvT29pYW9jWFk3SnNNbjZyUkxOS3RnSm0ybms4bkhSVUYzT3lzMHctNWFWNzZIRUVjUkR1cWhPMFVhSGNhYnF6QlhUY2RZRVBpQWE3MW9Odw?oc=5",
-          "desc": "DLSS 5 en AMD: mejora declarada de Alpha 0.4.2 NeoTeo",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T20:31:54+00:00"
-        },
-        {
-          "title": "Desarrollador logra que el DLSS 5 de NVIDIA funcione en tarjetas gráficas AMD Radeon con un 74% más de rendimiento en solo 24 horas",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUtVOW5oenhzQUxEUUhaOU9Md0s0RXEwV25HUVpGUzdlcy1tbS00ZWZIUXBEZFlud20tSnF5aFQwVFVqSFRzZEJlN2xCM0ZjcHVsLUJmaUUyM2JsWFhLM2l3emRhSFVseENzN3NjRFlOZ09WSkh2d0wyYmtIaXVUVGZzUkR2LS10?oc=5",
-          "desc": "Desarrollador logra que el DLSS 5 de NVIDIA funcione en tarjetas gráficas AMD Radeon con un 74% más de rendimiento en solo 24 horas Yahoo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T18:32:12+00:00"
-        },
-        {
-          "title": "China podría abrir la puerta a un pedido de un millón de chips Nvidia de ByteDance",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmNLOUdDbDlQMzhQRE9ZZUV1RXptYk1kZGJfLW5MYWt3dS0teklVTHdOTWxybTl1bVQwZnRVWTNmTHp4b0pkMWx3dU5XVVFRVXFNdWhtbmJrc1ZBdi1FYWFmcXEtdkFyTERVM3Z3RFF5QmFxbjhXZ21KQ3Y1SnZTQWJuQnBvR192ZloxZk1RdTV1VFdjQ1lZMlNxUkFKaE1fRW5CQmVMSzVpQ1NkcjdTNG0zS1d1VlpmN0h3?oc=5",
-          "desc": "China podría abrir la puerta a un pedido de un millón de chips Nvidia de ByteDance DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T18:10:46+00:00"
-        },
-        {
-          "title": "China podría permitir a Alibaba y ByteDance comprar chips Nvidia RTX Pro 5500",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0tLbExSbHJ1c0ZjakVSOHJIanBMYzNCeWJaYTY4Yk5hT1d1aW9pVnlfcVNSTHlTZGlhWnNlWm5LclRxNVE4ZmRUSTd2ZEM4Wk9jWjZ3bklHRk93X3V6T01uVVMxek9UcFZJUmE2MEFaYm90bzhtQzFfZTVtWnZYVVRWc1E4c0pzS1o0RjBlWTdOUmhLdU0tVUE0YlplZw?oc=5",
-          "desc": "China podría permitir a Alibaba y ByteDance comprar chips Nvidia RTX Pro 5500 Yahoo Finanzas",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T17:30:17+00:00"
         }
       ]
     },
@@ -1081,6 +1081,13 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDVEY2stTWlfZUlFMlVWOW16bHh1YmlwaVpXdVJsRTlJRm13OUJKMktXbkRIaUJYczFPSW9TNnJnaDl0QnFHcUk1M0dMVExkcjA2SHljSUEyaDdHcHc5aWR1akVNQzc0U3o2M2hEN3AzQ3VxQXNBSmRPZ2NSQnBQVFJTUDZSQlFO?oc=5",
+          "desc": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk NeoTeo",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:22:07+00:00"
+        },
         {
           "title": "Un modder dispara un 74 % el rendimiento de DLSS 5 en AMD y alcanza los 50 FPS en Cyberpunk 2077",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZFJQclNuR2pEV3pZMVFpTkFHY0QyZ2lGdWFwX25zSDdoQnZBT3hxd0FlZHBXeVp4R3NsSVZ2c3I1MlJmZFczLTVVa0JKVU9FS0dMejhsRlhqS3AxWDFpR3pCbF9GTDQ1WEZjX3FVdFhEbnBMenRvbFEwWmpLM1hHemQ1NWpjR1VDNFd2VklsNFV0dWc0WDdOR0ctcmRSYVdKM3lBVW1fdmY4YmNkLURrejhnd2ZtOWt5S3JRcmRDb1dxZW14M1pkNGdVeGRxR090RWxzRg?oc=5",
@@ -1161,7 +1168,7 @@
         {
           "title": "El DLSS 5 evoluciona en AMD: Radeon RX 9070 XT gana hasta un 75% de rendimiento en un solo día",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTllSGFBODVNSWYteGE2bDc4WVAwTnRzM0pidzR0LTVaOE1LRFN6VmRtVDdCaWozNlRIUDJvbUYxSGdVT0xPWGlZQ3FfcGlGWmpDRjd6dk54MnU1SHdOdHJrZmVxaFRmZGlUdm9LYThqQjhQVktZNjd4Ymc5VjdKbGNlR0Zlbm5kWEd5cUd1TEx2WWNmalR3?oc=5",
-          "desc": "El DLSS 5 evoluciona en AMD: Radeon RX 9070 XT gana hasta un 75% de rendimiento en un solo día elchapuzasinformatico.com",
+          "desc": "El DLSS 5 evoluciona en AMD: Radeon RX 9070 XT gana hasta un 75% de rendimiento en un solo día El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T16:43:47+00:00"
         },
@@ -1241,13 +1248,6 @@
           "desc": "BofA eleva el precio objetivo de AMD a 720 dólares por la demanda de servidores de IA Investing.com España",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-25T14:39:00+00:00"
-        },
-        {
-          "title": "AMD niega ventas directas de chips restringidos a China tras la petición de Dylan Patel de investigarla por «traición»",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0xuT2pNTlc4ODZTU1ZDYXZ2M1hrd2tvTTZSRU0xeXBjT0w5VEJIblg1TlQxU1pBTjFteTQtZDJDbXR0THVGeXJGaU5WTE9BY0NjVUI3VWpBbzE5aTZGb3p1c1htV05wMVhFRlVUU3VhREIzbWE2aVVtSTdZSmZCY0VkemlRRXFLRmtoVEZqR0ZnQWMxTHpFWi1HaWNRNGg5TjlBYW4yMlo?oc=5",
-          "desc": "AMD niega ventas directas de chips restringidos a China tras la petición de Dylan Patel de investigarla por «traición» elchapuzasinformatico.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-25T11:38:01+00:00"
         }
       ]
     }
