@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T12:00:07.387296+00:00",
+  "generado": "2026-09-28T12:30:04.102143+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,27 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "Monchi también avala a José Ignacio Navarro: «La gente que es trabajadora merece que las cosas le salgan bien»",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1FFYlJQYnNDUHBtSmdzNHdzaW44RzQyRUtTMktQMnV3cEUyTGxWUEhBc0ZOd0tUX09Jb2oyd3M4dkFMZ2Q1em5QZ05fY0xINWM2MURKX0taQkhPVU5UNldHUDMxS0dFN1pOQU5TQ2xOYWFOdmlNOGtwS0E1RDFGM3BLbjNPMFFMazNQQnJ4TXpjbTQxVVhPV3R5Ti15NE9GLW1PNGJNQzZTNms5TXN3X2NmV2czcVZ0WkgtejVOMmw3T2RhZjBrWG1pRW8zdnhtWnhoNnB6Z9IB3AFBVV95cUxQTVg5Nm02SkNLMjlXbDZEYndqbFZUbzdVdVp4TkxHejAxSGRQRFJ6azU0RWVIRV8ybFBRdGFqc3pRZzFJMktOQTczT2hUUll6YkZDM0tTaXZHTVhIV29EVWtHRjBHVk93bmttUE03V2NlLTRzMzVwVVZpbkRncy0xUEhfTG9UVTRRSlBLeVVKUDgxS3plNnJFd0hmZ1BlaTJyMWo2Zm1zYnY2aHBza21lRlNIWDZySWxzbUJ1WWdYU1dxUUNtWnAwQ0QzbElnVDk4c09HYWl6U0dCTFh3?oc=5",
+          "desc": "Monchi también avala a José Ignacio Navarro: «La gente que es trabajadora merece que las cosas le salgan bien» ABC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:21:15+00:00"
+        },
+        {
+          "title": "Monchi, sobre José Ignacio Navarro: \"La gente trabajadora merece que las cosas le salgan bien\"",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS29KXzFENkttVDhQSjM5MzdveDZ2MGY2NkR0NE9naFJUTkdkUDhRdFg1RUlMLV96aEVZal8wbjZSbXBzejluTnNzUkl6YzNvYnU2TDA1VG1yQXl4QTdUWUZWSU9PRjVPcFVobTlkc3MzWE9Dd2lBTFMzRmJPNTMydjhQc1pKeThVZkRTaU95b1pqYjZfbGVlQzVNLVNZeEpqSDBWUExweVp4Z0o5RGhoVUZuMlFmQWY5X05tLWJCbw?oc=5",
+          "desc": "Monchi, sobre José Ignacio Navarro: \"La gente trabajadora merece que las cosas le salgan bien\" Diario de Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:11:51+00:00"
+        },
+        {
+          "title": "El 'guiño' de Monchi a José Ignacio Navarro tras su primer verano en el Sevilla",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEYwX20xWFNXaVBDemo3XzdLODNHSWhndXpfZUdhaVhuMW4xRG0yT2VwNHpDZzEzVnhlNHJKWE5KTlF6QUhSZWlRcHpQMElnWFNtVGR4S1lhSWx2dlZGVFZUdi04QWprdFFFcmlLWDBKRzRWX1N5TWZYbFBTYXU0MUdhZ044NTNVdTJMSXNFWWdITTRuVlFQdWVVYXpCOHUtV0N0X2VROEliMVQwdE9YeXBKaHVNWGdsT1hiUA?oc=5",
+          "desc": "El 'guiño' de Monchi a José Ignacio Navarro tras su primer verano en el Sevilla eldesmarque.com",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:02:24+00:00"
+        },
         {
           "title": "Saúl Ñíguez, ex del Sevilla (31 años): \"Ustedes dicen que Saúl es muy caro... Y que cuando no juego, resulto muy costoso. Y cuando juego, soy muy bueno\"",
           "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/saul-niguez-del-sevilla-anos-ustedes-dicen-que-saul-muy-caro-que-cuando-juego-resulto-muy-costoso-cuando-juego-soy-muy-bueno-20260928-547437.html",
@@ -144,39 +165,18 @@
           "fecha": "2026-09-28T05:33:49+00:00"
         },
         {
+          "title": "Nervión encuentra un referente en el banquillo: Tres leyendas del Sevilla FC lo avalan",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2YycVlvQmppQ0M4UkVUajBLQl90YmZEdG05YWVhcFpuUjlaTzdGbTRFWTNja1hIU01EeVVlZVVPUmhVSk9DRGhKUFFoVlFQczFnbzFZWGhuTHBIaGZ1M05aNFVlSmh1dnpaalZNN0FYU0Jnbm1SSTRNR0p4aGt0RWtzVktNYU1nV1YwUEpEdXd2TXdtdjduSnNoSi15WERSM1M5Nm9wakU2WUxuMFR3anRmc1N0dlEtbXN3?oc=5",
+          "desc": "Nervión encuentra un referente en el banquillo: Tres leyendas del Sevilla FC lo avalan Vamos Mi Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T05:15:52+00:00"
+        },
+        {
           "title": "2-0: LA CONTUNDENCIA DEL ATLÉTICO CENTRAL PROVOCA LA PRIMERA DERROTA DEL FILIAL",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVVsZURKelEzYXQwaks0dnFka2NQeFphYzdhdXF1X2FFVXI2MjVNZnlWQW42TFJHTm1aSlpxWFZQeEZVS0xqcFduWnZKcVZVRm1iRVo1TFR6Tjkwei1WLUZSMVJtYTIzY1Nvem9leThpeHE3TmFUOWxnLS1YVzlvQnMxZWpXMTVjV1RmMklib3UyNFlMakVXZnJBUkRKSzQ?oc=5",
           "desc": "2-0: LA CONTUNDENCIA DEL ATLÉTICO CENTRAL PROVOCA LA PRIMERA DERROTA DEL FILIAL Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T00:34:13+00:00"
-        },
-        {
-          "title": "Crónicas de la Cantera del Sevilla FC | Jornada protagonizada con goleadas y muy buen futbol",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGNYZEVQQjJyZ0NTbGN2b3p3ckdvLTR6RERJMHBPX2dINVdBdEh0YV9nMDlJVndTdmowdHJ1eDEtakE2Y2hUc3JFeE9lZGVzQWtLYUUzQThSZ1NDWGNsb3pIUGlxRUtxaDZvcUN5TGM2NUxrM05VblJLSEx4YzNWcWNzVkw?oc=5",
-          "desc": "Crónicas de la Cantera del Sevilla FC | Jornada protagonizada con goleadas y muy buen futbol elsevillista.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T20:44:00+00:00"
-        },
-        {
-          "title": "El Sevilla Atlético pierde el derbi y el liderato ante el Central (2-0)",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVZQbFU4QVBVTEQ2MzlibktlU05ZUG9vU3NGdEllRWVsd0FicUFQVE0wZmZpZlVZWW9nazhKakNqUDBRSlNQc1ZQSXhDOE40YlN3N1VucnR0MVRzbFdTNlMxTWhqeVJQelM4ckdSZjExN1ZIMTYzQUgwQ3kzN2ltakNIZnIxdFZLd0h1djczMWNYS1NwVlkxYUY0MlMydw?oc=5",
-          "desc": "El Sevilla Atlético pierde el derbi y el liderato ante el Central (2-0) Diario de Sevilla",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T20:24:49+00:00"
-        },
-        {
-          "title": "El Central se lleva el primer derbi sevillano ante el Sevilla Atlético (2-0)",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0o3dkEwQ1pZUHpxLUZzellLd0tnUDAtdlZRZm5aeERoOWU0MnAydU9kcjUyNnhudWJLSFpobml4Y0Q3R25nRFVUdUg3bU1jZUpUcy1vYVhoaXZNRFJlRjAzcGRkS0NKUmFxSkFOY0JEX1FGM3ExVjJ6bk1WblhLelBwa0lLY09aeHpJUDA2UjQ1eml2V3Rab0ZNeXlNWGppd2xHTVlFNldfQnFkVmhzQkprUDhQc18wZUxMWkM4TUU2cE9Mc1NpUnFJWDBCTXI0UXFBRNIB2gFBVV95cUxOXzVLMElUamJMS21WbkZlZ3dvbGN2VldmMjFEY3E5Q04zNzBBSkFwSnEzV1k1UU5EbVB1Y3N2TWdsNDRidnVHLThMMTdvT0VhR0tYakV6aXdRMHVjV2I0SGVNSW1VNE1JY3JZZE10bjFmX0VzeW1POHNFZGU0M09wWVBvaVgxMFBNcTVwOHczQTE0SkQtUnBQZUk1U0toa1pjSVBYdGhaVkdmeEpiTWhqQWJtNlZTdENHTTB4Q281cjlLZUk3UTViWmNMTVQ5TWJIYS1LTDZyMWNmZw?oc=5",
-          "desc": "El Central se lleva el primer derbi sevillano ante el Sevilla Atlético (2-0) ABC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T20:20:28+00:00"
-        },
-        {
-          "title": "Navas, Rakitic y Suker recuerdan sus años en el Sevilla: \"Si no veía a Maradona en el vestuario, no me lo creía\"",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFJZYk9IN0s0bWNYNVB6WlNvdWVsR3NDVXN2ZjRkOTlIWmFlQm1sZ2prZ0t0b2luR2FfdWxYbVZNMi1tNEhEdmlTVzVEcmJmZVNBLTRyQk96UEtSTm1FTEIwY2RsMG84QTVsakc3LUZOSTF6R2ZCQ0lreF9lMlBQcnBpUVFHNXlPMEw0UGZBN0tlbW1JMVdLUURfYkZrNWPSAaQBQVVfeXFMUFpSZm9kaUZaWjhxcmpEUzkwTkJqM0NxTGtZM3YwXzRGdk83Y2xlTmh6WFpzM2MxWTZsMzZIMmw3eEVpMWxaZUdidHRLVFl0clZQOW04VFZicGwtRkpMMTRyVHdyQVJaLUJzdWRFeGprX0VfRGlxaVR1VmlEY1NPWkJPVnh0QTFidVBQeThjYzlESkhaWjRNLTBMdDdqYWN1SXVUbEE?oc=5",
-          "desc": "Navas, Rakitic y Suker recuerdan sus años en el Sevilla: \"Si no veía a Maradona en el vestuario, no me lo creía\" El Correo de Andalucía",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T20:16:31+00:00"
         }
       ]
     },
@@ -189,7 +189,21 @@
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
+        },
+        {
+          "title": "Javier Aguirre, contundente en su presentación con el Valencia: \"No puedo vender lo que no tengo\"",
+          "link": "https://www.estadiodeportivo.com/futbol/valencia/javier-aguirre-contundente-presentacion-con-valencia-puedo-vender-que-tengo-20260928-547439.html",
+          "desc": "El técnico mejicano, que ya ha dirigido en varios entrenamientos a los de Mestalla, fue presentado oficialmente este lunes. El objetivo del ex de Mallorca, Athletic Club y Osasuna entre otros: \"Salir de ahí. Hablar en el campo y pelear\" Este lunes el Valencia se citó con la ilusión propia de un equipo que recibe a un nuevo entrenador. Javier Aguirre , que ya ha ejercido como tal en varios entrenamientos del Valencia , fue presentado con la idea de que el mejicano logre la salvación de un equipo que se hunde en los puestos de descenso con el Málaga solo por detrás. Javier Aguirre dejó claro que cuando un equipo como el Valencia llama a la puerta, es imponible decirle que no. \"No le puedes decir que no. Es un histórico del fútbol mundial, con una gran afición e imponente estadio. Quiero que el equipo merezca a donde la historia merece\". No quiso mirar Javier Aguirre más allá del próximo duelo que medirá al Valencia al Racing de Santander . \"Soy malo para imaginar. Estoy centrado en El Sardinero \", afirmó. Javier Aguirre no promete milagros en el Valencia Demostró Javier Aguirre que sabe bien donde llega ya que al solicitarle un mensaje para la afición, el técnico prefirió apostar por ganar como mejor forma de enganchar al público che: \"La gente está cansada de mensaje. Vamos a jugar ante el Racing y gana. Ese es el mejor mensaje\". Rafa Márquez, seleccionador de México: \"Aprendí muchísimo de Javier Aguirre y sé que van a tener mucho éxito en el Valencia\" Buenas noticias para el Valencia de Javier Aguirre Aguirre también apostó porque el Valencia tenga identidad cuanto antes: \"Sé dónde estoy, la propiedad del club y ves cosas ya desde dentro. El plan es ganar inmediato, que tenga una identidad y conforme el equipo mejore, la gente se va a ir acercando, es la ley del futbol\". Insistió Javier Aguirre en pensar solo en el Racing de Santander y no buscó el mensaje fácil en un equipo en el que la paciencia ya no existe: \"No tenía ni idea del Fair Play , En este momento sería fácil, ,pero el objetivo es Racing de Santander . No hay más. No puedo vender lo que no tengo. Tengo un plantel que estoy tratando de ver dónde estamos\". Javier Aguirre no piensa, de momento, en fichajes Javier Aguirre siguió su discurso de centrarse en el presente del Valencia y apostó por trabajar con lo que tiene. Pero el mejicano no escondió que en algún momento habrá que hablar de fichajes: \"No hemos hablado de necesidades. Hay tres centrales lesionados, pero no me compete de posibles fichajes. Algún día habrá que hablar, pero es institucional, trabajo con lo que tengo. Todos merecen una oportunidad y espero recuperarlos pronto\". Javier Aguirre regresa a LaLiga tras un gran Mundial dirigiendo a México Por último, Javier Aguirre trató de invocar al espíritu de Mestalla y a que ganar en el feudo valencianista no sea sencillo para los viales: \"No entiendo el futbol si no hay entrega, sacrificio, amor a la camiseta. Que no haya un jugador que le de igual ganar o perder. Que el jugador tenga mucha energía, Que al rival le cueste sangre, sudor y lágrimas ganarnos, sobre todo el Mestalla \". Dejando también el mejicano un mensaje de orgullo por llegar al Valencia : \"Más que peso es un orgullo. Es una entidad muy grande, Cualquiera quisiera estar aquí, gran plantel, gran estadio, gran historia, Es un reto para el que estoy preparado\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-28T12:24:13+00:00"
+        },
+        {
+          "title": "Acampada en Sol por la vivienda, en directo | Sumar advierte que el acuerdo “aún está lejos”",
+          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
+          "desc": "El socio de coalición señala los puntos de discordancia con el PSOE: prórroga de contratos, desahucios y alquileres de temporada y habitaciones | La protesta se extiende a Barcelona coincidiendo con la visita de Sánchez y en Madrid los manifestantes encaran el tercer día",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-28T12:14:24+00:00"
         },
         {
           "title": "El intercambio de baterías recibe un impulso gracias a un acuerdo de Geely y NIO",
@@ -206,13 +220,6 @@
           "fecha": "2026-09-28T11:54:33+00:00"
         },
         {
-          "title": "Acampada en Sol por la vivienda, en directo | Sumar advierte que el acuerdo “aún está lejos”",
-          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
-          "desc": "El socio de coalición señala los puntos de discordancia con el PSOE: prórroga de contratos, desahucios y alquileres de temporada y habitaciones | La protesta se extiende a Barcelona coincidiendo con la visita de Sánchez y en Madrid los manifestantes encaran el tercer día",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-28T11:50:30+00:00"
-        },
-        {
           "title": "Marvel's Wolverine y EA Sports FC 27 dominaron las ventas de juegos en España durante su semana de estreno",
           "link": "https://vandal.elespanol.com/noticia/2026271016/marvels-wolverine-y-ea-sports-fc-27-dominaron-las-ventas-de-juegos-en-espana-durante-su-semana-de-estreno/",
           "desc": "La Asociación Española de Videojuegos confirma el top 3 de ventas físicas y combinadas en España entre el 14 y el 20 de septiembre. La Asociación Española de Videojuegos (AEVI) ha anunciado los juegos más vendidos durante la semana 38 del año -14 al 20 de septiembre-, en formato físico y combinado -incluyendo distribución digital-, con nombres muy conocidos y una pequeña sorpresa . En el top 3 de las ventas físicas tenemos Marvel's Wolverine con 36.370 copias en España, seguido por Fire Emblem: Fortune's Weave (12.549 unidades) y Trails in the Sky 2nd Chapter (1618 unidades), que es un juego que quizás muchos no esperaban ver en esta lista. Eso sí, como podemos ver hay una gran diferencia en las cifras de cada puesto . EA Sports FC 27 vuelve a demostrar el interés del fútbol virtual en España EA Sports FC 27 no aparece en las ventas físicas porque se ha lanzado oficialmente el 25 de septiembre, pero tenía un acceso anticipado de una semana para jugarlo desde el 18 de septiembre con la Ultimate Edition de 109,99 . En esa semana se vendieron 178.428 en distribución digital . Con las ventas combinadas, Marvel's Wolverine queda en segunda posición acumulando 51.315 copias , mientras que Fire Emblem: Fortune's Weave se mantiene en tercera posición; Nintendo no revela cifras digitales. EA Sports FC 27 no tendrá difícil dominar estas listas de venta durante la última semana y los próximos días hasta, probablemente, Call of Duty: Modern Warfare 4 del 23 de octubre . El 19 de noviembre se estrena Grand Theft Auto VI , que batirá récords impulsado por el éxito incombustible de GTA 5 y sus 230 millones de copias vendidas .",
@@ -225,6 +232,13 @@
           "desc": "El conjunto merengue ha vuelto este lunes a los entrenamientos y el técnico luso solo ha podido contar con cuatro jugadores de campo como Raúl Asencio, Álvaro Carreras, Antonio Rüdiger y Aurélien Tchouaméni. Militao, lesionado desde el pasado 28 de abril, realizó algunos ejercicios con el resto de compañeros José Mourinho , técnico del Real Madrid , está teniendo verdaderos problemas para entrenar con un nutrido grupo de jugadores del primer equipo durante este parón de selecciones. Un total de 14 futbolistas del Real Madrid fueron convocados para esta última ventana de selecciones aunque algunos como Mbappé , ya han regresado a consecuencia de una lesión que tendrá al galo un par de semanas apartado. La misma suerte corrió el galo Konaté . Este lunes el Real Madrid regresó a los entrenamientos y lo hizo con solo cuatro jugadores de campo: Raúl Asencio, Álvaro Carreras, Antonio Rüdiger y Aurélien Tchouaméni . Además, en la sesión también estuvo presente en alguno de los ejercicios el brasileño Militao . El central, que se lesionó el pasado 28 de abril ya regresó al trabajo sobre el césped días atrás pero además este lunes participó en los ejercicios junto a sus compañeros, demostrando que se encuentra en la recta final de su lesión de rotura del tendón proximal del bíceps femoral de la pierna izquierda. Mourinho entrena al Real Madrid con apenas cuatro jugadores de campo El hecho de que el Real Madrid sea junto al Barcelona uno de los equipos que más internacionales tiene, propicia la situación vivida este lunes en el entrenamiento a puerta cerrada que se realizó en Valdebebas . Según ha informado el propio Real Madrid, la sesión estuvo basada en \"diversos y exigentes bloques de trabo físico\". Konaté se lesiona con Francia y regresa al Real Madrid: parte médico y tiempo de baja El Real Madrid confirma la lesión de Mbappé José Mourinho también tenía previsto contar para la primera sesión de la semana con Thiago Pitarch , que incluso llegó a jugar con el Castilla el pasado fin de semana. Pero el canterano, habitual en las sesiones del primer equipo, fue convocado por España sub-20 para un amistoso frente a México este miércoles. Los lesionados en el Real Madrid continúan trabajando al margen Siguen con sus procesos de recuperación los lesionados Rodrygo y Ferland Mendy , que tocaron balón sobre el césped durante el entrenamiento, así como Fede Valverde , quien no pudo viajar a la gira asiática de Uruguay tras sufrir un esguince de grado 3 en el tobillo izquierdo en el encuentro contra el Atlético de Madrid . A estos lesionados hay que añadir los citados anteriormente Mbappé y Konaté . 🏃🏃🏃🏃🏃 pic.twitter.com/vwRkAy0OHL &mdash; Real Madrid C.F. (@realmadrid) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\"> La vuelta a la competición del Real Madrid El Real Madrid volverá a la competición oficial el próximo 10 de octubre para medirse en el Bernabéu a un Villarreal que llega inspirado tras dos victorias consecutivas en Liga . Después, el calendario seguirá exigiendo a los de Mourinho con duelos de Champions ante Roma y Leipzig y otros dos de Liga ante el Sevilla y el Barcelona . El Clásico está previsto para el próximo 25 de octubre en el Spotify Camp Nou a partir de las 21:00 horas.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T11:44:51+00:00"
+        },
+        {
+          "title": "El activista propalestino 'Fergie' Chambers se niega a ser extraditado a EEUU: \"España está en el lado bueno de la historia\"",
+          "link": "https://www.eldiario.es/politica/activista-propalestino-fergie-chambers-niega-extraditado-eeuu-espana-lado-bueno-historia_1_13538792.html",
+          "desc": "El filántropo fue detenido en Ibiza por la Policía atendiendo a una reclamación del país norteamericano, que investiga si financió a Hamas La pareja del filántropo propalestino detenido en España a petición de EEUU se reúne con los partidos y pide a Sánchez su libertad James 'Fergie' Cox Chambers, el millonario filántropo de izquierdas que fue detenido en Madrid después de que EEUU lo reclamara por su apoyo a Palestina, se ha negado este lunes ante la Audiencia Nacional a ser extraditado. Ante el juez del Juzgado Central de Instrucción número 6 ha señalado que decidió vivir en España porque “está en el lado bueno de la historia”. Esta comparecencia era un trámite necesario y previo a la celebración de la vista de extradición. Durante esta comparecencia, según fuentes jurídicas consultadas por elDiario.es, el activista se ha acogido además al principio de especialidad, por lo que en caso de que España diera luz verde a su entrega solo podría ser juzgado en el país norteamericano por los delitos por los que ha sido reclamado y que se ciñen a un delito de desórdenes públicos, a un delito de conspiración para que se produzcan disturbios y otro delito de blanqueo de capitales. Ante el juez, Chambers ha señalado, además, que sufre una persecución política del presidente de EEUU, Donald Trump. Su defensa ha tratado de desmontar cada una de las acusaciones por las que ha sido reclamado: entiende que el delito de desórdenes públicos es por hechos de hace cuatro años -se le acusa de haber participado en protestas de apoyo a acciones directas contra instalaciones de fabricación de armamento israelí en territorio estadounidense- y que no cumplen con la pena mínima que permitiría la extradición; que el delito de conspiración para generar disturbios ('riots') no existe en España -por tanto no puede ser entregado por ese delito- y solo se da si hay daños contra las personas; y que el delito de blanqueo de capitales no puede existir en este caso porque para que se dé ha de haber un delito antecedente que genere un capital que 'lavar' mientras que Chambers sólo movió su propia fortuna. En este punto ha incidido en que, en realidad, EEUU no le reclama a España por financiación del terrorismo y que él lo que hizo fue aportar fondos propios, ha revelado que 10 millones de dólares, a causas humanitarias. Así, las fuentes jurídicas consultadas han señalado que parte de ese capital se destinó a la fabricación de un horno en Palestina para abastecer de pan a la población, y a proyectos hospitalarios. A esto, la defensa de Chambers habría añadido ante el juez que los movimientos monetarios dirigidos a Túnez son legales porque se trató de una inversión de 7 millones de dólares en un club de fútbol, el Club Africain. Para la defensa, según ha podido conocer este medio, es relevante que la acusación que ha llegado desde EEUU a España será una simple denuncia del Departamento de Justicia americano y no un escrito de acusación, algo que, señalan, es la vía habitual seguida para las extradiciones a ese país. Este lunes, además, la defensa de Chambers ha vuelto a solicitar la puesta en libertad de su patrocinado alegando que tiene arraigo en España porque ya desde antes de ser detenido había solicitado tener NIE, vivía de alquiler en Ibiza, se ha comprado un coche, está apuntado en el gimnasio y estaba incluso en trámites para apuntar a su hijo en un colegio internacional de la isla. Ha sumado a esto que su esposa, residente en Madrid pasa por un embarazo de riesgo y que está negociando ya la compra de una vivienda. Así, la defensa de Chambers, que lleva el bufete jurídico de Baltasar Gazón, ha solicitado medidas alternativas a la prisión preventiva alegando que no hay riesgo de fuga. Entre las opciones que se han ofrecido está la firma diaria ante un juzgado, la retirada del pasaporte con prohibición de salir de territorio nacional e incluso que le coloquen una tobillera electrónica. En cualquier caso, consideran necesaria su puesta en libertad para poder preparar bien el caso de su extradición. Sobre estas peticiones está pendiente, por otro lado, la Sala de lo Penal que ya ha comenzado a deliberar fruto de un recurso previo. Decisión del Gobierno El Gobierno autorizó este mismo mes la continuación de la solicitud de extradición de Chambers formulada por EEUU, que le acusa de haber apoyado a Hamas. Entre los argumentos del equipo jurídico figura que el Gobierno de EEUU no ha identificado actos concretos de violencia ni daños achacables personalmente a Chambers, y que lo que realmente pretende es criminalizar la protesta política. Fue el pasado 13 de julio cuando trascendió que agentes de la Comisaría General de Información habían detenido en Ibiza a Chambers. El arresto respondía a una “nota roja” de Interpol, conducto habitual para que el país donde se encuentre el aludido sea detenido a efectos de extradición. 'Fergie' rompió con su familia a mediados de 2023 y recibió 250 millones de dólares que le correspondían de Cox Enterprises, un conglomerado estadounidense con base en Atlanta dedicado a los medios de comunicación, la industria de la automoción y las telecomunicaciones. Según el entorno de 'Fergie', la Administración le reclama por su “labor filantrópica” con la causa palestina. Tras su detención, la Policía trasladó a Madrid al activista que fue puesto a disposición del juez de guardia de la Audiencia Nacional , Antonio Piña. Éste decretó su ingreso en prisión incondicional, según fuentes jurídicas consultadas por elDiario.es. El entorno del detenido asegura que desde que recibió su herencia de la participación en el conglomerado industrial rompió vínculos con su familia y dedicó los fondos al “activismo social y a la solidaridad internacional”. En este sentido ha donado cantidades importantes a proyectos humanitarios en Gaza y a financiar organizaciones activistas y “medios de comunicación propalestinos”. Stella Schnabel, que es su pareja ha declarado: “A Fergie lo están encarcelando porque utiliza su patrimonio para apoyar a Palestina y a quienes sufren un genocidio en Gaza. En definitiva, se enfrenta a una persecución política por haber dedicado su vida a construir una sociedad mejor, en lugar de explotar a las personas y lucrarse con la guerra. Debería estar con nuestra familia, continuando su importante labor humanitaria y de compromiso social”.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-28T11:33:19+00:00"
         },
         {
           "title": "Sánchez pide \"privilegiar\" el uso residencial de la vivienda frente al turístico en un acto en Barcelona",
@@ -337,20 +351,6 @@
           "desc": "El argentino seguirá jugando al fútbol a sus 38 años",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-28T12:24:10+02:00"
-        },
-        {
-          "title": "Luis Figo, leyenda del fútbol: \"Entre los favoritos al Balón de Oro... algún español por haber ganado el Mundial\"",
-          "link": "https://www.20minutos.es/deportes/futbol/luis-figo-leyenda-futbol-entre-los-favoritos-balon-oro-algun-espanol-por-haber-ganado-mundial_7042142_0.html",
-          "desc": "El exfutbolista, que ganó el galardón en el 2000, cree que \"son tres o cuatro\" los candidatos con más posibilidades a llevárselo este año.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T12:19:01+02:00"
-        },
-        {
-          "title": "Andic pide que el abogado y exdiputado Miquel Roca testifique ante la juez en relación con su herencia",
-          "link": "https://www.eldiario.es/catalunya/andic-pide-abogado-exdiputado-miquel-roca-testifique-juez-relacion-herencia_1_13543280.html",
-          "desc": "La defensa del hijo del fundador de Mango pretende rebatir la hipótesis de la acusación de que tenía \"una motivación criminal\" relacionada con un supuesto desacuerdo sobre la constitución de una fundación Análisis (hemeroteca) - El circo Andic y la responsabilidad de los medios La defensa de Jonathan Andic, hijo del fundador de Mango, ha pedido a la juez que cite a declarar como testigo al abogado y exdirigente de CDC Miquel Roca, para que aclare si la fundación con fines filantrópicos que su padre le encargó crear afectaba a la herencia familiar. Según fuentes de la defensa, el abogado de Andic, Cristóbal Martell, ha pedido una batería de nuevas testificales relacionadas con la herencia del fundador de Mango, entre ellas la de un notario que daba fe de los testamentos que anualmente otorgaba Isak Andic o la directora financiera de la sociedad patrimonial de la familia. Con estas pruebas testificales, añaden las mismas fuentes, la defensa del hijo del empresario pretende rebatir la hipótesis de la acusación de que Jonathan Andic tenía “una motivación criminal relacionada con un supuesto desacuerdo sobre la constitución de la Fundación y su relación con sus expectativas hereditarias”. También quiere desmontar la defensa la tesis de que Jonathan Andic pudo matar a su padre por una disputa relacionada con el adelanto de la herencia que le reclamaba con el fin de emprender negocios propios fuera de Mango. Entre los seis nuevos testigos propuestos por la defensa de Andic destaca la del prestigioso abogado y expolítico Miquel Roca, quien representó a la infanta Cristina en el caso Nóos y a quien, al parecer, el fundador de Mango había encargado constituir una fundación con fines filantrópicos. Los abogados quieren que Roca aclare los “aspectos estructurales” de la fundación acordados por Andic como patrono fundador, así como el “cuadro” de patronos, la función de la entidad y si esta contaba con el “apoyo y compromiso” de los hijos del empresario. Han citado igualmente a Joan Roca, hijo de Miquel Roca, para que aclare los mismos extremos que su padre sobre el encargo de constitución de la Fundación. Con la testifical del notario, la defensa espera “hacer desvanecer el bulo” de que el empresario planeaba desheredar a Jonathan, con sus aclaraciones sobre la “forma y modo” en que se definían cada año los testamentos de Isak Andic, así como de los profesionales que intervenían y facilitaban los datos patrimoniales. La defensa propone la testifical a Raquel D., directora financiera y de administración de Punto Na, sociedad patrimonial de la familia Andic, dado que fue designada en su día por el fundador de Mango para preparar y concretar los testamentos anuales y sus sucesivas modificaciones. Otro de los testimonios que pide la defensa es el de Germán C., profesional que diseñó con Isak Andic la planificación de la futura gestión de su patrimonio y empresas familiares y el papel que tendría cada uno de sus hijos, con quienes mantuvo sesiones de trabajo junto al fundador de Mango. La defensa propone además la declaración del CEO de Mango, Toni Ruiz, citación que ya fue acordada por la jueza de Martorell (Barcelona) que investiga por homicidio a Jonathan Andic, el pasado 19 de junio, a propuesta de la Fiscalía.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-28T10:18:45+00:00"
         }
       ]
     },
@@ -363,48 +363,48 @@
           "link": "https://www.formula1.com/en/latest/article/it-was-wrong-of-me-norris-apologises-to-colapinto-for-azerbaijan-post-race-comments.2Iy4VhKfVvs8YOejZh4Ofe",
           "desc": "Lando Norris has apologised to Franco Colapinto for comments he made immediately after the Azerbaijan Grand Prix, admitting “it was wrong of me” to do so.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
         },
         {
           "title": "Vasseur offers Ferrari upgrade promise to frustrated Leclerc",
           "link": "https://www.formula1.com/en/latest/article/vasseur-promises-frustrated-leclerc-that-ferrari-will-bring-upgrades-soon.3zh1dESFZnVmBLkiBxgoOl",
           "desc": "Ferrari Team Principal Fred Vasseur has promised that the Maranello-based squad will bring developments to the SF-26 “soon” after Charles Leclerc cited a lack of recent development as a reason behind their poor form in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
         },
         {
           "title": "Red Bull's Baku brilliance gives Verstappen fresh hope",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
         },
         {
           "title": "How Baku highlighted McLaren’s straight line weakness",
           "link": "https://www.formula1.com/en/latest/article/a-very-frustrating-saturday-stella-explains-how-baku-highlighted-mclarens-straight-line-weakness.4iY4EWmrhkVVgus2tothvn",
           "desc": "McLaren Team Principal Andrea Stella has explained why McLaren's performance was limited in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
         },
         {
           "title": "Mekies praises Hadjar's 'outstanding' Baku podium on return",
           "link": "https://www.formula1.com/en/latest/article/it-was-outstanding-mekies-praises-hadjars-azerbaijan-gp-podium-on-return.5suUJmpAuHzbzrUe5SzELk",
           "desc": "Laurent Mekies has praised Isack Hadjar’s performance in the Azerbaijan Grand Prix as “outstanding”, after the Red Bull driver returned from a wrist injury to claim a podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
         },
         {
           "title": "Leclerc urges Ferrari to ‘bring upgrades to close the gap’",
           "link": "https://www.formula1.com/en/latest/article/we-were-quite-far-off-leclerc-urges-ferrari-to-bring-upgrades-to-close-the-gap-after-baku.6zFmpztQcYlGBeNtCK6CF9",
           "desc": "Charles Leclerc was left concerned by Ferrari’s deficit to their rivals in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T12:00:07.387296+00:00"
+          "fecha": "2026-09-28T12:30:04.102143+00:00"
         },
         {
           "title": "La cruda realidad de los dos españoles de aquí a final de año... con matices",
           "link": "https://www.marca.com/motor/formula1/gp-bahrein/2026/09/28/cruda-realidad-dos-espanoles-aqui-final-ano-matices.html",
           "desc": "Alonso espera a Singapur como carrera marcada y Sainz quiere ver en Sepang si la mejora de Williams es real o sólo puntual por el trazado",
-          "source": "https://www.marca.com/rss/motor.xml",
+          "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-28T13:51:54+02:00"
         },
         {
@@ -533,11 +533,81 @@
       "icono": "💻",
       "items": [
         {
-          "title": "Elon Musk acelera Colossus 2: xAI quiere superar 1,2 millones de chips Nvidia antes de terminar 2026",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTk93N3AtcG5vOHNRTDRrTmpBTlcwdFJKb2M0WDB0ZExES3c3OFRKNS03SFdwdGx3Wmk4UU84N0VtcHFha1UwLWt1TS1hNk53LWhvYnkwQmN1UVAyQUlOM2ExMk56M3h3blJITkwtZlc2MkFQZUtoMEtMOWQwSXVNSzZQclVOLVZWdGZV0gGsAUFVX3lxTE52MUhqSVEyLU1MaU1oWkJrM2RPeGFvTDhkcm1qNGdQaE14Z3VEMEVjaERORjlyLVN1OGEyU3ZqT21LdU4taUxEZUt3T0NiUTBFMjZfdEswN2FXUWppbGtES3RXRVJGLUJYN2NRYmtpMDdxTTMwRWdDOHoxQUZlX0ZxUTJaOTVZZzNBMUFTdWs1RjRfWUhNaFZDSFFyczkwYU5hWjU4SUd4djFXNFQ?oc=5",
-          "desc": "Elon Musk acelera Colossus 2: xAI quiere superar 1,2 millones de chips Nvidia antes de terminar 2026 La Tercera",
+          "title": "Nvidia autoriza 150.000 millones adicionales para su programa de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2RfQnRyV2VlaTJZeXAwS1BxM3RkQlNWU2pRcFc0UzBwS0ltYk82WWxBNURpVFhLOHdHQ1Z5UEpYckpSaTRLZDFVbWU2UzlqWHJ6YzQxZ3pPc1dlcFdRTDliNWNmazA3VHQ2QjZ6aWxjOWpuZktzZGk0TXNkdDd1VDFGZW1PQlBrUDZLSmFxdGp4VEhIUUM2Yzk3VGd4MUJOaG11S0Y4eVVHSXdhR2N5VVRmRllMbFZLYWhfODctYTJNcjlTQVp6UTZyVExla2pCQVdnb2VENGQ?oc=5",
+          "desc": "Nvidia autoriza 150.000 millones adicionales para su programa de recompra de acciones MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:47:31+00:00"
+          "fecha": "2026-09-28T12:21:26+00:00"
+        },
+        {
+          "title": "Nvidia lanzó una plataforma para frenar a los agentes de IA que salen de control humano",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVdoaHBhaW10Z0lfY25OenlCMmJQNTdubVU4RjJkQjk5VEs5RWx6SWZ0QW9vZzFpQXZzbHdlR1NxNEN3QVNpRTI2SWR4aDAwbkJwZWp3YUhPUkMtZFFyUTFOdkI4cTAxYjV4LXVPSkM0eXRmMkgxMGhzTDVUNmlxLVRETXZ6RjJ5YUUweFJOaDIzRlRkOGNpaF9sM251SkFxQ1FESXJNMnVjenQyUkJ6Nk5yVE1nQVZrTEtUOVBUMNIB2gFBVV95cUxOV0N4aTMwbkVOcWJHNFh1b3RQakRGNUJSVDlNN3dwd05uLU10RnhHaUxON2gtZV9Cck14ZjN5M251N213R3dZQjZKUEpJU2tSeDlsaG4zdTZrZjNqRzJBUE80dUpjaTQxcnp6NmNTakdoclVTZ1JwRlE5Zjgxc0JlWkhOd21aZGN2NG9tb1BzTWMzU0pXOE82ZmJzSHZXa3VFUHM0WlpwRUlpaHg3T0xDbU95NFlfSnV2YVVWUlJNNGZONXZWUmc2SFBoTXl6akw1Q3phMU5GdE5Fdw?oc=5",
+          "desc": "Nvidia lanzó una plataforma para frenar a los agentes de IA que salen de control humano infobae.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:17:32+00:00"
+        },
+        {
+          "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
+          "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
+          "desc": "Grab an RTX 5080-powered Gigabyte Gaming A16 Pro gaming laptop for just $1,799 at Walmart",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T12:15:00+00:00"
+        },
+        {
+          "title": "¿Por qué sube la acción de NVIDIA hoy?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1OVEpwN0ZiTjk2ZG1ydWl3cUYxeU16cEdjTk15V2ZjbE80S05kM0hIb1FMazlkTllYREV0ZVBiOUpDZFdqOU9UZVdCN2ZLYVlNZDlnMDF6NlpmSXhoOWNYX0FJdmczUElEYlVXTnVHRFNNTzBfQU1vR016SHhtZlZxVWJJV0FWMmNSYnptY0Z1aEdYZV9DdkNWSnhaQQ?oc=5",
+          "desc": "¿Por qué sube la acción de NVIDIA hoy? Investing.com México",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:14:24+00:00"
+        },
+        {
+          "title": "¿Por qué sube hoy la acción de NVIDIA?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV04zNGhORURvbkRFVmFuYVhXVmRIMUNUcnFRMnZjWlJkMEZKdWFNbzd6ci1ZdDQ3UXlPYng2blF0MUVRZWQ5MjV2eE53dlZKYmJUbDNUQWxDRWxrODdtb1hmeDJYamRjeGdEal9oeER4MU0xTzJQQVlWMjJHNEhuVkE0aXJrLWthZnFkZXBRVVhVOFRuc3Y3ZFpTYXh2QQ?oc=5",
+          "desc": "¿Por qué sube hoy la acción de NVIDIA? Investing.com España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:13:00+00:00"
+        },
+        {
+          "title": "Nvidia RTX Pro 5500: Pekín estudia aprobar compras pese a las restricciones de EE. UU.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTBVSUs0aFFpUmk3SFVMalgyNFVfZ0hVMDJsSFpMZVEwRTMzREg0RTYxRHZJS095aFRFNl9aSzJ0cnZ3M2tIaGROYzhpSERkbkstQ3J6bzhLaEpMbmxOTDZBZHBRTGZlSEgyWGhSVE9HeFlNVVhDNm0xanpOWWtfcnJlTTBYSklQRVZVbkgyRDBiSkNWR25jWEtVRTM5RnRXdzBvdnJZMjV0SFRvcjdvdEpfcmdOVmlhZ1lOZw?oc=5",
+          "desc": "Nvidia RTX Pro 5500: Pekín estudia aprobar compras pese a las restricciones de EE. UU. DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:11:03+00:00"
+        },
+        {
+          "title": "Nvidia vincula más de USD $180.000 millones a Anthropic y expone el costo de la carrera por la IA",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGxDa1BVTmJha0duQVJha2tVMGNKSENwUXlLWmphZ0ZyeFBWZ1lpTDhxNTQ3aEVpWHVFU1ZWcU5MY3p1ZTJlTUR6NHpoYnlpQm5oUV9wQUxiUUtBS2NHLTFMRXlNT0lnQmZidFotNFVybnhyNm1pb21WbU1DR2lfZWZ0SkM2SnFZd1pnQ0x1c2RZbWRzek5WbDBzcWpSeU5JYzNYSWtrZ0xJY0JzRGE5dERkV3MxTUh2aE5pdTVQQlo3RU1kNzJjOG9aaFE1cGIyR0E?oc=5",
+          "desc": "Nvidia vincula más de USD $180.000 millones a Anthropic y expone el costo de la carrera por la IA DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:11:03+00:00"
+        },
+        {
+          "title": "El miniproyector por menos de 60 euros que convierte cualquier pared en un cine",
+          "link": "https://elpais.com/escaparate/tecnologia/miniproyector-4k-menos-60-euros.html",
+          "desc": "Es compacto, portátil y compatible con contenido 4K: el pequeño dispositivo con Android 14 que te permite disfrutar de tus películas, series y partidos en pantalla grande",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-28T12:10:00+00:00"
+        },
+        {
+          "title": "Nvidia amplía en USD $150.000 millones su autorización de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZE5mU3JmeTRHWlJzM3RQTUdORk1CemNRdlM0c3lyV3FybjllYlRLTVcwNGtYN21NT1ZoZzM3clBBMEJpRTFHMGMyeEl0NXFveDlGbVN6NVpsb3lTaFB4NFh4TDVLRXJRbmx3cnRNeEROcE9VWC1XWGZBdDMtc0dkZkRpNE5sWkJ5S2lSb2lmU193LTJYQkhlSklzc3Jrc0oxV0pYdmhGMkw1dUJBQ2tVN2hwY3BZb2w4?oc=5",
+          "desc": "Nvidia amplía en USD $150.000 millones su autorización de recompra de acciones DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:06:35+00:00"
+        },
+        {
+          "title": "NVIDIA amplía su recompra de acciones en 150.000 millones y NVDA sube en premarket",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCcHJCVHNhUzA3eVhQRVA4ZDl2ZW90WXpTQUlZSkRialJYcnZ0UVVKeTAxOHA2YklXTWEzVnZfZmlBeGdYV3JoQ0p6cWJIaE85NmQ5NEczdHdVOTAyUDZVZGFhYlBadEdzbkRwX2loVVFaOVFhUThpVg?oc=5",
+          "desc": "NVIDIA amplía su recompra de acciones en 150.000 millones y NVDA sube en premarket Criptotendencias",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:01:47+00:00"
+        },
+        {
+          "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
+          "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes",
+          "desc": "Bitget says $387.5 million hack may be linked to North Korean state-backed actors, citing suspicious IP addresses tied to VPN infrastructure previously used by North Korean hacker groups.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T12:00:00+00:00"
         },
         {
           "title": "Marvel's Wolverine y EA Sports FC 27 dominaron las ventas de juegos en España durante su semana de estreno",
@@ -575,18 +645,25 @@
           "fecha": "2026-09-28T11:34:23+00:00"
         },
         {
-          "title": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm5xYkh5U0VHMFROZnZySWp3ckZjSEdjTkRMR2Z5bUE1clhqaDYtZnVKMEowRElXa1NhcGJVOFVHTW1lWVNfLTFzRng3VUFreW5iTkFpeGl0OVlRNTluTmwwX1gzQy13aDBIckU5VzE4aVg3b2pJYXMteUo0OE5zbWc0VW1kX1pBb0Nj?oc=5",
-          "desc": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:32:39+00:00"
-        },
-        {
           "title": "NVIDIA lanza una plataforma de seguridad para evitar que los agentes de IA se salten los límites",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVVY3RLbzQ4ZWVXWU5MOXN4UFVUVDRSV1BqalZKampyYURqeHh5eHUwX2tRZU9iQ1N5SVVvaXN1Yk4zZzR5WGRiNkdGYXZ6cW04cENEY1pwUzVOaTYzQ2xTNXFMTWlLRUpWODdkN2VRZ3lMVkh6TThmbW0tYnh4ektmUVFwcEhXM3FrdldibERteWtiSzlRY1hUMmpqY0tXeG9ibmJiNjNGTFQ0?oc=5",
           "desc": "NVIDIA lanza una plataforma de seguridad para evitar que los agentes de IA se salten los límites muycomputerpro.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T11:31:34+00:00"
+        },
+        {
+          "title": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm5xYkh5U0VHMFROZnZySWp3ckZjSEdjTkRMR2Z5bUE1clhqaDYtZnVKMEowRElXa1NhcGJVOFVHTW1lWVNfLTFzRng3VUFreW5iTkFpeGl0OVlRNTluTmwwX1gzQy13aDBIckU5VzE4aVg3b2pJYXMteUo0OE5zbWc0VW1kX1pBb0Nj?oc=5",
+          "desc": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T11:31:34+00:00"
+        },
+        {
+          "title": "La Junta de NVIDIA autoriza un aumento de $150 mil millones al programa de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVDhUa1hKekVNcmlMYmwxRUlnLW9TQ2VUQzhPaU9JamNyVlRXcHhKT0FRY3pGeEpwT3lsZ1pCZDc1OWFwaTYwSTVBaElXNTA5OTNlTlZEajdBZmh5MHliVWxHcGFOalVhaFZwTEx0aExwSDRQcEpsOEgtMWg5S3dBaTNrd0w4QjhwbkQ3YkF1YWsxU1JjNmExNW82bjlkZw?oc=5",
+          "desc": "La Junta de NVIDIA autoriza un aumento de $150 mil millones al programa de recompra de acciones Unite.AI",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T11:29:18+00:00"
         },
         {
           "title": "NVIDIA lleva la seguridad de los agentes de IA al hardware",
@@ -622,83 +699,6 @@
           "desc": "El consejo de Nvidia amplía el programa de recompra de acciones en 150.000 millones USD hasta el ejercicio fiscal 2028 MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T11:14:05+00:00"
-        },
-        {
-          "title": "Microsoft dice que Copilot es un nuevo sistema operativo para trabajar, ¿dónde queda Windows 12?",
-          "link": "https://www.muycomputer.com/2026/09/28/microsoft-dice-que-copilot-es-un-nuevo-sistema-operativo-para-trabajar/",
-          "desc": "El CEO de Microsoft, Satya Nadella, ha dejado claros sus objetivos con Copilot, ya que ha dicho de forma clara que este es un «nuevo sistema operativo para trabajar que cubre todos los modelos, formatos y tareas». Estas palabras llegan en un momento en el que Copilot está viviendo una gran renovación, impulsada por la […] La entrada Microsoft dice que Copilot es un nuevo sistema operativo para trabajar, ¿dónde queda Windows 12? se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-28T11:13:57+00:00"
-        },
-        {
-          "title": "Este diminuto libro electrónico pesa solo 58 gramos, cabe en cualquier bolsillo y se puede 'pegar' a tu iPhone",
-          "link": "https://www.20minutos.es/tecnologia/moviles-dispositivos/boox-picco-ereader-58-gramos-funda-magnetica-movil_7042157_0.html",
-          "desc": "BOOX presenta Picco, un diminuto eReader de 3,97 pulgadas y 58 gramos que incluye una funda magnética para acoplarlo al móvil y cuesta 109,99 euros en España.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T13:13:39+02:00"
-        },
-        {
-          "title": "Nvidia añade 150 000 millones de dólares a su plan de recompra de acciones ya existente",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IZ0Q2OUYtV2pHdGI4Z3ZENkkwSUhuWDVTS09sUFZHdUNSdW9MX2NscVVxTHVsNmZLeGFsUWJ5QmlFQ2dreWpwa2VYMWxwRDIxOVA1ejVnZzFWSkwwb2hQYUlNX1pzc0tKVmlNaU5HUlhBUjY5WmFF?oc=5",
-          "desc": "Nvidia añade 150 000 millones de dólares a su plan de recompra de acciones ya existente TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:13:33+00:00"
-        },
-        {
-          "title": "La dominancia de Nvidia en IA financia una recompra histórica de 150.000 millones",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOW9PWHh3Ml9ZMDRTbmVfU3Nrd2ZjZ2VFQlEya09CRkdxSnJNWEt1WFFDQUc5eThoemxObFp0Z2hkYWNJU1oyRmV3RWU4SlYwZVJtQnY1YndEc0xzNjROQkNlTWpNWmQ2N2pfYVAwSFQ4bHFCcEo3ZHBmMUJrTkNkV0FoMGdjQVRDZmJmVHVEX0FpZVY5U3BVbldsR1dSSWN4WnMyLU1qMVQxWjlpTTBxeXEzMjNyVEZ3OXROM3lrSG5lRHZqcVJ3Vlp5VlZqY3lzRUE?oc=5",
-          "desc": "La dominancia de Nvidia en IA financia una recompra histórica de 150.000 millones Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:13:00+00:00"
-        },
-        {
-          "title": "XBOX pagaría menos que PlayStation por Physint, según los 'insider' que especulan con la cifra del presupuesto",
-          "link": "https://vandal.elespanol.com/noticia/2026271015/xbox-pagaria-menos-que-playstation-por-physint-segun-los-insider-que-especulan-con-la-cifra-del-presupuesto/",
-          "desc": "Aunque nadie sabe exactamente el presupuesto de Physint, conocidos 'insider' creen que el acuerdo de Kojima Productions con XBOX es inferior al original de PlayStation. Hideo Kojima confirmó hace unos días que Physint , el sucesor de Metal Gear Solid , perdía a Sony como editora y XBOX -que también produce OD - se encargaría del proyecto. Según varias fuentes, la financiación de Microsoft será inferior a la que había acordado Kojima con Sony . Las informaciones hablan de varios problemas que llevaron a que PlayStation se retirase del juego: sobrecostes, retrasos y el tema de la exclusividad . Según Jason Schreier, Sony intentó negociar con Kojima Productions durante meses para encontrar unas condiciones mejores; ante la imposibilidad de conseguir el nuevo trato decidieron romper con el director . Sin cifras concretas, pero XBOX pagaría menos por Physint Varios insiders han dejado caer cifras pero nadie ha podido confirmar cuál era el trato con Sony y cuál con Microsoft , aunque sí parece que XBOX pondrá menos dinero del que se había acordado con PlayStation. Christopher Dring mencionó que había escuchado presupuestos entre 300 y 600 millones de dólares, y su apuesta era unos 400 millones. Jez Corden de Windows Central comentó que había escuchado algo similar pero que \"la cifra de 400 millones de dólares es, posiblemente, la cifra que Sony y PlayStation habrían tenido que desembolsar de no haber cancelado el acuerdo. Xbox y Kojima están desarrollando sus proyectos para Xbox con una 'fracción' de esa cifra reportada \". También se habría negociado un acuerdo con Xbox por las licencias de películas y series de Physint , y un nuevo acuerdo sobre el juego de terror OD . Schreier evita hablar de cifras sin ver los documentos o tener confirmaciones por varias fuentes, pero especula con que se habla de diferentes cifras : \"Está la cifra por la que se contrató originalmente Physint en PlayStation, la cifra a la que se acercaba [con los sobrecostes], la que surgió durante las negociaciones, la que habría alcanzado si se hubiera contado con ciertos actores de primera línea, la que aceptó Xbox y la que realmente costará para cuando se lance\". \"Dicho esto, alguien en Xbox con conocimiento directo del acuerdo me comentó que firmaron Physint por una cifra significativamente inferior a los 400 millones de dólares \". Kojima anunció que Bill Skarsgård interpretaría al protagonista del juego, aunque ahora se cree -por el comentario de Schreier- que el plan original era fichar a un actor todavía más conocido y caro , como podría ser Robert Pattinson -a quien se asoció con el juego durante algún tiempo-.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-28T11:09:00+00:00"
-        },
-        {
-          "title": "Nvidia amplía en 150.000 millones USD su programa de recompra de acciones",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1Y4S3FjRVpob1ZqSUk1b0cxX1pEM2hqZHVFVTZSTGp4aWdCS1FYclVIUDhSaGlscDNtWGpiRzZiQ001MzI4QU1BTkVTSG9RdWVQeXJiN2hoUzZkeHJzX0Zfc2FhU1hrb2VHRk02UkV3NEZ4ejhwUGs2bDd0TTRCNU1jU3FxVUxSX1p1cFdLYXlNbTFzVDFPUlE2YW1Td1N2WDJNZlpLUGlMVFNMQ2RwdEF1UDZLSUZTTDZuaXFRUXJTVGVJLXFRMw?oc=5",
-          "desc": "Nvidia amplía en 150.000 millones USD su programa de recompra de acciones MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:06:47+00:00"
-        },
-        {
-          "title": "Livakovic vuelve al Pizjuán, pero ahora le amenaza... Lamine Yamal",
-          "link": "https://www.marca.com/futbol/barcelona/2026/09/28/livakovic-vuelve-pizjuan-le-amenaza-lamine-yamal.html",
-          "desc": "El meta internacional croata, que debutó con el Barça en Sevilla, se mide mañana a España",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-28T13:06:36+02:00"
-        },
-        {
-          "title": "China alista permisos para que Alibaba y ByteDance compren chips de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnItV2o4VkdBNlIzNU5EZHZHMlNUaUxvU2RTdmk3YTRkSnZ3UU9GdjVfRXZ0ajRnel9jT3FudVlod2VENUdaUVlFOWxmRk0wUndjVDJPVkVmQmN1bUFQaUROYktwQ1o0SS1EYmkzQVg4bjBxSGw2Zi1jYU8zWHJwbEZ1bUVuVG1xT1NpaTlMWGt0UmdhakFKclR3YnB6emd3U3FnMWpJRGsyNFYxX1RaNkdTaWNXWWwtOU02eXhHSQ?oc=5",
-          "desc": "China alista permisos para que Alibaba y ByteDance compren chips de Nvidia El Sol de México",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:06:33+00:00"
-        },
-        {
-          "title": "Nvidia crea un sistema de seguridad para controlar a los agentes de IA tras los últimos incidentes",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUhWY2ZfZk5mWGxaTF8zb0hLMVBLZzdpVno3Rm1jRE9JR2kzcUNhMjdsRC0tVFh1a1hwcGpjWEN6amFLbTc5bE81LXptNHJfeV9pSXRINjhWTHpHcDhiRDFHVXFYQkZEZVB5NWpMUU12WnFhWVBKaVFpQWxxRGZrOU0zTXVpaEtHbWpZcC14OHJ5NHNWdVR4U0owSEw1Y3I1NzZBc2J4bDFRRWRyTzgzdkM1TExPUk80ODdVUnNfbmFCYmVoZV9NQ3dDc3Q3SC1vWE1CNlNCdGpobzJWZ0E?oc=5",
-          "desc": "Nvidia crea un sistema de seguridad para controlar a los agentes de IA tras los últimos incidentes Business Insider España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:06:28+00:00"
-        },
-        {
-          "title": "Moncloa imagina la España de 2050: más diversidad, casas más pequeñas y la \"familia elegida\" gana peso",
-          "link": "https://www.eldiario.es/sociedad/moncloa-imagina-espana-2050-diversidad-casas-pequenas-familias-4-2-1_1_13538815.html",
-          "desc": "El informe 'Vidas futuras', de la Oficina de Prospectiva, trata de vislumbrar cómo será la España del futuro para anticiparse a ella; los expertos visualizan un país con más modelos de familias y hogar, menos trabajo y atravesado por la digitalización en todos los ámbitos, con los riesgos de desigualdad que implica El Plan España 2050 en 11 claves “El futuro no llega de repente. Se construye en las decisiones cotidianas de millones de personas”, arranca Vidas Futuras, un día en 2050 , un estudio en el que Moncloa ha plasmado cómo cree que será España dentro de 25 años. Esas millones de decisiones cotidianas nos van a llevar a un futuro país más diverso, con otra forma de vivir, de moverse, de comer incluso, de relacionarse, en el que la familia tradicional pierde peso y tamaño a cambio de la “elegida” y de las personas que nos vamos encontrando por el camino de nuestra vida más flexible, menos lineal; una nación más obesa en la que, cómo no, lo digital cada día está más presente, convirtiendo lo offline, lo real, en un bien más preciado; un lugar de gente que trabaja menos, se relaciona a distancia y vive sola en casas pequeñas, aunque tenga pareja. Una España en la que estos cambios abrirán nuevos frentes para el Estado, que tendrá que vigilar las desigualdades que genere la digitalización o asegurar que las nuevas formas de relacionarse, alimentarse o cuidarse, empujadas por la tecnologización de la sociedad, están al alcance de todos. Tras España 2050 , en el que el Gobierno trató de esbozar cómo estará el país a nivel macro en 2050 y hacia dónde quiere que vaya, la Oficina Nacional de Prospectiva Estratégica (ONPE) esboza en Vidas Futuras cómo estarán sus ciudadanos dentro de un cuarto de siglo y qué se puede hacer desde las políticas públicas para adaptarse a estas nuevas realidades. “No se trata de adivinar el futuro”, explican fuentes del organismo, “sino de prever escenarios. Nos basamos en megatendencias sólidas que no cambian según quién gobierne o haya crisis o no. A partir de ahí, los expertos prevén cómo pueden evolucionar, porque no hay un solo escenario posible”. El informe se ha elaborado con la colaboración de 25 expertos independientes, profesores universitarios en su mayoría. España cuenta con una ventajas para afrontar estos retos futuros: “Nos gusta la vida social”, explican desde la ONPE, y “si uno de los grandes retos dentro del mundo digital va a ser los problemas asociados a la hiperconexión, la soledad no deseada, etcétera., España cuenta con una baza comparativamente positiva con relación a otros países de nuestro entorno”. España es hoy un país diferente al de hace 30 años: tiene menos hijos, menos personas casadas, más divorcios, trabaja menos, consume menos carne, tabaco y alcohol pero es más obeso, se desplaza mucho más y los extranjeros se han multiplicado El estudio mira hacia atrás para apuntar hacia delante. España es hoy un país diferente al que era hace 30 años, expone: tiene menos hijos, menos personas casadas, más divorcios, trabaja menos, consume menos carne, tabaco y alcohol pero es más obeso, se desplaza mucho más y los extranjeros se han multiplicado. Esos y otros cambios “que llevan décadas desarrollándose (...) han redibujado profundamente nuestra vida cotidiana”, empieza. Y esas dinámicas, cuando interactúan con las “grandes transformaciones en marcha” —el envejecimiento demográfico, las migraciones, la digitalización o la lucha contra el cambio climático— esbozan “no solo lo que viene, sino, sobre todo, a quién va a afectar y cómo se va a vivir ese futuro”. El documento se articula en torno a tres generaciones — baby boom, nacidos a finales de los sesenta; millennials, de finales de los 80 ; y generación alpha , nacidos en la segunda década del siglo XXI— y diez ramas de análisis, “diez ámbitos que sintetizan nuestras trayectorias vitales y muchas de las decisiones que adoptamos en nuestro día a día”: vivienda, educación, trabajo, ocio, relaciones sociales, movilidad, alimentación, salud y cuidados. Vivir y relacionarse Esta “transición hacia una sociedad moderna ha traído consigo una gran pluralidad de visiones y preferencias respecto a la manera de afrontar algunos de los principales hitos de nuestra vida” que conformarán en un cuarto de siglo una España más diversa en la que, aunque aún predominarán las parejas, pero serán diferentes y se retrasan decisiones como el matrimonio o la natalidad, aunque esta última se ve condicionada por elementos como la situación económica, pero también la dificultad que muchas mujeres dicen tener para encontrar un potencial padre . En las parejas perderá peso la convivencia “como una forma de preservar mayores espacios de autonomía sin renunciar al compromiso afectivo”. Esta tendencia ya se da: desde 1980 el porcentaje de mujeres que vive con su pareja de forma estable ha bajado del 90% general a entre el 60% y 70% según la edad, y que las más jóvenes estén en el rango bajo apunta a que la cifra solo va a seguir bajando. En las relaciones afectivas, la familia tradicional pierde peso en favor de otros vínculos, como amigos, compañeros de trabajo o incluso las mascotas, que estarán en uno de cada dos hogares. El modelo familiar 4-2-1 (abuelos, progenitores, hijo) apunta a convertirse en el más común, lo que creará una generación de hijos únicos y con pocos o ningún primo que “reforzará la importancia de esas otras redes y ”modelos de cuidado más compartidos y adaptados a estructuras familiares cada vez menos extensas“. Lo digital y la vida flexible imponen las relaciones a distancia, que penalizan la presencialidad pero impulsan la frecuencia y variedad. Cambia la forma de relacionarse y cambia la forma de vivir, con hogares más pequeños, más diversos y más conectados a los espacios colectivos del edificio y del barrio. Bloques en los convivirán personas solas con mayores y jóvenes compartiendo hogar, con mucha movilidad espoleada por el aumento de la movilidad laboral, el peso creciente del alquiler y “los procesos de reconfiguración familiar”. La migración hacia las ciudades continuará: se prevé que casi la mitad de la población viva en una ciudad de más de 300.000 personas en 2050. La omnipresencia digital Pero la digitalización de todas las esferas de la sociedad “no va a desplazar la necesidad de contacto físico”, advierte la ONPE. “Al mismo tiempo, a medida que la conectividad constante pueda derivar en saturación, ansiedad o sensación de sobreexposición, podría aumentar el valor atribuido a los encuentros presenciales y a los espacios de desconexión compartida”. Esta tendencia amerita un capítulo propio en el informe relativo a las formas de ocio. En una sociedad en la que, si sigue el camino que dibujan las políticas públicas, se trabajará menos, “es posible que las generaciones futuras dispongan de más tiempo libre”, aventura el informe, aunque eso no se traducirá “necesariamente” en mayores niveles de bienestar. Viviremos condicionados por el algoritmo, “capaz de anticipar” nuestras preferencias y hábitos mientras “seguirán volviéndose cada vez más sofisticados, configurando experiencias personalizadas y difíciles de compartir”, lo que no deja de ser una evolución natural de tendencias ya visibles, sostiene Vidas futuras . Como su contraparte: “La capacidad de regular la exposición digital o de disponer de tiempo para cultivar relaciones presenciales no será igual para todos. Estas diferencias tendrán causas diversas (acceso a terceros espacios, movilidad, uso del tiempo, arraigo, etc.) y podrían convertirse en un nuevo eje de desigualdad en la forma de construir y mantener las redes afectivas”, advierten los expertos. Salud y cuidados Viviremos más años, siguiendo la tendencia actual, pero el reto será “mejorar la calidad de esos años reduciendo los efectos de las enfermedades crónicas”. En este sentido, “tener tiempo para descansar, acceso a una alimentación saludable y entornos que favorezcan hábitos de vida sana seguirá condicionando cuántos años vivirán las personas con buena salud”. En paralelo, los avances tecnológico-sanitarios “harán posible una medicina más preventiva, personalizada y continua”. Herramientas como la telemedicina, la monitorización remota o los análisis avanzados “facilitarán diagnósticos más tempranos y un seguimiento más preciso de enfermedades crónicas”, a la vez que la IA, la secuenciación genómica, la edición genética o las terapias inmunológicas podrían transformar el diagnóstico y el tratamiento de enfermedades como el cáncer, el alzhéimer o algunas patologías hereditarias, contribuyendo también a esta mayor longevidad. Pero todos estos elementos, advierten desde la ONPE, son susceptibles de generar grandes desigualdades entre ciudadanos que el estado deberá atender. Para las generaciones más jóvenes “la salud mental será otro gran desafío”, también siguiendo la estela del presente. El texto explica que “los problemas vinculados al bienestar psicológico y emocional, incluida la soledad no deseada, afectan ya a distintos grupos de edad, aunque algunas señales son especialmente visibles entre los adultos jóvenes atravesados por un contexto de mayor incertidumbre en las trayectorias vitales, así como cambios asociados a las formas de socialización”. En una sociedad que vive sola, como se prevé sea lo más habitual en 2050, y que además prefiere hacerlo en su propio hogar, según indican los datos disponibles, la necesidad de cuidados se disparará. De nuevo, lo digital puede ayudar a mitigar el problema, pero siempre harán falta personas, sostiene el informe, que además las cifra: unos 400.000 profesionales deberán incoporarse al sistema de aquí a 2050 para mantener un sistema viable.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-28T11:03:37+00:00"
-        },
-        {
-          "title": "Nvidia amplía en 150 000 millones de dólares su plan actual de recompra de acciones",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TaEg3b29RZjBxQjU3cUN0T3kydXM5a3oxOFZkNXRVYmF1eEYzX3BubHRxS1NhVTlUY3F6VlVYb2dSRXEzb1UwbkcyN0taLXJwTG1mODh6UDBvSGJBaVJjTDQtZVdFaVYwZGlwQjY1VmhlUTVrZ3BV?oc=5",
-          "desc": "Nvidia amplía en 150 000 millones de dólares su plan actual de recompra de acciones TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:03:05+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "Javier Aguirre, contundente en su presentación con el Valencia: \"No puedo vender lo que no tengo\"",
+          "link": "https://www.estadiodeportivo.com/futbol/valencia/javier-aguirre-contundente-presentacion-con-valencia-puedo-vender-que-tengo-20260928-547439.html",
+          "desc": "El técnico mejicano, que ya ha dirigido en varios entrenamientos a los de Mestalla, fue presentado oficialmente este lunes. El objetivo del ex de Mallorca, Athletic Club y Osasuna entre otros: \"Salir de ahí. Hablar en el campo y pelear\" Este lunes el Valencia se citó con la ilusión propia de un equipo que recibe a un nuevo entrenador. Javier Aguirre , que ya ha ejercido como tal en varios entrenamientos del Valencia , fue presentado con la idea de que el mejicano logre la salvación de un equipo que se hunde en los puestos de descenso con el Málaga solo por detrás. Javier Aguirre dejó claro que cuando un equipo como el Valencia llama a la puerta, es imponible decirle que no. \"No le puedes decir que no. Es un histórico del fútbol mundial, con una gran afición e imponente estadio. Quiero que el equipo merezca a donde la historia merece\". No quiso mirar Javier Aguirre más allá del próximo duelo que medirá al Valencia al Racing de Santander . \"Soy malo para imaginar. Estoy centrado en El Sardinero \", afirmó. Javier Aguirre no promete milagros en el Valencia Demostró Javier Aguirre que sabe bien donde llega ya que al solicitarle un mensaje para la afición, el técnico prefirió apostar por ganar como mejor forma de enganchar al público che: \"La gente está cansada de mensaje. Vamos a jugar ante el Racing y gana. Ese es el mejor mensaje\". Rafa Márquez, seleccionador de México: \"Aprendí muchísimo de Javier Aguirre y sé que van a tener mucho éxito en el Valencia\" Buenas noticias para el Valencia de Javier Aguirre Aguirre también apostó porque el Valencia tenga identidad cuanto antes: \"Sé dónde estoy, la propiedad del club y ves cosas ya desde dentro. El plan es ganar inmediato, que tenga una identidad y conforme el equipo mejore, la gente se va a ir acercando, es la ley del futbol\". Insistió Javier Aguirre en pensar solo en el Racing de Santander y no buscó el mensaje fácil en un equipo en el que la paciencia ya no existe: \"No tenía ni idea del Fair Play , En este momento sería fácil, ,pero el objetivo es Racing de Santander . No hay más. No puedo vender lo que no tengo. Tengo un plantel que estoy tratando de ver dónde estamos\". Javier Aguirre no piensa, de momento, en fichajes Javier Aguirre siguió su discurso de centrarse en el presente del Valencia y apostó por trabajar con lo que tiene. Pero el mejicano no escondió que en algún momento habrá que hablar de fichajes: \"No hemos hablado de necesidades. Hay tres centrales lesionados, pero no me compete de posibles fichajes. Algún día habrá que hablar, pero es institucional, trabajo con lo que tengo. Todos merecen una oportunidad y espero recuperarlos pronto\". Javier Aguirre regresa a LaLiga tras un gran Mundial dirigiendo a México Por último, Javier Aguirre trató de invocar al espíritu de Mestalla y a que ganar en el feudo valencianista no sea sencillo para los viales: \"No entiendo el futbol si no hay entrega, sacrificio, amor a la camiseta. Que no haya un jugador que le de igual ganar o perder. Que el jugador tenga mucha energía, Que al rival le cueste sangre, sudor y lágrimas ganarnos, sobre todo el Mestalla \". Dejando también el mejicano un mensaje de orgullo por llegar al Valencia : \"Más que peso es un orgullo. Es una entidad muy grande, Cualquiera quisiera estar aquí, gran plantel, gran estadio, gran historia, Es un reto para el que estoy preparado\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-28T12:24:13+00:00"
+        },
         {
           "title": "El petróleo repunta un 4% y supera los 108 dólares ante el rechazo de Trump al plan iraní para reabrir Ormuz",
           "link": "https://www.eldiario.es/economia/petroleo-repunta-4-supera-108-dolares-rechazo-trump-plan-irani-reabrir-ormuz_1_13543645.html",
@@ -719,6 +726,13 @@
           "desc": "Los independentistas exigen \"frenar los desahucios en pisos de fondos buitre\" y, a la vez, \"proteger al pequeño propietario\", mientras evitan posicionarse sobre la posibilidad de expropiar pisos o los contratos de alquiler indefinidos El Gobierno ultima un decreto de vivienda que evite desahucios, blinde alquileres y recoja ayudas para propietarios e inquilinos A pocas horas de que el Consejo de Ministros lleve a votación el nuevo decreto de vivienda, Junts exige a Pedro Sánchez “medidas concretas” para afrontar la crisis. Así lo ha dicho Josep Rius, portavoz de la formación, en la rueda de prensa posterior a la Ejecutiva Nacional convocada para discutir la postura del partido. Las propuestas de los independentistas están claras: su sí depende de que se suspendan los desahucios en las viviendas propiedad de fondos buitre y la limitación temporal de adquisición de inmuebles a grandes operadores financieros e inmobiliarios. Estas son algunas de las propuestas que los juntaires ya incluyeron en una propuesta normativa que entregaron hace tres semanas al Ejecutivo. “Las ven con buenos ojos”, sostiene Rius. “Queremos una propuesta que no sea reactiva ni oportunista. Que no aprovechen este decreto para introducir cuestiones que no tienen nada que ver”, han advertido los independentistas. La formación también insiste en la necesidad de bajar impuestos a las cuentas de ahorros destinadas a la compra de primera vivienda, reducir el IVA de alquileres e hipotecas y “protección a las personas mayores que tengan que ir a una residencia”. En cambio, sobre otras de las cuestiones que están sobre la mesa, tales como la posibilidad de expropiación de viviendas o los contratos de alquiler indefinidos, los juntaires no han querido posicionarse. Y ahí puede estar la clave de vuelta porque esas son, precisamente, las medidas que reclama Podemos para dar su voto a la norma. El que ya se conoce como 'Decreto Maricarmen' tiene por delante una complicada misión: contentar tanto a los morados como a Junts. Ambas formaciones cuentan con los votos decisivos para que este paquete de medidas, cuyo contenido concreto todavía se desconoce, pueda salir adelante en la votación del Consejo de Ministros de este martes. El equilibrio es frágil y, mientras los morados intentarán forzar al Ejecutivo a ser más ambicioso, los independentistas querrán unas medidas más discretas. Las negociaciones se han sucedido sin cesar durante todo el fin de semana, con el objetivo de llegar a la votación con el mayor número posible de votos amarrados. A tal efecto, el Gobierno ya ha renunciado a reformar la Ley del Suelo que tenía que agilizar la construcción para contentar a Podemos. Para los juntaires, el Ejecutivo ya ha apuntado su intención de atender a la prohibición de los desahucios en pisos de fondos buitres y la limitación de compra. Estas dos medidas suponen un cambio en la postura tanto de Junts como del PSOE. Los socialistas, hace un par de semanas, se abstuvieron en la toma en consideración en el Congreso de una proposición de ley de Sumar que pretendía, precisamente, iniciar la tramitación de una ley para prohibir la compra de viviendas a las personas jurídicas, entre ellas los fondos buitre. Por su parte, Junts tumbó —junto a PP y Vox— a principios de este año el escudo antidesahucios que se encontraba vigente desde la pandemia, y se negó a rectificar su postura pese a que el Ejecutivo intentó volver a ponerlo en marcha recortándolo para que no se pudieran beneficiar de él los inquilinos de caseros con solo una o dos viviendas en propiedad. El terremoto político que ha supuesto el desahucio de Maricarmen ha forzado a ambas formaciones a modificar sus líneas rojas. Y aunque destaca que los de Puigdemont se abran ahora a votar favorablemente al decreto, hay cuestiones en las que, asegura, no va a ceder. “Hay que compatibilizar frenar el desahucio en pisos de fondos buitre con proteger a los pequeños propietarios”, ha apuntado Rius, que ha advertido al Gobierno que “para llegar a un acuerdo, todos tenemos que salir de nuestras trincheras”.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-28T11:39:20+00:00"
+        },
+        {
+          "title": "Feijóo ve al Gobierno \"acabado\": \"Han estado más pendientes de la casa de Jésica que de la de Maricarmen\"",
+          "link": "https://www.20minutos.es/nacional/feijoo-ve-gobierno-acabado-por-crisis-vivienda-han-estado-mas-pendientes-casa-jesica-que-maricarmen_7042200_0.html",
+          "desc": "El presidente del PP se ofrece para solucionar el problema porque \"los españoles no necesitan a un Gobierno que se lave las manos\". Entre sus propuestas, defiende que los jóvenes paguen \"un 60% menos de impuestos\" si quieren acceder a una vivienda y garantías \"para que nadie pueda okupar una casa que no es suya\".",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-28T13:26:16+02:00"
         },
         {
           "title": "CaixaBank anticipa un freno de la demanda de hipotecas ante la escalada del precio de la vivienda y el alza de tipos",
@@ -798,7 +812,7 @@
           "fecha": "2026-09-28T03:45:01+00:00"
         },
         {
-          "title": "El euríbor cerrará septiembre en el 3,22% y las hipotecas se encarecerán de media 828 euros al año",
+          "title": "El euríbor cerrará septiembre en el 3,22% y las hipotecas se encarecerán de media 828 euros",
           "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/euribor-cerrara-septiembre-3-22-las-hipotecas-se-encareceran-media-828-euros-ano_7041506_0.html",
           "desc": "El BCE subió este mes los tipos de interés por segunda vez en el año y la expectativa de que pueda haber nuevas alzas para enfriar la inflación presionan todavía más al indicador",
           "source": "https://www.20minutos.es/rss/",
@@ -859,20 +873,6 @@
           "desc": "Batuel, Aleix o Daniel son empleados fijos-discontinuos que intentan recaudar durante varios meses el suficiente dinero para vivir el resto del año o poder trabajar de su verdadera vocación, como el arte. Gran parte de los negocios de Menorca cierra en septiembre hasta el inicio de la siguiente temporada turística La reforma laboral reduce la temporalidad entre los jóvenes el doble que en la población general Batuel Bayarri es de origen valenciano. Lleva trece años viviendo en Menorca y los últimos seis y medio trabajando en hostelería, siempre en cocina, a pesar de tener una amplia trayectoria en el ámbito de las Bellas Artes. Es pintor de formación con varias becas importantes a sus espaldas y un máster en Arte y Creación por la Complutense de Madrid. Ha expuesto en salas y galerías de todo el Estado. Hoy, la posibilidad de compatibilizar el arte con el trabajo que le sustenta está en una delgada línea roja. “He tenido que ir asumiendo responsabilidades cada vez mayores para poder adaptarme al aumento del coste de vida en la isla, eso significa dedicar más horas al restaurante y menos a la pintura”. Según señala, el encarecimiento de la vivienda ha sido otro factor clave en los últimos años para decidir hacer más horas de cocina y fogón que de talleres y óleos. “En los dos últimos años me he tenido que mudar tres veces. Cada vez que cambias de casa tienes que volver a montar el estudio y eso afecta a la producción y a lo creativo”. Posa junto al grafiti de una cocina. Bajo el reloj que marca las horas, los turnos, los pases de servicio, hay —pintado con rotulador— un dibujo sobre el azulejo. Cada día que pasa, los trabajadores del hotel dibujan una nueva cifra. Hoy dice: “Quedan 40 días”. Mientras el reloj cuenta turnos, el grafiti cuenta las jornadas que quedan para que termine la temporada 2026. Todos los años, la llegada del otoño marca una desaceleración en la vida cotidiana de Menorca; es el ritmo de la estacionalidad. Con una diferencia de pocos días, la isla pasa de la ocupación desbordante al vacío turístico. De la agitación del verano a la quietud otoñal. De la apertura y el frenesí, a la calma y el sosiego y —también, claro— a la desaceleración económica. En las primeras semanas de septiembre, decenas de hoteles, bares, restaurantes y chiringuitos de playa dan inicio al operativo de cierre hasta el año que viene. El dato del paro de los últimos tres años es ilustrativo en este sentido: con la llegada de octubre el desempleo ha subido alrededor de un 10% cada año en los últimos dos años —un 9,5% en 2024 y un 9,4% en 2025, según datos publicados por el Servicio Público de Empleo Estatal (SEPE)—. Todo parece indicar que este año no será una excepción. En las primeras semanas de septiembre, decenas de hoteles, bares, restaurantes y chiringuitos de playa dan inicio al operativo de cierre hasta el año que viene Batuel alterna su trabajo como jefe de cocina con su profesión como artista plástico y pintor desde hace once años “Cuando termina el contrato es un cambio abrupto” Tras sus lentes de marco grueso, los ojos miopes de Batuel cuentan los días que faltan para el final de su temporada número 8 como jefe de cocina mientras espera con ansias el regreso a los bastidores y las acuarelas. “Cuando termina el contrato es un cambio bastante abrupto. Pasas de nueve meses pensando en pedidos, platos y clientes a parar de golpe”. Según explica, el arte es el cable a tierra para conectar con un ritmo menos exigente y más creativo. “Utilizo esos cuatro meses para trabajar mi obra y mis proyectos. Es la manera que tengo de subsistir en la isla”. Utilizo esos cuatro meses [de paro] para trabajar mi obra y mis proyectos. Es la manera que tengo de subsistir en la isla Batuel Bayarri — Artista y trabajador de un restaurante A pesar de todo, este valenciano de 38 años confiesa que la posibilidad de abandonar la isla ha estado presente en distintos momentos de los últimos años. “Me lo he planteado muchas veces”, admite. Sin embargo, asegura que la paternidad cambió por completo esa perspectiva. “Ser padre es lo que ha hecho que me quede en Menorca”. Con el tiempo, explica, ha aprendido a valorar aspectos de la vida en la isla que antes pasaban más desapercibidos. “Ahora disfruto mucho más de Menorca porque he asumido que voy a vivir aquí. Pero si no hubiera tenido una hija, probablemente me habría marchado hace cinco o diez años”. Ahora disfruto mucho más de Menorca porque he asumido que voy a vivir aquí. Pero si no hubiera tenido una hija, probablemente me habría marchado hace cinco o diez años Batuel Bayarri — Artista y trabajador de un restaurante “Durante seis meses generas todo el dinero” Similar a la de Batuel es la historia de Aleix Solá García, quien lleva once años trabajando como cocinero en Menorca, aunque este barcelonés vive exclusivamente de los ingresos que obtiene entre primavera y otoño. Asegura que, tal y como está, el modelo estacional cada vez es más difícil de sostener: “Los primeros seis o siete años se podía vivir bastante bien, pero desde hace unos tres años he tenido que alargar las temporadas uno o dos meses más para poder cobrar el paro y llegar a la siguiente temporada”. Con la llegada del invierno, Aleix depende de los meses cotizados, del paro y de una gestión muy ajustada de sus ahorros. “Durante seis o siete meses generas todo el dinero del año. Si no te organizas, puede llegar marzo o abril y no llegas”. En algunos momentos ha necesitado apoyarse en la devolución de la renta o en ayuda familiar para cubrir los últimos meses antes de volver a trabajar. Vista de la playa del municipio menorquín de Maó Según explica, la estacionalidad condiciona por completo su forma de vida. “El contraste es muy grande. En verano no tengo tiempo para nada porque trabajo muchísimo. En invierno tengo tiempo, pero no tengo dinero. Es difícil equilibrar”. Pese al cambio de condiciones laborales, Aleix no se plantea marcharse de la isla. “Prefiero vivir en Menorca todo el año. Lo que me gustaría es que mi profesión fuera más estable, poder trabajar de lo que me gusta sin tener que depender exclusivamente del turismo”, explica, al tiempo que reconoce que el aumento del coste de vida y de la vivienda está poniendo en cuestión la viabilidad del trabajo de temporada. “Yo puedo seguir porque tengo un cargo de responsabilidad, pero si no asumes ciertas responsabilidades o no tienes unos ingresos más altos, ser temporero ya no es viable”, comenta. El contraste es muy grande. En verano no tengo tiempo para nada porque trabajo muchísimo. En invierno tengo tiempo, pero no tengo dinero. Es difícil equilibrar Aleix Solá García — Cocinero Un paro históricamente bajo A pesar del fuerte contraste social y económico que impone el cambio de estación en la isla, Menorca mantiene tasas de paro históricamente bajas. La población desempleada se situó, hacia el final del cuarto trimestre de 2025, en 1.873 personas, lo que implica una reducción del -3,1% interanual y una caída acumulada del -59,5% respecto a 2019, según datos del Observatorio Social y Ambiental de Menorca (OBSAM). Con todo, el OBSAM señala que uno de los principales retos de la economía insular sigue siendo la concentración temporal de la actividad turística y la falta de diversificación. La combinación de estacionalidad, falta de vivienda asequible y dificultades para captar mano de obra aparece señalada como uno de los principales límites para el crecimiento futuro de la isla en el Informe de Coyuntura Económica de Menorca que elabora cada año el instituto. Pero no todos los empresarios deciden resignarse a mandar a sus trabajadores al paro y profundizar la brecha entre alta actividad y cierre total. Patricia y Daniel son una pareja de emprendedores que, a diferencia de buena parte de la restauración menorquina, apuestan por mantener su negocio abierto durante los doce meses del año. “No fue una decisión premeditada. Se fue dando. Cuando empezamos a gestionar el local nos dimos cuenta de que, por la ubicación en el centro de Maó y por el tipo de negocio que tenemos, era viable abrir todo el año”, explican. Con el tiempo, la elección también adquirió una dimensión más personal. “Nos gusta poder aportar algo a la gente que vive aquí. Que no sea un negocio que solo abre cuando llega un montón de turistas y cierra cuando se van”, cuenta Patricia. Aunque reconocen que económicamente es más sencillo concentrar la actividad en los meses de verano, consideran que mantener la persiana levantada durante el invierno tiene un valor que va más allá de la rentabilidad inmediata. Varias embarcaciones en el puerto de Fornells (Menorca). Entre las ventajas destacan la posibilidad de atraer trabajadores que buscan estabilidad laboral y la oportunidad de construir una relación más sólida con la clientela local. “Abrir todo el año es un plus a la hora de encontrar personal. Hay mucha gente que quiere trabajar durante toda la temporada, pero también mucha que busca un empleo estable”. Además, sostienen que el invierno permite desarrollar una propuesta gastronómica diferente. “Es una época mucho más íntima, más tranquila. A nivel de producto, otoño, invierno y primavera son estaciones muy interesantes para cocinar”. Abrir todo el año es un plus a la hora de encontrar personal. Hay mucha gente que quiere trabajar durante toda la temporada, pero también mucha que busca un empleo estable Patricia — Dueña de un restaurante en Menorca Mantener el negocio abierto todo el año exige, sin embargo, una capacidad constante de adaptación. “Son prácticamente dos negocios distintos. No tiene nada que ver servir 150 comensales en pleno agosto que atender 35 o 40 personas en invierno”. La gestión de plantillas, horarios, compras y oferta gastronómica cambia por completo según la época del año. “Tienes que ser imaginativo y adaptarse continuamente a las necesidades de cada momento”, afirma ella. Otra variable cada vez más común entre el sector empresarial de Menorca a la hora de garantizar una plantilla estable es ofrecer vivienda además de trabajo –temporal o no– a sus empleados. Los “temporeros” como Daniel Poleo –treinta años, venezolano y chef ejecutivo– finalmente deciden quedarse en la isla por posibilidades como esta: “Yo llegué a Menorca en 2021 para cubrir una suplencia de verano. Venía de trabajar en Barcelona en condiciones precarias y la diferencia fue inmediata”. Explica que aquel verano post pandemia fue la primera vez que le pagaron bien. Finalmente, un acuerdo con sus actuales empleadores que incluye una vivienda a pocos metros de su puesto de trabajo inclinó la balanza a favor de Menorca, a pesar de la estacionalidad. “Poder trabajar ocho meses y que eso me permita vivir doce me da la vida. Aunque julio y agosto son especialmente duros, el balance sigue siendo favorable. Me quedo aquí”, concluye.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-27T20:40:11+00:00"
-        },
-        {
-          "title": "Más allá de Volkswagen: las fábricas de FIAT \"se apagan\" en una Stellantis que pierde peso en Italia",
-          "link": "https://www.eldiario.es/economia/volkswagen-fabricas-fiat-apagan-stellantis-pierde-peso-italia_1_13528607.html",
-          "desc": "Las factorías transalpinas trabajan a medio gas, perdiendo trabajadores año tras año (más de 9.600 puestos entre 2020 y 2024) ante un descenso de actividad que alcanzó mínimos históricos en 2025 Desafío final para la marca Seat tras 40 agitados años en Volkswagen Giacomo Zulianello, veterano operario de casi 60 años de Turín, ha visto durante su carrera el cenit y declive de la industria del motor italiana, un sector antes pujante que hoy languidece en muchos casos, en medio de una crisis automovilística europea que también afecta el país transalpino y una de sus marcas insignias, la FIAT, absorbida desde 2021 por Stellantis, una multinacional que sigue debilitada y sin remontar del todo en Italia. Ahí, sus fábricas trabajan a medio gas, perdiendo trabajadores año tras año ante un descenso de actividad que alcanzó mínimos históricos en 2025, mientras empleados y sindicatos denuncian abandono y un “apagado lento” de las propias plantas, acusando a la empresa de priorizar otros países antes que Italia. “La situación empeoró mucho. Afecta tanto a empleados de Stellantis como a proveedores y productores de componentes”, dice Zulianello, trabajador en la industria desde 1994, cuando empezó en la cadena de montaje de la extinta Carrocería Bertone, cerca de Turín. En 2009 pasó al enorme complejo de Mirafiori, polo industrial de FIAT inaugurado en 1939 en la capital del Piamonte, donde la propia empresa se fundó en 1899 por parte de la familia Agnelli, que mantuvo liderazgo de la compañía en sus más de 120 años de historia. FIAT encarnó un modelo de fordismo italiano que fue motor económico del país tras la II Guerra Mundial, teniendo Mirafiori como centro neurálgico, dónde empleó a más de 60.000 trabajadores en su punto álgido. Hoy, sin embargo, su capacidad es solo una sombra de lo que fue, y muchos lamentan la pérdida de su impronta italiana tras integrarse a Stellantis. FIAT, que ya se juntó con la estadounidense Chrysler en 2014, unió fuerzas hace más de cinco años con el Grupo PSA, productor francés de Peugeot o Citroën, una fusión que llevó a erigir un gigante con hasta 14 marcas e importantes dificultades económicas desde su creación. Declive en Italia Mientras la crisis del sector automovilístico se ceba estos días con Volkswagen , muchos empleados de Stellantis denuncian un declive progresivo de las fábricas italianas. La compañía tiene una plantilla de unas 30.000 personas en todo el país, dónde es aún principal empresa de la automoción en dimensión industrial y plantilla, aunque su peso ocupacional y producción bajaron mucho respecto a la supremacía pasada de FIAT. En 2025, Stellantis tuvo pérdidas netas de más de 22.000 millones. Entró en números rojos y tuvo una caída de producción en Italia que la llevó a niveles de la posguerra. Entre otros problemas, la empresa afrontó una transición complicada hacia el coche eléctrico en Europa, con menores ventas de lo previsto. A esto se suma la creciente competencia de los fabricantes de China, que ofrecen vehículos más baratos, y los altos costes logísticos y de producción en países europeos como Italia, más elevados que en otros Estados fuera de la UE. Fábrica de Fiat en Mirafiori En el país transalpino, sindicalistas y empleados critican con dureza la gestión de Carlos Tavares , consejero delegado y director ejecutivo de Stellantis hasta su dimisión en 2024, tras años de una reducción de costes que en Italia y otros países se tradujo en prejubilaciones, salidas incentivadas y regulaciones de empleo, lo que para muchos supone una forma de despidos encubiertos. A ello, se añadió una estrategia de poner precios altos para coches de gama media como Fiat, Opel o Citroën, lo que bajó las vendas, según expertos. Junto con la dura gestión de costes de Tavares, se suma una estrategia de poner precios altos para coches de gama media como Fiat, Opel o Citroën, lo que bajó las vendas, según expertos En este contexto, los paros de producción o la actividad a tiempo parcial son habituales en Italia. “Hubo una decena de días de paro productivo este año, y en 2025 trabajamos una media de tres días al mes”, comenta Zulianello sobre el ritmo de Mirafiori, hoy con apenas 12.000 empleados, mucho menos que los 18.000 de 2020, en lo que muchos ven como un despiece progresivo y silencioso de la actividad. “Mirafiori era como una ciudad. Cuando empecé a trabajar me movía en mapa”, explica Zulianello, que resalta que muchos como él se jubilarán pronto. “La mayoría de los que quedamos tenemos una edad media de entre 57 o 58 años. Somos el 60% de la fuerza laboral y en pocos años nos jubilaremos, sin que haya un relevo generacional” para cubrir todas las vacancias, lo que supone una gran pérdida de puestos de trabajo. Caída de empleados y producción Entre fines de 2020 y 2024, la empresa redujo más de 9.600 puestos de empleo en Italia, y su producción cayó a la mitad respecto 2004, calcula la Federación de Empleados y Obreros Metalúrgicos (FIOM), afiliada a CGIL, principal sindicato del país, según un informe publicado en 2025 y titulado Stellantis: la gran huida . El año pasado fue también el peor momento para la empresa en Italia. Su producción bajó un 20% interanual, con sólo 397.706 vehículos y un descenso fuerte en la fabricación de turismos, de un 24,5% menos que 2024, hasta 213.706 coches, la cifra más baja desde 1954, según los datos del sindicato FIM-CISL. Este nivel fue sólo la mitad de 2023, año en que se produjeron 751.000 coches. Todo ello puso a la empresa en el ojo del huracán, lejos del objetivo de un millón de coches anuales que se comprometió a alcanzar con el Gobierno de Giorgia Meloni, pese a que estos números no se consiguen desde que FIAT lo logró en 2017. Estos años, el Ejecutivo también destinó fondos públicos para apoyar la industria automovilística y reforzar a Stellantis, único fabricante con una amplia red industrial y otras marcas icónicas como Alfa Romeo o Maserati, útiles para proyectar el prestigioso Made in Italy . Parte de los fondos se dieron como incentivos a los consumidores para la compra de coches eléctricos, pero esto llevó a una confrontación con el Gobierno. “La mitad de incentivos que recibió Stellantis en 2022 fueron a coches producidos en el extranjero e importados a Italia”, criticó en 2024 el ministro de Empresa, Adolfo Urso, que exigió mayor producción y alertó con una retirada de fondos, en un clima de desconfianza que también llevó a críticas de la oposición. Stellantis asegura que FIAT es una marca clave de su plan industrial y que Italia tiene “importancia central” para el grupo, pero el país no produce casi ningún coche con gran tirada comercial Stellantis asegura que FIAT es una marca clave de su plan industrial, y que Italia tiene “importancia central” para el grupo, comprometiéndose a relanzar sus fábricas con la introducción de nuevos modelos como el Jeep Compass o el FIAT 500 híbrido. En el primer semestre de 2026, la producción de la empresa en el país creció un 13,7% respecto al mismo período de 2025, mientras también se prevé que su producción anual mejore en relación al año previo y ronde los 500.000 vehículos. Aun así, esto será un 33% menos que 2023. El año pasado, la empresa invirtió unos 2.000 millones de euros en Italia, y compras a proveedores por 7.000 millones. Esto fue más de lo previsto, con la meta de aumentar el desarrollo local y volumen de negocio, aseguró Antonio Filosa, consejero delegado de la compañía desde 2025. Este año, el grupo prometió invertir 5.000 millones en investigación, inteligencia artificial y desarrollo tecnológico a nivel italiano de cara a 2030. Muchas plantas no notan mejoría Aun así, empleados y sindicatos señalan que este impulso no se nota en las plantas italianas, y denuncian las inversiones menores respecto a EEUU y Norteamérica, mercado principal de Stellantis, dónde produce con ingeniería local, mientras en Europa empieza a apoyarse con empresas chinas como Leapmotor o Dongfeng, en un plan para reducir su producción de coches en más de 800.000 unidades para 2030 y ahorrar costes. ElDiario.es consultó a un portavoz de Stellantis sobre la situación de la empresa en Italia, sin tener respuesta. Asimismo, Italia no produce casi ningún coche de Stellantis con gran tirada comercial. “Ninguno de los nuevos modelos de Stellantis se fabrica en Italia: el FIAT Topolino se produce en Marruecos, FIAT 600 y Alfa Romeo Junior en Polonia, FIAT Grande Panda en Serbia, y el Lancia Ypsilon en España”, destacó hace un año Collettiva , diario del sindicato CGIL. A su vez, sindicalistas consultados resaltan que la empresa ha reforzado su producción en países mediterráneos como Marruecos o Argelia, con costes productivos más económicos. De hecho, la fábrica de Cassino, en el centro de Italia, sufrió una caída del 36,2% de producción esta primera mitad de 2026, y vive constantes paros productivos que le llevaron a “una situación dramática”, nunca vista desde su creación en 1962, denuncia Andrea di Traglia, delegado del sindicato FIOM-CGIL en la zona y empleado de la planta hasta 2023. “Es la fábrica que menos produce de Italia. Solamente hizo 8.000 coches este 2026, y hasta agosto solo operó 45 días”, dice a elDiario.es el mismo sindicalista. Según lamenta, Cassino no recibió aún ningún nuevo modelo para fabricar, y todos los que produce son del plan industrial de 2018, lo que ilustra “el abandono” de Stellantis, mientras la planta pasó de 4.500 a 2.180 trabajadores estos últimos años. A su vez, las regulaciones de empleo y las suspensiones temporales de trabajo han dejado los sueldos de muchos trabajadores al mínimo. “En muchos casos no superan los 1.200 euros mensuales. Se quedan más días en casa de los que van a trabajar”, denuncia el representante sindical. A estas alturas, el caso de Cassino es el más grave, pero “casi todas las fábricas de Stellantis funcionan ahora de forma intermitente”, comenta a elDiario.es Giovanni Mannori, delegado de FIOM-CGIL en el complejo de Mirafiori en Turín. Entre las pocas a mejor ritmo hay la planta de Pomigliano d’Arco, cerca de Nápoles, “porque produce el único coche que se vende bien en Italia, el Fiat Panda”, resalta. Según comenta, Mirafiori tocó fondo en 2025, y la producción este 2026 del modelo híbrido de FIAT 500 dio cierto impulso a la planta. “La producción aumentó respecto a 2025, pero la compañía dijo que este año se deberían producir 100.000 coches, y si llegamos a 65.000 a fin de año ya será mucho”, añade Mannori. Según él, Stellantis causó una “crisis industrial deliberada”, al priorizar otros países en los que producir. “Italia debería ser de los lugares con más peso, porque FIAT nació aquí, pero está entre los que paga un precio más alto”, concluye Mannori.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-27T20:40:11+00:00"
-        },
-        {
-          "title": "A mí no me van a desahuciar",
-          "link": "https://www.eldiario.es/opinion/zona-critica/no-desahuciar_129_13542264.html",
-          "desc": "Los desahuciados siempre son los otros, no nos va a pasar a nosotros. No nos damos cuenta de lo cerca que estamos de perder pie y caer mañana mismo, y de lo endeble que es nuestra red de seguridad Decimos que “todos somos Maricarmen”, pero es solo una forma de hablar: a ella la han desahuciado, a mí no me puede pasar, yo trabajo y tengo ingresos suficientes, pago puntual cada mes, vivo sin lujos pero también sin apreturas, y hasta me llega para unas cortas vacaciones. A mí no me van a desahuciar, no estoy en riesgo de pobreza, soy clase media, aunque sea clase media baja, incluso clase media muy baja, pero sigo siendo clase media, eh. A mí no me van a desahuciar porque, si todo sale mal, tengo familia que me apoya. A mí no me van a desahuciar, aunque soy autónomo y mañana mismo podría perder trabajos con los que contaba, sufrir un impago prolongado, que suban los tipos de interés y me revisen la hipoteca, que venga otra crisis económica. A mí no me van a desahuciar pero puedo divorciarme y que ya no salgan las cuentas con un solo sueldo, tener un problema grave de salud que trastoque planes, meterme en un negocio que acabe mal, endeudarme y no poder devolverlo. A mí no me van a desahuciar pero avalé a mi hija y estoy atado a su suerte. A mí no me van a desahuciar pero, sin que me pase nada de lo anterior, puede llegar mi casero o el fondo que compró mi bloque entero, y subirme el alquiler para echarme, como le pasó a Maricarmen. Los desahuciados siempre son los otros, no nos va a pasar a nosotros. Recuerdo cuando hace doce años los desahucios abrían a diario los informativos y las víctimas se organizaban en la Plataforma de Afectados por la Hipoteca. Estuve en varias de sus asambleas para documentarme en algo que estaba escribiendo. Y siempre encontraba familias de esas que se decían “a mí no me van a desahuciar”, hasta que les llegó el burofax. Trabajadores con buen sueldo, pequeños empresarios, gentes que habían vivido desahogados hasta que la crisis económica o una desgracia personal (o una mezcla de ambas) les hizo perder pie. Incluso padres con la casa pagada y sin problemas económicos, que habían avalado la hipoteca de un hijo y cayeron con él. Todos entonaban el mismo “yo jamás pensé que me pudiera pasar a mí”, y sus tristes historias recibían más atención de los medios y más empatía ciudadana, lo que por cierto es una mierda: empatizamos más con ellos, que son “como nosotros” (clase media, jaja), como si el desahucio de familias pobres fuese el orden natural de las cosas. Recuerda a cuando decimos que en las familias de clase alta “también” hay violencia machista, como si en cambio fuese normal que la chusma se maltrate. A la vuelta de más de una década, cuando se supone que no estamos en aquella crisis terrible sino en una de las economías con mejores indicadores de Europa, volvemos a hablar de desahucios (que nunca han cesado), y hasta regresan las acampadas indignadas a Sol. Pero seguimos pensando que los desahuciados son los otros, que no nos va a pasar, que el decreto esperado del gobierno está muy bien porque ayudará a los pobrecitos como Maricarmen (que no tenía una pensión de pobrecita, y tampoco se libró). No nos damos cuenta de lo cerca que estamos de acabar desahuciados la mayoría de nosotros. No todos, claro: la desigualdad social asegura la salvación de una minoría privilegiada, pase lo que pase. Pero muchos estamos a no tanta distancia como creemos de perder pie, de tropezar mañana mismo, encadenar varios tropiezos, trastabillar durante meses como esos traspiés cómicos que parece que te caes, que te caes, que te caes, hasta que te caes. No nos damos cuenta de lo endeble que es nuestra red de seguridad y de lo mucho que necesitamos medidas urgentes para quienes más riesgo tienen de desahucio, y también para nosotros, que nunca, nunca, nunca vamos a ser desahuciados.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-27T20:40:09+00:00"
         }
       ]
     },
@@ -881,11 +881,67 @@
       "icono": "🎮",
       "items": [
         {
-          "title": "Elon Musk acelera Colossus 2: xAI quiere superar 1,2 millones de chips Nvidia antes de terminar 2026",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTk93N3AtcG5vOHNRTDRrTmpBTlcwdFJKb2M0WDB0ZExES3c3OFRKNS03SFdwdGx3Wmk4UU84N0VtcHFha1UwLWt1TS1hNk53LWhvYnkwQmN1UVAyQUlOM2ExMk56M3h3blJITkwtZlc2MkFQZUtoMEtMOWQwSXVNSzZQclVOLVZWdGZV0gGsAUFVX3lxTE52MUhqSVEyLU1MaU1oWkJrM2RPeGFvTDhkcm1qNGdQaE14Z3VEMEVjaERORjlyLVN1OGEyU3ZqT21LdU4taUxEZUt3T0NiUTBFMjZfdEswN2FXUWppbGtES3RXRVJGLUJYN2NRYmtpMDdxTTMwRWdDOHoxQUZlX0ZxUTJaOTVZZzNBMUFTdWs1RjRfWUhNaFZDSFFyczkwYU5hWjU4SUd4djFXNFQ?oc=5",
-          "desc": "Elon Musk acelera Colossus 2: xAI quiere superar 1,2 millones de chips Nvidia antes de terminar 2026 La Tercera",
+          "title": "Nvidia autoriza 150.000 millones adicionales para su programa de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2RfQnRyV2VlaTJZeXAwS1BxM3RkQlNWU2pRcFc0UzBwS0ltYk82WWxBNURpVFhLOHdHQ1Z5UEpYckpSaTRLZDFVbWU2UzlqWHJ6YzQxZ3pPc1dlcFdRTDliNWNmazA3VHQ2QjZ6aWxjOWpuZktzZGk0TXNkdDd1VDFGZW1PQlBrUDZLSmFxdGp4VEhIUUM2Yzk3VGd4MUJOaG11S0Y4eVVHSXdhR2N5VVRmRllMbFZLYWhfODctYTJNcjlTQVp6UTZyVExla2pCQVdnb2VENGQ?oc=5",
+          "desc": "Nvidia autoriza 150.000 millones adicionales para su programa de recompra de acciones MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:47:31+00:00"
+          "fecha": "2026-09-28T12:21:26+00:00"
+        },
+        {
+          "title": "Nvidia lanzó una plataforma para frenar a los agentes de IA que salen de control humano",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVdoaHBhaW10Z0lfY25OenlCMmJQNTdubVU4RjJkQjk5VEs5RWx6SWZ0QW9vZzFpQXZzbHdlR1NxNEN3QVNpRTI2SWR4aDAwbkJwZWp3YUhPUkMtZFFyUTFOdkI4cTAxYjV4LXVPSkM0eXRmMkgxMGhzTDVUNmlxLVRETXZ6RjJ5YUUweFJOaDIzRlRkOGNpaF9sM251SkFxQ1FESXJNMnVjenQyUkJ6Nk5yVE1nQVZrTEtUOVBUMNIB2gFBVV95cUxOV0N4aTMwbkVOcWJHNFh1b3RQakRGNUJSVDlNN3dwd05uLU10RnhHaUxON2gtZV9Cck14ZjN5M251N213R3dZQjZKUEpJU2tSeDlsaG4zdTZrZjNqRzJBUE80dUpjaTQxcnp6NmNTakdoclVTZ1JwRlE5Zjgxc0JlWkhOd21aZGN2NG9tb1BzTWMzU0pXOE82ZmJzSHZXa3VFUHM0WlpwRUlpaHg3T0xDbU95NFlfSnV2YVVWUlJNNGZONXZWUmc2SFBoTXl6akw1Q3phMU5GdE5Fdw?oc=5",
+          "desc": "Nvidia lanzó una plataforma para frenar a los agentes de IA que salen de control humano infobae.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:17:32+00:00"
+        },
+        {
+          "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
+          "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
+          "desc": "Grab an RTX 5080-powered Gigabyte Gaming A16 Pro gaming laptop for just $1,799 at Walmart",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T12:15:00+00:00"
+        },
+        {
+          "title": "¿Por qué sube la acción de NVIDIA hoy?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1OVEpwN0ZiTjk2ZG1ydWl3cUYxeU16cEdjTk15V2ZjbE80S05kM0hIb1FMazlkTllYREV0ZVBiOUpDZFdqOU9UZVdCN2ZLYVlNZDlnMDF6NlpmSXhoOWNYX0FJdmczUElEYlVXTnVHRFNNTzBfQU1vR016SHhtZlZxVWJJV0FWMmNSYnptY0Z1aEdYZV9DdkNWSnhaQQ?oc=5",
+          "desc": "¿Por qué sube la acción de NVIDIA hoy? Investing.com México",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:14:24+00:00"
+        },
+        {
+          "title": "¿Por qué sube hoy la acción de NVIDIA?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV04zNGhORURvbkRFVmFuYVhXVmRIMUNUcnFRMnZjWlJkMEZKdWFNbzd6ci1ZdDQ3UXlPYng2blF0MUVRZWQ5MjV2eE53dlZKYmJUbDNUQWxDRWxrODdtb1hmeDJYamRjeGdEal9oeER4MU0xTzJQQVlWMjJHNEhuVkE0aXJrLWthZnFkZXBRVVhVOFRuc3Y3ZFpTYXh2QQ?oc=5",
+          "desc": "¿Por qué sube hoy la acción de NVIDIA? Investing.com España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:13:00+00:00"
+        },
+        {
+          "title": "Nvidia RTX Pro 5500: Pekín estudia aprobar compras pese a las restricciones de EE. UU.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTBVSUs0aFFpUmk3SFVMalgyNFVfZ0hVMDJsSFpMZVEwRTMzREg0RTYxRHZJS095aFRFNl9aSzJ0cnZ3M2tIaGROYzhpSERkbkstQ3J6bzhLaEpMbmxOTDZBZHBRTGZlSEgyWGhSVE9HeFlNVVhDNm0xanpOWWtfcnJlTTBYSklQRVZVbkgyRDBiSkNWR25jWEtVRTM5RnRXdzBvdnJZMjV0SFRvcjdvdEpfcmdOVmlhZ1lOZw?oc=5",
+          "desc": "Nvidia RTX Pro 5500: Pekín estudia aprobar compras pese a las restricciones de EE. UU. DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:11:03+00:00"
+        },
+        {
+          "title": "Nvidia vincula más de USD $180.000 millones a Anthropic y expone el costo de la carrera por la IA",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGxDa1BVTmJha0duQVJha2tVMGNKSENwUXlLWmphZ0ZyeFBWZ1lpTDhxNTQ3aEVpWHVFU1ZWcU5MY3p1ZTJlTUR6NHpoYnlpQm5oUV9wQUxiUUtBS2NHLTFMRXlNT0lnQmZidFotNFVybnhyNm1pb21WbU1DR2lfZWZ0SkM2SnFZd1pnQ0x1c2RZbWRzek5WbDBzcWpSeU5JYzNYSWtrZ0xJY0JzRGE5dERkV3MxTUh2aE5pdTVQQlo3RU1kNzJjOG9aaFE1cGIyR0E?oc=5",
+          "desc": "Nvidia vincula más de USD $180.000 millones a Anthropic y expone el costo de la carrera por la IA DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:11:03+00:00"
+        },
+        {
+          "title": "Nvidia amplía en USD $150.000 millones su autorización de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZE5mU3JmeTRHWlJzM3RQTUdORk1CemNRdlM0c3lyV3FybjllYlRLTVcwNGtYN21NT1ZoZzM3clBBMEJpRTFHMGMyeEl0NXFveDlGbVN6NVpsb3lTaFB4NFh4TDVLRXJRbmx3cnRNeEROcE9VWC1XWGZBdDMtc0dkZkRpNE5sWkJ5S2lSb2lmU193LTJYQkhlSklzc3Jrc0oxV0pYdmhGMkw1dUJBQ2tVN2hwY3BZb2w4?oc=5",
+          "desc": "Nvidia amplía en USD $150.000 millones su autorización de recompra de acciones DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:06:35+00:00"
+        },
+        {
+          "title": "NVIDIA amplía su recompra de acciones en 150.000 millones y NVDA sube en premarket",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCcHJCVHNhUzA3eVhQRVA4ZDl2ZW90WXpTQUlZSkRialJYcnZ0UVVKeTAxOHA2YklXTWEzVnZfZmlBeGdYV3JoQ0p6cWJIaE85NmQ5NEczdHdVOTAyUDZVZGFhYlBadEdzbkRwX2loVVFaOVFhUThpVg?oc=5",
+          "desc": "NVIDIA amplía su recompra de acciones en 150.000 millones y NVDA sube en premarket Criptotendencias",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:01:47+00:00"
         },
         {
           "title": "Dominio de IA de Nvidia financia recompra histórica de $150 mil millones",
@@ -909,18 +965,25 @@
           "fecha": "2026-09-28T11:34:23+00:00"
         },
         {
-          "title": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm5xYkh5U0VHMFROZnZySWp3ckZjSEdjTkRMR2Z5bUE1clhqaDYtZnVKMEowRElXa1NhcGJVOFVHTW1lWVNfLTFzRng3VUFreW5iTkFpeGl0OVlRNTluTmwwX1gzQy13aDBIckU5VzE4aVg3b2pJYXMteUo0OE5zbWc0VW1kX1pBb0Nj?oc=5",
-          "desc": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:32:39+00:00"
-        },
-        {
           "title": "NVIDIA lanza una plataforma de seguridad para evitar que los agentes de IA se salten los límites",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVVY3RLbzQ4ZWVXWU5MOXN4UFVUVDRSV1BqalZKampyYURqeHh5eHUwX2tRZU9iQ1N5SVVvaXN1Yk4zZzR5WGRiNkdGYXZ6cW04cENEY1pwUzVOaTYzQ2xTNXFMTWlLRUpWODdkN2VRZ3lMVkh6TThmbW0tYnh4ektmUVFwcEhXM3FrdldibERteWtiSzlRY1hUMmpqY0tXeG9ibmJiNjNGTFQ0?oc=5",
           "desc": "NVIDIA lanza una plataforma de seguridad para evitar que los agentes de IA se salten los límites muycomputerpro.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T11:31:34+00:00"
+        },
+        {
+          "title": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWm5xYkh5U0VHMFROZnZySWp3ckZjSEdjTkRMR2Z5bUE1clhqaDYtZnVKMEowRElXa1NhcGJVOFVHTW1lWVNfLTFzRng3VUFreW5iTkFpeGl0OVlRNTluTmwwX1gzQy13aDBIckU5VzE4aVg3b2pJYXMteUo0OE5zbWc0VW1kX1pBb0Nj?oc=5",
+          "desc": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T11:31:34+00:00"
+        },
+        {
+          "title": "La Junta de NVIDIA autoriza un aumento de $150 mil millones al programa de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVDhUa1hKekVNcmlMYmwxRUlnLW9TQ2VUQzhPaU9JamNyVlRXcHhKT0FRY3pGeEpwT3lsZ1pCZDc1OWFwaTYwSTVBaElXNTA5OTNlTlZEajdBZmh5MHliVWxHcGFOalVhaFZwTEx0aExwSDRQcEpsOEgtMWg5S3dBaTNrd0w4QjhwbkQ3YkF1YWsxU1JjNmExNW82bjlkZw?oc=5",
+          "desc": "La Junta de NVIDIA autoriza un aumento de $150 mil millones al programa de recompra de acciones Unite.AI",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T11:29:18+00:00"
         },
         {
           "title": "NVIDIA lleva la seguridad de los agentes de IA al hardware",
@@ -979,74 +1042,11 @@
           "fecha": "2026-09-28T11:06:47+00:00"
         },
         {
-          "title": "China alista permisos para que Alibaba y ByteDance compren chips de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnItV2o4VkdBNlIzNU5EZHZHMlNUaUxvU2RTdmk3YTRkSnZ3UU9GdjVfRXZ0ajRnel9jT3FudVlod2VENUdaUVlFOWxmRk0wUndjVDJPVkVmQmN1bUFQaUROYktwQ1o0SS1EYmkzQVg4bjBxSGw2Zi1jYU8zWHJwbEZ1bUVuVG1xT1NpaTlMWGt0UmdhakFKclR3YnB6emd3U3FnMWpJRGsyNFYxX1RaNkdTaWNXWWwtOU02eXhHSQ?oc=5",
-          "desc": "China alista permisos para que Alibaba y ByteDance compren chips de Nvidia El Sol de México",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:06:33+00:00"
-        },
-        {
           "title": "Nvidia crea un sistema de seguridad para controlar a los agentes de IA tras los últimos incidentes",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUhWY2ZfZk5mWGxaTF8zb0hLMVBLZzdpVno3Rm1jRE9JR2kzcUNhMjdsRC0tVFh1a1hwcGpjWEN6amFLbTc5bE81LXptNHJfeV9pSXRINjhWTHpHcDhiRDFHVXFYQkZEZVB5NWpMUU12WnFhWVBKaVFpQWxxRGZrOU0zTXVpaEtHbWpZcC14OHJ5NHNWdVR4U0owSEw1Y3I1NzZBc2J4bDFRRWRyTzgzdkM1TExPUk80ODdVUnNfbmFCYmVoZV9NQ3dDc3Q3SC1vWE1CNlNCdGpobzJWZ0E?oc=5",
           "desc": "Nvidia crea un sistema de seguridad para controlar a los agentes de IA tras los últimos incidentes Business Insider España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T11:06:28+00:00"
-        },
-        {
-          "title": "Nvidia amplía en 150 000 millones de dólares su plan actual de recompra de acciones",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TaEg3b29RZjBxQjU3cUN0T3kydXM5a3oxOFZkNXRVYmF1eEYzX3BubHRxS1NhVTlUY3F6VlVYb2dSRXEzb1UwbkcyN0taLXJwTG1mODh6UDBvSGJBaVJjTDQtZVdFaVYwZGlwQjY1VmhlUTVrZ3BV?oc=5",
-          "desc": "Nvidia amplía en 150 000 millones de dólares su plan actual de recompra de acciones TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:03:05+00:00"
-        },
-        {
-          "title": "Resumen semanal: Dos plantas de gas por $3.3 mil millones para un centro de Nvidia y crédito de $200 de FPL",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13SElOandzM0JvR1ZJdjh2dVByTmJ0ZncxcTdWRndlNjg0a3dvQ0VDZ3hKY0xPMEdHZkd4MWxYYXlKZEpMc3BlUW9oYXd3cGNtRWI5SG5VMzJyaUg1azVfMm9XVE5jNEpUOXUyUg?oc=5",
-          "desc": "Resumen semanal: Dos plantas de gas por $3.3 mil millones para un centro de Nvidia y crédito de $200 de FPL TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T11:00:00+00:00"
-        },
-        {
-          "title": "Nvidia lanza una plataforma para aislar agentes de IA rebeldes en milisegundos",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW1KU0NWaFJXM0FEXzJUOW5LVmcwd1QtU0dvdUFpNHRMT2dTdFd2anU0TzljdmM5M1l4ZTZIeGhURktqNlRkTW51eG1SbWZVYVNiUmlYVGg1TFhYM1JFZWh5RmpCY0J5cHh2aG9GNDg4eEE3UmNEX2pXVEpWUVFEYUpKVXAzVlVGSWdsb3I4NlV5YkJYaVZjN29XSzU1ZDg1MG94X216NWJSQ3B4SzQ1YlYtMA?oc=5",
-          "desc": "Nvidia lanza una plataforma para aislar agentes de IA rebeldes en milisegundos Euronews.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:47:55+00:00"
-        },
-        {
-          "title": "Nvidia lanza plataforma abierta de seguridad para el despliegue de agentes de IA",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcTBIR2d1a2FJOThsRFBnVkpicmNaOEFTUzNwa2pMV0gtMWtyci1iYjNFZXl2U1Q0U1pTX3B0cUNKcXJJRkpoSDFBR1hxX2dmM1J3TGg5ZlgxNDZrZDVVdzFrZzRlVnhZZWswRFZEemZzdnNhbWR3alk4LVNnM0s1ZUUtbmJvdDFYRFVXYmhhZVhBRnJGS3ZrekpqRWVDdVAyV0h1aXNRcTBfREdKb0w0UDFrQU5HNzZCeUVpSllYWkN0N0hfMm1pVFJWbzBDUG8?oc=5",
-          "desc": "Nvidia lanza plataforma abierta de seguridad para el despliegue de agentes de IA Revista ADVFN",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:44:25+00:00"
-        },
-        {
-          "title": "China podría reabrir el mercado de IA a NVIDIA: ¿Cómo reaccionarán las acciones NVDA?",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmxFTEh6UEhqTy16X3NNZkx3M0EzemV6OEJudVl1aktsZ242ZV92ODNpQ0pZbV9YYmFXcVJxaW5La2EyeUU0RlEtcGN6VXZDajBxMWNuX3c5eENuSGFGd0hBY0Z2LWlyaHVLdklPSXZaYVdQbldiQUFvUkJnYVo1X0dCcVZnWU13RGttcA?oc=5",
-          "desc": "China podría reabrir el mercado de IA a NVIDIA: ¿Cómo reaccionarán las acciones NVDA? Yahoo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:36:00+00:00"
-        },
-        {
-          "title": "Nvidia presenta barreras para contener a los agentes de IA tras incidentes de seguridad",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVNOaVpJZnNLRkNOb3ZLY2ZkQW1KUjlPRE8wMHB4ZHY4TjNkMEpTd2s5RmFMbTN4U3IxWEJNdXhnN3RWX05pdnR0RFR3VG9XTVhwNU1CMXAxUm5fTjJFV1hCd3pqaHJ3cWgyTmY4c3ZoLUIxMUpKSGE0UDNJLXBUUFZEbFQ5enBBdzZxSXVHMlNRRXBXU3g5cFpydGNLdEdwa3NERzBrQ0JTd0N1ajd4NkpzSGJxNV9WaU5GakFVWWozbGlULVFTMw?oc=5",
-          "desc": "Nvidia presenta barreras para contener a los agentes de IA tras incidentes de seguridad DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:20:56+00:00"
-        },
-        {
-          "title": "Nvidia RTX 4090 sufre daños en el conector a pesar de estar limitada al 80% de potencia",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcU81OUVBYXJaVTk0Q0pSSmo4R0Z3akc0c1c2UFJuN3drNEs4RWdYX3Z0cmVqb1dTRVUyQnRPaGhOb0pjVm1PQ3hxU29Qcl9iQUdsOWthWHJPM3gya1dYSzFkZllqanNoTmtqSkpscFNfSFFsZGh1ekdrRnQ4d0l5N3Z3ZmdWRzFjVWhGSl9xN2tjcjhz0gGaAUFVX3lxTE11SkFPc3BNWFg2VTRTTUU5N0E3cm1vYzhTN0VkdWFCVWVETlBJRGNHaDQ5TDJKSG0wVXJoZmNKY012cVVqdlMwLWc4VXh4Ql9IQzMyQUdzTDdLNzkyV2xaRVl3T0JObnozSlUyeDk2Y0pzWkVRdE5xWFFZTU1IMFpJd09sVkRVb0Q3ZUg4cUxMWUVzOVMxd2RFelE?oc=5",
-          "desc": "Nvidia RTX 4090 sufre daños en el conector a pesar de estar limitada al 80% de potencia Profesional Review",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:14:11+00:00"
-        },
-        {
-          "title": "Jensen Huang: el líder de Nvidia que pasó de la nada a ser uno de los más ricos del mundo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY01RZVp5QTRJc0ZoRnJYeGFIZ0lhbHBMM2ZweV80dHNrNWVSd1BueFM1bHZHOUJTQWZvRVgxTWZhYk1NRk45SEJvQ3NJZG5VVzF1M0w4WEdyTkdyZE1HNEVYMFZmeEJXLTl3dEt4RDY5UFB6bkxzVEpLZWp0VnkxR2Nnc19HenNvbi1mUWdhemdQZkdlOHVWMEhYcWJkSGpC?oc=5",
-          "desc": "Jensen Huang: el líder de Nvidia que pasó de la nada a ser uno de los más ricos del mundo Business Insider España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:03:23+00:00"
         }
       ]
     },
