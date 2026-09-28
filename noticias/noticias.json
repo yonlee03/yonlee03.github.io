@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T13:30:04.679954+00:00",
+  "generado": "2026-09-28T14:00:07.083910+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -18,6 +18,13 @@
           "fecha": "2026-09-28T15:28:02+02:00"
         },
         {
+          "title": "Opinión | El Sánchez-Pizjuán también debería ser de ellas",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG43VHJlUGQwVlNFcTRWcVdZR2piSFJ4eERtR0F5Q1J3dHFiTFVyenFMYjhoTnRpSFlfUWxVM2RranBiRHUtT0J5OTd0Uk1mVUM5LUFPcXJiTzVEblc1cnFUNzhJY0dTdzZISUM4SWZ1WUhzVzlvbUVCdkVYUW5NeQ?oc=5",
+          "desc": "Opinión | El Sánchez-Pizjuán también debería ser de ellas elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:22:00+00:00"
+        },
+        {
           "title": "Monchi remueve entrañas: padrino de la Reyes Cup, se alegra por el Sevilla, piropea a José Ignacio Navarro y tiene claro que \"como José Antonio, ninguno\"",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVDR0N2ZqdE9jd3IzSldKSlFuYWtOOFM4b2hyc3JqVno1YnVXX2tyMTFLM05PR1dMalgtZnAyQXhCeTQwbnc3ZXM1SzZzQzQzNVNEQk4xWE5EaXJuTzNqa3hDd3NteG9VTzB6SnpseWlQZG5SdDNHM3FTRmFYSTdVc01mNnFwUWxfYXhybmFFQkx0U3NMczhmMUVRYVlScGhrR1pYMTJGbW5meENOcTVwajRqOXRmTVhVbk9oby1lZm1CckFBNGNocF9yM3hRV1FLd1lwcnM0VTNYQ1A4QS1ZRHdVWGdacDNpeDhMbW55Y1pVWU94elBDUWJpa1lYV2JIVlFHa0xqcThhNVhHNHlCdlNyYUIxMEpNUHRLdXhMYzFmYll1UUN2QnBYSQ?oc=5",
           "desc": "Monchi remueve entrañas: padrino de la Reyes Cup, se alegra por el Sevilla, piropea a José Ignacio Navarro y tiene claro que \"como José Antonio, ninguno\" Estadio Deportivo",
@@ -27,7 +34,7 @@
         {
           "title": "Monchi recuerda a Reyes en la presentación de la Reyes Cup: “Talento natural como José Antonio es muy difícil encontrarlo”",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDZxLUJjVUI1OFBLdm1iWGg4UUVuVlZ2MVk4cGVwYjdrYThpSktrakdlckxubVpHSUxJTklYQXRic0RSbk14T1hLUTV2azU5ODRXWGR1UFBrSGxvOFpseDBrdEQtMTZNOVpxSU5NM01aVVZLTksxeWlHRl82SUxMZkhpRFNzck1UTkpjakZrYVVLRklLSTJjRER1VVczalI3MHBZYzhXZ9IBrAFBVV95cUxPZVU0dGRUTndVQ3htZ211Zkw2MlZCVHE3Tm5fcXZHRGw1Z3RfelJobF9SenFhSXppYzgxanF0WnI5MXRTT3RNQWROWjZWZFo0MDAwLW1yVmQtVUFYb2hDdTJTUXE0UjNVNFlZMnRreDRBSTBoTUNFdFozQ2pISURpaXNGaUVxYjNJWm5jS0hHeW5mUy1OazJRdE55UF8wckl0VGVYMXhUZ0QyYjhh?oc=5",
-          "desc": "Monchi recuerda a Reyes en la presentación de la Reyes Cup: “Talento natural como José Antonio es muy difícil encontrarlo” El Correo de Andalucía",
+          "desc": "Monchi recuerda a Reyes en la presentación de la Reyes Cup: “Talento natural como José Antonio es muy difícil encontrarlo” elcorreoweb.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T12:39:11+00:00"
         },
@@ -141,12 +148,12 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWG1Rc2U1VjFZenFNVjFQTDlnMVVBVVBYakhCUXJMRkN3ZEJkdDAwaEhsYUFxcEkydHlfYUpmbHVUaEFzRUdkN3lKWGVBc3VidlFCeFJZX3Y5VExZMGRkYzZHS19GV0R4ZEVZTTRhazMwazN3Ym8ydDR5NDRxU3lnYVRTazRKb3pSMF9aZg?oc=5",
           "desc": "ABIERTAS LAS INSCRIPCIONES PARA LOS SOCIOS PARA EL SEVILLA ATLÉTICO- CD BADAJOZ Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T10:10:44+00:00"
+          "fecha": "2026-09-28T10:10:13+00:00"
         },
         {
           "title": "Kike Salas explica por qué se quedó en el Sevilla pese a tener ofertas: \"Prefería quedarme y estar jugando como lo estoy haciendo y siendo feliz\"",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0dmpBVnBoVVdVRV9fTXFwYUp3QUg4ejBwZWdLdlMyd1NYbnpkRkRnVzNUeEZGLWstR3V3bjF3azNnMEhJQWFEaE1wUHktUm9KdGQtUnJJZEZ3RjZDRnBrRlJFU1huX2xVR1o3S2Y2TEIyM2xwQ19CUnBqOGhVdklBUURncHNfZzN0U1VkdzNMSnFqRnBnMXNFYlZiSExOZ0hEOFROd9IBrAFBVV95cUxOdVBIMjVfUU5vano5NDEzZzJXN1Rfem1PenlQZTRvN1RFeEJKazVNeG45eTBTM2Y4b3BCLVduWW51amV6dUp4elRPZVJUUDZHRHRSeWYxUDVMMHhyaUYyNG56bU1sS2pJRnFzTFFWVXFQcVR0M2c1aUU1U2Y5SzUyWDBwazlqdlZfaFlISXM0RXpzaUxQNFlpRzE1TUlFWXJxdThVVWw0NFlWbFRH?oc=5",
-          "desc": "Kike Salas explica por qué se quedó en el Sevilla pese a tener ofertas: \"Prefería quedarme y estar jugando como lo estoy haciendo y siendo feliz\" El Correo de Andalucía",
+          "desc": "Kike Salas explica por qué se quedó en el Sevilla pese a tener ofertas: \"Prefería quedarme y estar jugando como lo estoy haciendo y siendo feliz\" elcorreoweb.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T10:03:59+00:00"
         },
@@ -170,13 +177,6 @@
           "desc": "Iván Rakitic no quiso ponerle nombre a su favorito para el Balón de Oro, pero sí dejó una pista que apunta directamente hacia España y, entre otros, hacia Lamine Yamal. El ex barcelonista considera que el próximo ganador debe ser español, aunque también reconoció que quizá todavía sea demasiado pronto para algunos de los candidatos más jóvenes Jesús Navas, Iván Rakitic y Davor Suker coincidieron como protagonistas este lunes en Sevilla con motivo de la presentación de los futbolines 7GoalX, un acto presentado por Cristóbal Soria y marcado también por el España-Croacia de este martes. Las tres leyendas del Sevilla FC protagonizaron un particular duelo entre ambos países sobre el futbolín y, en un ambiente familiar y agradable, repasaron algunos de sus recuerdos y vivencias dentro del mundo del fútbol. Davor Suker, Jesús Navas e Ivan Rakitic repasan la actualidad sevillista con un optimismo muy marcado del delantero croata: \"Pelear por Europa\" Edu Aguirre se moja sobre el Balón de Oro y el techo de Cristiano Ronaldo con 41 años: \"Hay que disfrutar de ese animal\" Entre los asuntos que salieron durante el encuentro estuvo uno de los grandes debates de estas fechas: el Balón de Oro . Los tres exfutbolistas se mojaron sobre quién debería hacerse con el prestigioso galardón y dejaron una conversación con varias alternativas , alguna rectificación y, sobre todo, una coincidencia final: el próximo ganador debería ser español. Rakitic apunta hacia un español Rakitic no quiso dar un nombre concreto, aunque sí dejó bastante claro qué perfil considera que debería llevarse el premio: \"Tiene que ser un español ; creo que más o menos puedes cerrar los ojos y sacar uno, no vas a fallar, pero tiene que ser un español. Estoy de acuerdo en que igual es todavía muy pronto para algunos\" , explicó Rakitic durante el acto. Viendo los candidatos españoles, tan solo encontramos a Lamine Yamal y Pau Cubarsí entre los más jóvenes con posibilidad de llevarse el Balón de Oro. Quizás sus declaraciones iban directamente para alguno de los dos. \"Mi jugador favorito era Olise\" \"> El exsevillista croata reconocía que su jugador favorito era Michael Olise , aunque consideraba que el francés necesitaba haber realizado algo más en el Mundial para entrar de lleno en la conversación. \"Pero este año no tuvimos el jugador que destacaba tanto en Champions, Liga y después también en Mundial para decidirse por un candidato\", apuntó. Y es ahí donde aparece su principal argumento para decantarse finalmente por un futbolista español. \"Mi jugador favorito era Olise, por ejemplo. Estoy de acuerdo en que necesitaba algo más en el Mundial; como jugador que a mí me gusta es Olise, pero creo qu e ahora mismo es un español que tiene que ganar\" , señaló Rakitic. Navas apuesta por su paisano Fabián Jesús Navas lo tenía claro desde el primer momento. El sevillista apostó por Fabián Ruiz, su paisano, vecino y amigo de Los Palacios, como candidato para hacerse con el Balón de Oro. Una elección con un componente especial para el antiguo capitán del Sevilla, que conoce personalmente al centrocampista español. “Tengo compañeros que están ahí, que he disfrutado con ellos, como Lamine Yamal ; todos se lo merecen. Pero al final Fabián es un amigo de mi pueblo y ha hecho méritos para conseguirlo. Ojalá se lo lleve él” , respondió Navas al ser preguntado por la posibilidad de que Fabián Ruiz se lleve el Balón de Oro. Suker rectificó en directo Davor Suker fue quien protagonizó el momento más divertido del debate. El antiguo delantero del Sevilla comenzó apostando por Harry Kane , aunque Cristóbal Soria, encargado de moderar el acto, rápidamente le recordó que el delantero inglés no había ganado ningún título “importante” y que Inglaterra había terminado tercera en el Mundial. \"Que gane un español, porque sois campeones del mundo\" \"> La conversación continuó con la intervención de Rakitic, que se inclinó por un futbolista español. Fue entonces cuando Suker, tras escuchar los argumentos de su compatriota, levantó la mano para rectificar su primera elección. \"Que gane un español, porque sois campeones del mundo\" , terminó reconociendo el ex delantero croata ante Cristóbal Soria.Una rectificación que provocó las bromas del propio presentador, que recordó a Suker que había comenzado defendiendo la candidatura de Harry Kane. \"Eso se llama recogida de cable . Ha recogido cable\", bromeó Soria.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T08:14:25+00:00"
-        },
-        {
-          "title": "Luis García Plaza impone un \"lavado de cara\" en el Sevilla y advierte a Rubén Vargas: \"Si no corre, no jugará\"",
-          "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/luis-garcia-plaza-impone-lavado-cara-sevilla-advierte-ruben-vargas-corre-jugara-20260928-547418.html",
-          "desc": "Repasa de manera pausada el frenético arranque de curso: muchos cambios en una planificación que se alargó hasta el último minuto del mercado (Fofana), numerosas salidas deseadas y llegadas que se han ido acoplando muy bien, máxima sintonía con la entidad y con un quinto puesto que obliga a preguntar si esta plantilla da para aspirar a algo más que a tener una permanencia tranquila En el Sevilla FC por fin corren días tranquilos con debates sosegados y con máxima tranquilidad clasificatoria después de un magnífico arranque de temporada con 13 puntos que le tienen en un meritorio quinto puesto, haciendo que se oigan voces en las que se pronuncia la palabra Europa aún con la boca pequeña. Feliz por ver cómo la afición disipa su hastío permanente para recuperar trazas de ilusión pone muy contento a un Luis García Plaza que se conforma con completar un \"sin sufrimiento\" , aunque admite estar \"muy contento\" con la plantilla que se ha confeccionado. Ha sido \"muy duro\" tener que hacer tantos descartes y el mercado de fichajes le generó bastante nerviosismo, pero a este primer parón ha llegado ya con un once muy reconocible en el que es pertinente preguntarse '¿Hay cabida para Rubén Vargas en la alineación titular?' . En una extensa e interesante entrevista concedida al diario ABC , el técnico sevillista escapa por la tangente recordando que antes de responder a esa pregunta debe poder contar con Vargas, lo primero de todo, y luego el extremo suizo deberá trabajar al máximo para alcanzar el nivel suficiente como para optar desbancar a jugadores asentados por méritos propios como Miguel Sierra o Félix Correia. \"Rubén sabe que, conmigo, si no corre no va a jugar\" , ha advertido el madrileño. Muy implicado en la planificación estival, lo primero que dejó claro a José Ignacio Navarro fue que nunca alineará a un futbolista que no sea de su gusto aunque el club decida contratarle de manera unilateral. Un verano de muchos cambios en el Sevilla FC \" Era necesario pegarle un lavado de imagen al equipo y así se lo pedí al 'presi' . Lo hice nada más que se supo que la venta no se completaba. Al día siguiente nos reunimos y le dije las condiciones que yo ponía. Él las aceptó y ya me propuso el nombre de José Ignacio para empezar a trabajar\", ha comenzado explicando García Plaza. \"Siempre digo que cuando se cierra el mercado, mi plantilla es la mejor que puedo tener. Ya al final del curso pasado hubo rendimiento, pero había que mover el árbol y cambiar cosas . Hemos hecho un buen trabajo todos. Aunamos juventud y experiencia; pero sobre todo buscábamos ese hambre y esas ganas de gente que se quiera comer el mundo \", ha añadido. El duro trago de abrir la puerta y empujar para que haya salidas \"No ha sido fácil. Es duro tener que hablar con muchos jugadores con contrato en vigor para que salgan. Y también ha sido duro porque esto se iba alargando y la gente no salía . Y al final somos personas. Por una decisión deportiva no contamos con ellos y se lo tienes que explicar. Creo que se ha llevado lo más dignamente posible y que la mayoría ha aceptado su salida \", ha repasado acerca de los 16 jugadores que han causado baja este verano. Algunos de ellos, viéndose apartados del grupo en la pretemporada. Luis García Plaza no acepta fichajes que no haya pedido \" Si me traen a un futbolista que yo no quiero, no lo voy a poner . Al final, si no me gusta, no me gusta. Puedo entender que, dentro de las situaciones que se dan, un club me lleve a determinados perfiles que yo no conozco. No es fácil cuadrarlo todo, pero creo que me han dado perfiles más o menos de cómo quiero jugar . Estoy súper contento con la relación que tenemos José Ignacio y yo. Vamos de cara, que es lo más importante\". La delantera del Sevilla: Lucas Stassin, Robbie Ure e Isaac Romero \"Son diferentes. Con Isaac yo siempre he pensado que con otro delantero rinde mucho mejor y Lucas es un jugador muy intuitivo . Él me demuestra en cosas que es otro que le explicas dos ideas y te las coge, como Fofana. Se ha agarrado muy bien tácticamente al equipo y ahora tiene que crecer. Y para Robbie es un cambio muy grande . Viene de una liga muy modesta, donde el nivel es muy bajo. Él se dio cuenta el primer día en Bilbao. Tiene que seguir creciendo. Esperamos que vaya en progresión. Es una apuesta del club. Todos son jugadores que tienen que ir a más porque son muy jóvenes\". El factor clave en el fichaje de Fofana: \"El Milan ha decidido regalarlo literalmente al Sevilla\" Los cuatro elegidos por García Plaza en el Sevilla tienen nombre y apellido: tres 'repetidores' y una cara nueva Rubén Vargas es un futbolista muy importante pero no tiene garantizado el puesto en este Sevilla \" Es un jugador que te da cosas diferentes, que incluso es bastante especialista en la plantilla . Por ejemplo, es muy bueno balón parado, que cuando no está 'Kocho' en el campo no tenemos un jugador realmente que sea especialista. Es un jugador que necesitamos . Ojalá este minidescanso nos sirva para que pronto esté con nosotros. Rubén nos puede dar algo diferente al equipo y ojalá le recuperemos \", ha explicado un esperanzado Luis García Plaza. Vargas hizo un gran Mundial con Suiza y, aunque contaba con su venta, a priori es uno de los principales activos de la plantilla. Eso no quiere decir que vaya a ser titular indiscutible, viendo el gran rendimiento colectivo : \" Los futbolistas no son ajenos a la situación económica que vive el Sevilla FC y saben que se necesita vender . Ha sido un poco convulso el final del verano, pero gracias a Dios el equipo ha funcionado sin él hasta ahora. Pero quiero añadirle más azúcar al pastel y ojalá lo recuperemos, porque creo que es un jugador diferente a los jugadores que tenemos. Pero Rubén sabe que como no corra, conmigo no juega . En esta manera de jugar, y con cinco cambios, tenemos que correr mucho\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-28T07:59:24+00:00"
         }
       ]
     },
@@ -189,7 +189,21 @@
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
+        },
+        {
+          "title": "El Barça lleva a Florentino a los juzgados: fijado el día para el acto de conciliación",
+          "link": "https://www.marca.com/futbol/barcelona/2026/09/28/barca-lleva-florentino-juzgados-fijado-acto-conciliacion.html",
+          "desc": "El presidente del Real Madrid está citado el 25 de noviembre por la demanda de calumnias",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-28T15:29:43+02:00"
+        },
+        {
+          "title": "El Barça lleva a Florentino a los juzgados",
+          "link": "https://www.marca.com/futbol/barcelona/2026/09/28/barca-lleva-florentino-juzgados-fijado-acto-conciliacion.html",
+          "desc": "El presidente del Real Madrid está citado el 25 de noviembre por la demanda de calumnias",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-28T15:29:43+02:00"
         },
         {
           "title": "Campaña de Aficiones Unidas para la final del Mundial 2030 en España",
@@ -201,7 +215,7 @@
         {
           "title": "Álvaro Vadillo, la estrella que no dejaron brillar en el Betis: \"Si Sergio Ramos me llega a coger más mayor... pero es que yo ahí era un niño\"",
           "link": "https://www.estadiodeportivo.com/futbol/betis/alvaro-vadillo-estrella-que-dejaron-brillar-betis-sergio-ramos-llega-coger-mas-mayor-pero-que-ahi-era-nino-20260928-547435.html",
-          "desc": "Las graves lesiones de rodilla acabaron empujando a colgar las botas con sólo 30 años, pero el canterano verdiblanco se queda con la parte buena: aquella ilusionante irrupción que despertó elogios en todo el mundo y que se disipó después de que Ramos decidiese darle un 'toque' cuando estaba poniendo patas arriba el Santiago Bernabéu La comparación resulta osada, pero en su día la irrupción de Álvaro Vadillo en el Real Betis despertó un interés y una ilusión comparables a las que desató el imberbe debut de Lamine Yamal con el FC Barcelona y muy superiores a las sensaciones que hayan podido mover otros canteranos como Dani Ceballos, Fabián Ruiz, Jesús Rodríguez, Pablo García o José Antonio Morante. El de Puerto Real se estrenó con el primer equipo verdiblanco en una visita liguera al Granada CF de agosto de 2011. Sólo tenía 16 años, 11 meses y 15 días , así que se convirtió en el futbolista más joven en vestir la camiseta de las Trece Barras; honor que sigue ostentando ahora que, con sólo 32 años, ya hace más de dos temporadas que colgó las botas. Su retirada fue la crónica de una muerte anunciada desde que Sergio Ramos apareció como un camión para cargar con vehemencia y arrollar al delgadísimo extremo bético, que se comió las vallas del Santiago Bernabéu y no volvió a levantarse. No lo hizo en ese encuentro ante el Real Madrid -era el cuarto con el primer equipo del Real Betis- y prácticamente ya no lo pudo hacer más. El camero quiso marcar territorio y acabó eclipsando la carrera de una estrella que se apagó antes de empezar a brillar . Su rodilla quedó muy dañada después de esa entrada que le pilló siendo \"demasiado niño\" y terminó de cargársela con esas prisas por volver lo antes posible de todas las dolencias posteriores. \"Yo ahora lo miro con perspectiva y me veo a mí con 16-17 años, debutando en el Betis... ¡Con todo lo que el Betis conlleva! Es que el Betis tiene una masa social brutal. Que estar en el Betis es como estar, sin exagerarte, en los equipos más grandes por todo lo que genera en España\", comienza recordando Vadillo en una entrevista para Climbers Podcast en la que repasa su accidentada carrera. Con 16 años rechazó un ofertón de la Fiorentina para triunfar en el Betis... \" Cuando debuto con el Betis, yo tengo que tomar una decisión: irme a la Fiorentina o quedarme . Mis padres se venían conmigo a vivir a Italia, les ponían un trabajo a ellos, a mí me hacían un contrato que con 16 años era bastante bueno... Pero quería quedarme y una vez que decido que me quedo en el Betis, renuevo y me hacen un contrato de cinco años\", comienza rememorando Vadillo. Juega 51 minutos en la jornada 2 de la 2011/2012 ante el Granada CF, suma 22' la semana siguiente contra el RCD Mallorca y, tras desaparecer tres encuentros, vuelve a jugar 19' en la sexta cita frente al Getafe CF. Así llega el 15 de octubre y aparece en el once titular de Pepe Mel para el Real Madrid - Real Betis de la jornada 8. Estaba haciendo un inicio de partido fulgurante en un escaparate mundial, pero sólo duró 21 minutos antes de tener que ser retirado en camilla. ... y dos meses después Sergio Ramos le provoca una lesión de extrema gravedad \"Aquello fue en agosto, pues en octubre, vamos al Santiago Bernabéu. Ese fin de semana es el que ha marcado mi carrera, tanto para bien como para mal . Fui a intentar rescatar un balón junto a la banda y Sergio Ramos me echó un poquito de carga. Si eso me coge un poco más mayor... Con 22 años (ya había trabajado más la musculatura) eso no me pasa, pero ahí era un niño y...\", se lamenta Vadillo. \"Bajaron al vestuario Mourinho, Butragueño, Xabi Alonso, Sergio Ramos... todos se preocuparon por mí\". Su recuperación, para colmo, coincide con el descenso del Betis a Segunda división En el verano de 2014, aparentemente recuperado de su gravísima lesión, Álvaro Vadillo se postula como la máxima figura en el proyecto del Betis para regresar a Primera división. \" Empezamos en Segunda y en las oficinas del Betis me lo dicen muy claro: 'Queremos que tú seas la pieza fundamental '. Pues el 31 de julio, en un partido de pretemporada en Marbella, en un boquete que había en el césped metí la rodilla y ya no es que me rompiese el (ligamento) cruzado. Aquello fue la 'triada'\". Me operé el 12 de septiembre, el día de mi cumpleaños, y a finales de diciembre estaba entrenando ya . Fue fatal para mí porque, con sólo tres meses, es una locura volver de una triada. Esa decisión, estoy seguro, es la que luego me ha hecho retirarme tan joven. Al final, mi rodilla se ha visto afectada por no hacer una buena recuperación . El cartílago lo tenía destrozado; pero bueno, me considero un afortunado y estoy súper agradecido de la carrera que he tenido. Sobre todo por cómo la empecé. Porque después de empezar con dos roturas de cruzado con sólo 19 años... pocos la reflotan\".",
+          "desc": "Las graves lesiones de rodilla acabaron empujando a colgar las botas con sólo 30 años, pero el canterano verdiblanco se queda con la parte buena: aquella ilusionante irrupción que despertó elogios en todo el mundo y que se disipó después de que Ramos decidiese darle un 'toque' cuando estaba poniendo patas arriba el Santiago Bernabéu La comparación resulta osada, pero en su día la irrupción de Álvaro Vadillo en el Real Betis despertó un interés y una ilusión comparables a las que desató el imberbe debut de Lamine Yamal con el FC Barcelona y muy superiores a las sensaciones que hayan podido mover otros canteranos como Dani Ceballos, Fabián Ruiz, Jesús Rodríguez, Pablo García o José Antonio Morante. El de Puerto Real se estrenó con el primer equipo verdiblanco en una visita liguera al Granada CF de agosto de 2011. Sólo tenía 16 años, 11 meses y 15 días , así que se convirtió en el futbolista más joven en vestir la camiseta de las Trece Barras; honor que sigue ostentando ahora que, con sólo 32 años, ya hace más de dos temporadas que colgó las botas. Su retirada fue la crónica de una muerte anunciada desde que Sergio Ramos apareció como un camión para cargar con vehemencia y arrollar al delgadísimo extremo bético, que se comió las vallas del Santiago Bernabéu y no volvió a levantarse. No lo hizo en ese encuentro ante el Real Madrid -era el cuarto con el primer equipo del Real Betis- y prácticamente ya no lo pudo hacer más. El camero quiso marcar territorio y acabó eclipsando la carrera de una estrella que se apagó antes de empezar a brillar . Su rodilla quedó muy dañada después de esa entrada que le pilló siendo \"demasiado niño\" y terminó de cargársela con esas prisas por volver lo antes posible de todas las dolencias posteriores. \"Yo ahora lo miro con perspectiva y me veo a mí con 16-17 años, debutando en el Betis... ¡Con todo lo que el Betis conlleva! Es que el Betis tiene una masa social brutal. Que estar en el Betis es como estar, sin exagerarte, en los equipos más grandes por todo lo que genera en España\", comienza recordando Vadillo en una entrevista para Climbers Podcast en la que repasa su accidentada carrera. Con 16 años rechazó un ofertón de la Fiorentina para triunfar en el Betis... \" Cuando debuto con el Betis, yo tengo que tomar una decisión: irme a la Fiorentina o quedarme . Mis padres se venían conmigo a vivir a Italia, les ponían un trabajo a ellos, a mí me hacían un contrato que con 16 años era bastante bueno... Pero quería quedarme y una vez que decido que me quedo en el Betis, renuevo y me hacen un contrato de cinco años\", comienza rememorando Vadillo. Juega 51 minutos en la jornada 2 de la 2011/2012 ante el Granada CF, suma 22' la semana siguiente contra el RCD Mallorca y, tras desaparecer tres encuentros, vuelve a jugar 19' en la sexta cita frente al Getafe CF. Así llega el 15 de octubre y aparece en el once titular de Pepe Mel para el Real Madrid - Real Betis de la jornada 8. Estaba haciendo un inicio de partido fulgurante en un escaparate mundial, pero sólo duró 21 minutos antes de tener que ser retirado en camilla. ... y dos meses después Sergio Ramos le provoca una lesión de extrema gravedad \"Aquello fue en agosto, pues en octubre, vamos al Santiago Bernabéu. Ese fin de semana es el que ha marcado mi carrera, tanto para bien como para mal . Fui a intentar rescatar un balón junto a la banda y Sergio Ramos me echó un poquito de carga. Si eso me coge un poco más mayor... Con 22 años (ya había trabajado más la musculatura) eso no me pasa, pero ahí era un niño y...\", se lamenta Vadillo. \"Bajaron al vestuario Mourinho, Butragueño, Xabi Alonso, Sergio Ramos... todos se preocuparon por mí\". Su recuperación, para colmo, coincide con el descenso del Betis a Segunda división En el verano de 2014, aparentemente recuperado de su gravísima lesión, Álvaro Vadillo se postula como la máxima figura en el proyecto del Betis para regresar a Primera división. \" Empezamos en Segunda y en las oficinas del Betis me lo dicen muy claro: 'Queremos que tú seas la pieza fundamental '. Pues el 31 de julio, en un partido de pretemporada en Marbella, en un boquete que había en el césped metí la rodilla y ya no es que me rompiese el (ligamento) cruzado. Aquello fue la 'triada'\". Vadillo, tras coincidir con Óscar García en el Celta: \"Era horrorosamente malo, como persona peor porque ni te saludaba... Yo debería haberme callado pero fui tonto y niñatillo\" Vadillo recupera la 'felicidad' \"Me operé el 12 de septiembre, el día de mi cumpleaños, y a finales de diciembre estaba entrenando ya . Fue fatal para mí porque, con sólo tres meses, es una locura volver de una triada. Esa decisión, estoy seguro, es la que luego me ha hecho retirarme tan joven. Al final, mi rodilla se ha visto afectada por no hacer una buena recuperación . El cartílago lo tenía destrozado; pero bueno, me considero un afortunado y estoy súper agradecido de la carrera que he tenido. Sobre todo por cómo la empecé. Porque después de empezar con dos roturas de cruzado con sólo 19 años... pocos la reflotan\", ha concluido Álvaro Vadillo, que sólo pudo acumular 60 partidos oficiales con el Betis antes de peregrinar sin mucho éxito por SD Huesca (2016-2018), Granada CF (2018-2020), RC Celtra de Vigo (2020), RCD Espanyol (2020-2022), Málaga CF (21/22), SD Eibar (22/23) y Racing de Ferrol (23/24).",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T13:23:08+00:00"
         },
@@ -218,6 +232,13 @@
           "desc": "El jugador marcó un auténtico golazo en el duelo de la Sub 18 ante Brasil. Recortó al defensor dentro del área para dejarlo sentado y definir con una tranquilidad impropia de su edad El Athletic Club sigue sacando frutos de su cantera, Lezama , una de las mejores del mundo si se tiene en cuenta el alto porcentaje de jugadores que terminan en la élite. Esa cantera ha sido este verano el 'mercado' del que se ha nutrido el cuadro de Edin Terzic ya que los vascos no han llevado a cabo ninguna incorporación. Si nos atenemos a la filosofía del Athletic Club , más pronto que tarde se podría ver debutando en el primer equipo de San Mamés a uno de los talentos que más está llamando la atención en las categorías inferiores de Lezama : Christian Imga . El jugador, que ya ha participado en encuentros con el Bilbao Athletic , el primer filial de los vascos, está actualmente con la Selección española sub 18 disputando en Suiza el denominado Torneo de la Amistad que enfrenta a varias selecciones de todos los continentes. Christian Imga fue protagonista del segundo de los tres goles de España ante Brasil en un choque que terminó 3-1 para la Rojita . Christian Imga maravilla con la Selección española sub 18 con el Athletic Club pendiente Christian Imga aprovechó un pase en largo al que llegó en la esquina izquierda del área. En una posición poco favorable, el canterano del Athletic Club no se puso nervioso, recortó a su rival y en posición franca delante del portero, hizo el segundo para España . El Athletic 'roba' al nuevo Nico Williams El 'nuevo Nico Williams' da otro gran paso en el Athletic: estreno como titular y golazo con 17 años Christian Imga jugó de inicio a las órdenes de David García y en el primer choque de este torneo internacional, disputó media hora ante Costa de Marfil . A la Selección española sub 18 le vale con empatar ante Canadá para meterse en una final en la que posiblemente esté Inglaterra . Christian Imga, un fichaje con proyección de futuro para el Athletic Club Christian Imga fue fichado por el Athletic Club cuando apenas tenía 15 años. Christian Imga , que como es lógico aún está en periodo de formación con el Athletic Club (ha debutado y marcado esta temporada con el Bilbao Athletic ) cuenta con un físico importante gracias a su 1,90 de altura. El extremo llegó al Athletic Club procedente del filial del Deportivo Alavés y el pasado curso, en la UEFA Youth League , ya dejó su sello con nada menos que 10 tantos. . pic.twitter.com/1g5ubjbZB3 &mdash; 📹. (@Sel_esp_videos1) September 27, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Su llegada al primer equipo aún está relativamente lejos aunque si sigue rindiendo a este nivel, Edin Terzic , que siempre que puede acude a ver al filial vasco, no tardará en llamarlo para que entrene a sus órdenes y quien sabe si podría darle minutos. Christian Imga tiene mimbres para ser un jugador importante en el Athletic Club del futuro",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T13:16:04+00:00"
+        },
+        {
+          "title": "Una manifestación como grito de alerta para que el Guadalquivir no acabe como una \"cloaca\" de residuos tóxicos mineros",
+          "link": "https://www.eldiario.es/sevilla/manifestacion-grito-alerta-guadalquivir-no-acabe-cloaca-residuos-toxicos-mineros_1_13543723.html",
+          "desc": "Colectivos sociales, ecologistas y ayuntamientos piden una \"respuesta masiva y unánime\" de la sociedad civil en la protesta convocada para el 17 de octubre en Sevilla por los vertidos de las empresas mineras Un estudio detecta niveles de “récord mundial” de metales tóxicos en peces del Guadalquivir junto a un vertido minero Hartos de hacer públicos estudios científicos que alertan de los riesgos, de acudir a la Fiscalía y también de llamar a las puertas del Gobierno andaluz sin éxito alguno, los colectivos sociales, ecologistas y ayuntamientos ribereños que llevan un tiempo avisando del peligro que supone para el Guadalquivir la actividad minera han decidido dar un paso más. La fórmula elegida es una manifestación convocada en Sevilla a las puertas de San Telmo con el lema No a los vertidos mineros para el sábado 17 de octubre, con la que se quiere insistir en que hay una “amenaza inminente” y real de convertir el río en “una cloaca de residuos tóxicos al servicio del extractivismo minero”. Así se ha denunciado este lunes, cuando portavoces de las entidades que hacen el llamamiento se han plantado de nuevo en San Telmo, sede de la Presidencia del Gobierno andaluz, para insistir en que el riesgo sigue ahí por mucho que las autoridades miren hacia otro lado y el mensaje de alerta “no tenga la repercusión que debería tener”, en palabras de Carmen Pozo, delegada de Medio Ambiente en el Ayuntamiento de Sanlúcar de Barrameda. Este consistorio es uno de los que está detrás de la convocatoria, junto a los de Chipiona y Trebujena en Cádiz y Lebrija, Las Cabezas de San Juan, Los Palacios y Coria del Río en la provincia de Sevilla. Los impulsores de la protesta reclaman “una respuesta masiva y unánime de la sociedad civil” ante lo que se considera un problema no sólo ambiental, sino también de salud pública ya que la última investigación publicada alerta de niveles de “récord mundial” de metales tóxicos en peces del Guadalquivir . Estos datos apuntan a que se superan en un 100% los límites máximos de plomo fijados por la Unión Europea para el consumo humano. Riesgo ecotóxico y sanitario También se han identificado niveles de arsénico y cadmio superiores a los registrados tras la catástrofe del vertido de Aznalcóllar en 1998. A todo esto las empresas mineras, por su parte, vienen reiterando el mensaje de que cuentan con todos los parabienes ambientales oficiales y que nunca han sido ni advertidas ni sancionadas por el Gobierno andaluz, la administración competente. Esto “supone un riesgo ecotóxico y sanitario alarmante que las administraciones no pueden seguir ignorando”, se ha insistido. “El río se enfrenta a una crisis ambiental sin precedentes”, ya que a un estado que no es precisamente el mejor se une que la Junta “ha autorizado un vertido de aguas contaminadas con metales pesados de unos 130.000 millones de litros”, fruto de la acción conjunta de la nueva fase de Cobre Las Cruces y la inminente reapertura de la mina de Aznalcóllar, gestionada por Los Frailes . La convocatoria del 17 de octubre arrancará a las 12 horas de San Telmo, discurrirá paralela al río durante un tramo y acabará en las Setas de la Encarnación. “Es hora de que la sociedad hable alto y claro”, ha reivindicado Luis Berraquero, responsable de Greenpeace en Andalucía, que ha reiterado las dos peticiones básicas que se vienen haciendo desde hace ya unos años: que una comisión científica independiente analice el estado del río y el impacto de los nuevos vertidos previstos, además de que se aplique una moratoria a estos proyectos hasta que se conozcan sus conclusiones. “Esto es sumar más riesgos” A lo anterior, las Mareas Blancas sanitarias añaden que se declare una “alerta sanitaria” en base a los estudios que reflejan el mal estado del Guadalquivir. Su portavoz, Sebastián Martín Recio, ha reiterado la “preocupación” de su colectivo por el “impacto en la salud de los metales pesados”, una petición que por ahora no ha sido atendida. Representantes de algunas de las entidades convocantes, ante San Telmo. Entre los convocantes también están Salvemos el Guadalquivir y Ecologistas en Acción, además de la Cofradía de Pescadores de Sanlúcar de Barrameda, Facua y COAG Andalucía. Por esta organización agraria ha hablado Noelia Márquez, que ha apuntado que “agricultores y pescadores están preocupados” por estos vertidos, “como si ya no fuesen pocos los problemas del Guadalquivir”. “Esto es sumar más riesgos”, ha apostillado, ya que –a la vertiente ambiental y en la salud pública– se añade el posible impacto económico en unas actividades tradicionales que “mantienen la población rural aguas abajo y generan empleo”. De la buena salud del Guadalquivir depende también la de Doñana, se ha recordado, y ya en la actualidad el río “presenta signos de contaminación por metales pesados” que estos colectivos achacan a la actividad minera desde 2009. Así se denunció en una carta entregada al Gobierno andaluz hace año y medio , y desde entonces la principal novedad –nuevos estudios científicos al margen– es que se anunció la reapertura de la mina de Aznalcóllar para dentro de un par de años.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-28T13:02:41+00:00"
         },
         {
           "title": "Este es el futbolista, uno de los abanderados del feminismo en España, que pudo haber tenido un importante papel en 'La Bola Negra' de Los Javis",
@@ -239,6 +260,20 @@
           "desc": "El tubo Este-Oeste, atacado con drones de milicias proiraníes y clave para aliviar la crisis mundial de suministro, llevaba más de dos semanas cerrado",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-28T12:39:39+00:00"
+        },
+        {
+          "title": "Detenida una menor de 14 años por amenazar con apuñalar a alumnos de un colegio de Barcelona",
+          "link": "https://www.20minutos.es/cataluna/detenida-una-menor-14-anos-por-amenazar-con-apunalar-alumnos-un-colegio-barcelona_7042239_0.html",
+          "desc": "Los Mossos han reforzado la vigilancia en el entorno del centro y han puesto a la adolescente a disposición de la Fiscalía de Menores.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-28T14:37:08+02:00"
+        },
+        {
+          "title": "La reflexión de Valverde tras el Mundial: \"Podíamos haberlo hecho un pelín mejor\"",
+          "link": "https://www.marca.com/ciclismo/mundial/2026/09/28/reflexion-valverde-mundial-podiamos-haberlo-hecho-pelin-mejor-video.html",
+          "desc": "",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-28T14:35:59+02:00"
         },
         {
           "title": "Monchi, director deportivo del Espanyol: \"El proyecto debe ser buscar más la tranquilidad y desde ahí intentar mirar para arriba\"",
@@ -316,41 +351,6 @@
           "desc": "La joven publicó sus intenciones en redes sociales y los Mossos han reforzado la vigilancia del centro",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-28T11:13:54+00:00"
-        },
-        {
-          "title": "Sánchez pide \"privilegiar\" el uso residencial de la vivienda frente al turístico",
-          "link": "https://www.20minutos.es/cataluna/barcelona/sanchez-pide-privilegiar-uso-residencial-vivienda-frente-turistico_7042105_0.html",
-          "desc": "Lo ha dicho durante la presentación del informe 'Vidas Futuras' en el DHub en Barcelona y ha instado a las CCAA a aplicar la Ley de Vivienda.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T13:13:33+02:00"
-        },
-        {
-          "title": "Livakovic vuelve al Pizjuán, pero ahora le amenaza... Lamine Yamal",
-          "link": "https://www.marca.com/futbol/barcelona/2026/09/28/livakovic-vuelve-pizjuan-le-amenaza-lamine-yamal.html",
-          "desc": "El meta internacional croata, que debutó con el Barça en Sevilla, se mide mañana a España",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-28T13:06:36+02:00"
-        },
-        {
-          "title": "La Prórroga de Estadio Deportivo 4x07: España sigue intratable, la Nations League y el Balón de Oro",
-          "link": "https://www.estadiodeportivo.com/radio/la-prorroga/prorroga-estadio-deportivo-4x07-espana-sigue-intratable-nations-league-balon-oro-20260928-547432.html",
-          "desc": "Programa número siete de la cuarta temporada de 'La Prórroga de Estadio Deportivo', la apuesta audiovisual de ESTADIO Deportivo. En esta ocasión, con la participación de Aitor Torvisco y Fernando Ruiz. Programa número siete de la cuarta temporada de 'La Prórroga de Estadio Deportivo', presentado por José Luis Penella y, en esta ocasión, con la participación de Aitor Torvisco y Fernando Ruiz como tertulianos. Los resultados de los primeros partidos de la Nations League, destacando la victoria de España y los debuts de Xavi y Kloop en los banquillos internacionales, protagonistas del programa. Comenzamos hablando de la remontada de España en Wembley. Un resultado que confirma a la selección de Luis de la Fuente como una de la mejores de la historia tras ganar Eurocopa y Mundial, siguen muy enchufados y parecen intratables. Por otro lado, charlamos sobre la actualidad de Real Betis Balompié y Sevilla FC durante este parón de selecciones tan in habitual. Además, hablamos acerca del resto de la jornada de la UEFA Nations League y la recta final por el Balón de Oro con Lamine Yamal y Mbappé como protagonistas. Este programa es el número 153, al margen de la edición especial que realizamos de 'La Prórroga de Estadio Deportivo' durante el mundial de 2026 en Estados Unidos, México y Canadá, la cual acabó ganando la selección española, y el especial que hicimos por la Eurocopa de 2024. Recuerda también que puedes ver el programa en directo en el canal de YouTube de ESTADIO Deportivo, los lunes a las 13:00 horas. También emitimos en directo en nuestro canal de Twitch y en nuestro perfil de X (antiguo Twitter). Además, puedes escucharlo desde cualquier lugar y en diversas plataformas de podcast, concretamente en Spotify e iVoox, así como vernos cuando gustes en la web de ESTADIO Deportivo.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-28T11:02:50+00:00"
-        },
-        {
-          "title": "De fracasar en el Real Madrid a firmar por los Miami Heat",
-          "link": "https://www.estadiodeportivo.com/baloncesto/nba/fracasar-real-madrid-firmar-por-los-miami-heat-20260928-547433.html",
-          "desc": "Tras dos años sin lograr hacerse hueco en la NBA, Dennis Smith Jr. va a intentarlo de nuevo en la pretemporada de los Heat Con la pretemporada de la NBA ya en marcha y los Cleveland Cavaliers entrenando en Málaga, aún se están dando ajustes y cambios en las plantillas con una agencia libre que aún tiene nombres destacados como Cam Whitmore, Cam Thomas, Gabe Vincent o el interior Jalen Duren. Los Miami Heat están siendo de los que más se están moviendo y varios de esos nombres destacados habían estado en su agenda. Sin embargo, han sorprendido con la incorporación a su pretemporada de otro jugador al que le está costando volver a la NBA en los dos últimos años. Se trata de Dennis Smith Jr., el que fuera número 9º del Draft 2017, que hace dos años tuvo un brevísimo paso por el Real Madrid , donde no cuajó, y que el pasado año intentó volver a la NBA con los Dallas Mavericks, sin lograrlo. Tras ser cortado después de la pretemporada, el exterior de Carolina del Norte jugó la primera parte de la pasada campaña con los Wisconsin Heard, el equipo de la G-League asociado a los Milwaukee Bucks; pero acabó la temporada en los Sioux Falls Skyforce, asociado a los Heat y donde supone que regresará a la conclusión de la pretemporada y estará a salto entre la NBA y la G-League. A lo largo de s carrera en la NBA, Smith Jr. acumula 326 partidos tras pasar por Dallas Mavericks, New York Knicks, Detroit Pistons, Portland Trail Blazers, Charlotte Hornets y Brooklyn Nets. De llegar a debutar con los Heat serían siete las franquicias con la que hubiese jugado. Jalen Duren, en el centro de las miradas En cuanto a los últimos movimientos de mercado en la Liga norteamericana, muchas de las miradas están puestas en Jalen Duren , uno de los nombres más codiciados después de que no renovase con los Detroit Pistons. Pau Gasol, 46 años: \"Era mi otra pasión y deseo, convertirme en médico para poder ayudar a las personas\" Todo hace indica que el pívot acabará firmando con la franquicia del estado de Míchigan, pero parece lejos de cerrar su continuidad con el contrato que le han presentado, por lo que hace dudar de su presencia en el 'training camp' de los Pistons. Mientras, han surgido posibilidades para cambiar de aires, pero tendrán que tener en cuenta a los Michigan a la hora de negociar. El despido de Ryan Nembhard, por parte de los Charlotte Hornets nada más ficharlo -se han reforzado en pretemporada con Jarkel Joiner- o el cambio de aires de Buddy Hield, que ha firmado con los Chicago Bulls apenas dos días después de haber fichado por la franquicia de Carolina del Norte son otros de los nombres destacados . Nembhard y Hield habían llegado a los Hornets procedentes de Atlanta y así los Hawks habían podido incorporar a Dorian Finney-Smith.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-28T10:54:37+00:00"
-        },
-        {
-          "title": "Braulio intenta pescar en River Plate: su mano derecha en la dirección deportiva del Valencia",
-          "link": "https://www.estadiodeportivo.com/futbol/valencia/braulio-intenta-pescar-river-plate-mano-derecha-direccion-deportiva-del-valencia-20260928-547430.html",
-          "desc": "Uno de los primeros nombres en ser relacionado al nuevo equipo de trabajo del director deportivo es el de Domingo Catoira, quien ya trabajó con el gallego y estuvo dos veces en el club che, pero tiene contrato con Pablo Longoria Braulio Vázquez está dispuesto a cambiar al Valencia Club de Fútbol . El nuevo director deportivo del club che ha llegado a la ciudad del Turia con todo el optimismo del mundo en su capacidad de decisión y con la promesa hacer su propio equipo de trabajo , motivo por el club Kiat Lim , presidente del Valencia, prescindió también de Ron Gourlay y sus colaboradores. En su presentación, Braulio dejó claro que llega con manda en plaza, pues por ejemplo la contratación de Javier Aguirre es suya, pero que también debe centrarse ahora en conformar su nuevo equipo de trabajo para ir ya adelantando perfiles de cara al mercado de enero . Y uno de los primeros en ser vinculado a la nueva dirección deportiva del Valencia es Domingo Catoira , quien precisamente ya trabajo con Braulio en Mestalla entre 2010 y 2014, para que sea su secretario técnico y mano derecha en Paterna, tal y como informó Superdeporte . Sin embargo, el hispano-francés se encuentra en estos momentos en River Plate , donde llegó de la mano de Pablo Longoria hace tan solo unos meses, por lo que su salida se antoja complicada, aunque no imposible. Braulio ha dejado claro su sentido de pertenencia al Valencia y quiere rodearse de personas que también conozcan al club, de ahí que vayan a intentarlo con el ahora responsable del área de scouting y captación de talento del club argentino. La primera etapa de Catoira en Valencia La trayectoria de Domingo Catoira y Braulio Vázquez ha estado estrechamente vinculada al Valencia y a otros proyectos del fútbol español. Ambos coincidieron por primera vez en la entidad valencianista en 2010, cuando Braulio , entonces responsable de la dirección deportiva, incorporó a Catoira a su equipo de trabajo. Durante aquella primera etapa, Catoira formó parte de la estructura de la secretaría técnica del club, participando en las labores de seguimiento y análisis de futbolistas. La colaboración se prolongó hasta 2014, cuando ambos abandonaron el Valencia para incorporarse al Real Valladolid , donde volvieron a trabajar juntos dentro del área deportiva. La salida de Braulio del Valencia se produjo en noviembre de 2013, tras su destitución como director deportivo. Catoira , sin embargo, permaneció en la entidad hasta junio de 2014, momento en el que inició una nueva etapa profesional junto a él en Valladolid. Braulio ya mira al mercado de enero, confía en Lim y en Aguirre: \"Después del Alavés hablamos una hora y pico\" Rafa Márquez, seleccionador de México: \"Aprendí muchísimo de Javier Aguirre y sé que van a tener mucho éxito en el Valencia\" Regreso tres años después La relación de Domingo Catoira con el Valencia no terminó con su primera salida. En marzo de 2017 regresó a la entidad para incorporarse al área de ojeadores, donde continuó desarrollando labores de seguimiento de jugadores y elaboración de informes para la planificación deportiva. Esta segunda etapa se prolongó hasta enero de 2020, cuando abandonó el club en el marco de una reorganización de la estructura deportiva. Tras su salida de Mestalla, Catoira continuó su carrera en el Espanyol , donde llegó a asumir la dirección deportiva en 2022, y posteriormente regresó al Real Valladolid en 2023 para ocupar el mismo cargo. Braulio y una posible tercera aventura El regreso de Braulio Vázquez al Valencia en este mes de septiembre de 2026, tras su etapa al frente de la dirección deportiva de Osasuna, vuelve a poner en primer plano su trayectoria en el club y su relación profesional con Catoira . La historia compartida entre ambos comenzó en Mestalla , continuó en Valladolid y quedó marcada por diferentes etapas en la dirección deportiva. Ahora, el retorno de Braulio al Valencia añade un nuevo capítulo a una trayectoria que ha estado ligada durante años al fútbol español. Catoira y Braulio comparten una historia profesional que tiene en el Valencia uno de sus principales puntos de encuentro, aunque sus caminos hayan seguido recorridos diferentes en los últimos años. ¿Será la oportunidad para una tercera aventura?",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-28T10:49:41+00:00"
         }
       ]
     },
@@ -363,49 +363,49 @@
           "link": "https://www.formula1.com/en/latest/article/theres-much-less-pressure-on-me-than-there-is-him-russell-on-title-fight.6GVALSvKMH4XSTz3wndlLm",
           "desc": "George Russell won his third Grand Prix of the season with victory in Baku, the Mercedes man standing on the top step of the rostrum for the first time since Austria. In doing so, he cut team mate Kimi Antonelli's lead in the Drivers’ Championship to 66 points.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "Norris apologises to Colapinto for Baku post-race comments",
           "link": "https://www.formula1.com/en/latest/article/it-was-wrong-of-me-norris-apologises-to-colapinto-for-azerbaijan-post-race-comments.2Iy4VhKfVvs8YOejZh4Ofe",
           "desc": "Lando Norris has apologised to Franco Colapinto for comments he made immediately after the Azerbaijan Grand Prix, admitting “it was wrong of me” to do so.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "Vasseur offers Ferrari upgrade promise to frustrated Leclerc",
           "link": "https://www.formula1.com/en/latest/article/vasseur-promises-frustrated-leclerc-that-ferrari-will-bring-upgrades-soon.3zh1dESFZnVmBLkiBxgoOl",
           "desc": "Ferrari Team Principal Fred Vasseur has promised that the Maranello-based squad will bring developments to the SF-26 “soon” after Charles Leclerc cited a lack of recent development as a reason behind their poor form in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "Red Bull's Baku brilliance gives Verstappen fresh hope",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "How Baku highlighted McLaren’s straight line weakness",
           "link": "https://www.formula1.com/en/latest/article/a-very-frustrating-saturday-stella-explains-how-baku-highlighted-mclarens-straight-line-weakness.4iY4EWmrhkVVgus2tothvn",
           "desc": "McLaren Team Principal Andrea Stella has explained why McLaren's performance was limited in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "Mekies praises Hadjar's 'outstanding' Baku podium on return",
           "link": "https://www.formula1.com/en/latest/article/it-was-outstanding-mekies-praises-hadjars-azerbaijan-gp-podium-on-return.5suUJmpAuHzbzrUe5SzELk",
           "desc": "Laurent Mekies has praised Isack Hadjar’s performance in the Azerbaijan Grand Prix as “outstanding”, after the Red Bull driver returned from a wrist injury to claim a podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "Leclerc urges Ferrari to ‘bring upgrades to close the gap’",
           "link": "https://www.formula1.com/en/latest/article/we-were-quite-far-off-leclerc-urges-ferrari-to-bring-upgrades-to-close-the-gap-after-baku.6zFmpztQcYlGBeNtCK6CF9",
           "desc": "Charles Leclerc was left concerned by Ferrari’s deficit to their rivals in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T13:30:04.679954+00:00"
+          "fecha": "2026-09-28T14:00:07.083910+00:00"
         },
         {
           "title": "Leclerc: \"No podemos engañarnos a nosotros mismos\"",
@@ -417,7 +417,7 @@
         {
           "title": "Álvaro Vadillo, la estrella que no dejaron brillar en el Betis: \"Si Sergio Ramos me llega a coger más mayor... pero es que yo ahí era un niño\"",
           "link": "https://www.estadiodeportivo.com/futbol/betis/alvaro-vadillo-estrella-que-dejaron-brillar-betis-sergio-ramos-llega-coger-mas-mayor-pero-que-ahi-era-nino-20260928-547435.html",
-          "desc": "Las graves lesiones de rodilla acabaron empujando a colgar las botas con sólo 30 años, pero el canterano verdiblanco se queda con la parte buena: aquella ilusionante irrupción que despertó elogios en todo el mundo y que se disipó después de que Ramos decidiese darle un 'toque' cuando estaba poniendo patas arriba el Santiago Bernabéu La comparación resulta osada, pero en su día la irrupción de Álvaro Vadillo en el Real Betis despertó un interés y una ilusión comparables a las que desató el imberbe debut de Lamine Yamal con el FC Barcelona y muy superiores a las sensaciones que hayan podido mover otros canteranos como Dani Ceballos, Fabián Ruiz, Jesús Rodríguez, Pablo García o José Antonio Morante. El de Puerto Real se estrenó con el primer equipo verdiblanco en una visita liguera al Granada CF de agosto de 2011. Sólo tenía 16 años, 11 meses y 15 días , así que se convirtió en el futbolista más joven en vestir la camiseta de las Trece Barras; honor que sigue ostentando ahora que, con sólo 32 años, ya hace más de dos temporadas que colgó las botas. Su retirada fue la crónica de una muerte anunciada desde que Sergio Ramos apareció como un camión para cargar con vehemencia y arrollar al delgadísimo extremo bético, que se comió las vallas del Santiago Bernabéu y no volvió a levantarse. No lo hizo en ese encuentro ante el Real Madrid -era el cuarto con el primer equipo del Real Betis- y prácticamente ya no lo pudo hacer más. El camero quiso marcar territorio y acabó eclipsando la carrera de una estrella que se apagó antes de empezar a brillar . Su rodilla quedó muy dañada después de esa entrada que le pilló siendo \"demasiado niño\" y terminó de cargársela con esas prisas por volver lo antes posible de todas las dolencias posteriores. \"Yo ahora lo miro con perspectiva y me veo a mí con 16-17 años, debutando en el Betis... ¡Con todo lo que el Betis conlleva! Es que el Betis tiene una masa social brutal. Que estar en el Betis es como estar, sin exagerarte, en los equipos más grandes por todo lo que genera en España\", comienza recordando Vadillo en una entrevista para Climbers Podcast en la que repasa su accidentada carrera. Con 16 años rechazó un ofertón de la Fiorentina para triunfar en el Betis... \" Cuando debuto con el Betis, yo tengo que tomar una decisión: irme a la Fiorentina o quedarme . Mis padres se venían conmigo a vivir a Italia, les ponían un trabajo a ellos, a mí me hacían un contrato que con 16 años era bastante bueno... Pero quería quedarme y una vez que decido que me quedo en el Betis, renuevo y me hacen un contrato de cinco años\", comienza rememorando Vadillo. Juega 51 minutos en la jornada 2 de la 2011/2012 ante el Granada CF, suma 22' la semana siguiente contra el RCD Mallorca y, tras desaparecer tres encuentros, vuelve a jugar 19' en la sexta cita frente al Getafe CF. Así llega el 15 de octubre y aparece en el once titular de Pepe Mel para el Real Madrid - Real Betis de la jornada 8. Estaba haciendo un inicio de partido fulgurante en un escaparate mundial, pero sólo duró 21 minutos antes de tener que ser retirado en camilla. ... y dos meses después Sergio Ramos le provoca una lesión de extrema gravedad \"Aquello fue en agosto, pues en octubre, vamos al Santiago Bernabéu. Ese fin de semana es el que ha marcado mi carrera, tanto para bien como para mal . Fui a intentar rescatar un balón junto a la banda y Sergio Ramos me echó un poquito de carga. Si eso me coge un poco más mayor... Con 22 años (ya había trabajado más la musculatura) eso no me pasa, pero ahí era un niño y...\", se lamenta Vadillo. \"Bajaron al vestuario Mourinho, Butragueño, Xabi Alonso, Sergio Ramos... todos se preocuparon por mí\". Su recuperación, para colmo, coincide con el descenso del Betis a Segunda división En el verano de 2014, aparentemente recuperado de su gravísima lesión, Álvaro Vadillo se postula como la máxima figura en el proyecto del Betis para regresar a Primera división. \" Empezamos en Segunda y en las oficinas del Betis me lo dicen muy claro: 'Queremos que tú seas la pieza fundamental '. Pues el 31 de julio, en un partido de pretemporada en Marbella, en un boquete que había en el césped metí la rodilla y ya no es que me rompiese el (ligamento) cruzado. Aquello fue la 'triada'\". Me operé el 12 de septiembre, el día de mi cumpleaños, y a finales de diciembre estaba entrenando ya . Fue fatal para mí porque, con sólo tres meses, es una locura volver de una triada. Esa decisión, estoy seguro, es la que luego me ha hecho retirarme tan joven. Al final, mi rodilla se ha visto afectada por no hacer una buena recuperación . El cartílago lo tenía destrozado; pero bueno, me considero un afortunado y estoy súper agradecido de la carrera que he tenido. Sobre todo por cómo la empecé. Porque después de empezar con dos roturas de cruzado con sólo 19 años... pocos la reflotan\".",
+          "desc": "Las graves lesiones de rodilla acabaron empujando a colgar las botas con sólo 30 años, pero el canterano verdiblanco se queda con la parte buena: aquella ilusionante irrupción que despertó elogios en todo el mundo y que se disipó después de que Ramos decidiese darle un 'toque' cuando estaba poniendo patas arriba el Santiago Bernabéu La comparación resulta osada, pero en su día la irrupción de Álvaro Vadillo en el Real Betis despertó un interés y una ilusión comparables a las que desató el imberbe debut de Lamine Yamal con el FC Barcelona y muy superiores a las sensaciones que hayan podido mover otros canteranos como Dani Ceballos, Fabián Ruiz, Jesús Rodríguez, Pablo García o José Antonio Morante. El de Puerto Real se estrenó con el primer equipo verdiblanco en una visita liguera al Granada CF de agosto de 2011. Sólo tenía 16 años, 11 meses y 15 días , así que se convirtió en el futbolista más joven en vestir la camiseta de las Trece Barras; honor que sigue ostentando ahora que, con sólo 32 años, ya hace más de dos temporadas que colgó las botas. Su retirada fue la crónica de una muerte anunciada desde que Sergio Ramos apareció como un camión para cargar con vehemencia y arrollar al delgadísimo extremo bético, que se comió las vallas del Santiago Bernabéu y no volvió a levantarse. No lo hizo en ese encuentro ante el Real Madrid -era el cuarto con el primer equipo del Real Betis- y prácticamente ya no lo pudo hacer más. El camero quiso marcar territorio y acabó eclipsando la carrera de una estrella que se apagó antes de empezar a brillar . Su rodilla quedó muy dañada después de esa entrada que le pilló siendo \"demasiado niño\" y terminó de cargársela con esas prisas por volver lo antes posible de todas las dolencias posteriores. \"Yo ahora lo miro con perspectiva y me veo a mí con 16-17 años, debutando en el Betis... ¡Con todo lo que el Betis conlleva! Es que el Betis tiene una masa social brutal. Que estar en el Betis es como estar, sin exagerarte, en los equipos más grandes por todo lo que genera en España\", comienza recordando Vadillo en una entrevista para Climbers Podcast en la que repasa su accidentada carrera. Con 16 años rechazó un ofertón de la Fiorentina para triunfar en el Betis... \" Cuando debuto con el Betis, yo tengo que tomar una decisión: irme a la Fiorentina o quedarme . Mis padres se venían conmigo a vivir a Italia, les ponían un trabajo a ellos, a mí me hacían un contrato que con 16 años era bastante bueno... Pero quería quedarme y una vez que decido que me quedo en el Betis, renuevo y me hacen un contrato de cinco años\", comienza rememorando Vadillo. Juega 51 minutos en la jornada 2 de la 2011/2012 ante el Granada CF, suma 22' la semana siguiente contra el RCD Mallorca y, tras desaparecer tres encuentros, vuelve a jugar 19' en la sexta cita frente al Getafe CF. Así llega el 15 de octubre y aparece en el once titular de Pepe Mel para el Real Madrid - Real Betis de la jornada 8. Estaba haciendo un inicio de partido fulgurante en un escaparate mundial, pero sólo duró 21 minutos antes de tener que ser retirado en camilla. ... y dos meses después Sergio Ramos le provoca una lesión de extrema gravedad \"Aquello fue en agosto, pues en octubre, vamos al Santiago Bernabéu. Ese fin de semana es el que ha marcado mi carrera, tanto para bien como para mal . Fui a intentar rescatar un balón junto a la banda y Sergio Ramos me echó un poquito de carga. Si eso me coge un poco más mayor... Con 22 años (ya había trabajado más la musculatura) eso no me pasa, pero ahí era un niño y...\", se lamenta Vadillo. \"Bajaron al vestuario Mourinho, Butragueño, Xabi Alonso, Sergio Ramos... todos se preocuparon por mí\". Su recuperación, para colmo, coincide con el descenso del Betis a Segunda división En el verano de 2014, aparentemente recuperado de su gravísima lesión, Álvaro Vadillo se postula como la máxima figura en el proyecto del Betis para regresar a Primera división. \" Empezamos en Segunda y en las oficinas del Betis me lo dicen muy claro: 'Queremos que tú seas la pieza fundamental '. Pues el 31 de julio, en un partido de pretemporada en Marbella, en un boquete que había en el césped metí la rodilla y ya no es que me rompiese el (ligamento) cruzado. Aquello fue la 'triada'\". Vadillo, tras coincidir con Óscar García en el Celta: \"Era horrorosamente malo, como persona peor porque ni te saludaba... Yo debería haberme callado pero fui tonto y niñatillo\" Vadillo recupera la 'felicidad' \"Me operé el 12 de septiembre, el día de mi cumpleaños, y a finales de diciembre estaba entrenando ya . Fue fatal para mí porque, con sólo tres meses, es una locura volver de una triada. Esa decisión, estoy seguro, es la que luego me ha hecho retirarme tan joven. Al final, mi rodilla se ha visto afectada por no hacer una buena recuperación . El cartílago lo tenía destrozado; pero bueno, me considero un afortunado y estoy súper agradecido de la carrera que he tenido. Sobre todo por cómo la empecé. Porque después de empezar con dos roturas de cruzado con sólo 19 años... pocos la reflotan\", ha concluido Álvaro Vadillo, que sólo pudo acumular 60 partidos oficiales con el Betis antes de peregrinar sin mucho éxito por SD Huesca (2016-2018), Granada CF (2018-2020), RC Celtra de Vigo (2020), RCD Espanyol (2020-2022), Málaga CF (21/22), SD Eibar (22/23) y Racing de Ferrol (23/24).",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T13:23:08+00:00"
         },
@@ -533,11 +533,67 @@
       "icono": "💻",
       "items": [
         {
-          "title": "Nvidia lanza plataforma para evitar que agentes de IA escapen del control humano - EFE",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQm1tVGU4OWYzOVF6YTlHalpBNDI3bEh4VE9HcFdKRks0ZTZyckdveGVmS3pxT0Ruc19rWFZGWUZlbFJrZmdNUC1IamNVcVJ2T2NZSE5WM29LSWN5TjdkeWh4bTV6cEgtMk5iQUg5MDJtdGVqWGtDSTlIbXhvV1VKbkJMOHVDNUh3ODlONmN3NklIdzYyN3pvQ2NRWHhCcXc?oc=5",
-          "desc": "Nvidia lanza plataforma para evitar que agentes de IA escapen del control humano EFE - Agencia de noticias",
+          "title": "NVIDIA crea su propia «cárcel» para evitar que los agentes de IA se escapen",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBcExJblE5RFJyMEV3STdSbFczOEZiQUJMQkhDazdvOXJuMWV0Y2U4MW5PX194MW1jS0Vydm93VUdZdnJKazBxdDMyWTlLaXhRYTd3T01vLXcwTWJjbU53TUpJSk1LVVFmZ2dkRDc5VkRMU0dNVkpvcEZR?oc=5",
+          "desc": "NVIDIA crea su propia «cárcel» para evitar que los agentes de IA se escapen El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T13:28:51+00:00"
+          "fecha": "2026-09-28T13:54:30+00:00"
+        },
+        {
+          "title": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWJ3dnlFSFAwWnBpY1FoaUJoZ0lKbE9LcXBIdU9fTFY5MlRsTHZwYVlkUHpvVTVnTjh3bEtaWjlnbE9KTDA4T2dhVE5ZTmlQUTM5SmJLQlZjTTM4b3hkVno2NXc5a1J5Nmg0NGFHMkgxSnZ0T1lMenR2Yl92VnNhaEJWWVhIaHhBTXAxaklnRmJRdnBOb3c?oc=5",
+          "desc": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:51:59+00:00"
+        },
+        {
+          "title": "GeForce RTX 6090: especificaciones, rendimiento, lanzamiento, precio y todo lo que sabemos",
+          "link": "https://www.muycomputer.com/2026/09/28/geforce-rtx-6090-especificaciones-rendimiento-lanzamiento-precio-y-todo-lo-que-sabemos/",
+          "desc": "La GeForce RTX 6090 será la próxima tarjeta gráfica tope de gama de NVIDIA para el mercado de consumo general. Todavía no ha sido anunciada oficialmente, pero tenemos muchas filtraciones y bastante información de fuentes fiables que nos han permitido hacernos una idea de qué es lo que podemos esperar de esa nueva gráfica del […] La entrada GeForce RTX 6090: especificaciones, rendimiento, lanzamiento, precio y todo lo que sabemos se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-28T13:47:27+00:00"
+        },
+        {
+          "title": "Nvidia añade un récord de 150 mil millones de dólares al programa de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHlCeEJjMVc5WHZGZTRtekVfblNZb25ib3NPTG5UU21EcGpvUGR0dFFheU1JeFhLNVpMVHkxSTNxNk5WTXl5dXJDNHpzODYxZy1QQ1lmY2Rmcml6RkJHUFFySWZ3aWdDaGFzU2piZFEwbmt6T05rTTZmSnhnZGxQbkZMWnBuS3I2UlFxUkNUMTY?oc=5",
+          "desc": "Nvidia añade un récord de 150 mil millones de dólares al programa de recompra de acciones es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:42:19+00:00"
+        },
+        {
+          "title": "Nvidia lanza una plataforma para evitar que agentes de IA escapen del control humano",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQemMxQnJiandTYk5fZlp4Ykd4dllvN1BvVXVMMFlpY3RLQmkxUjJMUmlmdE80WjVsNmZqTjVqSDdXbVhmazQxYmU0UVhhbEY2b3hId1FKNXIxcU8wNmprTkVpZFNzSUthTVJGdkQwMnphOVNLaWhUbU4yT2lQZHU3cFNVSDVfYl9qMlhrcXVyczRvNG9xQVBIQzI1ZlkzXzRvUWdrOVkwVWdmdWlsM0F0TTVfQUlzZVNwMmJmVFJjN1FDN0FLdkFmNzNPMzdBV0lDcFlrMnRKVEhiem1QMk5Oa2ktMy0?oc=5",
+          "desc": "Nvidia lanza una plataforma para evitar que agentes de IA escapen del control humano La Voz de Galicia",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:36:28+00:00"
+        },
+        {
+          "title": "China podría permitir a ByteDance y Alibaba comprar chips Nvidia RTX PRO 5500",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9keUVJbk5fODVNRXlacGxGX2prejktQ0p4bXh6WFE4SndZOW9QQ3Q3d1NmTWtjdS16cFJ1VzNDX240Y2tIU0lDM2RYOWNXbmV5UmF4ZGlLWTZmWUdYbHUxbEN3a0JuVWpxbU9yQnkxcC1VNTltZGVuTTl2aVpaNEE?oc=5",
+          "desc": "China podría permitir a ByteDance y Alibaba comprar chips Nvidia RTX PRO 5500 es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:32:36+00:00"
+        },
+        {
+          "title": "Nvidia añade un récord de 150 mil millones de dólares a su programa de recompra de acciones.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWlrUEIxT0hKYXU1RTB6ZFRmMVZteWJRYnF6QVQ4cEtHYXRaY2NiWHg4ZW9hZUtsTGdjVXd4WGVxV01ITmVwaW9RUGs2alNmN1hLSklzd0NEWFdfRGUtN2s3V3E0by1RR08zVWt0a2p4UEZPUUVHVjlwZVpCczdEVjF0VDJaNm5sRnc?oc=5",
+          "desc": "Nvidia añade un récord de 150 mil millones de dólares a su programa de recompra de acciones. es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:32:34+00:00"
+        },
+        {
+          "title": "Stranger Than Heaven nos presenta el negocio de los espectáculos, uno de los minijuegos de la aventura de Sega",
+          "link": "https://vandal.elespanol.com/noticia/2026271018/stranger-than-heaven-nos-presenta-el-negocio-de-los-espectaculos-uno-de-los-minijuegos-de-la-aventura-de-sega/",
+          "desc": "Stranger Than Heaven es una aventura de acción que, entre otras actividades, permitirá gestionar un negocio de espectáculos musicales, y su nuevo vídeo nos muestra cómo funciona. Sega y RGG Studio (saga Yakuza/Like a Dragon ) han mostrado un nuevo vídeo dedicado a Stranger Than Heaven , la nueva aventura de acción que llegará el 15 de enero a PC, PlayStation 5 y Xbox Series, con debut también en Xbox Game Pass. Este nuevo vistazo al juego se centra en el negocio del espectáculo , uno de los temas principales para el protagonista Makoto Daito entre 1915 y 1965, periodo en el que visitará cinco ciudades \"en busca de un lugar al que llamar hogar\". No todo consistirá en repartir puñetazos y patadas Este negocio nos permitirá encontrar inspiración musical por la ciudad, crear nuevas canciones, diseñar espectáculos con la lista de temas, seleccionar al artista que los interpreta, asignar papeles a los músicos y finalmente, promocionar el espectáculo . Al margen de los combates, la música será uno de los pilares de la jugabilidad , permitiéndonos \"capturar\" sonidos que luego se podrán utilizar para composiciones originales. Es un gran minijuego, como podían ser otras actividades de gestión en la saga Yakuza , aunque habrá otras muchas maneras de pasar el tiempo en Stranger Than Heaven según el período histórico y lugar del momento. Estas localizaciones son Kokura (Fukuoka) en 1915, Kure (Hiroshima) en 1929, Minami (Osaka) en 1943, Atami (Shizuoka) en 1951 y Shinjuku (Tokio) en 1965. \"A medida que recorras el país para preparar funciones y cautivar al público, vivirás el ascenso al éxito de Makoto como representante y el dinero que conlleva \", destaca la desarrolladora, que también tiene anunciado sin fecha concreta Virtua Fighter Crossroads .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-28T13:32:00+00:00"
+        },
+        {
+          "title": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
+          "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
+          "desc": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T13:30:00+00:00"
         },
         {
           "title": "Nvidia añade 150.000 millones de dólares a su autorización de recompra de acciones, superando a Apple con un incremento récord",
@@ -554,6 +610,13 @@
           "fecha": "2026-09-28T13:09:52+00:00"
         },
         {
+          "title": "Preguntan a Zuckerberg por el futuro inmediato de la tecnología y su respuesta aterra",
+          "link": "https://www.marca.com/tecnologia/2026/09/28/preguntan-zuckerberg-futuro-inmediato-tecnologia-respuesta-aterra-funcion-ia-todos.html",
+          "desc": "El fundador de Meta cree que el predominio de las pantallas está llegando a su fin",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-28T15:08:58+02:00"
+        },
+        {
           "title": "Nvidia amplía su recompra de acciones en 150.000 millones y bate un récord en EEUU",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUU2ZzhnVXFPTDlFVFVzVm5zZEpZMkZHY0NRSXl6dTk4UzJkbUVVaUR0dEdmQjYtMEszNElUYmVfcmFoRG13dVROT0xicHdwQmVkQks2S2s3cWVTYkdJLTlYMWtsTGVuLUtsbXZaOG5nUFBQRVJwZVFPTjFhT2EtYURoazRLRnIwUURHLXlUSnRUaFNnZmhnYzJoYTJOUFp1dU0zd3lwWjZQYS1oYTkxekJuYjI1dTBua0tHa0thMUpGYnM5?oc=5",
           "desc": "Nvidia amplía su recompra de acciones en 150.000 millones y bate un récord en EEUU Business Insider España",
@@ -568,11 +631,32 @@
           "fecha": "2026-09-28T13:07:17+00:00"
         },
         {
+          "title": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada?",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2dMRk1xaXRhQVpoeVRaMVJUZGFSTHdrUnRZbVFOMURoVWg0MGdGRG0tN25CU19QaDFtdmlnTDZUanE2QXdCaFppUUgzMS1COW1wZ1BCcGN3VHVyalpBZy1Kbm9VV2kwTUtPRDUzMGtENWZWR3RpS09jdDZ3MmVqTENlTllHZ1BmUzZ1dk5KY0pfVTFzdW1sY3ZrZmJPckRMSDhLdENSZF95emthb2kxY29lR0l0Y1c4VkQzQmxSek5WUQ?oc=5",
+          "desc": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada? XTB.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:07:10+00:00"
+        },
+        {
+          "title": "Nvidia, la empresa tecnológica, se asocia con otra para lanzar una flota de camiones autónomos",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZF9GRVFSSHE3ZnJIRzhHS1Z6ajFzRXJSTnNELU5Rbld0WGJzVnNwaTk1ZDRCRXVnVEZhcWI0RklyVGFWT2trUFpYengtSmF0TjF4M2NHSTd6OG5rZVl0SG5OSmpwVUZlSVVYRkN6UE1PMmQ3TWVneXJhVTQ3QUdKLVEzVkg5TmRnS3BzOUxpVjY0S0FfX0Jhc3BjSWpxYUZnaEd2aDktOGZhWlRaMHRCQ1lUSlRjUDhOalUxUmo3UVdUWkVKTnFvV1cwMTlyRXQ4bHc?oc=5",
+          "desc": "Nvidia, la empresa tecnológica, se asocia con otra para lanzar una flota de camiones autónomos transportemundial.com.ar",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:06:31+00:00"
+        },
+        {
           "title": "Nvidia aprueba el mayor aumento en la autorización de recompra de acciones de la historia: 150.000 millones de dólares",
           "link": "https://cincodias.elpais.com/companias/2026-09-28/nvidia-lanza-un-plan-de-recompra-de-acciones-historico-de-150000-millones-de-dolares.html",
           "desc": "La empresa más grande del mundo por capitalización bursátil recomprará títulos propios por 235.000 millones",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-28T12:59:56+00:00"
+        },
+        {
+          "title": "Nvidia amplía en 132.000 millones su programa de recompra",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmlwcWZBUmFQVVFMOTFaSEdoNFI2RTNvbElCVkdwSi1YOFZPb3Y5dk9FRktUMGFtZFl3UmUzeldwRjJQdVhqSFNfb0piSE8tN0c2MVdjcXZqNGhPRnY2RVZrcXlHRVNqQ1pWX0U2SVUtV01YbkhuS2RxdTlZbFoyU0RVVEhybE9WTW9lbWV0eW1NcnJVWnEtZ0F3?oc=5",
+          "desc": "Nvidia amplía en 132.000 millones su programa de recompra Business People España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:57:00+00:00"
         },
         {
           "title": "El hackeo a Renfe es peor de lo que todos pensaban: más de 150 millones de datos robados con ayuda de una IA",
@@ -587,20 +671,6 @@
           "desc": "Nvidia amplía su programa de recompra de acciones a récord de 150,000 millones de dólares Yahoo",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T12:54:42+00:00"
-        },
-        {
-          "title": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada?",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2dMRk1xaXRhQVpoeVRaMVJUZGFSTHdrUnRZbVFOMURoVWg0MGdGRG0tN25CU19QaDFtdmlnTDZUanE2QXdCaFppUUgzMS1COW1wZ1BCcGN3VHVyalpBZy1Kbm9VV2kwTUtPRDUzMGtENWZWR3RpS09jdDZ3MmVqTENlTllHZ1BmUzZ1dk5KY0pfVTFzdW1sY3ZrZmJPckRMSDhLdENSZF95emthb2kxY29lR0l0Y1c4VkQzQmxSek5WUQ?oc=5",
-          "desc": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada? XTB.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:53:10+00:00"
-        },
-        {
-          "title": "Nvidia está aumentando su programa de recompra de acciones en un récord de $150 mil millones.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHh4RXRheFRRLTU2ZmFkWHE1UXNWbldGc29VYUpKei02Z1JGQ0k0WGpLc19oeHhmRUpvQXhzOGJ4VWpIdUxPSGlENC1vZkU2YjJfanZjbnRHQmlFNGRuZm12ZTk1V04tSGZvSUozNHlIM3FRREhoMS1HbFAxcVAzS2Rjc1FIOVQyZmc?oc=5",
-          "desc": "Nvidia está aumentando su programa de recompra de acciones en un récord de $150 mil millones. es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:51:34+00:00"
         },
         {
           "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
@@ -629,76 +699,6 @@
           "desc": "La aplicación se ha hecho especialmente popular en redes sociales, donde varios usuarios han compartido sus experiencias al utilizarla.",
           "source": "https://www.20minutos.es/rss/",
           "fecha": "2026-09-28T14:38:09+02:00"
-        },
-        {
-          "title": "TrendAI y NVIDIA amplían la plataforma NVIDIA Agent Safety Platform con inteligencia sobre amenazas y seguridad integral para factorías de inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeHdna2FYa3dOTDNVeFBoNVhELUNtTnNVQkppVjBoOHRROHlaeHVNSHF6ZXdzcmFjTVAybm5RbGlBVGlMUFhTYjRaelUwZ3ZyaUFCWFpjd0xaUkhMSE1SUFRVS0VMcG9TVDhxaFFYMjlxbGRwMzlfMW8wOGdrRFo1TzJUaE5QZHdDbWNmXzB1VUtwTnZyRFJqTGlRT0VKQXlrZ2tIYmo4emhTU3MxeHBiX1lpUVRjVGdPdThGWkZNZDFGMHlRZzc4Z2NGTTRpcnBiZnlha1N4cEJfQ3hRS3RlWUxfYk12ejExN3pn?oc=5",
-          "desc": "TrendAI y NVIDIA amplían la plataforma NVIDIA Agent Safety Platform con inteligencia sobre amenazas y seguridad integral para factorías de inteligencia artificial MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:37:28+00:00"
-        },
-        {
-          "title": "Renfe lanza un nuevo sistema de venta de billetes para superar su web \"tediosa\"",
-          "link": "https://www.eldiario.es/economia/renfe-lanza-nuevo-sistema-venta-billetes-superar-web-tediosa_1_13543868.html",
-          "desc": "Costará 160 millones, estará plenamente operativo a finales de enero y será común para web, app, taquillas, máquinas de autoventa, agencias de viaje, venta telefónica e intervención a bordo Renfe permitirá llevar el abono y los billetes de transporte en el iPhone a partir del año que viene Renfe ha presentado este lunes su nuevo sistema de venta que unificará, por primera vez, todos sus canales de atención y venta al cliente y que ha supuesto una inversión de cerca de 160 millones de euros. Este nuevo sistema supone un paso decisivo en la transformación de la relación de la compañía con viajeros, empresas, administraciones públicas, agencias de viaje y distribuidores, ha destacado el presidente de Renfe, Álvaro Fernández Heredia, en su presentación. El nuevo sistema estará plenamente operativo a partir del próximo 25 de enero, aunque la primera fecha clave será el 28 de octubre, que es cuando éste ya va a estar a disposición de algunos usuarios. Desde esta última fecha se podrá adquirir en el nuevo entorno los viajes con salida a partir del 25 de enero, fecha en la que el nuevo sistema de venta se integrará plenamente en la operativa, mientras que los desplazamientos anteriores continuarán gestionándose a través del sistema actual. Durante este periodo de transición, Renfe mantendrá una única puerta de acceso para el cliente y lo dirigirá automáticamente al entorno de compra que corresponda según la fecha de su viaje, garantizando así la continuidad del servicio y facilitando la adaptación progresiva a la nueva experiencia. Antes de su puesta en marcha, el nuevo sistema de venta ha completado una fase de pruebas comparable a la “marcha en blanco de un tren: un periodo de funcionamiento previo para comprobar los procesos y asegurar la coordinación de una red comercial de gran escala”. El nuevo sistema de venta “va mucho más allá de una nueva web o una nueva aplicación”, ya que se trata de un sistema común que dará soporte a siete canales de venta: web, app, taquillas, máquinas de autoventa, agencias de viaje, venta telefónica e intervención a bordo, ha subrayado el presidente de la compañía. Según Fernández, las mejoras del nuevo sistema “van a ser evidentes. Más allá de un diseño mucho más intuitivo, más moderno y más actualizado, se va a poder obtener la información de forma más sencilla, rápida y fácil” frente a la experiencia actual que “puede resultar en algunas ocasiones tediosas”. La puesta en marcha del nuevo sistema se ha realizado a través de dos contratos principales, uno para el core de venta, con Siemens, de unos 90 millones de euros a 9 años, inversión que está condicionada al volumen de billetes que se vende. Asimismo, hay un proyecto de implantación con una vigencia de 6 años con Accenture, con una serie de servicios profesionales de mantenimiento e infraestructura por unos 68 millones de euros. Mejoras del nuevo sistema Con el nuevo sistema, la búsqueda será más directa, con menos pasos y formularios más breves, mientras que la información relevante aparecerá antes para facilitar la toma de decisiones. Los usuarios podrán comparar de forma más sencilla distintas opciones de viaje teniendo en cuenta variables como el precio, la duración del trayecto, los servicios disponibles o la ocupación de los trenes. Además, las tarifas mostrarán claramente qué incluye cada opción, qué cambios permite realizar y cuáles son sus condiciones. La mejora también alcanza a los mensajes de ayuda y error, que ofrecerán explicaciones claras y comprensibles para orientar al usuario sobre qué ha ocurrido y facilitarle la continuación del proceso. La nueva plataforma refuerza igualmente las funciones de posventa. Desde el mismo espacio donde se almacena el billete, los viajeros podrán consultar sus desplazamientos, modificar reservas, cambiar el titular, solicitar facturas o tramitar indemnizaciones, con mayor visibilidad sobre las condiciones aplicables antes de confirmar cualquier gestión. Además, los servicios complementarios, como el transporte de mascotas o bicicletas, estarán integrados de forma más accesible dentro del proceso de compra, con información visible sobre precios y condiciones. El desarrollo del nuevo sistema ha estado acompañado por un amplio proceso de investigación y validación con usuarios, en el que la accesibilidad se ha incorporado desde las primeras fases. El proyecto ha incluido encuestas a 2.000 personas, entrevistas con viajeros y profesionales de Renfe, observación y trabajo de campo en 18 ciudades, así como más de 50 sesiones de pruebas con usuarios particulares y profesionales.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-28T12:36:18+00:00"
-        },
-        {
-          "title": "Galaxy S27 Pro y Galaxy S27 Ultra: este será su nuevo diseño, y está generando polémica",
-          "link": "https://www.muycomputer.com/2026/09/28/galaxy-s27-pro-y-galaxy-s27-ultra-este-sera-su-nuevo-diseno-y-esta-generando-polemica/",
-          "desc": "Varias filtraciones, algunas provenientes de fabricantes de fundas, que ha compartido Ice Universe nos han dejando ver de forma clara el que podría ser el diseño final de los Galaxy S27 Pro y Galaxy S27 Ultra de Samsung, y la verdad es que tengo sensaciones enfrentadas. Por un lado entiendo que este cambio puede estar […] La entrada Galaxy S27 Pro y Galaxy S27 Ultra: este será su nuevo diseño, y está generando polémica se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-28T12:32:07+00:00"
-        },
-        {
-          "title": "Nvidia anuncia un aumento de más de 130.000 millones en su programa de recompra de acciones",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3lpTnBuMGRRTWxDanYwaXhYSVFQOGtOR2ZWM1VMcUY4WDJOU2YzOXFQUzgzV2RNT2kyMG1XOG1ONzVwN09lX3E0MllLT21peGxqdWJpNUwtSHFpMHcwcjBIZHdLd3NiYkF1b2NWRzV0enJ4RzZBeWE4cmF5NEtXbmg2dnlESUIzWE93OEdoS2FTb0tON0xEakQweEg5UFBnODcwQ1FIcjNzeDQwSC1oTUpId1dSQk9iUW1vMDhLNnpIRXJiWHlBRTJn?oc=5",
-          "desc": "Nvidia anuncia un aumento de más de 130.000 millones en su programa de recompra de acciones Forbes España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:29:33+00:00"
-        },
-        {
-          "title": "Nvidia pone marcha la mayor recompra de acciones al ampliar su programa en 150.000 millones",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeWhsMVJaeGZ6R2wwa1BNR0pSd0ZFcjI0Y2ZHMUU2b3Qyclc1WG14eXpOQk9pNElZalZmN0w1bjBQck9FUkxDNVVIM2VyOEtUMUJFSkN1eTJaR2V5VUVJOGZGczV2WVNLVzRRNTNXTTh3eTNFLWdibjk4alBlS3M2Zmo5WHIzOWxGSDQ2aVIySzNnVko5UlV5TGdLRXBLNVJCREFQWDZFN05QSEJQSlJyTkcxTjNTc1pHUE9vTFhBdEhjQ3hQSkNYNFJIcmg5N25nRU9Z0gHYAUFVX3lxTE1TSUwtN3hRT0VBajlNRUdQUVJqSFlKdlE0Q00zSUtkeS16T0NWSGRVSHJjaXJGS0ZtYVBOcVlEUUowTF9GUTE3ZGx3UVhfVXVqSFpPUTc1Ung0TEh6ekxEMmN3MmhpY2RnbXBXdDI4SXUwTTNMWXprbVRYcWhYRFdSSTFTQXpEaHVhSnNreUg4aENMWU1UZkVVRkNyM291bXVmTXAzSTN4SGhtM09ncDRtMU1ONWY3VXc0YjBsd0VxckNHMmx3NzJJQ0xBWkxRSERCUVEySW5oeQ?oc=5",
-          "desc": "Nvidia pone marcha la mayor recompra de acciones al ampliar su programa en 150.000 millones La Vanguardia",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:29:26+00:00"
-        },
-        {
-          "title": "Sony avisa: las reservas de God of War Laufey abren mañana y estas son todas sus ediciones y extras",
-          "link": "https://vandal.elespanol.com/noticia/2026271017/sony-avisa-las-reservas-de-god-of-war-laufey-abren-manana-y-estas-son-todas-sus-ediciones-y-extras/",
-          "desc": "PlayStation anuncia la Edición Digital Deluxe y las bonificaciones de reserva de God of War Laufey, el nuevo juego de Santa Monica Studio. PlayStation ha anunciado que a partir de este 29 de septiembre (a las 10:00 horas de España peninsular) abrirá las reservas de God of War Laufey , el nuevo videojuego de Santa Monica Studio dentro de la saga y que ya se confirmó que aparecerá en PlayStation 5 a partir del próximo 16 de febrero de 2027 . Además, se han especificado los contenidos que estarán disponibles tanto a través de la bonificación por reserva como en la Edición Digital Deluxe , entre los que se incluyen varios elementos in-game, además de otros alicientes para los jugadores que esperen esta nueva aventura de acción dentro de la franquicia God of War . Contenidos de bonificación por reserva y de la Edición Digital Deluxe para God of War Laufey A continuación detallamos los contenidos que estarán disponibles: God of War Laufey - Bonificación por reserva Set de armadura \"Último deseo\" Apariencia \"Hojas doradas para Phranque\" Pack de recursos in-game God of War Laufey  Edición Digital Deluxe Set de armadura, espada, arco y catalizador \"Alquimia oscura\" Pack de recursos in-game Minilibro de arte digital Banda sonora digital oficial Además de esto, se han dado algunos detalles como la nueva arma de Faye en el Omnitiempo, un arco encantado (arco serpentino) con forma de serpiente que tiene la particularidad de provocar letales picaduras. Adicionalmente, se ha informado de que tendremos de dos modos de disparo (completo y medio) , con uno más preciso -con el gatillo a fondo- y otro rápido -con el gatillo a la mitad-. También se han dado detalles sobre la armadura de Faye , siendo posible escoger ventajas, estadísticas y aspectos. El resto de equipamiento es igualmente personalizable para dar lugar a diversos estilos de juego, incluyendo la configuración de la hoja, las escamas (graduaciones del arco) o los catalizadores (artilugios que canalizan la magia del Omnitiempo). Santa Monica Studio agradece el apoyo mostrado al juego desde su anuncio (que se produjo el pasado mes de junio) y prometen volver pronto con nuevas noticias sobre God of War Laufey .",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-28T12:28:00+00:00"
-        },
-        {
-          "title": "Nvidia autoriza 150.000 millones adicionales para su programa de recompra de acciones",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2RfQnRyV2VlaTJZeXAwS1BxM3RkQlNWU2pRcFc0UzBwS0ltYk82WWxBNURpVFhLOHdHQ1Z5UEpYckpSaTRLZDFVbWU2UzlqWHJ6YzQxZ3pPc1dlcFdRTDliNWNmazA3VHQ2QjZ6aWxjOWpuZktzZGk0TXNkdDd1VDFGZW1PQlBrUDZLSmFxdGp4VEhIUUM2Yzk3VGd4MUJOaG11S0Y4eVVHSXdhR2N5VVRmRllMbFZLYWhfODctYTJNcjlTQVp6UTZyVExla2pCQVdnb2VENGQ?oc=5",
-          "desc": "Nvidia autoriza 150.000 millones adicionales para su programa de recompra de acciones MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:21:26+00:00"
-        },
-        {
-          "title": "Nvidia refuerza la seguridad de los agentes de inteligencia artificial con una nueva plataforma",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHY2djNRMlJPSUJNaFUyalBzZFhJcmVOYlZ1OG5HVXNxMUNGUzB5dVRid18xVEdiRk93VEJfNUlXQzdQdWc2emhyd0hlWUM4eUFSSWxrMEVISHVRMFptQWplcmQ1V3ZJWWJ0OXJWVzlwQkppaWwzZ1FrUlljTnc4VklLX3JYbUJYMm85NFU0d0F3dFppWWE4S1dMaEJsNTNDYlRSeTRMSkpxZVpobmJIbDdqRzJwejEyckpQX2ttODlKd0hfZ3pJcnNrUTF1eEVKZDZjaGZUWlF2MDY4aEE2UGllM1FEdw?oc=5",
-          "desc": "Nvidia refuerza la seguridad de los agentes de inteligencia artificial con una nueva plataforma MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:15:33+00:00"
-        },
-        {
-          "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
-          "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
-          "desc": "Grab an RTX 5080-powered Gigabyte Gaming A16 Pro gaming laptop for just $1,799 at Walmart",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-28T12:15:00+00:00"
-        },
-        {
-          "title": "¿Por qué sube la acción de NVIDIA hoy?",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1OVEpwN0ZiTjk2ZG1ydWl3cUYxeU16cEdjTk15V2ZjbE80S05kM0hIb1FMazlkTllYREV0ZVBiOUpDZFdqOU9UZVdCN2ZLYVlNZDlnMDF6NlpmSXhoOWNYX0FJdmczUElEYlVXTnVHRFNNTzBfQU1vR016SHhtZlZxVWJJV0FWMmNSYnptY0Z1aEdYZV9DdkNWSnhaQQ?oc=5",
-          "desc": "¿Por qué sube la acción de NVIDIA hoy? Investing.com México",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:14:24+00:00"
         }
       ]
     },
@@ -756,7 +756,7 @@
           "fecha": "2026-09-28T11:39:20+00:00"
         },
         {
-          "title": "Feijóo ve al Gobierno \"acabado\": \"Han estado más pendientes de la casa de Jésica que de la de Maricarmen\"",
+          "title": "Feijóo ve al Gobierno \"acabado\" por la crisis de vivienda: \"Han estado más pendientes de la casa de Jésica que de la de Maricarmen\"",
           "link": "https://www.20minutos.es/nacional/feijoo-ve-gobierno-acabado-por-crisis-vivienda-han-estado-mas-pendientes-casa-jesica-que-maricarmen_7042200_0.html",
           "desc": "El presidente del PP se ofrece para solucionar el problema porque \"los españoles no necesitan a un Gobierno que se lave las manos\". Entre sus propuestas, defiende que los jóvenes paguen \"un 60% menos de impuestos\" si quieren acceder a una vivienda y garantías \"para que nadie pueda okupar una casa que no es suya\".",
           "source": "https://www.20minutos.es/rss/",
@@ -868,11 +868,11 @@
           "fecha": "2026-09-28T05:00:00+02:00"
         },
         {
-          "title": "Las empresas españolas encabezan la demanda europea para reducir la dependencia energética exterior",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-empresas-espanolas-encabezan-demanda-europea-para-reducir-dependencia-energetica-exterior_7041262_0.html",
-          "desc": "España lidera la encuesta donde las empresas presionan con más urgencia por reducir las importaciones de energía antes de la próxima década.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T00:00:00+02:00"
+          "title": "Los riesgos de la grasa visceral para la salud y cómo reducirla con ejercicio: \"Se comporta como un órgano endocrino”",
+          "link": "https://www.eldiario.es/consumoclaro/tu-mejor-yo/riesgos-grasa-visceral-salud-reducirla-ejercicio-comporta-organo-endocrino_1_13512779.html",
+          "desc": "La cara más preocupante del exceso de peso es la grasa que se acumula alrededor de los órganos internos y que está detrás de graves enfermedades, pero también es la primera que se elimina con el ejercicio Fuerza o masa muscular: qué protege más nuestra salud de cara al envejecimiento La grasa corporal se entiende poco y mal. La gente tiende a pensar en kilos de más, o en quitarse “michelines”, como si fueran un oso de peluche al que se le puede quitar o poner relleno. Pero bajo la piel hay músculos, huesos, órganos internos y también grasa, e incluso dentro de la grasa debemos distinguir varios tipos, con distintos orígenes y distintos riesgos para la salud. “No es lo mismo tener grasa en el tríceps, en el pliegue donde medíamos antes la obesidad, que era el pliegue tricipital, o grasa submentoniana, que es la papada, que tener un cuerpo muy finito pero mucha grasa en el abdomen”, explica el doctor Gontrand López-Nava, cirujano bariátrico y director de la Unidad de Obesidad del Hospital Universitario HM Sanchinarro. “A esa grasa en el abdomen la llamamos grasa visceral, porque es la grasa que se acumula alrededor del intestino, del hígado, del páncreas, del riñón, es decir, de las vísceras del abdomen”, añade. Grasa subcutánea y grasa visceral La grasa subcutánea, que tanto preocupa a algunas personas desde el punto de vista estético, es la que se pellizca en el brazo, en los flancos o en el muslo, y tiene su papel en el organismo. Actúa como reserva energética, que nos ayudó en otras épocas a pasar el invierno con poco sustento, y también tiene cierta función protectora. Pero la grasa visceral es otra cosa: “Esa grasa situada alrededor de los órganos es mucho más que simple grasa, se comporta como un órgano endocrino”, afirma López-Nava. “Es decir, esa grasa está viva y está inflamada, y se comporta como un órgano inflamado crónicamente dentro del cuerpo que libera sustancias inflamatorias que son responsables de todo lo malo que provoca la obesidad”, advierte el especialista. Los riesgos de la grasa visceral Las consecuencias de ese estado inflamatorio crónico que produce la grasa visceral afectan de forma sistémica a todo el cuerpo. “Produce riesgo cardiovascular, estados inflamatorios en el páncreas que te llevan a la diabetes tipo 2, y alteraciones inflamatorias en el hígado, que afectan mucho a tu metabolismo”, enumera López-Nava. La evidencia científica es la que permite cuantificar los daños mucho más allá del peso corporal o el IMC . Un estudio de 2025 encontró que un índice de grasa visceral elevado se asociaba con mayor mortalidad, mientras que un índice de grasa subcutánea elevado resultaba hasta protector. El mismo peso y dos riesgos opuestos según el tipo de grasa. Todos hemos visto el caso de personas, especialmente hombres, que tienen brazos y piernas delgadas y una barriga prominente y dura al tacto. En palabras del doctor López-Nava, “esa barriga, a lo mejor en báscula no marca un índice de masa corporal elevado, pero esa grasa visceral ya está provocando comorbilidades relacionadas con la obesidad”. Esa grasa está viva y está inflamada, y se comporta como un órgano inflamado crónicamente dentro del cuerpo que libera sustancias inflamatorias Gontrand López-Nava — cirujano bariátrico La buena noticia: la grasa visceral responde primero La buena noticia es que los estudios indican que la grasa visceral responde muy bien al ejercicio regular y, a menudo, se reduce en primer lugar en comparación con otros depósitos de grasa, incluso con una pérdida de peso total mínima. En concreto, el ejercicio aeróbico, en el que aumentan las pulsaciones del corazón y la frecuencia respiratoria, ha demostrado ser la forma más eficaz de atacar la grasa visceral. La Dra. Diana-Hasbleidy Guzmán Vásquez, especialista en Medicina Deportiva de la Clínica CEMTRO, explica el motivo: “Es el ejercicio que produce más actividad metabólica. Al tener más actividad metabólica, activa más receptores para las catecolaminas [como la adrenalina y noradrenalina], que son las hormonas que se segregan con el ejercicio, que son las que generan la lipólisis, la quema de grasa”. “Eso sí que ocurre, afortunadamente. Sabemos que el cuerpo es listo y dice, bueno, ya que tengo que quemar grasa porque me falta alimento, estoy en un momento hipocalórico de mi semana o de mi vida, pues voy a quemar la grasa mala”, puntualiza el doctor López-Nava. Qué ejercicio funciona mejor para eliminar la grasa visceral Para quien ya tiene grasa visceral acumulada y quiere reducirla, la recomendación del ejercicio aeróbico tiene un amplio respaldo en los estudios científicos. Un metaanálisis de 84 ensayos controlados y aleatorizados, los de mayor calidad, con 4.836 participantes en total comparó varios tipos de ejercicio. Los resultados indican que el ejercicio aeróbico de intensidad moderada o alta, el entrenamiento de fuerza, la combinación de ambos y el HIIT (entrenamiento interválico de alta intensidad) son todos beneficiosos para reducir la grasa visceral. Sin embargo, el ejercicio aeróbico de intensidad moderada-alta producía las reducciones más consistentes. No es tan efectivo, pues, un paseo o el trote suave, de intensidad baja, sino que hay que aumentar las revoluciones. “El que más beneficios nos da para reducir grasa visceral, aunque no sea el único, es el ejercicio continuo de intensidad moderada, lo que se conoce como MICT”, corrobora la doctora Guzmán Vásquez. “También el HIIT, que es el de intervalos de alta intensidad, tiene bastante evidencia. Son dos tipos de ejercicio que funcionan muy bien. La ventaja del HIIT es que el tiempo de ejercicio es menor y además tiene el efecto de la quema de calorías después de terminar de hacer el ejercicio, que es menor en el ejercicio continuo de intensidad moderada”, especifica. Para el doctor López-Nava, nuestras sensaciones son las que pueden dictar si estamos haciendo el ejercicio al ritmo adecuado. “Algo aeróbico con prudencia, que puede ser empezar caminando fuerte, trotar, correr, saltar, algo que nos haga jadear, que nos haga aumentar la frecuencia respiratoria, eso es el deporte aeróbico”, aclara. El ejercicio aeróbico, en el que aumentan las pulsaciones del corazón y la frecuencia respiratoria, ha demostrado ser la forma más eficaz de atacar la grasa visceral El entrenamiento de fuerza para prevenir la grasa visceral Cuando el daño ya está hecho y la grasa se acumula en la profundidad del abdomen, hacer ejercicio aeróbico intenso es más eficaz. Pero esto no quiere decir que debamos olvidar las pesas. El entrenamiento de fuerza es la mejor herramienta para prevenir la grasa visceral y mantenerla a raya. El músculo consume mucha energía en reposo y nos proporciona un margen de protección. “Si tienes masa muscular conservada, practicas ejercicio de fuerza y tienes una buena condición muscular, ese músculo gasta esa energía que, si no se gasta, porque no tienes músculo, se acumularía en forma de grasa visceral”, explica el doctor López-Nava. “Es más por prevención, el músculo es metabólicamente activo y evita que el cuerpo tenga tendencia a acumular esa grasa, y también evita que vuelva a rebotar o se vuelva a acumular”, añade. Un metaanálisis de 2022 que evaluó el efecto del entrenamiento de fuerza por sí solo sobre la grasa visceral en adultos sanos confirma esta recomendación. El entrenamiento de fuerza produce reducciones significativas tanto en porcentaje de grasa corporal como en grasa visceral, incluso sin cambios de peso y sin combinarlo con ejercicio aeróbico. No se puede olvidar la dieta ni el alcohol El ejercicio o la falta de él no explica todo. “El exceso de calorías, el azúcar refinada, las grasas saturadas y el alcohol son los que más promueven la acumulación de grasa visceral”, afirma la doctora Guzmán Vásquez. “El alcohol tiene un metabolismo especial. Va directo al hígado y el hígado se ve obligado a transformarlo en grasa. Además, favorece las rutas metabólicas que llevan a la lipogénesis, que es la formación de grasa nueva”, advierte la especialista. “La combinación de una mala dieta con exceso de calorías de grasa y azúcar, alcohol y sedentarismo es la que produce el perfil de persona con mayor riesgo: piernas y brazos delgados y mucha grasa alrededor de las vísceras”, añade. Por eso, el perímetro de la cintura y su relación con la cadera es para la OMS un indicador más importante que el peso del riesgo de enfermedades. Darío Pescador es editor y director de la Revista Quo y autor del libro Tu mejor yo .",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-27T20:40:12+00:00"
         }
       ]
     },
@@ -881,11 +881,60 @@
       "icono": "🎮",
       "items": [
         {
-          "title": "Nvidia lanza plataforma para evitar que agentes de IA escapen del control humano - EFE",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQm1tVGU4OWYzOVF6YTlHalpBNDI3bEh4VE9HcFdKRks0ZTZyckdveGVmS3pxT0Ruc19rWFZGWUZlbFJrZmdNUC1IamNVcVJ2T2NZSE5WM29LSWN5TjdkeWh4bTV6cEgtMk5iQUg5MDJtdGVqWGtDSTlIbXhvV1VKbkJMOHVDNUh3ODlONmN3NklIdzYyN3pvQ2NRWHhCcXc?oc=5",
-          "desc": "Nvidia lanza plataforma para evitar que agentes de IA escapen del control humano EFE - Agencia de noticias",
+          "title": "NVIDIA crea su propia «cárcel» para evitar que los agentes de IA se escapen",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBcExJblE5RFJyMEV3STdSbFczOEZiQUJMQkhDazdvOXJuMWV0Y2U4MW5PX194MW1jS0Vydm93VUdZdnJKazBxdDMyWTlLaXhRYTd3T01vLXcwTWJjbU53TUpJSk1LVVFmZ2dkRDc5VkRMU0dNVkpvcEZR?oc=5",
+          "desc": "NVIDIA crea su propia «cárcel» para evitar que los agentes de IA se escapen El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T13:28:51+00:00"
+          "fecha": "2026-09-28T13:54:30+00:00"
+        },
+        {
+          "title": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWJ3dnlFSFAwWnBpY1FoaUJoZ0lKbE9LcXBIdU9fTFY5MlRsTHZwYVlkUHpvVTVnTjh3bEtaWjlnbE9KTDA4T2dhVE5ZTmlQUTM5SmJLQlZjTTM4b3hkVno2NXc5a1J5Nmg0NGFHMkgxSnZ0T1lMenR2Yl92VnNhaEJWWVhIaHhBTXAxaklnRmJRdnBOb3c?oc=5",
+          "desc": "Nvidia lanza la Plataforma Abierta de Seguridad para Agentes de IA es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:51:59+00:00"
+        },
+        {
+          "title": "GeForce RTX 6090: especificaciones, rendimiento, lanzamiento, precio y todo lo que sabemos",
+          "link": "https://www.muycomputer.com/2026/09/28/geforce-rtx-6090-especificaciones-rendimiento-lanzamiento-precio-y-todo-lo-que-sabemos/",
+          "desc": "La GeForce RTX 6090 será la próxima tarjeta gráfica tope de gama de NVIDIA para el mercado de consumo general. Todavía no ha sido anunciada oficialmente, pero tenemos muchas filtraciones y bastante información de fuentes fiables que nos han permitido hacernos una idea de qué es lo que podemos esperar de esa nueva gráfica del […] La entrada GeForce RTX 6090: especificaciones, rendimiento, lanzamiento, precio y todo lo que sabemos se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-28T13:47:27+00:00"
+        },
+        {
+          "title": "Nvidia añade un récord de 150 mil millones de dólares al programa de recompra de acciones",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOHlCeEJjMVc5WHZGZTRtekVfblNZb25ib3NPTG5UU21EcGpvUGR0dFFheU1JeFhLNVpMVHkxSTNxNk5WTXl5dXJDNHpzODYxZy1QQ1lmY2Rmcml6RkJHUFFySWZ3aWdDaGFzU2piZFEwbmt6T05rTTZmSnhnZGxQbkZMWnBuS3I2UlFxUkNUMTY?oc=5",
+          "desc": "Nvidia añade un récord de 150 mil millones de dólares al programa de recompra de acciones es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:42:19+00:00"
+        },
+        {
+          "title": "Nvidia lanza una plataforma para evitar que agentes de IA escapen del control humano",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQemMxQnJiandTYk5fZlp4Ykd4dllvN1BvVXVMMFlpY3RLQmkxUjJMUmlmdE80WjVsNmZqTjVqSDdXbVhmazQxYmU0UVhhbEY2b3hId1FKNXIxcU8wNmprTkVpZFNzSUthTVJGdkQwMnphOVNLaWhUbU4yT2lQZHU3cFNVSDVfYl9qMlhrcXVyczRvNG9xQVBIQzI1ZlkzXzRvUWdrOVkwVWdmdWlsM0F0TTVfQUlzZVNwMmJmVFJjN1FDN0FLdkFmNzNPMzdBV0lDcFlrMnRKVEhiem1QMk5Oa2ktMy0?oc=5",
+          "desc": "Nvidia lanza una plataforma para evitar que agentes de IA escapen del control humano La Voz de Galicia",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:36:28+00:00"
+        },
+        {
+          "title": "China podría permitir a ByteDance y Alibaba comprar chips Nvidia RTX PRO 5500",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9keUVJbk5fODVNRXlacGxGX2prejktQ0p4bXh6WFE4SndZOW9QQ3Q3d1NmTWtjdS16cFJ1VzNDX240Y2tIU0lDM2RYOWNXbmV5UmF4ZGlLWTZmWUdYbHUxbEN3a0JuVWpxbU9yQnkxcC1VNTltZGVuTTl2aVpaNEE?oc=5",
+          "desc": "China podría permitir a ByteDance y Alibaba comprar chips Nvidia RTX PRO 5500 es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:32:36+00:00"
+        },
+        {
+          "title": "Nvidia añade un récord de 150 mil millones de dólares a su programa de recompra de acciones.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWlrUEIxT0hKYXU1RTB6ZFRmMVZteWJRYnF6QVQ4cEtHYXRaY2NiWHg4ZW9hZUtsTGdjVXd4WGVxV01ITmVwaW9RUGs2alNmN1hLSklzd0NEWFdfRGUtN2s3V3E0by1RR08zVWt0a2p4UEZPUUVHVjlwZVpCczdEVjF0VDJaNm5sRnc?oc=5",
+          "desc": "Nvidia añade un récord de 150 mil millones de dólares a su programa de recompra de acciones. es.qz.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:32:34+00:00"
+        },
+        {
+          "title": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
+          "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
+          "desc": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T13:30:00+00:00"
         },
         {
           "title": "Nvidia añade 150.000 millones de dólares a su autorización de recompra de acciones, superando a Apple con un incremento récord",
@@ -916,6 +965,20 @@
           "fecha": "2026-09-28T13:07:17+00:00"
         },
         {
+          "title": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada?",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2dMRk1xaXRhQVpoeVRaMVJUZGFSTHdrUnRZbVFOMURoVWg0MGdGRG0tN25CU19QaDFtdmlnTDZUanE2QXdCaFppUUgzMS1COW1wZ1BCcGN3VHVyalpBZy1Kbm9VV2kwTUtPRDUzMGtENWZWR3RpS09jdDZ3MmVqTENlTllHZ1BmUzZ1dk5KY0pfVTFzdW1sY3ZrZmJPckRMSDhLdENSZF95emthb2kxY29lR0l0Y1c4VkQzQmxSek5WUQ?oc=5",
+          "desc": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada? XTB.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:07:10+00:00"
+        },
+        {
+          "title": "Nvidia, la empresa tecnológica, se asocia con otra para lanzar una flota de camiones autónomos",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZF9GRVFSSHE3ZnJIRzhHS1Z6ajFzRXJSTnNELU5Rbld0WGJzVnNwaTk1ZDRCRXVnVEZhcWI0RklyVGFWT2trUFpYengtSmF0TjF4M2NHSTd6OG5rZVl0SG5OSmpwVUZlSVVYRkN6UE1PMmQ3TWVneXJhVTQ3QUdKLVEzVkg5TmRnS3BzOUxpVjY0S0FfX0Jhc3BjSWpxYUZnaEd2aDktOGZhWlRaMHRCQ1lUSlRjUDhOalUxUmo3UVdUWkVKTnFvV1cwMTlyRXQ4bHc?oc=5",
+          "desc": "Nvidia, la empresa tecnológica, se asocia con otra para lanzar una flota de camiones autónomos transportemundial.com.ar",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:06:31+00:00"
+        },
+        {
           "title": "Nvidia aprueba el mayor aumento en la autorización de recompra de acciones de la historia: 150.000 millones de dólares",
           "link": "https://cincodias.elpais.com/companias/2026-09-28/nvidia-lanza-un-plan-de-recompra-de-acciones-historico-de-150000-millones-de-dolares.html",
           "desc": "La empresa más grande del mundo por capitalización bursátil recomprará títulos propios por 235.000 millones",
@@ -923,25 +986,18 @@
           "fecha": "2026-09-28T12:59:56+00:00"
         },
         {
+          "title": "Nvidia amplía en 132.000 millones su programa de recompra",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmlwcWZBUmFQVVFMOTFaSEdoNFI2RTNvbElCVkdwSi1YOFZPb3Y5dk9FRktUMGFtZFl3UmUzeldwRjJQdVhqSFNfb0piSE8tN0c2MVdjcXZqNGhPRnY2RVZrcXlHRVNqQ1pWX0U2SVUtV01YbkhuS2RxdTlZbFoyU0RVVEhybE9WTW9lbWV0eW1NcnJVWnEtZ0F3?oc=5",
+          "desc": "Nvidia amplía en 132.000 millones su programa de recompra Business People España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T12:57:00+00:00"
+        },
+        {
           "title": "Nvidia amplía su programa de recompra de acciones a récord de 150,000 millones de dólares",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObk5DVWpBS2RrQldRQ1lFaHotbk0xYXpDRTNPZmdDUTRObFotcy1vRC1XVmZqVkk3TjgxaFVreGdWMWtza0NKT0VOMlVheEtXSDV1VUNFMmlZSXVvbEdVSWpWYlBQeWlMcEZidk5SM1JTOWZ1dmc4NWtobENwV2dXZWhDcGR1WnFoTHZfUFJZQVZCWjh4MFJ4MA?oc=5",
           "desc": "Nvidia amplía su programa de recompra de acciones a récord de 150,000 millones de dólares Yahoo",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T12:54:42+00:00"
-        },
-        {
-          "title": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada?",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2dMRk1xaXRhQVpoeVRaMVJUZGFSTHdrUnRZbVFOMURoVWg0MGdGRG0tN25CU19QaDFtdmlnTDZUanE2QXdCaFppUUgzMS1COW1wZ1BCcGN3VHVyalpBZy1Kbm9VV2kwTUtPRDUzMGtENWZWR3RpS09jdDZ3MmVqTENlTllHZ1BmUzZ1dk5KY0pfVTFzdW1sY3ZrZmJPckRMSDhLdENSZF95emthb2kxY29lR0l0Y1c4VkQzQmxSek5WUQ?oc=5",
-          "desc": "Las acciones de Nvidia suben un 2% ¿qué significa la recompra de acciones anunciada? XTB.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:53:10+00:00"
-        },
-        {
-          "title": "Nvidia está aumentando su programa de recompra de acciones en un récord de $150 mil millones.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHh4RXRheFRRLTU2ZmFkWHE1UXNWbldGc29VYUpKei02Z1JGQ0k0WGpLc19oeHhmRUpvQXhzOGJ4VWpIdUxPSGlENC1vZkU2YjJfanZjbnRHQmlFNGRuZm12ZTk1V04tSGZvSUozNHlIM3FRREhoMS1HbFAxcVAzS2Rjc1FIOVQyZmc?oc=5",
-          "desc": "Nvidia está aumentando su programa de recompra de acciones en un récord de $150 mil millones. es.qz.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:51:34+00:00"
         },
         {
           "title": "Nvidia amplía programa de recompra de acciones a récord 150.000 millones de dólares",
@@ -991,62 +1047,6 @@
           "desc": "Nvidia refuerza la seguridad de los agentes de inteligencia artificial con una nueva plataforma MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T12:15:33+00:00"
-        },
-        {
-          "title": "Walmart price drop slashes $461 off Gigabyte's RTX 5080-powered gaming laptop with 32GB of memory",
-          "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-price-drop-slashes-usd461-off-gigabytes-rtx-5080-powered-gaming-laptop-with-32gb-of-memory-gaming-a16-pro-is-at-a-new-all-time-low-of-usd1-799",
-          "desc": "Grab an RTX 5080-powered Gigabyte Gaming A16 Pro gaming laptop for just $1,799 at Walmart",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-28T12:15:00+00:00"
-        },
-        {
-          "title": "¿Por qué sube la acción de NVIDIA hoy?",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1OVEpwN0ZiTjk2ZG1ydWl3cUYxeU16cEdjTk15V2ZjbE80S05kM0hIb1FMazlkTllYREV0ZVBiOUpDZFdqOU9UZVdCN2ZLYVlNZDlnMDF6NlpmSXhoOWNYX0FJdmczUElEYlVXTnVHRFNNTzBfQU1vR016SHhtZlZxVWJJV0FWMmNSYnptY0Z1aEdYZV9DdkNWSnhaQQ?oc=5",
-          "desc": "¿Por qué sube la acción de NVIDIA hoy? Investing.com México",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:14:24+00:00"
-        },
-        {
-          "title": "¿Por qué sube hoy la acción de NVIDIA?",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV04zNGhORURvbkRFVmFuYVhXVmRIMUNUcnFRMnZjWlJkMEZKdWFNbzd6ci1ZdDQ3UXlPYng2blF0MUVRZWQ5MjV2eE53dlZKYmJUbDNUQWxDRWxrODdtb1hmeDJYamRjeGdEal9oeER4MU0xTzJQQVlWMjJHNEhuVkE0aXJrLWthZnFkZXBRVVhVOFRuc3Y3ZFpTYXh2QQ?oc=5",
-          "desc": "¿Por qué sube hoy la acción de NVIDIA? Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:13:00+00:00"
-        },
-        {
-          "title": "Nvidia RTX Pro 5500: Pekín estudia aprobar compras pese a las restricciones de EE. UU.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTBVSUs0aFFpUmk3SFVMalgyNFVfZ0hVMDJsSFpMZVEwRTMzREg0RTYxRHZJS095aFRFNl9aSzJ0cnZ3M2tIaGROYzhpSERkbkstQ3J6bzhLaEpMbmxOTDZBZHBRTGZlSEgyWGhSVE9HeFlNVVhDNm0xanpOWWtfcnJlTTBYSklQRVZVbkgyRDBiSkNWR25jWEtVRTM5RnRXdzBvdnJZMjV0SFRvcjdvdEpfcmdOVmlhZ1lOZw?oc=5",
-          "desc": "Nvidia RTX Pro 5500: Pekín estudia aprobar compras pese a las restricciones de EE. UU. DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:11:03+00:00"
-        },
-        {
-          "title": "Nvidia vincula más de USD $180.000 millones a Anthropic y expone el costo de la carrera por la IA",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGxDa1BVTmJha0duQVJha2tVMGNKSENwUXlLWmphZ0ZyeFBWZ1lpTDhxNTQ3aEVpWHVFU1ZWcU5MY3p1ZTJlTUR6NHpoYnlpQm5oUV9wQUxiUUtBS2NHLTFMRXlNT0lnQmZidFotNFVybnhyNm1pb21WbU1DR2lfZWZ0SkM2SnFZd1pnQ0x1c2RZbWRzek5WbDBzcWpSeU5JYzNYSWtrZ0xJY0JzRGE5dERkV3MxTUh2aE5pdTVQQlo3RU1kNzJjOG9aaFE1cGIyR0E?oc=5",
-          "desc": "Nvidia vincula más de USD $180.000 millones a Anthropic y expone el costo de la carrera por la IA DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:11:03+00:00"
-        },
-        {
-          "title": "Nvidia amplía sus recompras de acciones por un importe histórico",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUJGbjRUYTRkbjFKS2JRYnZXTDJSTHR3eEJCQzA4c2pYeVhPTFdVVWhOdXNyWXBuLXRzQzRWTzNPbUpxaFJnUTlIMzZGdHF0bGdSMWdiaVFrY3BmWmx3UGFiVVVhU2M2QlRHSFBXOFJvTG9EVjZVX0t6MXpzSzBRNE04dVNkQkxmUm5XZXpvdVFSTGFGOThJNGNNQkxMcjJjckV6NzVYdTUydGhpaWtOck1LTzJXUE1YZkx4bQ?oc=5",
-          "desc": "Nvidia amplía sus recompras de acciones por un importe histórico MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:07:19+00:00"
-        },
-        {
-          "title": "Nvidia amplía en USD $150.000 millones su autorización de recompra de acciones",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZE5mU3JmeTRHWlJzM3RQTUdORk1CemNRdlM0c3lyV3FybjllYlRLTVcwNGtYN21NT1ZoZzM3clBBMEJpRTFHMGMyeEl0NXFveDlGbVN6NVpsb3lTaFB4NFh4TDVLRXJRbmx3cnRNeEROcE9VWC1XWGZBdDMtc0dkZkRpNE5sWkJ5S2lSb2lmU193LTJYQkhlSklzc3Jrc0oxV0pYdmhGMkw1dUJBQ2tVN2hwY3BZb2w4?oc=5",
-          "desc": "Nvidia amplía en USD $150.000 millones su autorización de recompra de acciones DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:06:35+00:00"
-        },
-        {
-          "title": "NVIDIA amplía su recompra de acciones en 150.000 millones y NVDA sube en premarket",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCcHJCVHNhUzA3eVhQRVA4ZDl2ZW90WXpTQUlZSkRialJYcnZ0UVVKeTAxOHA2YklXTWEzVnZfZmlBeGdYV3JoQ0p6cWJIaE85NmQ5NEczdHdVOTAyUDZVZGFhYlBadEdzbkRwX2loVVFaOVFhUThpVg?oc=5",
-          "desc": "NVIDIA amplía su recompra de acciones en 150.000 millones y NVDA sube en premarket Criptotendencias",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T12:01:47+00:00"
         }
       ]
     },
@@ -1081,6 +1081,20 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "CEO Predicts: “Demand Will Continue to Rise” as AMD and Intel Soar up to 17% Thanks to Muse",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjM3RllPcHRsZUtjLWdJUEo0WlpxSGlDLUkzOU50S0J5a3g0TmZfN0FKWXRCWnhodlpGMXVLUF9HSGhHRURISlVRbzZ1QnhVdmNSQkxYeERjREhlcWlTQXJkUmx5NDB4Z2NjWG83elA3dEhyU0VkWVVhZHhDanFHZTh1MUZWUkQ5ZGc?oc=5",
+          "desc": "CEO Predicts: “Demand Will Continue to Rise” as AMD and Intel Soar up to 17% Thanks to Muse tikr.com",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T13:48:26+00:00"
+        },
+        {
+          "title": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs",
+          "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
+          "desc": "An unofficial project is bringing Nvidia’s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-09-28T13:30:00+00:00"
+        },
         {
           "title": "ASRock X870E Challenger Wifi Motherboard Review: A value X870E board packed with features",
           "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-challenger-wifi-motherboard-review",
@@ -1196,7 +1210,7 @@
         {
           "title": "Desarrollador logra que el DLSS 5 de NVIDIA funcione en tarjetas gráficas AMD Radeon con un 74% más de rendimiento en solo 24 horas",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1luQ01oR0lLaFhDU29EZmdNd3NQTWNrUGtLc1dmVjNuS052NHNYR0wtdmZSc050TUk4QkNfTVhURkpTWF9HTDBlU0RrMGlXXzMtbzJrMmFjY3ZYTWw0bk5BNFpZN3BmS2xhYTZsNW9ncmdFZF9GNGE2VHdZNXhLSjFnSnp6WXJnalZjZlI2QUR2VFU?oc=5",
-          "desc": "Desarrollador logra que el DLSS 5 de NVIDIA funcione en tarjetas gráficas AMD Radeon con un 74% más de rendimiento en solo 24 horas tarreo.com",
+          "desc": "Desarrollador logra que el DLSS 5 de NVIDIA funcione en tarjetas gráficas AMD Radeon con un 74% más de rendimiento en solo 24 horas Tarreo Gamer",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T18:36:32+00:00"
         },
@@ -1234,20 +1248,6 @@
           "desc": "AMD frente a Broadcom: ¿Qué acción de chips de IA es mejor para la inversión a largo plazo? Comparación exhaustiva de AMD y AVGO TradingKey",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T02:07:06+00:00"
-        },
-        {
-          "title": "Bank of America Sees AMD at $720 on CPU Demand. Anthropic’s $11.6 Billion Akamai Deal Is Part of Why",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHBfeXMteXFWZXdBU19LTkVzLXNHYXhFdm11S29pOF9sRWV3S18tUlp3Y1pxcFp1cXNhejJORWh5SnhmWEFoeUZlUXlNZ29jLVZ4bUlPN18wWUlYU3JRN3UxUm9aQUVyeW5XdUptUlBCaE1xTDNWU3d2QlRGWEdkVkdJSVVqU1Z4VFB1SEpOSmNoMEFPMjhCMjZlNVN5YzFLRDBJaFMwNnFIeFFiXzRYcVZONmNscmtwdTgyTVI4WDNxcnlT?oc=5",
-          "desc": "Bank of America Sees AMD at $720 on CPU Demand. Anthropic’s $11.6 Billion Akamai Deal Is Part of Why TIKR.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-26T13:17:32+00:00"
-        },
-        {
-          "title": "Onimusha Way of the Sword Review técnica con AMD RX 9070 XT",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHQ2VFQ2NnRxOVRndXhFbzE0LWUtT1RkQmZPS3V6Z2FJY0xZMnI3dnFwRzQ1X2h1T0xmNkU0V1poakNrSHYtQll3WUY0WGhOZlRxNzREVDlrWmRFYTBXaTRYNzIyMk9sVFdYa2dzNlZ6UDFpMGR2UmQ4RTJDazdOSHlhUW_SAYoBQVVfeXFMTW9mMXFVTGNwUnZGaVQzLXpmYVVDUUEyUVB5YmV1c19vcVpqQVFBdnpJQVhtVjlnNmd2Tm4zV0Jtd1FZNTgwZl9QcWRmS2pieFlRMG5RdUZwMnl3eHpYa2R2VXBRX0F2V1pVNXhyOHRLcmg2SG9hWHl5czlyajdjRDJtNlF3WFF3OElB?oc=5",
-          "desc": "Onimusha Way of the Sword Review técnica con AMD RX 9070 XT Profesional Review",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-25T16:08:47+00:00"
         }
       ]
     }
