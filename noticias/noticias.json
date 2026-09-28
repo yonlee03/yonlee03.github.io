@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T09:30:06.340461+00:00",
+  "generado": "2026-09-28T10:00:04.128998+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,20 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "LAS SELECCIONES DE ESPAÑA Y CROACIA, UNIDAS POR EL SEVILLA FC",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1AzdVpWRS0wLWlSTTRMWUlPYVBVdFpjX0pLQVdNM0t0c2ZLcVNDNEZEV0NQNVQ4aGYwNlE4M2dDelNJWVBlY3gzWHZGTlZqN3JDODEwQ2FqMlFXaU5JNEJRcDVfWURkR2R1LXZiUGpxR0tOa2drNDM2NjhkU1dLajBFeUgzeThCdldMUm5B?oc=5",
+          "desc": "LAS SELECCIONES DE ESPAÑA Y CROACIA, UNIDAS POR EL SEVILLA FC Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:51:11+00:00"
+        },
+        {
+          "title": "ABIERTAS LAS INSCRIPCIONES PARA EL SEVILLA FC FEMENINO-FC BADALONA WOMEN",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOERiY0NFNFlEOXo0UHRWMkNkN1JPbHgzdm5PN18wM0FjM0RCSHBFYi16azk2elpWdzFKX3lNQkdUWW9nQ0tUQm9vQ0EweUwtaEFyZUxzVHR5S3pFMnFjZDBzTFNJejJxZ0tBZVExdENUVnh6MGViRGdQRk5mMGtXaC1NM0xqUUc4TnhNY0NTdFlMZw?oc=5",
+          "desc": "ABIERTAS LAS INSCRIPCIONES PARA EL SEVILLA FC FEMENINO-FC BADALONA WOMEN Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:40:59+00:00"
+        },
         {
           "title": "¿Cuándo juega España contra Croacia? Horario y dónde ver el segundo partido de la fase de grupos de la Nations League",
           "link": "https://www.eldiario.es/spin/juega-espana-croacia-horario-ver-segundo-partido-fase-grupos-nations-league-pm_1_13542797.html",
@@ -163,20 +177,6 @@
           "desc": "Las nervionenses cayeron contra el Eibar con un gol en el epílogo de un partido en el que el control local no se convirtió en ventaja y prevaleció la efectividad visitante El Sevilla Femenino cayó de forma cruel en la visita del Eibar por 0-1 y sufre la tercera derrota de la temporada después de haber ganado en la pasada jornada en Tenerife. Un partido incómodo en el que las de David Losada no tradujeron su dominio en ocasiones claras y que se resolvió en la recta final con el gol de Seidl en el ocaso. Así las cosas, las nervionenses saltaron al césped del Estadio Jesús Navas con la intención de llevar la iniciativa y protagonizó los primeros acercamientos al área rival , si bien no logró generar demasiado peligro, ni en combinaciones ni a balón parado. Dominio sevillista sin pegada De ese modo, la primera gran ocasión llegó al borde de los 20 minutos, cuando Clau Blanco remató en buena posición , aunque el balón se marchó por encima de la portería vasca. El control de balón sevillista se mantuvo hasta final de la primera mitad, pero el orden de las visitantes, que también se aproximaron al área de Sullastres, evitó que las blanquirrojas se acercaran al 1-0. La segunda mitad arrancó con la misma tónica, con el Sevilla tratando de profundizar en busca de la victoria, pero no terminó de encontrar el camino hacia la portería de Wellmann más allá de varias apariciones sin culminación. Máxima efectividad del Eibar en la recta final Sin embargo, las eibarresas pegaron en la única oportunidad clara de la que dispusieron , ya en la recta final del choque, cuando Seidl maximizó la puntería visitante para batir a Sullastres y sentenciar la derrota de las sevillistas, que no terminan de tomar el pulso a la competición. Por ahora, las de Losada ocupan la novena plaza de la tabla con seis puntos de 15 posibles, merced a dos victorias y ningún empate. Ficha técnica: Sevilla FC: Sullastres; Alba López (Barrios, 61'), Marques, Iris Arnaiz, Raquel (Esther, 61'); Alicia, Sandra Castelló, Gemma (Blom,80'); Laura Pérez (Andrea Alvarez, 46'), Clau Blanco y Kanteh. SD Eibar: Wellmann; Zumárraga, Bélem, Simona, Azpiazu (Ortiz, 46'), Emma Moreno; Carvajal, Adela Rico, Fernández; Ángeles del Álamo (Carmen Álvarez, 54') y Sara Martín. Gol: 0 -1: Marianna Seidl (min. 86'). Árbitra: Zulema González González (comité gallego). Amonestó a la local Alice Marques y a las visitantes Azpiazu, Adela Rico y Fernández. Incidencias: Partido correspondiente a la quinta jornada de la Liga F Moeve celebrado en el Estadio Jesús Navas ante 230 espectadores.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-27T17:00:38+00:00"
-        },
-        {
-          "title": "Rafael de los Santos, director de la NFL en España: \"¿Un partido en La Cartuja? En el futuro, Dios dirá\"",
-          "link": "https://www.estadiodeportivo.com/polideportivo/rafael-los-santos-director-nfl-espana-partido-cartuja-futuro-dios-dira-20260927-547390.html",
-          "desc": "ESTADIO Deportivo ha podido hablar con el director general de la NFL en España acerca de la posibilidad de poder ver un duelo de esta competición en la capital de Andalucía Sevilla es una ciudad única nivel deportiva , no hace falta que uno lo repita muy fuerte. Muchos son los aficionados que existen al fútbol, con el Real Betis y el Sevilla FC como principales protagonistas. Sin embargo, hay otras disciplinas que se ganan un hueco también en la vida del público sevillano, y hay uno que intenta ganarse un hueco de excepción. La NFL ha llegado a la ciudad de Sevilla de la mejor manera posible y es que, en la Ciudad Deportiva Luis del Sol , se vive un gran evento que sirve para acercar la emoción de este deporte al sur de España. El templo verdiblanco, en un lleno espectacular, acoge este evento para poder visualizar el encuentro que enfrentará a Miami Dolphins y a los Kansas City Chiefs . El público sevillano es sabedor de que tienen un claro favorito, y es que este último equipo tiene un claro \"color especial\". Varios son los monumentos y detalles que se encuentran en la ciudad estadounidense, teniendo también en cuenta de que en esta ciudad una de sus avenidas principales tiene el nombre de este lugar. Un nexo de unión que hace que el público sevillano se vuelque algo más , aunque los Dolphins también guardan cierta simpatía. En ESTADIO Deportivo , hemos podido tener una charla con Rafael de los Santos , director general de la NFL en España . Poco a poco, se siguen dando pasos para la expansión de este deporte, únicamente hay que fijarse que se llegó a disputar un encuentro ya en el Santiago Bernabéu el pasado año, algo que se repetirá en próximas ocasiones. El Betis se vuelca con la NFL La ciudad deportiva Luis del Sol ha acogido este evento que, en apenas hora y media, agotó sus entradas. Hay un detalle importante, y es que muchos son los que no son de la ciudad de Sevilla. Muchas son las personas que han venido de todas partes de Andalucía para poder vivir este acto que pretende crear familiaridad en esta zona con el deporte americano. \"Hemos llegado aquí a Sevilla con un partido que creo que va a ser un muy buen partido entre Kansas City Chiefs y Miami Dolphins. Con muchas ganas de vivir esta experiencia. (...) La verdad es que con Kansas y Sevilla, las ciudades están hermanadas , la principal avenida de Sevilla se llama Kansas, y en Kansas hay un montón de espacios que están dedicados a Sevilla, con lo que no podía haber un mejor partido que este donde Kansas es protagonista junto con Miami Dolphins\", declaró Rafael de los Santos. ¿Puede ser La Cartuja sede de la NFL? España ya sabe lo que es vivir al máximo la emoción de la NFL. Es por ello que la pregunta a Rafael de los Santos, director general de la NFL en España, era obligada. ¿Puede La Cartuja acoger un partido de esta competición? En su respuesta, no llega a descartarlo, aunque el contrato con el Bernabéu marca totalmente la agenda. \" La NFL está ahora mismo en esa definición de cuál tiene que ser la presencia de partidos internacionales , cada año van creciendo, nosotros ahora tenemos un contrato multianual con Madrid donde vamos a estar en noviembre y lo que queremos es desde luego hacer que todo vaya estupendamente. En el futuro, Dios dirá \". Eventos para traer toda la emoción a Sevilla La ciudad de Sevilla, como se puede comprobar, sigue dando pasos para poder conocer este deporte. Aunque no haya partidos por ahora, sí que habrán actos que tendrán gran importancia en la ciudad. \" Este año estamos aquí con esta experiencia , estoy seguro que no va a ser el último año porque la afición de NFL en Andalucía en general y en Sevilla, en particular, está muy presente y la tenemos muy presente. Lo que queremos es crecer nuestra presencia, no solamente con este tipo de eventos sino también a nivel más escolar, con los niños. La posibilidad de llegar aquí y hacer cosas con los colegios, es algo que nos ilusiona mucho\". El Betis se abona a la NFL el 27 de septiembre La NFL, en vilo por Grant Dubose",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-27T16:58:14+00:00"
-        },
-        {
-          "title": "Kike Salas y Miguel Sierra, los duelistas más efectivos del Sevilla FC",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaHhUTldnNWRmNmV6bVRPUklVbk9UWlZOa19TQk5jMFhuQnRkaUEyeUJVTnJRWlBTdDRHUTZJbGhud2c0WjJkMUZad0dRYWtDS3MxSmpUNWVWU192YzNuZkphUHBXQ2xWOGZyNlVmOXp2WEFHWUxDOElzR3R5eVRxV1RuQ3pfdENNNEZkTVdaVWJ1ZC0zZzN1MGdpT0tUaHJBOHpkX1J1cEc2NUVSY0xpVGxsdU5rMmR4b2VfcFFXLXpvYzVYazJ0SEE2TkRJU19pdXBubTUzSHbSAd4BQVVfeXFMTUdfbUI3TDNhNGh4aEh0NFBPSWJXVnZwRVVJdzBtYU5KUFRSSDlxbnV0MFZvMmVzeDk5aFEzOTJmOTJ5LWpvVHp5TFZzN0R0LU80UmRyaE1DUFgyZ3RVcHlXRk5mQnhGSHd6WUpoNnloRXRSVkFscjhYTHhPVlpNUlMyZUozbFBkWkdaeURlM2t0MEFfbFU2ODMtWXo0aFRpR1hLVFZRbDZkSzdYb2RIM29LTUp4eFJpbVZ4ckxGOGNuT09hSjFvUjJSNDk1dm5uZHo1YW40RDZqSGk0TVpn?oc=5",
-          "desc": "Kike Salas y Miguel Sierra, los duelistas más efectivos del Sevilla FC abc.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-27T16:40:58+00:00"
         }
       ]
     },
@@ -189,7 +189,63 @@
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
+        },
+        {
+          "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
+          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
+          "desc": "Sumar advierte de que el acuerdo sobre el texto del decreto de vivienda “sigue muy lejos” | La protesta se extiende a Barcelona coincidiendo con la visita de Sánchez y en Madrid los manifestantes encaran el tercer día",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-28T09:55:51+00:00"
+        },
+        {
+          "title": "Atlético: llenazo a llenazo",
+          "link": "https://www.marca.com/futbol/atletico/2026/09/28/atletico-llenazo-llenazo.html",
+          "desc": "Efecto positivo de las nuevas normas de asistencia y uso del abono. Ante el Madrid se batió el récord de asistencia del Metropolitano",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-28T11:53:46+02:00"
+        },
+        {
+          "title": "Los riesgos de los cabezazos en el fútbol infantil: por qué preocupa su impacto en el cerebro de los niños",
+          "link": "https://www.elmundo.es/salud/2026/09/28/6aba320ee85ece77758b4572.html",
+          "desc": "El impacto de los cabezazos repetidos expone el cerebro de los jóvenes futbolistas a golpes recurrentes precisamente durante una etapa crucial de maduración Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-28T11:48:06+02:00"
+        },
+        {
+          "title": "¿Eres capaz de reconocer a este famoso entrenador de fútbol?",
+          "link": "https://www.marca.com/futbol/seleccion/2026/09/28/capaz-reconocer-famoso-entrenador-futbol-video.html",
+          "desc": "",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-28T11:45:47+02:00"
+        },
+        {
+          "title": "El 90% de los aficionados al fútbol no reconocen a este mítico entrenador... ¿Te atreves a probar?",
+          "link": "https://www.marca.com/futbol/seleccion/2026/09/28/capaz-reconocer-famoso-entrenador-futbol-video.html",
+          "desc": "",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-28T11:45:47+02:00"
+        },
+        {
+          "title": "Vozinha paga las consecuencias de la fama: \"Si tuviera que elegir entre la vida que tengo hoy y la que tenía antes, elegiría la que tenía antes\"",
+          "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/vozinha-paga-las-consecuencias-fama-tuviera-que-elegir-entre-vida-que-tengo-hoy-que-tenia-antes-elegiria-que-tenia-antes-20260928-547427.html",
+          "desc": "El portero de Cabo Verde y Colo-Colo confiesa que el Mundial le cambió la vida pero que también le quitó la \"privacidad\": \"Ahora salgo y siempre hay alguien que quiere hacerse una foto conmigo o pedirme un autógrafo, o peor aún, alguien que me está grabando\" Si el pasado Mundial de Estados Unidos , México y Canadá tuvo un protagonista inesperado, ese fue sin duda Josimar José Évora Dias, Vozinha , portero de Cabo Verde, que con sus grandes actuaciones en la cita mundialista, sobre todo frente a España en el primer partido de la historia de su país en el torneo, logró opacar a otras figuras de primera línea mundial. Tanto fue así que portero, a sus 40 años, se ganó el derecho a firmar por Colo-Colo , el club de mayor importancia convertido ya en un fenómeno de masas. Sin embargo, parece que el caboverdiano, que no podía reprimir las lágrimas en el momento de firmar su contrato, no es tan feliz como antes. Así por lo menos lo ha confesado en una entrevista a The Observer . \" He perdido mi paz y tranquilidad. Ya no tengo privacidad , o al menos mucha menos que antes. Ahora salgo, voy a un restaurante y siempre hay alguien que quiere hacerse una foto conmigo o pedirme un autógrafo. O, peor aún, alguien que me está grabando. Eso es lo que más ha cambiado en mi vida , y no creo que pueda hacer nada al respecto\", ha expresado el veterano portero. \"He perdido mi paz y tranquilidad. Ya no tengo privacidad,&nbsp;y no creo que pueda hacer nada al respecto\" \"> Este mismo verano, tras su partido frente a España, Vozinha vio como sus seguidores en Instagram pasaban de apenas 50.000 a más de un millón en apenas unas horas, así lo ha recordado. \"Un miembro del equipo de catering se me acercó y me dijo que tenía millones de seguidores. No tenía ni idea de lo que hablaba; pensé que estaba bromeando, pero insistió . Más tarde, fui a atender a la prensa en la zona mixta y una periodista de CazéTV me preguntó si sabía lo que estaba pasando. Me enseñó su teléfono y fue entonces cuando vi que tenía más de un millón de seguidores... Decidí desactivar las notificaciones de Instagram para no caer en la tentación de estar pendiente de quién me seguía\", ha rememorado. Vozinha despeja su futuro tras su explosión en el Mundial y ya viaja para cerrar su fichaje Vozinha, el freno de España: ¿quién es y de dónde viene su apodo? Parece que Vozinha no ha sabido digerir en estos dos tres meses su enorme trascendencia en el mundo del fútbol y no tiene repartir en admitir que prefería su vida como era antes del Mundial: \"Mucha gente quiere ser famosa, pero solo ve el lado positivo de esa realidad. Siendo honesto, si tuviera que elegir entre la vida que tengo hoy y la que tenía antes, elegiría la que tenía antes \". Eso sí, Vozinha quiere aprovechar su fama para darle mayor visibilidad a su país e intentar que Cabo Verde prospere en todos los sentidos. \"Es agradable sentirse una especie de embajador, pero quiero dejar claro que lo que logramos fue un esfuerzo colectivo. Hicimos historia, y la mejor noticia sería poder aprovechar ese impulso para desarrollar nuestro país y mejorar las condiciones de vida de nuestra gente\", ha admitido. \"Es agradable sentirse una especie de embajador, pero quiero dejar claro que lo que logramos fue un esfuerzo colectivo\" \"> Su presente y futuro en Colo-Colo Como decíamos al comienzo, Vozinha firmó este pasado verano con el mítico club chileno después de realizar un gran Mundial. \"Fue el club que mostró más interés. No recibí ofertas de Estados Unidos y hubo algunos contactos con Arabia Saudí , pero nada concreto. Ojalá pueda jugar pronto la Copa Libertadores \", ha expresado el caboverdiano. Vozinha comenzó como suplente pero antes del parón FIFA ha jugado tres partidos consecutivos como titular en los que solo ha encajado un gol. Parece que poco a poco se va adaptando al fútbol chileno y espera que así para poder asegurarse la opción de un año más de contrato que tiene firmado en Santiago de Chile.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-28T09:44:16+00:00"
+        },
+        {
+          "title": "Odegaard estalla contra Bernardo Silva: \"Esto no tiene cabida en un campo de fútbol\"",
+          "link": "https://www.marca.com/futbol/2026/09/28/odegaard-estalla-bernardo-silva-esto-cabida-campo-futbol.html",
+          "desc": "El portugués entró en los últimos minutos y protagonizó una dura acción sobre el capitán noruego, que terminó el partido con molestias en el tobillo",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-28T11:43:13+02:00"
+        },
+        {
+          "title": "Éric García ya está en Barcelona: máxima precaución, aunque sólo sufre un edema en la rodilla",
+          "link": "https://www.marca.com/futbol/barcelona/2026/09/28/eric-garcia-barcelona-maxima-precaucion-sufre-edema-rodilla.html",
+          "desc": "El defensa guardará reposo en los próximos días",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-28T11:34:25+02:00"
         },
         {
           "title": "Cañizares 'vota' para el Balón de Oro, ni Lamine Yamal ni Mbappé: \"Es más difícil lo que han hecho ellos\"",
@@ -199,11 +255,11 @@
           "fecha": "2026-09-28T09:27:10+00:00"
         },
         {
-          "title": "Acampada en Sol por la vivienda, en directo | El Gobierno reconoce que va a ser “un lunes muy largo” de negociaciones para sacar adelante el decreto",
-          "link": "https://elpais.com/espana/2026-09-28/acampada-en-sol-por-la-vivienda-en-directo.html",
-          "desc": "La protesta se extiende a Barcelona coincidiendo con la visita de Sánchez y en Madrid los manifestantes encaran el tercer día",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-28T09:26:52+00:00"
+          "title": "Vozinha, tres meses después de saltar a la fama en el Mundial: \"Prefería mi vida de antes, he perdido mi paz\"",
+          "link": "https://www.20minutos.es/deportes/futbol/vozinha-tres-meses-despues-saltar-fama-mundial-preferia-mi-vida-antes-he-perdido-mi-paz-tranquilidad_7042046_0.html",
+          "desc": "El portero de Cabo Verde pasó de ser un completo desconocido a tener 28,4 millones en Instagram.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-28T11:24:35+02:00"
         },
         {
           "title": "Investigan otro secuestro exprés en Barcelona: la víctima, aún no localizada",
@@ -276,13 +332,6 @@
           "fecha": "2026-09-28T08:14:25+00:00"
         },
         {
-          "title": "Los Mossos y la Guardia Urbana detienen a 53 personas durante la Mercè, la mayoría por delitos contra el patrimonio",
-          "link": "https://www.20minutos.es/cataluna/barcelona/los-mossos-guardia-urbana-detienen-53-personas-durante-merce-mayoria-por-delitos-contra-patrimonio_7042031_0.html",
-          "desc": "Los cuerpos policiales hacen un balance \"positivo\" del dispositivo de seguridad desplegado durante la fiesta mayor de Barcelona.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T10:12:41+02:00"
-        },
-        {
           "title": "Así es el negocio de abonados de los clubes de la ACB",
           "link": "https://www.marca.com/sport-business/2playbook/2026/09/28/asi-negocio-abonados-clubes-acb-premiar-fidelidad-abono-parcial.html",
           "desc": "Los equipos preparan reformas o nuevos pabellones, después de que algunos se hayan quedado pequeños ante la creciente masa social de la liga",
@@ -302,55 +351,6 @@
           "desc": "Repasa de manera pausada el frenético arranque de curso: muchos cambios en una planificación que se alargó hasta el último minuto del mercado (Fofana), numerosas salidas deseadas y llegadas que se han ido acoplando muy bien, máxima sintonía con la entidad y con un quinto puesto que obliga a preguntar si esta plantilla da para aspirar a algo más que a tener una permanencia tranquila En el Sevilla FC por fin corren días tranquilos con debates sosegados y con máxima tranquilidad clasificatoria después de un magnífico arranque de temporada con 13 puntos que le tienen en un meritorio quinto puesto, haciendo que se oigan voces en las que se pronuncia la palabra Europa aún con la boca pequeña. Feliz por ver cómo la afición disipa su hastío permanente para recuperar trazas de ilusión pone muy contento a un Luis García Plaza que se conforma con completar un \"sin sufrimiento\" , aunque admite estar \"muy contento\" con la plantilla que se ha confeccionado. Ha sido \"muy duro\" tener que hacer tantos descartes y el mercado de fichajes le generó bastante nerviosismo, pero a este primer parón ha llegado ya con un once muy reconocible en el que es pertinente preguntarse '¿Hay cabida para Rubén Vargas en la alineación titular?' . En una extensa e interesante entrevista concedida al diario ABC , el técnico sevillista escapa por la tangente recordando que antes de responder a esa pregunta debe poder contar con Vargas, lo primero de todo, y luego el extremo suizo deberá trabajar al máximo para alcanzar el nivel suficiente como para optar desbancar a jugadores asentados por méritos propios como Miguel Sierra o Félix Correia. \"Rubén sabe que, conmigo, si no corre no va a jugar\" , ha advertido el madrileño. Muy implicado en la planificación estival, lo primero que dejó claro a José Ignacio Navarro fue que nunca alineará a un futbolista que no sea de su gusto aunque el club decida contratarle de manera unilateral. Un verano de muchos cambios en el Sevilla FC \" Era necesario pegarle un lavado de imagen al equipo y así se lo pedí al 'presi' . Lo hice nada más que se supo que la venta no se completaba. Al día siguiente nos reunimos y le dije las condiciones que yo ponía. Él las aceptó y ya me propuso el nombre de José Ignacio para empezar a trabajar\", ha comenzado explicando García Plaza. \"Siempre digo que cuando se cierra el mercado, mi plantilla es la mejor que puedo tener. Ya al final del curso pasado hubo rendimiento, pero había que mover el árbol y cambiar cosas . Hemos hecho un buen trabajo todos. Aunamos juventud y experiencia; pero sobre todo buscábamos ese hambre y esas ganas de gente que se quiera comer el mundo \", ha añadido. El duro trago de abrir la puerta y empujar para que haya salidas \"No ha sido fácil. Es duro tener que hablar con muchos jugadores con contrato en vigor para que salgan. Y también ha sido duro porque esto se iba alargando y la gente no salía . Y al final somos personas. Por una decisión deportiva no contamos con ellos y se lo tienes que explicar. Creo que se ha llevado lo más dignamente posible y que la mayoría ha aceptado su salida \", ha repasado acerca de los 16 jugadores que han causado baja este verano. Algunos de ellos, viéndose apartados del grupo en la pretemporada. Luis García Plaza no acepta fichajes que no haya pedido \" Si me traen a un futbolista que yo no quiero, no lo voy a poner . Al final, si no me gusta, no me gusta. Puedo entender que, dentro de las situaciones que se dan, un club me lleve a determinados perfiles que yo no conozco. No es fácil cuadrarlo todo, pero creo que me han dado perfiles más o menos de cómo quiero jugar . Estoy súper contento con la relación que tenemos José Ignacio y yo. Vamos de cara, que es lo más importante\". La delantera del Sevilla: Lucas Stassin, Robbie Ure e Isaac Romero \"Son diferentes. Con Isaac yo siempre he pensado que con otro delantero rinde mucho mejor y Lucas es un jugador muy intuitivo . Él me demuestra en cosas que es otro que le explicas dos ideas y te las coge, como Fofana. Se ha agarrado muy bien tácticamente al equipo y ahora tiene que crecer. Y para Robbie es un cambio muy grande . Viene de una liga muy modesta, donde el nivel es muy bajo. Él se dio cuenta el primer día en Bilbao. Tiene que seguir creciendo. Esperamos que vaya en progresión. Es una apuesta del club. Todos son jugadores que tienen que ir a más porque son muy jóvenes\". El factor clave en el fichaje de Fofana: \"El Milan ha decidido regalarlo literalmente al Sevilla\" Los cuatro elegidos por García Plaza en el Sevilla tienen nombre y apellido: tres 'repetidores' y una cara nueva Rubén Vargas es un futbolista muy importante pero no tiene garantizado el puesto en este Sevilla \" Es un jugador que te da cosas diferentes, que incluso es bastante especialista en la plantilla . Por ejemplo, es muy bueno balón parado, que cuando no está 'Kocho' en el campo no tenemos un jugador realmente que sea especialista. Es un jugador que necesitamos . Ojalá este minidescanso nos sirva para que pronto esté con nosotros. Rubén nos puede dar algo diferente al equipo y ojalá le recuperemos \", ha explicado un esperanzado Luis García Plaza. Vargas hizo un gran Mundial con Suiza y, aunque contaba con su venta, a priori es uno de los principales activos de la plantilla. Eso no quiere decir que vaya a ser titular indiscutible, viendo el gran rendimiento colectivo : \" Los futbolistas no son ajenos a la situación económica que vive el Sevilla FC y saben que se necesita vender . Ha sido un poco convulso el final del verano, pero gracias a Dios el equipo ha funcionado sin él hasta ahora. Pero quiero añadirle más azúcar al pastel y ojalá lo recuperemos, porque creo que es un jugador diferente a los jugadores que tenemos. Pero Rubén sabe que como no corra, conmigo no juega . En esta manera de jugar, y con cinco cambios, tenemos que correr mucho\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-28T07:59:24+00:00"
-        },
-        {
-          "title": "El Atlético Central sorprende al líder en un derbi histórico gracias al olfato de Juan Antonio",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa3FONDZhMGJFTHZYMzFVeGNrZzJxbkYtOXpMcnllQmpzY0VBbXE2LVgyU2JwcWtIWWw5TFhQc1c5NVFCNDFaYm5WLTVLNHhCYlU3dUdFWTVSR09KOVdTNmN1X0w2czVUeUU4Q0hHVVhsUmtlZXBiVm1jUzFNaldoa2JvUnZHeHgxemVEZENROTJ3RjIxUWVCZERXOFNlamJNc051LUdNQTV0Y3REU05wWl9nc2tyS1pobTJVbXVNQlhhbHFmTjVUczVUY1A4aDBxN3BMYg?oc=5",
-          "desc": "El Atlético Central sorprende al líder en un derbi histórico gracias al olfato de Juan Antonio Muchodeporte",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T07:58:37+00:00"
-        },
-        {
-          "title": "Klopp y Schweinsteiger retratan la crisis de Alemania: \"mediocridad\", \"culpa\"... y \"asma\"",
-          "link": "https://www.marca.com/futbol/nations-league/2026/09/28/klopp-schweinsteiger-retratan-crisis-alemania-mediocridad-culpa-asma.html",
-          "desc": "Bastian Schweinsteiger y Jürgen Klopp reconocen las carencias del fútbol alemán",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-28T09:49:39+02:00"
-        },
-        {
-          "title": "La 'nueva vida' de Enric Gallego",
-          "link": "https://www.estadiodeportivo.com/futbol/tenerife/nueva-vida-enric-gallego-20260928-547421.html",
-          "desc": "El delantero catalán, a sus 40 años, lidera en solitario la tabla de goleadores de LaLiga Hypermotion Enric Gallego explotó tarde, llegó al fútbol de elite ya bien metido en la treintena, pero casi una década más tarde no sólo sigue ahí, sino que no para de sorprender. El delantero catalán del Tenerife se ha situado como nuevo líder de la clasificación de goleadores de LaLiga Hypermotion con un total de cinco dianas , tras lograr el único tanto del conjunto chicharrero en el empate (1-1) ante el Cádiz. El conjunto insular esta sobreviviendo en este arranque de campaña gracias a sus goles. Lleva cinco de los ocho que ha metido su equipo . Aparte de él sólo han anotado Jesús Álvarez, Iván Chapela y Fabricio. Y está tenido un media e casi a gol por partido. Concretamente, un gol cada 94,6 minutos. Álvaro Cervera lo suele sustituir en casi todos los encuentros, pero antes de marcharse le deja un 'regalito'. Gallego admite que, a falta de otras cosas, sigue aportando lucha y determinación. Y eso, por ahora, está siendo sinónimo de gol. \"Es una acción en donde veo el balón ahí y voy a por todo. He tenido la suerte de poner el pie por encima y ver la puerta. Ya saben que no doy nada por perdido y doy el máximo\", señalaba ante los medios al final del duelo ante el Cádiz. De hecho, ni sabía que se había puesto líder de la tabla de goleadores, algo que conserva al final de la jornada a falta del partido entre el Leganés y el Castellón. \"No pienso mucho en estas cosas. Pienso en el día a día. En disfrutar de cada día, entrenamiento y partido\", aseguraba el barcelonés. Enric Gallego, con mal sabor de boca Ante el cuadro cadista, Enric Gallego volvió a demostrar su viveza en el interior del área al aprovechar un error en el despeje de la defensa gaditana y adelantarse al portero David Gil para adelantar a su equipo. Luego empatarían los amarillos. \" No hemos estado muy acercados en la presión en la primera parte, lo cual hemos corregido en la segunda parte. Aun así, te pones por delante y se te queda el sabor de no cerrar el partido por una acción que te cogen a las espaldas y te empatan el encuentro . Tenemos que mejorar mucho en ese aspecto. Pierdes puntos con una única acción en la que se te van dos puntos. Seguir, corregir y mirar hacia delante\", señala el delantero del Tenerife, que mandaba un aviso a los suyos: \"Al no estar acertados en la presión, ellos aprovechaban esas acciones. No todos los partidos vamos a estar acertados\". El calvario del Cádiz continúa en Tenerife, el Andorra rompe las quinielas y el Sabadell suma y sigue Su entrenador, Álvaro Cervera , tampoco estaba satisfecho y daba un toque de atención a todo el grupo . \"¿De qué sirve que Enric meta 40 goles si quedamos segundos por la cola?\", afirma el cántabro , que de momento mantiene al Tenerife a mitad de tabla. Así queda la lucha por el Pichichi de 2ª tras la jornada 7ª En cuanto a la lucha por el Pichichi de Segunda, Enric Gallego se coloca como líder en solitario, pero por detrás hay muchos aspirantes . Jordi Cano (Andorra) firmó un doblete en el campo del Granada y se ha unido al grupo de cinco jugadores que comparte la segunda posición con cuatro goles. Un quinteto en el que además de Cano figuran el delantero del Mallorca Adrián Fuentes y el atacante colombiano del Girona, Yaser Asprilla, que no pudo disputar el encuentro con el Albacete a causa de sus compromisos internacionales. Con 5 goles: Enric Gallego (1p) (Tenerife) Con 4 goles: Jordi Cano (Andorra); Ousmane Camara (Castellón); Carlos Hernández (Ceuta); Yaser Asprilla (Girona); Adri Fuentes (Mallorca). Con 3 goles: Álex Forés y David González (Burgos); Álvaro Marín (Celta Fortuna); Jon Guruzeta (Eibar); Nicholas Gioacchini (Sabadell).",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-28T07:30:37+00:00"
-        },
-        {
-          "title": "Lamine Yamal, sobre el futuro del Balón de Oro: \"Ojalá seamos un montón de africanos nominados\"",
-          "link": "https://www.20minutos.es/deportes/futbol/lamine-yamal-sobre-futuro-balon-oro-ojala-seamos-un-monton-africanos-nominados-estaremos-muy-orgullosos_7041988_0.html",
-          "desc": "El internacional español presume de sus orígenes en una entrevista en 'ON Sport' durante la concentración con la selección.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-28T09:28:35+02:00"
-        },
-        {
-          "title": "El niño malo de fútbol inglés tiene un grave problema en la cárcel por no chivarse: la caída de Joey Barton",
-          "link": "https://www.marca.com/futbol/premier-league/2026/09/28/nino-malo-futbol-ingles-grave-problema-carcel-chivarse-caida-joey-barton.html",
-          "desc": "Joey Barton podría ver ampliada su pena y perder privilegios tras el hallazgo de artículos prohibidos en su celda",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-28T09:28:22+02:00"
-        },
-        {
-          "title": "El niño malo del fútbol inglés tiene un grave problema en la cárcel por no chivarse",
-          "link": "https://www.marca.com/futbol/premier-league/2026/09/28/nino-malo-futbol-ingles-grave-problema-carcel-chivarse-caida-joey-barton.html",
-          "desc": "Joey Barton podría ver ampliada su pena y perder privilegios tras el hallazgo de artículos prohibidos en su celda",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-28T09:28:22+02:00"
-        },
-        {
-          "title": "Vadillo, tras coincidir con Óscar García en el Celta: \"Era horrorosamente malo, como persona peor porque ni te saludaba... Yo debería haberme callado pero fui tonto y niñatillo\"",
-          "link": "https://www.estadiodeportivo.com/futbol/celta/vadillo-tras-coincidir-con-oscar-garcia-celta-era-horrorosamente-malo-como-persona-peor-porque-saludaba-deberia-haberme-callado-pero-fui-tonto-ninatillo-20260928-547417.html",
-          "desc": "El exfutbolista gaditano ha repasado su breve paso por el Celta de Vigo, marcado por su complicada relación con el entonces técnico, al que ya le veía poco futuro, pero decidió marcharse... Muchos aficionados del Celta de Vigo no recordarán que Álvaro Vadillo estuvo en las filas del club celeste. El extremo gaditano, formado en la cantera del Real Betis , llegó a Balaídos en el verano de 2020 pero no llegó a debutar oficialmente y acabó marchándose en esa misma ventana cedido al Espanyol, que se guardó una opción de compra obligatoria en caso de ascender a Primera división como así sucedió finalmente. Apenas estuvo dos meses en Vigo pero le sirvieron para darse cuenta de que con Óscar García , el entonces técnico del primer equipo, no tenía 'feeling' y no iba a jugar prácticamente nada. Su paso por Balaídos fue testimonial pero ahora, seis años más tarde, el de Puerto Real, retirado del fútbol desde hace dos años, ha hablado de su paso por el club olívico y no precisamente bien sobre el que era su entrenador. \" Era el entrenador, horrorosamente malo. No te hablo a nivel deportivo, sino un tío que llega allí y no te da los buenos días... malo. Todos los entrenamientos los hacía el segundo entrenador. Horroroso. Y como persona peor porque ni te saluda. Yo debería haber dicho 'este tío va a durar poco aquí' , me voy a callar y voy a seguir entrenando y estar en forma para cuando me llegue el momento, pero fui caprichoso y no quería estar allí. Fui tonto y niñatillo \", reconoce también por su parte el gaditano, en una larga chara con el podcast Climbers . De hecho, Óscar García no contó con Vadillo ni para los amistosos previos al comienzo de LaLiga, lo que le llevó al ex del Huesca o Granada a tomar la decisión salir en los últimos días del mercado. \"El Celta me firmó porque era joven, estaba libre y podía reunir condiciones para aportar. Desde que llego ni juego los partidos de pretemporada. Juego poquito. Hablo con Felipe (Miñambres) y le digo '¿ustedes me han firmado con el sí del entrenador? Porque esto no tiene ni pies ni cabeza'. Antes de que cerrara el mercado jugamos cinco partidos y no es que no jugara ni uno, es que ni calenté. Es que muchas veces es para reírte\", recuerda Vadillo.\" \"Hablo con Felipe (Miñambres) y le digo '¿ustedes me han firmado con el sí del entrenador? Porque esto no tiene ni pies ni cabeza\" \"> Al final, logró el ascenso con el Espanyol y el Celta acabó incluso ganando dinero con un movimiento que en lo deportivo no aportó nada: \"El Celta hizo un negocio redondo. Me coge libre, no paga el sueldo porque el Espanyol paga la ficha entera y luego saca 1,7 millones de euros, creo que fue. Miñambres me tiene que coger y decir 'Alvarito te voy a invitar a otro lenguado' \". Un mes después de la salida de Álvaro Vadillo, Óscar García fue destituido como técnico del Celta por los malos resultados y una tensa situación con la plantilla celeste. Tras salir del Celta no volvió a ser el del Granada El extremo gaditano encadenó varias experiencias en Segunda división tras su salida del Celta de Vigo. Pasó por el Espanyol , el Málaga y el Eibar antes de cerrar su última etapa conocida en el fútbol profesional con el Racing de Ferrol . A su paso por el Espanyol dejó uno de los momentos más destacados de su trayectoria reciente. En la temporada 2020-21, Vadillo formó parte de la plantilla que logró el ascenso a Primera división como campeona de Segunda. Tras aquella campaña, el club barcelonés se hizo con sus servicios en propiedad, aunque su continuidad en el equipo no se prolongó demasiado. En enero de 2022, el atacante puso rumbo al Málaga en calidad de cedido hasta final de temporada. En el conjunto andaluz volvió a competir en Segunda división y firmó tres goles en 18 partidos, en una segunda mitad de curso en la que buscó recuperar sensaciones y protagonismo. La siguiente parada de su carrera fue el Eibar . Vadillo llegó al conjunto armero en el verano de 2022, también como cedido, para afrontar la temporada 2022-23. Durante aquel curso disputó 22 encuentros de Liga, aunque no consiguió marcar. El equipo vasco terminó quinto en la clasificación y se quedó a las puertas del ascenso tras disputar la promoción. Borja Iglesias se moja con las críticas de Rodri al Valencia y da un consejo a Mbappé y Lamine Yamal: \"Si es injusto, dilo\" Borja Iglesias tiene dos semanas para convertirse en el refuerzo que necesita el Celta El extremo inició la campaña 2023-24 en el Eibar , pero en el transcurso de la temporada cambió de destino para incorporarse al Racing de Ferrol . En el conjunto gallego encontró su último equipo conocido en el fútbol profesional. Entre ambos clubes sumó 36 partidos de Liga y dos goles, repartidos entre los 14 encuentros disputados con el Eibar y los 22 que jugó con el Racing. De esta manera, Vadillo cerró una etapa marcada por los cambios de camiseta y la búsqueda de continuidad lejos de Vigo . Su trayectoria posterior al Celta tuvo como principal éxito colectivo el ascenso con el Espanyol en 2021, mientras que sus últimas temporadas transcurrieron en Segunda división. Tras su campaña con el Racing de Ferrol, correspondiente al curso 2023-24, colgó las botas como futbolista profesional.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-28T07:26:52+00:00"
         }
       ]
     },
@@ -363,42 +363,49 @@
           "link": "https://www.formula1.com/en/latest/article/vasseur-promises-frustrated-leclerc-that-ferrari-will-bring-upgrades-soon.3zh1dESFZnVmBLkiBxgoOl",
           "desc": "Ferrari Team Principal Fred Vasseur has promised that the Maranello-based squad will bring developments to the SF-26 “soon” after Charles Leclerc cited a lack of recent development as a reason behind their poor form in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
         },
         {
           "title": "Red Bull's Baku brilliance gives Verstappen fresh hope",
           "link": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
           "desc": "The four-time World Champions was a whisker off winning in Azerbaijan, with team mate Isack Hadjar joining him on the podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
         },
         {
           "title": "How Baku highlighted McLaren’s straight line weakness",
           "link": "https://www.formula1.com/en/latest/article/a-very-frustrating-saturday-stella-explains-how-baku-highlighted-mclarens-straight-line-weakness.4iY4EWmrhkVVgus2tothvn",
           "desc": "McLaren Team Principal Andrea Stella has explained why McLaren's performance was limited in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
         },
         {
           "title": "Mekies praises Hadjar's 'outstanding' Baku podium on return",
           "link": "https://www.formula1.com/en/latest/article/it-was-outstanding-mekies-praises-hadjars-azerbaijan-gp-podium-on-return.5suUJmpAuHzbzrUe5SzELk",
           "desc": "Laurent Mekies has praised Isack Hadjar’s performance in the Azerbaijan Grand Prix as “outstanding”, after the Red Bull driver returned from a wrist injury to claim a podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
         },
         {
           "title": "Leclerc urges Ferrari to ‘bring upgrades to close the gap’",
           "link": "https://www.formula1.com/en/latest/article/we-were-quite-far-off-leclerc-urges-ferrari-to-bring-upgrades-to-close-the-gap-after-baku.6zFmpztQcYlGBeNtCK6CF9",
           "desc": "Charles Leclerc was left concerned by Ferrari’s deficit to their rivals in the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
         },
         {
           "title": "How the faster Hadjar helped Verstappen to second place in Baku",
           "link": "https://www.formula1.com/en/latest/article/how-the-faster-hadjar-helped-verstappen-to-second-place-in-baku.4lE3Qf6v36f4q8wyEq2Qe4",
           "desc": "Michael Lamonato assesses Isack Hadjar's role in helping Red Bull team mate Max Verstappen to second in the 2026 Azerbaijan Grand Prix, with the team celebrating a double podium.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-28T09:30:06.340461+00:00"
+          "fecha": "2026-09-28T10:00:04.128998+00:00"
+        },
+        {
+          "title": "La abogada de Maricarmen, ante la nueva negociación a tres: \"Ojalá Urbagestión no quiera solo un lavado de imagen\"",
+          "link": "https://www.eldiario.es/madrid/somos/abogada-maricarmen-nueva-negociacion-tres-ojala-urbagestion-no-quiera-lavado-imagen_1_13543037.html",
+          "desc": "Beatriz Duro acudes esta tarde en representación de la vecina de Retiro a una reunión con miembros del fondo que adquirió su casa y solicitó la orden de desahucio, con la mediación del Ayuntamiento de Madrid. Horas antes, se muestra esperanzada aunque temerosa de que pueda ser un mero anuncio cosmético ENTREVISTA - La abogada de Maricarmen: \"Quiero pensar que esto ha servido para que los políticos garanticen un derecho básico\" La abogada de Maricarmen, Beatriz Duro, se muestra esperanzada ante la reunión de esta tarde con representantes del Ayuntamiento de Madrid y de la empresa Urbagestión, detrás del desahucio de Maricarmen y su salida a los 87 años del piso en el que vivía en Retiro. “Sabemos que la primera propuesta no es viable, así que esperamos que nos digan qué es lo que sí es viable. No puede ser que la propiedad ahora quiera que Maricarmen vuelva a su piso y esto, por razones burocráticas, no llegue a darse de ninguna de las maneras”, expresaba en declaraciones a Somos Madrid este lunes a primera hora, poco antes del último pulso entre las partes antes de la esperada votación este martes en el Congreso, donde se debatirá un nuevo decreto de vivienda. Ante la ola de indignación ciudadana que ha provocado el caso, el fondo –que hasta última hora había bloqueado otras alternativas, como las ofrecidas por la empresa pública Casa 47 o donantes anónimos– propuso al consistorio adquirir la vivienda después del desalojo para ofrecerla de nuevo a la vecina, que permanece en el Hospital Gregorio Marañón. “Por un lado, el Ayuntamiento conoce desde el viernes esta propuesta para gestionar su uso a través de un programa municipal. Esperamos que hayan podido pensar y valorar opciones y ver cómo hacer esto viable antes de la reunión de la tarde”, auguraba la letrada. “Y luego, por otro lado, esperamos que Urbagestión no quiera simplemente hacer un lavado de su imagen y que esto sea una propuesta real que quiera materializar. Solo tiene que decirnos las condiciones que quieren y nosotros veremos cómo hacerlas viables, si es lo que son”, destaca. “A Maricarmen esto le vuelve a generar expectativas ante una nueva posibilidad. Esperamos que sea en serio y se pueda materializar”, concluye, a la espera de un nuevo veredicto: “Si esta propuesta es real, entonces será posible”. Justo después de ejecutar el desalojo, la empresa propietaria planteó ceder su piso para que el consistorio lo pusiera en gestión social bajo el paraguas del Plan Reviva, un programa municipal para recuperar viviendas privadas y relanzarlas al mercado del alquiler asequible, u otros métidos similares. Pero los requisitos de este primer concurso indican que “la adjudicación de las viviendas se realizará manteniendo rigurosamente el orden de prelación de las solicitudes”, por lo que acelerar el trámite de Maricarmen puede implicar saltarse otros puestos en la lista. Además, “otro de los requisitos para participar en el sorteo de esta promoción es que ninguno de los miembros de la unidad familiar puede haber sido condenado por delitos relacionados con la ocupación, ni por impago de rentas o en procedimientos de desahucio de viviendas por problemas de convivencia en los últimos cinco años”. En todo caso, la abogada Beatriz Duro afronta el encuentro con perspectivas de sacar algo en claro, aunque no convencida de que suponga un verdadero punto de inflexión. Intentos previos rechazados a contra reloj De hecho, ya el miércoles pasado, la letrada estuvo tratando paralizarlo desde primera hora, e incluso lanzando un último ruego a la empresa para ganar 15 días de margen y procurar una “salida digna” para Maricarmen, casi nonagenaria y con una discapacidad del 50%. Pese a la predisposición que ahora exhibe la compañía, dispuesta a una nueva negociación a tres, aquella vez no hubo margen para debatir: a las 13.05 horas un cerrajero logró romper con la radial la puerta de la casa, con varios policías antidisturbios logrando acceder a la vivienda y sacar en camilla a su inquilina, presa de un ataque de estrés. El jueves, un día después de la expulsión de Maricarmen y en pleno auge de la contestación social, Urbagestión negó en sus primeras excusas públicas que el Gobierno central, a través del Ministerio de Vivienda, les hubiera trasladado las distintas ofertas de operadores públicos o privados que, en los días previos, iban asomándose en medios de comunicación y asentándose en el debate público. No obstante, este periódico ha podido corroborar que al menos varias de las comunicaciones directas entre la presidenta de Casa 47, la empresa pública de vivienda, y la abogada de Urbagestión no fueron atendidas por esta última, dejando esos mensajes sin respuesta. Incluso se negaron a negociar o a aceptar ofertas privadas como la del músico James Rhodes para pagar el alquiler o comprar la vivienda, o el ofrecimiento de una particular anónima, escritora, que se ofrecía a abonar el alquiler que exigía la propiedad. La sorpresa llegó cuando,la sociedad administrada por Ricardo Alonso Fernández y Fernando Alonso Fuentes decidió dar marcha atrás después de días de presión, pero sin comunicarselo directamente a la parte afectada: en cambio, acudieron directamente al equipo municipal de José Luis Martínez-Almeida para que este administrara el piso a través de la EMVS, la Empresa Municipal de Vivienda y Suelo. Apoya el trabajo periodístico de Somos Madrid Esta información ha podido salir a la luz gracias a las personas que apoyan la edición local de Madrid en elDiario.es. Si tú también quieres y puedes hacerlo, hazte socia, hazte socio y contribuye a sostener nuestro trabajo diario y a publicar exclusivas que cambien las cosas. Si ya tienes una suscripción, puedes hacer una aportación extra a la sección local de Madrid para apoyar las informaciones de proximidad, sobre lo que importa en el día a día de los habitantes de esta ciudad: para hacerlo, entra en el apartado de 'tu cuota' en tu perfil privado . Tu ayuda al periodismo local es importante.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-28T09:48:19+00:00"
         },
         {
           "title": "Horarios del GP de Japón de MotoGP: fechas y dónde ver en TV a Marc Márquez y Jorge Martín en el Motegi Twin Ring",
@@ -518,13 +525,6 @@
           "desc": "Pese a lo sucedido en Australia, avisa de que no se va a \"quedar mierando\" si hay agua en el GP de Japón",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-26T22:35:59+02:00"
-        },
-        {
-          "title": "Carlos Alcaraz salva a Europa y se carga el récord de Roger Federer en la Laver Cup: \"Es algo que tenía en mente\"",
-          "link": "https://www.estadiodeportivo.com/tenis/carlos-alcaraz-salva-europa-carga-record-roger-federer-laver-cup-20260926-547343.html",
-          "desc": "El murciano sufrió de lo lindo para imponerse al estadounidense Taylor Fritz y salvó dos bolas de partido para poner la igualada a cinco en este torneo de exhibición entre el continente europeo y el resto del mundo Carlos Alcaraz va cogiendo ritmo y la Laver Cup parece sentarle de maravilla al murciano. Tras un regreso agridulce en el US Open, el tenista español está disputando un año más este torneo de exhibición que organiza Roger Federer y que enfrenta a las primeras espadas del tenis europeo contra las del resto del mundo. Carlos Alcaraz ha ganado tres de los cinco puntos de Europa en esta Laver Cup . El murciano, que estrenó su cuenta este viernes en el dobles junto a Jakub Mensik, triunfó también en el individuales al vencer a Taylor Fritz salvando dos puntos de partido (6-3, 4-6 y 13-11) e iguala la competición con el Resto del Mundo (5-5). Alcaraz vengó de esta manera la única derrota de su carrera ante Fritz , producida el año pasado en la Laver Cup de San Francisco, días después de que el español conquistase el US Open. Una derrota casi anecdótica, por la importancia de la misma dentro de un torneo de exhibición, pero de la que Alcaraz aprendió, ya que ha ganado los últimos cuatro enfrentamientos ante el estadounidense y en ese camino solo ha cedido dos sets. Este sábado, en la sesión nocturna del O2 y después de que Europa se dejara los dos enfrentamientos previos con las derrotas de Flavio Cobolli y Alexander Zverev, Alcaraz se echó al equipo a los hombros, venció al mejor de los de Andre Agassi en un superdesempate muy tenso en el que incluso salvó dos puntos de partido en contra e iguala la Laver Cup a la espera de lo que ocurra en el dobles. Rafa Jódar y Carlos Alcaraz revolucionan la Laver Cup con sendos triunfos para Europa La intención de Alcaraz es volver a jugar un individual este domingo, cuando el torneo se decidirá valiendo cada victoria tres puntos. Carlos Alcaraz iguala a Roger Federer Carlos Alcaraz, con apenas 23 años, es uno de los tenistas récord de la actualidad. El número 1 más joven de la historia, a la vez que el más precoz en ganar los cuatro títulos del Grand Slam, ya es el tercero en el ranking de puntos sumados en la Laver Cup . Los 18 que atesora, tras su victoria ante Taylor Fritz le igualan a Roger Federer. El extenista suizo, presente en la grada del 02 como propietario de la competición, llegó a esa cifra tras la disputa de 12 partidos. El helvético tiene en su palmarés un total de ocho triunfos y cuatro derrotas, todas ellas sufridas en el dobles. Dos partidos menos ha necesitado Alcaraz, que ha decantado a su favor ocho de sus 10 duelos en el torneo por equipos que cumple su novena edición con Mercedes-Benz de patrocinador global. Por delante restan Alexander Zverev, con 21 puntos ganados, y Jack Sock, que tiene 20. Carlos Alcaraz empieza la Laver Cup con una gran protesta de la pista: \"Hay que poner un límite, sería lo mejor\" Alcaraz es sinónimo de espectáculo y lo sabían los asistentes al 02 que llenaron las gradas. Carlitos se llevó todos los puntos espectaculares. Una dejada por aquí, un globo por allá, otra volea muerta, para deleite de los miembros del equipo europeo y sus dos capitanes, Yannick Noah y Tim Henman. Carlos Alcaraz aclara cuál es su nivel en estos momentos El tenista español afirmó que \"poco a poco\" está volviendo a su mejor ritmo, tanto física como tenísticamente: \"La intensidad con la que hemos jugado ha sido muy alta . Esta pista y estas bolas permiten jugar intercambios largos . Estoy muy contento de poder jugar a este nivel\". \"Fueron muy importantes para mí las dos semanas después del Abierto de Estados Unidos. Me tomé una semana de descanso sin tocar una raqueta. Trabajé mucho mi físico. Poco a poco estoy volviendo a mi mejor ritmo, tanto en mi tenis como en mi físico. He estado practicando mucho en mi servicio, he hecho un par de cambios en mi servicio\", ha manifestado el murciano. El hermano de Zverev: \"Alcaraz y Sinner no son lo suficientemente fuertes o se han esforzado demasiado\" Tema tenístico creo que estoy a un buen nivel. He ido mejorando poco a poco, hemos pulido muchos detalles, muchos golpes. Me siento con mucha confianza\", dijo Alcaraz.Con los 18 puntos que lleva en esta Laver, Alcaraz ha igualado los puntos que hizo Roger Federer en la competición: \"Es algo que tenía en mente. Ser el tercero, empatado con Federer y solo con Sock y Zverev por delante, es algo increíble. Intentamos ayudar al equipo todo lo posible\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-26T20:31:33+00:00"
         }
       ]
     },
@@ -532,6 +532,41 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Nvidia presenta Open Agent Safety Platform para proteger los agentes de inteligencia artificial",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR3NlVHBlcGJhVnNJTXFtaWJFWmF4ZURLLVkwZ2Q1SGtGaGV4ODgyY1JMSVlEQURJUFlDOWZWeHo2WmM0NFFBQ1p2OFg4Nk1uRkxNNXdIYTk3NVpRcHBQUGF3dm1kT3RjODJOMDZBcVNPX0kyaUtuNFhvV3lNbC1uRDFIZkJQckdXYVA5LTRZMmYzNk81Rm1TRVhGRGRfaUduZzNpOExBOE9KZEZxQnZyNlEwdHQxZzl5dnk3Ylh0VENSTWc1cHl6Q2EtOGhsZHpCZEtaZjVaTVYxQmFMUkVSb28tVTBDZw?oc=5",
+          "desc": "Nvidia presenta Open Agent Safety Platform para proteger los agentes de inteligencia artificial MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:51:09+00:00"
+        },
+        {
+          "title": "La mala suerte se ceba con Carlos Alcaraz",
+          "link": "https://www.estadiodeportivo.com/tenis/mala-suerte-ceba-con-carlos-alcaraz-20260928-547428.html",
+          "desc": "Tras el US Open, el tenista murciano vuelve a cruzarse con un cuadro muy difícil desde su mismo debut en Tokio; Rafa Jódar aún no conoce su rival Carlos Alcaraz y Rafa Jódar ya saben lo que les espera en su regreso al circuito tras disputar la Laver Cup , ambos, y la Copa Davis el madrileño . Los dos se han inscrito en el ATP 500 de Tokio, que se disputa al mismo tiempo que el de Pekín y precede al penúltimo Master 1.000 del año, que se juega en Shanghai. Alcaraz lo disputa después de haber acabado en el US Open con las dudas que había por su regreso. Pero, también, habiendo ratificado en la Laver Cup que está ahora aún mejor que en Nueva York tras dos semanas más de preparación. Falta le hará, porque el sorteo del cuadro final ha deparado una andadura muy complicada para el tenista murciano , que defiende título en Tokio tras alzarse con el triunfo en la pasada edición. Pese a ser un ATP 500, el nivel del mismo es importante. Sólo hay que ver algunos de los tenistas que están jugando la fase previa para darse cuenta. Entre ellos están Arthur Fils -aunque éste fue por un error al inscribirse-, Stefanos Tsitispas, Danniel Vallejo, Jaime Faria o un Jaume Munar que ya ha pasado la primera ronda tras ganar al estadounidense Marcos Giron. Carlos Alcaraz, 23 años: \"Disfruto dando consejos. A veces parece que hablo mucho y no sé si ayudo\" Norteamericano será también el primer rival de Carlos Alcaraz, ya que debutará ante Alex Michelsen en primera ronda. Su camino no se alivia con el paso de las rondas, ya que Arnaldi sería su contrincante en segunda ronda, siempre que gane al joven Sakamoto, mientras que más adelante ya le esperarían en cuartos, Tommy Paul o Alejandro Tabilo, y las opciones para semifinales sería Taylor Fritz -con el que se enfrentó en la Laver Cup-, Lorenzo Musetti o Casper Ruud. Alcaraz, no obstante, llega pletórico tras ganar sus dos partidos en la Laver Cup. \"Me encanta formar parte de esto y me ayuda a recuperar la alegría cuando juego. También me ayuda mucho a encontrar de nuevo mi mejor tenis cuando estoy en pista y me ayuda mucho para el próximo torneo. Eso es lo que este tipo de eventos me aportan\", explicó el de El Palmar. Rafa Jódar, ante un rival de una previa de mucho nivel Rafa Jódar va por la otra parte del cuadro y debutará con un tenista de la fase previa, algo que, viendo el nivel ya comentado, puede ser más un problema que un alivio, ya que le va a tocar un jugador de mucho nivel y con dos partidos de adaptación más que el madrileño. Matteo Berrettini o Alejandro Davidovich, que juega hoy las semifinales del Chengdu Open, sería su rival en a siguiente ronda y ya podría vérselas con Jiri Lehecka o Frances Tiafoe en rondas más avanzadas. Ver esta publicación en Instagram \"> Jódar ha demostrado en la Davis y la Laver Cup haber olvidado el tropiezo en el US Open, donde llegaba de hacer una gran gira norteamericana y se vio totalmente superado en su debut. Carlos Alcaraz y Rafa Jódar conquistan Europa por primera vez juntos en la Laver Cup El del CT Chamartín espera poder cuajar un gran final de temporada , donde tiene un objetivo claro: la Copa Davis. \"El 'Top 10' no debe ser un objetivo, lo principal es acabar bien el año en los dos meses que quedan. Si no se consigue esa meta, intentar hacerlo lo mejor posible\", afirma sobre una fase en la que apenas defiende puntos y en la que podría subir mucho. \"La Copa Davis es una motivación extra. Va a ser el último torneo de este año y será especial si David, el capitán, confía en mí y me llama para ir a Bolonia. Yo estaré disponible\", advierte Rafa Jódar.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-28T09:43:33+00:00"
+        },
+        {
+          "title": "El líder de los obispos equipara la crisis de la vivienda con el aborto porque es \"un desahucio de consecuencias irreversibles\"",
+          "link": "https://www.eldiario.es/sociedad/lider-obispos-equipara-crisis-vivienda-aborto-desahucio-consecuencias-irreversibles_1_13543056.html",
+          "desc": "Luis Argüello rompe el silencio del episcopado para mezclar el 'caso Maricarmen' con la crisis de Ceuta y \"el desahucio del vientre materno provocado mediante el aborto\" Los obispos españoles callan ante el desahucio de Maricarmen o la crisis humanitaria en Ceuta Los obispos españoles han hablado, al fin, de la crisis de los desahucios y del drama de Ceuta . Y lo han hecho para, aprovechando la crisis de la vivienda, criticar el aborto: “Es un desahucio de consecuencias irreversibles” ha afirmado el presidente de la Conferencia Episcopal, Luis Argüello, en un texto colgado en sus redes sociales bajo el título, ‘Tres tipos de “desahucios” están de actualidad: vivienda, Ceuta y vientre materno’. En su artículo, el arzobispo de Valladolid apunta al “acuerdo social” sobre el grave problema de viviendas, aunque lamenta que sea “más emocional que moral” en el ‘caso Maricarmen’, que en su opinión se ha “convertido en bandera”. Al tiempo, denuncia el “desacuerdo legal, la manipulación ideológica y el conflicto político y social sobre las causas y las posibles soluciones a este grave problema”. No profundiza más. En segundo lugar, Argüello se refiere al ‘desahucio’ en Ceuta. “Los ceutíes viven el desahucio de sus calles, plazas y de su normalidad; los inmigrantes, –algunos desahuciados de sus países de origen, otros desplazados por intereses geopolíticos– son deslocalizados continuamente y se resisten a un desahucio definitivo”, apunta el presidente de la CEE, quien incide en que “los ceutíes, como gran número de españoles, desean un desahucio rápido y total de los que han entrado en la ciudad como ‘okupas’”. En medio, admite, hay “una crisis humanitaria –física, psicológica y moral– que afecta a todos, inmigrantes y ceutíes”, y “la manera de mirar a los inmigrantes en toda España”. Por ello, el presidente de los obispos ve “imprescindible un acuerdo nacional para ayudar a los ceutíes y solucionar la crisis humanitaria”, además de “un pacto de Estado y europeo que aborde las causas de las migraciones en los países de origen, combata las mafias –también haga frente a los Estados que utilizan los éxodos personas para provocar invasiones por intereses geopolíticos con comportamientos mafiosos– regule los flujos migratorios y acoja a los que llegan respetando su dignidad, que no se pierde al atravesar la frontera, aunque luego hubieren de ser retornados a sus países de origen”. Pero donde Argüello da un inexplicable giro argumental es a la hora de introducir “el desahucio del vientre materno provocado mediante el aborto”, que califica de “un desahucio de consecuencias irreversibles”. En este punto, el líder de los obispos aprovecha para denunciar la “ campaña moralista del Gobierno ” que presenta el derecho a la interrupción del embarazo como “un acto bueno, porque es legal, y autónomo”. “Habrá casos de un gran conflicto ético, pero nunca podrá justificarse la solución en un derecho legal que niega al hijo la vida en cuya dignidad se fundamentan todos los derechos”, culmina el presidente de los obispos, quien echa mano de la única frase en la que León XIV se refirió al tema en su visita a España: “La defensa de la vida humana no es una cuestión parcial ni un interés confesional: es una meta de civilización’, dijo León XIV en las Cortes”. Para Argüello, estos tres “desahucios” reclaman “diálogo sereno y grandes acuerdos”, aunque admite no ser optimista, llegando a hablar de “un ‘cuarto desahucio’: la razón y la voluntad de acuerdo por la defensa de la dignidad humana y el bien común parecen haber sido expulsados de nuestra casa común”. Toda la información en www.religiondigital.org",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-28T09:36:19+00:00"
+        },
+        {
+          "title": "Nvidia lanza una plataforma de seguridad para los agentes de IA tras los últimos incidentes",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVUpEcHpBajU3YnJKbWU2VlA2dzl0ZDV5QTlGaGZoYUMtQzRJZjY3UEtGX0czcW1WSWJubnd2cGNraEg1MFVFdDVLRmRnYzJNczhDTDVOajFpR3ZjaDlPWnpQdU1fODJvU2ZGN2pnX3JNelM4dnlGZ3o5V0FnSUp6Ni1Dbzl6cDVzR3FIUm03UnFzaEwzZVhJejJCNGNydHVfOGpVT0U0UElTUzhUQXZBcFJ4NldDQ1I3LXpmNmM4RTNhbV9iMHo4UkF2ckpMVTJ5YzFzbmxLUnJsUnpJVUJj?oc=5",
+          "desc": "Nvidia lanza una plataforma de seguridad para los agentes de IA tras los últimos incidentes MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:32:27+00:00"
+        },
+        {
+          "title": "Nvidia lanza herramientas de seguridad de IA para evitar brechas",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0V6V1JwMkYtRjk2c3V5T3djLXk0LWpTRmRyR0VYZEFSZUtWVGJ0N0VqcUxaUWhLN3pyeGM3SGN2Y0VkRnFGVTFOMEFWdnhSM2cwUkdaUld5S2o0ZEt6eGRoVGp4bXFvdktvQXpGSnhvemJpWE5Ob3hybnlLeU91ZkNhN1JlSmg4OWJ2VDNubHFhcU5GenJOYUdNUVdqRmMtUVJ4YzkxUGRMTndmeld0QjJjLWRVQQ?oc=5",
+          "desc": "Nvidia lanza herramientas de seguridad de IA para evitar brechas Investing.com España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:30:00+00:00"
+        },
         {
           "title": "Los nuevos chips de inteligencia artificial de Nvidia podrían entrar en el mercado chino",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZENaSWR5MDBmeXNzUlRkbTE2aVFpVGlzNXJtWWtyZk1PUHZHTXZDM3dvcjlKa0FfaWFMR1M2dUIxWnFKdmdsMm1NTlRZYWVIYXlYX2RJLUV5SVlydXBBUTVSNXFnYjRKSkJJME1aeGNmZ2QtYjdHX1hjWFJJZ25nMzN6ZmR4aVdET2dNRE15NnQ1ZEd6TkY3akdqZFdmOTY4NlBhTi00M0s2dDIzTWw5a3JDUXVjLXViazNjVHF2QV9wenVZWmY5M0VXWTZvYWFZcFNhbE45a2FDRk0y?oc=5",
@@ -664,41 +699,6 @@
           "desc": "La industria del software ofrece una gran cantidad de reproductores de vídeo para Android y en general para todas las plataformas. Muchas de las disponibles de terceras compañías incluyen anuncios que interrumpen la experiencia, pero hay otras que incluyen los códecs necesarios para funcionar, no tienen publicidad y son gratuitas para descarga y uso. Los […] La entrada Los 10 mejores reproductores de vídeo para Android (gratis y sin publicidad) se publicó primero en MuyComputer .",
           "source": "https://www.muycomputer.com/feed",
           "fecha": "2026-09-28T07:04:06+00:00"
-        },
-        {
-          "title": "12 nuevas imágenes de GTA 6 y más novedades del juego de Rockstar: será la portada de este mes en Game Informer",
-          "link": "https://vandal.elespanol.com/noticia/2026271004/12-nuevas-imagenes-de-gta-6-y-mas-novedades-del-juego-de-rockstar-sera-la-portada-de-game-informer/",
-          "desc": "Game Informer dedicará 14 páginas a GTA 6 con entrevistas a varios diseñadores de Rockstar, nuevos detalles de Leonida y Vice City y una docena de imágenes inéditas. A menos de dos meses de su lanzamiento, Grand Theft Auto VI comienza a ofrecer nuevos detalles. Game Informer ha anunciado que el esperado juego de Rockstar será la portada de su número 382, con un extenso reportaje que incluirá 12 nuevas imágenes y abundante información sobre Vice City y el estado de Leonida. La revista ha hablado con varios diseñadores principales de Rockstar Games para conocer más sobre la creación del enorme mundo abierto. El reportaje ocupará 14 páginas y estará especialmente centrado en cómo el estudio ha recreado su particular versión de Florida y en los sistemas que pretenden darle vida. Clima avanzado y una enorme cantidad de animales Entre las novedades que Game Informer promete abordar se encuentra el avanzado sistema meteorológico de GTA 6 , diseñado para recrear fenómenos habituales de Florida más allá de sus conocidas jornadas soleadas. La revista asegura que se trata de características que Rockstar no había explicado anteriormente. Grand Theft Auto VI is Game Informers next cover! Our 14-page cover story features exclusive interviews with @rockstargames , plus a dozen never-before-seen screenshots. Want your own copy of this collectible piece of gaming history? https://t.co/r4vD4ruzph Read it next week pic.twitter.com/K3SkR6T7QM  Game Informer (@gameinformer) September 25, 2026 También conoceremos más sobre la gran cantidad de fauna que poblará Leonida, con animales terrestres, voladores y marinos , tanto especies nativas de la región como otras que no lo son. Las criaturas ya han tenido una presencia destacada en algunos de los materiales oficiales del juego, con ejemplos como caimanes, flamencos y diferentes especies marinas. Otro de los temas será el proceso de documentación utilizado por Rockstar para recrear Miami y Florida . El estudio explicará cómo investigó la región, su cultura y su estética con el objetivo de construir el mundo más fiel y creíble posible dentro de su particular sátira de Estados Unidos. El reportaje estará acompañado por 12 capturas inéditas de GTA 6 , que mostrarán nuevos lugares y habitantes de Leonida. La portada del número también cuenta con una ilustración original proporcionada por Rockstar protagonizada por Jason Duval y Lucia Caminos. La edición digital de la revista estará disponible el 29 de septiembre , mientras que la edición impresa llegará posteriormente a suscriptores y tiendas. Esto significa que en apenas unos días podremos conocer con más detalle todas las novedades recogidas en las entrevistas. Grand Theft Auto VI se pondrá a la venta el 19 de noviembre en PS5 y XBOX Series X/S .",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-28T06:56:00+00:00"
-        },
-        {
-          "title": "Acciones chinas de chips caen ante posible venta de Nvidia en China",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemdpVTM1Z3NwbVg0NXdMdWhTNk5OQ2YwNC1qcklvX2dWODZMaGowa0F3SXJWN05TcUhYUFdMMVBfRlZmejctazMzZWs0cWd5UE1xSnZpVnJBR1lfNGpDeFphX01LLUtLYTVlbzJRaU9VcGdqMVBUWDNabHRhNmhocHQ0NHRfR3RvSGdJeW1LdWZlNWc?oc=5",
-          "desc": "Acciones chinas de chips caen ante posible venta de Nvidia en China Yahoo Finanzas",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T06:22:00+00:00"
-        },
-        {
-          "title": "Prepara tu cartera: todos estos nuevos videojuegos salen esta semana (del 28 de septiembre al 4 de octubre)",
-          "link": "https://vandal.elespanol.com/noticia/2026271003/prepara-tu-cartera-todos-estos-nuevos-videojuegos-salen-esta-semana-del-28-de-septiembre-al-4-de-octubre/",
-          "desc": "¿Ya no salen buenos juegos? Estos son los lanzamientos más destacados de la semana del 28 de septiembre al 4 de octubre en PlayStation, Xbox, PC, Switch y Switch 2. Los lanzamientos de videojuegos de 2026 llegan al último trimestre del calendario. Aunque cierto titán está a poco más de un mes de sembrar el caos, muchos otros siguen buscando su lugar. El mercado actual sigue escondiendo propuestas muy sólidas y atractivas para todo tipo de jugadores y no solamente en lo que a AAA y blockbusters se refiere y esta semana tenemos. Por ello, hoy recopilamos para vosotros una selección de los lanzamientos destacados de los próximos días . Recordad que esta no es una lista completa de estrenos y os animamos a recomendar en la sección de comentarios los que vosotros estéis esperando para esta semana y puedan pasarse por alto. Lanzamientos de videojuegos destacados de la semana del 28 de septiembre al 4 de octubre de 2026 El martes 29 de septiembre tenemos bastantes estrenos . Comenzamos con algo extremadamente contundente: The Witcher 3: Wild Hunt - Remastered (PC, PS5, Series X|S y Switch 2) . Geralt vuelve a cabalgar por los Reinos del Norte mientras Nilfgaard sigue con su conquista. El juego ofrece las dos expansiones y diversas mejoras , además de ser gratuito si ya tenías el juego en cualquiera de las ediciones anteriores. Que esto no desvíe la atención de Nivalis Nights (PC) , un interesante simulador de vida cyberpunk en el que tendrás que gestionar tu negocio y hacerlo crecer. ¿Un restaurante? ¿Un club nocturno? Todo vale para conseguir dinero con el que comprar mejoras y decorar tu apartamento. El siguiente juego del martes es Minecraft Dungeons 2 (Series X|S, PC, Nintendo Switch y Switch 2, PS5) . Toca volver a explorar mazmorras en la secuela de esta particular visión del universo Minecraft . Cerramos con otra secuela: TOEM 2 (PS5, PC y Switch 2) . Toca sacar más fotos en esta aventura de corte indie . @vandalonline Los MEJORES LANZAMIENTOS de la semana (28 sept - 4 oct) 🔥 #noticiasdevideojuegos #juegosnuevos #vandal ♬ sonido original - Vandal (Oficial) Un pequeño salto al jueves 1 de octubre . Este día tenemos dos propuestas. La primera es End of Abyss (PC, Series X|S, PS5) . En este juego (del que recomendamos alejarte si los espacios opresivos te causan angustia) encarnaremos a una técnica que explora una base submarina ... mientras criaturas de todo tipo intentan acabar con ella. El segundo juego de este día es Ghost of Yotei: Complete Edition (PS5) . La reedición incluye la expansión Ecos de Sekigahara , que hace de precuela cuya trama gira en torno a lo que sucedió y las consecuencias de una de las batallas más importantes de la historia de Japón. Con esta expansión llega también un modo roguelike con varios personajes . Entre ellos figura Jin Sakai, el legendario Fantasma que liberó Tsushima de la invasión mongola. El viernes 2 de octubre tenemos otro lanzamiento que quizás pase más desapercibido, pero su trayectoria y longevidad de la saga habla por sí sola. Ace Combat 8: Wings of Theve (PS5, PC, Series X|S) te pondrá en la piel de un piloto al que le tocará ser el estandarte de una liberación.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-28T06:17:00+00:00"
-        },
-        {
-          "title": "China sopesa autorizar a gigantes como Alibaba o ByteDance a comprar los chips más avanzados de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXVqdTIwZVQyVFVqdzdfVE95UHBnbXEzR3V2SzN6UnRkYmZuaTNGU1ZXSXFxWmRvM0FKQzcwdnpVbGo5aGcyc0dWT256QzJ0NXNBS0RvTTBoSjk1cWVpbkdpOGE0Ry1kX1BYc1Y4YTdsTEZRQkZfX1djOENOYUFkNDY2dk45ckt6aUd0Rkw2N21UNEFTUmhhbkVPWEw4ZFJkSEVpZVJUdjBydWpjd1U3QUMzZHJESWph0gG-AUFVX3lxTE8tWE1DWEFlUGxmUHhOSG5hWTF0WklXTU52UzNCVVcybVp5MHBlcExuZDhLS3pLRnlFb2Z4N0NQOUdYVnJXcjF5LWw0TjJtUXdDT3pRZXdjbnVGMEFHQVQ0V3FsWTl2WU11T3o5QkcwX2VPQ3A1U1ZIbUNRSXd0dFRTRzJOUzB2dDUyUjNvVVVNQUxsMVdRQmExdGxYQS12SklyX2tTRm9PNDZkSEpxMjFMZ2NJb0dwTExEYm53a0E?oc=5",
-          "desc": "China sopesa autorizar a gigantes como Alibaba o ByteDance a comprar los chips más avanzados de Nvidia Business Insider España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T06:03:05+00:00"
-        },
-        {
-          "title": "La jueza imputa a un concejal de Vox en Santa Coloma de Gramenet por desvelar nombres de migrantes que reciben ayudas",
-          "link": "https://www.eldiario.es/catalunya/jueza-imputa-concejal-vox-santa-coloma-gramenet-desvelar-nombres-migrantes-reciben-ayudas_1_13538680.html",
-          "desc": "La magistrada admite la querella de entidades sociales colomenses y cita como investigado a Aitor Navarro por delito de odio y revelación de secretos Los datos que desmienten a Vox: España tiene el doble de extranjeros que en 2005 y una tasa de delincuencia más baja Una jueza de Santa Coloma de Gramenet (Barcelona) ha imputado por un delito de odio y otro de revelación de secretos al concejal de Vox Aitor Navarro por sus discursos abiertamente xenófobos y por haber desvelado la identidad de migrantes que reciben ayudas sociales del municipio. En un auto, al que ha tenido acceso elDiario.es, la jueza acepta la querella que distintas entidades sociales de Santa Coloma presentaron de la mano del abogado David Aranda, y cita a Navarro para comparecer como investigado el próximo 17 de noviembre. Desde que obtuvo el acta de concejal en las elecciones de 2023, Navarro se ha caracterizado por discursos racistas y xenófobos que vinculan la inmigración con la inseguridad. El edil, además de polémicas intervenciones en los plenos, cuenta con una amplia presencia en redes sociales, donde emite su ideario a golpe de vídeo. La querella de SOS Racisme, el Centre d'Acolliment de Santa Coloma, Ca la Sisqueta, Espai Gramenet, Papers i Drets per Tothom y Ningú Sense Llar Gramenet enumera las intervenciones del edil que, a juicio de las entidades, suponen un delito de odio y otro de revelación de secretos. Las entidades han celebrado la admisión a trámite de la querella y han valorado que los mensajes de Navarro “ponen en peligro la tolerancia, la convivencia y la cohesión social que ha sobrevivido a diferentes migraciones que Santa Coloma de Gramenet ha vivido en su historia” Especial atención fijan las entidades en la intervención de Navarro en un programa de videostreaming , donde el edil difundió nombres de pila y nombres y apellidos de personas que habían recibido alguna subvención o ayuda social del consistorio colomense. Además de los nombres y la cantidad de ayuda percibida, Navarro salpimentó su intervención con comentarios como “depende de la hoja se ven nombres chinos, pakistaníes y dices, ¿guau, el español dónde está? En su casa trabajando sin llegar a final de mes”. Los querellantes resaltan que las expresiones del edil, “más allá de un contenido típico de discurso de odio”, podrían suponer un delito de revelación de secretos, ya que sospechan que Navarro podría haber accedido a los datos tras acceder “indebidamente” a los registros informáticos del Ayuntamiento. Es más, en otro post de Instragram, Navarro incluyó un enlace que llevaba a un documento de 48 páginas donde constaban nombres y apellidos de personas “que han recibido en algún momento una subvención o ayuda pública” del consistorio, agregan las entidades. Navarro es uno de los dos concejales de Vox en el municipio colomense, donde el PSC gobierna desde hace décadas con una cómoda mayoría absoluta. Sin embargo, según fuentes conocedoras de la política local, el edil emplea un tono duro tanto contra el equipo de gobierno como contra el PP y “enciende” los plenos habitualmente. En redes sociales, Navarro tira del manual de la extrema derecha de toda Europa para instalar la xenofobia entre las clases populares y vincula de forma reiterada delincuencia e inmigración, pese a los datos que lo desmienten . Varios de los discursos del edil en los plenos y redes aparecen en la querella, ya que las entidades sociales creen que podrían suponer un delito de odio. “No toleraremos actitudes que promuevan el odio y la discriminación racista contra las personas migradas a fin de obtener rédito electoral y distraer la atención de otros problemas sociales más graves, como la crisis de la vivienda”, agregan las organizaciones sociales. En la querella aparece otro episodio sucedido a pie de cale. A finales de 2024, aseguran los denunciantes, Navarro increpó por la calle a una activista musulmana que repartía octavillas de una manifestación para bajar los alquileres y le dijo “te cambio uno de los tuyos por uno de los míos”. En su TikTok, agrega la querella, Navarro se ha grabado colgando carteles con el mensaje “¡Extreme la precaución en esta zona! PP y PSOE están repartiendo ilegales aquí”, y llamando a decir “no al reparto de ilegales”. En otro de sus vídeos en redes, Navarro criticó una iniciativa municipal porque, a su juicio, ofrecía “un plan ocupacional para mujeres inmigrantes tengan o no la documentación”, y en otra grabación se situó en un parque que tildó de “zona cero de la islamización” de un barrio de la ciudad.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-28T06:00:04+00:00"
         }
       ]
     },
@@ -707,9 +707,9 @@
       "icono": "📈",
       "items": [
         {
-          "title": "Banco Santander ve los tipos de interés \"por encima del 3%\" en 2027, cuando prevé que comiencen a bajar",
+          "title": "Santander y Caixabank apuntan a una subida de tipos de interés por encima del 3% y el 4% en 2027",
           "link": "https://www.eldiario.es/economia/banco-santander-ve-tipos-interes-3-2027-preve-comiencen-bajar_1_13542815.html",
-          "desc": "El consejero delegado de la entidad, Héctor Grisi, reconoce que el mercado va más lejos al estimar que los tipos pueden llegar al \"3,5% o 4% en el año próximo La subida de los tipos acelera la pelea de los bancos por captar los depósitos de ahorro y las cuentas remuneradas Los bancos ven los tipos de interés al alza y durante bastantes meses . El consejero delegado de Banco Santander, Héctor Grisi, asegura que prevé que los tipos que marca el Banco Central Europeo (BCE) se sitúen “tal vez por encima del 3% en el año que entra y que empiecen a bajar” durante el ejercicio. El directivo, en cambio, asume que “el mercado” va más lejos y estima que los tipos lleguen a estar al “3,5% o 4% en el año próximo”. Sin embargo, el consejero delegado de la entidad presidida por Ana Botín acota el avance de los tipos en lo que queda de 2026. “Yo creo que deberíamos estar 2,75%” y al “3% a finales de año”, es decir, de aquí al 31 de diciembre. “Lo importante es que la inflación empiece a ceder, a bajar”, ha reconocido, porque estos picos de inflación asume que afectan, sobre todo, a las rentas más bajas. “Los Bancos Centrales están haciendo su trabajo”, ha recalcado. Santander pausa las adquisiciones dos años En cuanto a la actividad del banco, Grisi ha apuntado que las últimas adquisiciones, en Estados Unidos y Reino Unido, son “piezas que necesitamos para que nuestras operaciones sean mejores, para tener bancos más competitivos”. También que si el banco ve que la recompra de acciones es la “mejor manera de remunerar a un accionista, la vamos a hacer; pero la principal manera para crecer el crecimiento orgánico rentable”. Y no ve compras a corto plazo. “Nosotros hemos sido muy claros, vamos a hacer una pausa de dos años en adquisiciones, hay que hacerlas de forma responsable”. “Queremos estar tranquilos los próximos años para digerirlas bien”, ha asegurado.",
+          "desc": "El consejero delegado de Caixabank apunta a \"una desaceleración en el crecimiento del credito hipotecario, porque la gente querrá comprar una vivienda, pero no llegará por los precios actuales\" La subida de los tipos acelera la pelea de los bancos por captar los depósitos de ahorro y las cuentas remuneradas Los bancos ven los tipos de interés al alza y durante bastantes meses . El consejero delegado de Banco Santander, Héctor Grisi, asegura que prevé que los tipos que marca el Banco Central Europeo (BCE) se sitúen “tal vez por encima del 3% en el año que entra y que empiecen a bajar” durante el ejercicio. El directivo, en cambio, asume que “el mercado” va más lejos y estima que los tipos lleguen a estar al “3,5% o 4% en el año próximo”. Esa es la misma opinión que ha manifestado en un encuentro financiero el consejero delegado de Caixabank, que ve los tipos por encima del 4%, que entiende como “una banda alta, pero razonable”. El consejero delegado de la entidad presidida por Ana Botín acota el avance de los tipos en lo que queda de 2026. “Yo creo que deberíamos estar 2,75%” y al “3% a finales de año”, es decir, de aquí al 31 de diciembre. “Lo importante es que la inflación empiece a ceder, a bajar”, ha reconocido, porque estos picos de inflación asume que afectan, sobre todo, a las rentas más bajas. “Los Bancos Centrales están haciendo su trabajo”, ha recalcado. Y el de Caixabank ha recalcado que “controlar la inflación” es el paso clave, porque es“el peor impuesto para las clases trabajadoras” y que tanto “los tipos altos como los bajos son muy malos” para las entidades financieras. “Venimos de una caída del endeudamiento hipotecario, en los dos últimos años ha sido una situación positiva”, ha reconocido Gortázar. “Nos acercamos a un problema de asequibilidad, con tipos más altos eso tiene su impacto en el mercado. El año que viene vamos a ver una desaceleración en el crecimiento del credito hipotecario, porque la gente querrá comprar una vivienda pero no llega [a poder comprarla] a los precio actuales”. Por su parte, Gloria Ortiz, consejera delegada de Bankinter, ha indicado que no hay un punto claro donde los tipos golpeen el crecimiento. “Soy optimista, porque las familias y las empresas están en una situación de fortaleza”. Santander pausa las adquisiciones dos años En cuanto a la actividad del banco, Grisi ha apuntado que las últimas adquisiciones, en Estados Unidos y Reino Unido, son “piezas que necesitamos para que nuestras operaciones sean mejores, para tener bancos más competitivos”. También que si el banco ve que la recompra de acciones es la “mejor manera de remunerar a un accionista, la vamos a hacer; pero la principal manera para crecer el crecimiento orgánico rentable”. Y no ve compras a corto plazo. “Nosotros hemos sido muy claros, vamos a hacer una pausa de dos años en adquisiciones, hay que hacerlas de forma responsable”. “Queremos estar tranquilos los próximos años para digerirlas bien”, ha asegurado.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-28T08:40:29+00:00"
         },
@@ -730,7 +730,7 @@
         {
           "title": "La firma de hipotecas sufre su mayor caída en dos años tras la maniobra del BCE y el tipo de interés medio supera el 3%",
           "link": "https://www.20minutos.es/nacional/firma-hipotecas-sufre-su-mayor-caida-dos-anos-tras-maniobra-bce-tipo-interes-medio-supera-3_7041985_0.html",
-          "desc": "En julio se concedieron 43.372 préstamos para la compra de una vivienda, un 3,5% menos que el año pasado. El tipo de interés medio subió al 3,01%. Es la primera vez en 18 meses que supera el umbral del 3%.",
+          "desc": "Se concedieron 43.372 préstamos para la compra de una vivienda en julio, un 3,5% menos que en 2025. El tipo de interés medio supera el umbral del 3% por primera vez en 18 meses.",
           "source": "https://www.20minutos.es/rss/",
           "fecha": "2026-09-28T09:07:19+02:00"
         },
@@ -744,7 +744,7 @@
         {
           "title": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnVpWllBbW9jUk5wLXFfYy1VMlNoUE94NGZ0MWZPS1FoczVnLUZScmZnUEhMUmg1TDVOY3oza0cxcE9pM05nY2h2bDg3U1hVYzVWRC1JeWlUYjRPenYwbTRQbEV4c2xQdkowOXlfdlU1OG5CZ0JBd3dOZFJlejJXV3JHREJ1WldDaktqNWVxc0VHekx1V0U3SGlIcVoxX3hs0gGgAUFVX3lxTFBiYVBiU0pLSmtqTEJwa0QxOS10UWJta3dRdk44RnZ2RWh3WjlGMUNRUExJdllCLWRlYk9WVE45S05XM2FkUjc4Z0V0eHdhYm9zdExjZnl4dnQzdDJsdE1HTVNFRVMxUm5Db3lWZG5JMnVaZk9ESDlVc3VHVThBWEtEeGlxN3NwbE9tRVVBRHQtY2tTcTBHQ2VCVDU1bl8zV3g?oc=5",
-          "desc": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida Expansión",
+          "desc": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida expansion.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T05:22:43+00:00"
         },
@@ -881,6 +881,27 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "Nvidia presenta Open Agent Safety Platform para proteger los agentes de inteligencia artificial",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR3NlVHBlcGJhVnNJTXFtaWJFWmF4ZURLLVkwZ2Q1SGtGaGV4ODgyY1JMSVlEQURJUFlDOWZWeHo2WmM0NFFBQ1p2OFg4Nk1uRkxNNXdIYTk3NVpRcHBQUGF3dm1kT3RjODJOMDZBcVNPX0kyaUtuNFhvV3lNbC1uRDFIZkJQckdXYVA5LTRZMmYzNk81Rm1TRVhGRGRfaUduZzNpOExBOE9KZEZxQnZyNlEwdHQxZzl5dnk3Ylh0VENSTWc1cHl6Q2EtOGhsZHpCZEtaZjVaTVYxQmFMUkVSb28tVTBDZw?oc=5",
+          "desc": "Nvidia presenta Open Agent Safety Platform para proteger los agentes de inteligencia artificial MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:51:09+00:00"
+        },
+        {
+          "title": "Nvidia lanza una plataforma de seguridad para los agentes de IA tras los últimos incidentes",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVUpEcHpBajU3YnJKbWU2VlA2dzl0ZDV5QTlGaGZoYUMtQzRJZjY3UEtGX0czcW1WSWJubnd2cGNraEg1MFVFdDVLRmRnYzJNczhDTDVOajFpR3ZjaDlPWnpQdU1fODJvU2ZGN2pnX3JNelM4dnlGZ3o5V0FnSUp6Ni1Dbzl6cDVzR3FIUm03UnFzaEwzZVhJejJCNGNydHVfOGpVT0U0UElTUzhUQXZBcFJ4NldDQ1I3LXpmNmM4RTNhbV9iMHo4UkF2ckpMVTJ5YzFzbmxLUnJsUnpJVUJj?oc=5",
+          "desc": "Nvidia lanza una plataforma de seguridad para los agentes de IA tras los últimos incidentes MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:32:27+00:00"
+        },
+        {
+          "title": "Nvidia lanza herramientas de seguridad de IA para evitar brechas",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0V6V1JwMkYtRjk2c3V5T3djLXk0LWpTRmRyR0VYZEFSZUtWVGJ0N0VqcUxaUWhLN3pyeGM3SGN2Y0VkRnFGVTFOMEFWdnhSM2cwUkdaUld5S2o0ZEt6eGRoVGp4bXFvdktvQXpGSnhvemJpWE5Ob3hybnlLeU91ZkNhN1JlSmg4OWJ2VDNubHFhcU5GenJOYUdNUVdqRmMtUVJ4YzkxUGRMTndmeld0QjJjLWRVQQ?oc=5",
+          "desc": "Nvidia lanza herramientas de seguridad de IA para evitar brechas Investing.com España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:30:00+00:00"
+        },
+        {
           "title": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDVEY2stTWlfZUlFMlVWOW16bHh1YmlwaVpXdVJsRTlJRm13OUJKMktXbkRIaUJYczFPSW9TNnJnaDl0QnFHcUk1M0dMVExkcjA2SHljSUEyaDdHcHc5aWR1akVNQzc0U3o2M2hEN3AzQ3VxQXNBSmRPZ2NSQnBQVFJTUDZSQlFO?oc=5",
           "desc": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk NeoTeo",
@@ -995,7 +1016,7 @@
         {
           "title": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnVpWllBbW9jUk5wLXFfYy1VMlNoUE94NGZ0MWZPS1FoczVnLUZScmZnUEhMUmg1TDVOY3oza0cxcE9pM05nY2h2bDg3U1hVYzVWRC1JeWlUYjRPenYwbTRQbEV4c2xQdkowOXlfdlU1OG5CZ0JBd3dOZFJlejJXV3JHREJ1WldDaktqNWVxc0VHekx1V0U3SGlIcVoxX3hs0gGgAUFVX3lxTFBiYVBiU0pLSmtqTEJwa0QxOS10UWJta3dRdk44RnZ2RWh3WjlGMUNRUExJdllCLWRlYk9WVE45S05XM2FkUjc4Z0V0eHdhYm9zdExjZnl4dnQzdDJsdE1HTVNFRVMxUm5Db3lWZG5JMnVaZk9ESDlVc3VHVThBWEtEeGlxN3NwbE9tRVVBRHQtY2tTcTBHQ2VCVDU1bl8zV3g?oc=5",
-          "desc": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida Expansión",
+          "desc": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida expansion.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T05:22:43+00:00"
         },
@@ -1007,6 +1028,13 @@
           "fecha": "2026-09-28T05:12:00+00:00"
         },
         {
+          "title": "ByteDance compraría hasta un millón de chips de Nvidia si China los autoriza - López-Dóriga Digital",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGNxdjRfYUhWODh1ejNQWmZWRUk3STF6emx0eGJnaFpkd0NYcU1xUmg3TW9sY0xLWWp3U1RtVXJyaWJjSXNZSWFoc19seXpWU1Z3QlF0eXIxWk9RRklGT0xwWDN5SnhxVnp6WDVRNjNBc09mM0RudWdFWnlHNy03bGJPOTVHbFFoTVZaSlNYM2NlVFhxb3FfY2Jnd1R4bnRqVTM0SXRDOVk2aUR6M2NkYzZfOERwRzk1Y2M0MA?oc=5",
+          "desc": "ByteDance compraría hasta un millón de chips de Nvidia si China los autoriza López-Dóriga Digital",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T04:06:24+00:00"
+        },
+        {
           "title": "Jensen Huang (Nvidia) en Barcelona el 13 de octubre // Feijóo “presidente, presidente” en una boda de la élite catalana",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRGF2VGZZaEVXLWVhdnVTYWdtaGJaN0p0b1d1NHY4c1Y4Ykx3OHJ0VmgwMk5sMHNlUFMwdWFDekprZjl6S2pXN3N1dS13Q3JTbGxoRmFuVm5fZ0VDdmlKUS1vV0c3TXlORlRzQ1V0RWl6RURfaERrY0NtU2toR0w3ekZyQW5sWXZ1QXFyTkJMQ1MwTWVwblNHLWk3eXBSRDFlbDdnankxRkhEcFJRbUlRcFJabEFidzZQMEMyeDhUMDNYLTN4dEpPb3lvZ25SZHZRRWd2Y01icjdxSHhTY3B2UlpYaTnSAeoBQVVfeXFMUE0ydVhYTEQ2UmZ6bmEyd2FlM2kxcnBhSjlHS1FIS0VQa0lHLXpXb29FTnh6VURCd1BVcWFYOXIzUjlYRkxxdEd3YnpuamNXWmRqY2JTNUpkOU80WVo5bFF5WDNraGw3WEJRZjRSMWxLeEVPSHRucVg5eFpMTDlNMGdidktVWGYzYkN5Y2JhUHowVUdhaDFqRmFVUU42WTBqTGkwdFBTenlTZWlpY2lUMzdwd2x3dm93U2lfcFF1U0ZtR0cyRjVqcVJkTHZ1aGUtc2hWeDFZVlJaR1JySXc0dXhyYjYwOWh0RG1n?oc=5",
           "desc": "Jensen Huang (Nvidia) en Barcelona el 13 de octubre // Feijóo “presidente, presidente” en una boda de la élite catalana La Vanguardia",
@@ -1014,39 +1042,11 @@
           "fecha": "2026-09-28T04:00:00+00:00"
         },
         {
-          "title": "ByteDance compraría hasta un millón de chips de Nvidia si China los autoriza - López-Dóriga Digital",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGNxdjRfYUhWODh1ejNQWmZWRUk3STF6emx0eGJnaFpkd0NYcU1xUmg3TW9sY0xLWWp3U1RtVXJyaWJjSXNZSWFoc19seXpWU1Z3QlF0eXIxWk9RRklGT0xwWDN5SnhxVnp6WDVRNjNBc09mM0RudWdFWnlHNy03bGJPOTVHbFFoTVZaSlNYM2NlVFhxb3FfY2Jnd1R4bnRqVTM0SXRDOVk2aUR6M2NkYzZfOERwRzk1Y2M0MA?oc=5",
-          "desc": "ByteDance compraría hasta un millón de chips de Nvidia si China los autoriza López-Dóriga Digital",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T03:58:38+00:00"
-        },
-        {
           "title": "China sopesa permitir a tecnológicas que compren los últimos chips de Nvidia, según medio",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM1c2YktpYnpmZGFtNTBOUlE5dmV4SENnZ3ZQdFZyV1gwcHNUaVFqdGptNGR5dUFIUTBUVDdUWmh0dlBnaWZ1MmR0cDZFclNIdlhpc3NfUXp1M0xfVHUxbFNCUlBSNTAteWNWTndZZjZoWGwzeE5fbmctcGMxWTJkRUxHNy1yZ1BDZ0t4VXhIODNhNXRScXhWMk1wbERSYUFDNFE3c2NQbV8zdHd5X3ZUQ2daVm5WcHExZlBhVGhaZEJ6SWk2cFlDSmJSTEk0NjVwOENqaVVvZ1bSAfMBQVVfeXFMTy1OUi1GYjVvRzJFZkx0S2VFTUpNYWM0VzRQa0tGMktIVUcwSEJuTEVMMGplRTN3SlFVbTBxSXZBby1QMlo2VVlqNWFVT0pYOHpfeXBEdnkyc21HTW9GVWxGd0x3dFV2NE5ybjlUcHB3alJqSzNWZE80aWU5c2xoY3l0QVZmWkpESXlmU2tlNDVXUEoySGswUDh5UWlMZnY5OVBvcEY2QWNsUjBOMTVtdmVOLXlEZ2tFby1GeFN2VFdZalR2MVZsWjFqNE1KZF83VDVMa2RXN3VhYjFXa09ZNHoxZ0lxSXVla3MtbEp5YW05bS1v?oc=5",
           "desc": "China sopesa permitir a tecnológicas que compren los últimos chips de Nvidia, según medio Infobae",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T03:45:41+00:00"
-        },
-        {
-          "title": "Le deben US$1.000M en acciones de NVIDIA de 1993",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmNDTzRGOHpZTGxBYXNlQ1ZmVGI5SVJQcUFwMHZVY2hpdFpheF9NS3FjN21iSEh0WkpYbjBvVVNrbkhKNjI3REFJWkV3dDJhSF9FNXpQNUVRTTRIaEp4blZpUjNNOXdwYkRFU3V6WVdKTXh0NVl1ZXQySHdQZWxkMzNVSVk?oc=5",
-          "desc": "Le deben US$1.000M en acciones de NVIDIA de 1993 El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T03:06:31+00:00"
-        },
-        {
-          "title": "DLSS 5 en GPUs AMD mejora hasta un 117% entre versiones y ya alcanza cerca de 50 FPS en Cyberpunk 2077",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40R1FvMUljN2VFbTNHQVhFbHNmV3VhSFJ6Wi1GVUVzdTdEM2xsVzAwYXVBTUpGZXluZHJJamNSOEl2Tk5YY3RfUnpKLVV0TjFYTHVRTnRPUWFEd0FZN0Q5VV91TWNiRXlKQnN2SVRRRFhqcTNsZ28yM1kwcE5MVkE?oc=5",
-          "desc": "DLSS 5 en GPUs AMD mejora hasta un 117% entre versiones y ya alcanza cerca de 50 FPS en Cyberpunk 2077 PC Master Race Latinoamérica",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T01:14:43+00:00"
-        },
-        {
-          "title": "LG figura en la red de refrigeración de NVIDIA",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHNqZVNUY09jLVpUV2pvRFhVcmVuRlhfV0RReFl6WDVLcnR0OUdTMG9VQ2VkbUNLYUV2MWNuRHBEcHdUSjBxR0JYQWhfM3VRRlpGM1dWd2dxbWZpMjExQWprNW9US1Nodi1MSkN3NzFOV3ZEME1fX1k2T1lrVGRhb1V6V3BUOXB1VkM2ZW81cGR1SWdCQUE?oc=5",
-          "desc": "LG figura en la red de refrigeración de NVIDIA NeoTeo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T00:56:57+00:00"
         }
       ]
     },
@@ -1082,6 +1082,13 @@
       "icono": "🖥️",
       "items": [
         {
+          "title": "Pronóstico del precio de las acciones de AMD: La acción alcanza un máximo histórico, apunta al próximo objetivo de $732",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUJpZWlfNS1kQlM3N2ZWaGd5RXhvX25EeUFvM3hOaFFnVGlOdUl3a3JfMGpZM1JLNVpTbkttZ3lXd09hbWh1V3JGN3VLb0VWVlhjNXpTNkpkbS1tOWNYeEFlZ192MXBLNC0wUUo5N0lCZWJsX0EyZVcxNlZDdFdzTnRVLUwtSWRick1yTHdJb1ZHczAzLWQzS2tjYXhhQU5mdUw2VU9uenUwS1c3UUZ3ZUVDcFc0Q1hsVWV4WDd4Zy1GWjFS?oc=5",
+          "desc": "Pronóstico del precio de las acciones de AMD: La acción alcanza un máximo histórico, apunta al próximo objetivo de $732 TradingKey",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-28T09:45:18+00:00"
+        },
+        {
           "title": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDVEY2stTWlfZUlFMlVWOW16bHh1YmlwaVpXdVJsRTlJRm13OUJKMktXbkRIaUJYczFPSW9TNnJnaDl0QnFHcUk1M0dMVExkcjA2SHljSUEyaDdHcHc5aWR1akVNQzc0U3o2M2hEN3AzQ3VxQXNBSmRPZ2NSQnBQVFJTUDZSQlFO?oc=5",
           "desc": "DLSS 5 en AMD: el proyecto afirma 75 FPS en Cyberpunk NeoTeo",
@@ -1098,7 +1105,7 @@
         {
           "title": "Minisforum pone precio a su mini PC AMD de 192 GB: 7.399 dólares",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNml4N3g5dnlJSE1RX1JEMUhaNjJMTjQxX1RlekNGQVJMUE8teHFUbk04TmRZMXpMWDVsTlhnWjB6Ty00WEg2M0F0MWxBU1hEdjRQUE5BQ1Qxcm5IcDFrUnlJS2JJZzRCd0ZDZnlKcVV3bldmNWFOeVQzOTlDYmhES3hnNjdvRXFYd2FUZmtYRGxjUW5EZjJrQg?oc=5",
-          "desc": "Minisforum pone precio a su mini PC AMD de 192 GB: 7.399 dólares hardwarepremium.com",
+          "desc": "Minisforum pone precio a su mini PC AMD de 192 GB: 7.399 dólares Hardware Premium",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T08:00:00+00:00"
         },
@@ -1175,7 +1182,7 @@
         {
           "title": "Minix ZR535: un mini PC AMD con doble Ethernet por 529 dólares",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDNOSUU0VG9UbU9JR3I1Z0tjYTNVSl9xWVpHQm5URmVJSkFaeDhwLTd5UFBXZWZEV0FsUy1hUm16QVJqRm15RTdwWU1GdXoyQV85cWNubHlZckpsZkh5elFtRGFZN2ZySW1ILWxMNTZXR1ZtNjZsZWxadG5xTjUxYmpaOHlxQ09K?oc=5",
-          "desc": "Minix ZR535: un mini PC AMD con doble Ethernet por 529 dólares hardwarepremium.com",
+          "desc": "Minix ZR535: un mini PC AMD con doble Ethernet por 529 dólares Hardware Premium",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T12:00:00+00:00"
         },
@@ -1189,7 +1196,7 @@
         {
           "title": "DLSS 5 acelera en Radeon: el mod gana rendimiento y simplifica la instalación",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjdfODQ4MlFEQ2NHVi0zMWtKeWxWMnhxd1N1Q0JhWjl1Y3Vfbkg3Wk9TZlNlRkk0UHZmS3lIbGE5Y0FYSEw2cklyc09UVEdoUVBPcEtLUzNWczEtZDFDR0V5YjltaGh5UlJ5NGxpam9fNFJTbGRJNW9MblVySDhLTDdENkFlT1hOSlZlanp6U1N0RXd5V3Q0?oc=5",
-          "desc": "DLSS 5 acelera en Radeon: el mod gana rendimiento y simplifica la instalación hardwarepremium.com",
+          "desc": "DLSS 5 acelera en Radeon: el mod gana rendimiento y simplifica la instalación Hardware Premium",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-27T10:00:00+00:00"
         },
@@ -1210,16 +1217,9 @@
         {
           "title": "Bank of America Sees AMD at $720 on CPU Demand. Anthropic’s $11.6 Billion Akamai Deal Is Part of Why",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHBfeXMteXFWZXdBU19LTkVzLXNHYXhFdm11S29pOF9sRWV3S18tUlp3Y1pxcFp1cXNhejJORWh5SnhmWEFoeUZlUXlNZ29jLVZ4bUlPN18wWUlYU3JRN3UxUm9aQUVyeW5XdUptUlBCaE1xTDNWU3d2QlRGWEdkVkdJSVVqU1Z4VFB1SEpOSmNoMEFPMjhCMjZlNVN5YzFLRDBJaFMwNnFIeFFiXzRYcVZONmNscmtwdTgyTVI4WDNxcnlT?oc=5",
-          "desc": "Bank of America Sees AMD at $720 on CPU Demand. Anthropic’s $11.6 Billion Akamai Deal Is Part of Why TIKR.com",
+          "desc": "Bank of America Sees AMD at $720 on CPU Demand. Anthropic’s $11.6 Billion Akamai Deal Is Part of Why tikr.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-26T13:17:32+00:00"
-        },
-        {
-          "title": "AMD AT2 apunta a 70 Compute Units y hasta 3,4 GHz como posible GPU RDNA 5",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEFCdzM3RW5SXzZDY1h0S2xLTFpIbDhXa3RhM3M0RjB2ejRwcFRYalQ5cTZzQk43V2VFOUhBX29xdDlPODQwdndWMXpzcTk0YXVnQnBVazFxUXNReTEyX0J4ZHl6aVp4WkxkTkN5N3dza0RXb25vZmFib0psNGZUaEtsYUZNWktZYjByTFFhMHFXS0IzckNsUjZiaUdtWnZMTWhBLUNLeU9iUQ?oc=5",
-          "desc": "AMD AT2 apunta a 70 Compute Units y hasta 3,4 GHz como posible GPU RDNA 5 fanaticosdelhardware.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-25T16:40:30+00:00"
         },
         {
           "title": "Onimusha Way of the Sword Review técnica con AMD RX 9070 XT",
