@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T10:30:02.806720+00:00",
+  "generado": "2026-09-29T11:00:03.889743+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,13 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "Hugo Sotelo trabaja contrarreloj para llegar ante el Sevilla FC y Etta Eyong aumenta la carga de entrenamientos",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOVEhIRm04VlpyZnl5R2FyVlp2NDFNWHNhUEE0a3hDNGR1TGc3SEtWUy13YVVSbXE1V3kzZE9Ka1VBdzZTVmsyelN5LUlReFNLSjRQMXBxaUd1OWlsWWo0N2NkclNBREZQbldUVnNpTDVDSUwxNEhzQzlwRE4wZHBvWlY0UmptWWJtNS1pS2pSVnd6YlJaSEktcTRjcHJTTUpBUEtOZTI2aUFzaTdxMkJuTk1JY1hOTVdSa0tobkFqSzFHaTlLblRKQUZUdEt1aEdMd01YdjdCS29uVmhIQk5sWEZObllXZ1k3Ml9XMFFZSFVsS1F0TWV4dklpQ2tkN3F3bXdtSHU3QlFCQkxwYzVwdVB1amU4eUN3Q0NiUU9sR3ZoNjEtaEN0ZXBzUjJrcFY3TWU5RTd5VllNekRMME5GMzhlVEfSAcoCQVVfeXFMTkxfS1cwTkFqcUU1T3J4VERVOVRwakRYM1RiWUx6MUVZSXZ6Z2xUZU04Z25nVnlwaS16U3BBX1hsX24tSHRxOUl2Z1Nnb2RFbUxWR01NdTRZemZjSlVnaWdzUFRZVkt5NEpSc0ZUeUU2Znh3Mkh4WTVHT1V6cTBXUVhFQ3Zvck5weUdNdzgxQkc5UG1oZUJkNnJwNlI5Q0hCb1ZCRXZnd1dlNjRfUVFIa0tYd2FFRmM0NUVJaTZZUmJPbkZGa1ZrblItNGgtR1lzVWQydTFQWXJRWVZoZzFtUC0yNFJwR3F1VjZiakFtdkZIcEpWTms5emEzOUZ3Y05UWlZheHpVQWxZLVh5OGlQN3JNZVhSdnFBSGlqU0NaQ19XYk9vS1Z1SGdhdUtjcnhoUWc5ZnpWbHB3M21aZGwtdUJOTzBQc3g1bld3?oc=5",
+          "desc": "Hugo Sotelo trabaja contrarreloj para llegar ante el Sevilla FC y Etta Eyong aumenta la carga de entrenamientos COPE",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:34:30+00:00"
+        },
         {
           "title": "Nervión se le resiste a Emery desde su marcha",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDVKaDBtVVl5Q2dFN2xMRmJDSUNJazVlb001SEE4R1locGVMcmNPX2RUajNZenhsSzJrd2oweHVRcF9TdVZxcXlXTzJkTE9HV1ZUQ0RPSU1VeHlvaWVSNHlJNG1iYXZaa1EyT2ZGQUZ3RG1FeWNwQktCRU4ycVNia2xoYmtuWlkwVXk3X01JUQ?oc=5",
@@ -48,7 +55,7 @@
         {
           "title": "El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXZ3LXMzekpLLTdTczRBbjhzd0RBa2xhVVY4U01fcGVHMENOb0FuUk4tSk1aYVBfOFhQT2ZMU0g3MXNyS0ZDbGhacHNLNVo4cHRIVm5QN1NrU0t3SUtweGtsNHRBUF93OVE4Z0xtLUtFMnlSVE1iY3dHNGptR2FsRFlCQTUwM3YzbkNEVkhvYUpoVDBTNlRUQzI4THM3RlU?oc=5",
-          "desc": "El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena Muchodeporte",
+          "desc": "El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena Muchodeporte De la Fuente descarta a Roberto Fernández, Yeremy Pino y Le Normand ante Croacia Diario de Sevilla Los dos motivos para que España juegue en el Sánchez-Pizjuán y no en La Cartuja: \"Él lo pidió\" El Desmarque",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:15:53+00:00"
         },
@@ -76,7 +83,7 @@
         {
           "title": "Monchi pide perdón por elegir a Lamine Yamal para el Balón de Oro: «Si a alguien le ha molestado, le pido disculpas»",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMllNYnVILWhFeG16eTBmZDFXZUJOUl9IWFgyeEY2U2o3RlZqSmpGNFgyMEpJeUlubFFkcnZJMi1MNTJLOEdnTEJIcGNoRFJsRXpnRjE5YVp6SE9GcmNtcXZmc3V5ZEdwQ3RNZ2dNWURRN3Z5TmFRaW11RDZQQjlkT2RWMnpuanl6LVFYcTc0UWU3SHVaemxZdzM4YkhGVFBxcTZiMEJmc0E0d21TUE1fLVhmQ3R0V2R4S3RzVnd5Q003aGd0UmlTanhnX3hPQdIB0wFBVV95cUxPcFhNMWNLRUlPcUV1SGtUdE9UMGZacEI2WFI2ZXoxYzJHem9IRWdtQzAxSW9tZ0pSbzdnVy1kbVBNYk9oZmU5WGVNNGowd1FWMUs1d05NdEN5RFk0WDZxM3BHYUdvT1RTTXlmUWRab1ljTk9NNW81X2hvenJDUUcwektSamY4SjlYak5yT2ZpQ2F3NmM3el9sVkxHUXJtXzNjTGdVOUJZSjdtQkloRWF4dVBmOXd3eGh1NE9UZTBCMkFkNTMwV2s0TkxrV1M2NnFfeFhR?oc=5",
-          "desc": "Monchi pide perdón por elegir a Lamine Yamal para el Balón de Oro: «Si a alguien le ha molestado, le pido disculpas» ABC",
+          "desc": "Monchi pide perdón por elegir a Lamine Yamal para el Balón de Oro: «Si a alguien le ha molestado, le pido disculpas» abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T07:37:45+00:00"
         },
@@ -137,13 +144,6 @@
           "fecha": "2026-09-29T05:30:07+00:00"
         },
         {
-          "title": "Los dos motivos para que España juegue en el Sánchez-Pizjuán y no en La Cartuja: \"Él lo pidió\"",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDFyT1JiblhHdzRPUlBmQmhPUVZhcEE1bnU3UlZUTm5qZkNoWndVS1ByQTNYbXhxS2ZZTWlpcnByVnZjWHZrQUJVV0Z6cVJ2cGhBbW4xZTVkNlNrYnRIMi02YjlsQ0NPSHhBUG1jc3M2dlFETlRNeFlMVG05N210YVNOb1NKWDlVZkZZQmVPMXJXSHJjR2VxcndhSm51MHBBZG13aUcxWmtPQlNCeVBwUWFWOTJuSlFsV29DYTAyMzNoMmx3X1ZV?oc=5",
-          "desc": "Los dos motivos para que España juegue en el Sánchez-Pizjuán y no en La Cartuja: \"Él lo pidió\" El Desmarque",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T04:24:02+00:00"
-        },
-        {
           "title": "Suker: “Siempre tengo ganas de encontrar un hueco para volver a mi Sevilla FC, mi casa”",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0l2a0FXb2NmaFhxV2xKd1RGbXRzbWhuRGRocnNxRW56RHRNRnNZRVVfdHBwRThTNlZiOFBYdmtDVGE1eHc2WHpENG53MVZlR1NlSUhtRFVWRHh3VjV6TjVKZjVkNWJvQlY0M3RUUXYzaVlmU2FHNlZqM0s2Mms2WDhpX3JtM2c2Z2Y5V2c3Vzd4RmxnVHNhbg?oc=5",
           "desc": "Suker: “Siempre tengo ganas de encontrar un hueco para volver a mi Sevilla FC, mi casa” Diario de Sevilla",
@@ -160,7 +160,7 @@
         {
           "title": "Sevilla se engalana para recibir las 'dos estrellas' de la selección en un Sánchez-Pizjuán imbatido",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVZvbnRYNVV3aHhMZmtBUzJseGNOd3RmYllfTUhGT0V5RkRBXzhxdkQ0V21Va1NsSHdMZWk2Y05hTGx5bFg1Zm1HWnpUUEZQbHVwYkdQR2dFUENGMnVxZDN6RWVxYTdUTXAyOWVuLS1WRzVoUzRQZ1JqcVFBSXdwMXhqZ1RBV1dHTDZGaHFuVG9sSDZFRmR0elF6SlZsZGU1SS04TkRyV3Z2TXY5c3A3Tjc2X0JrX1BxdnJENjFpeDYxWknSAcgBQVVfeXFMT0VTTlVsdldLc2Z1ZzlGQjJWeFRaMG1fMlJ6RU9UTGgzaGVxdnZUb0hSczhjX2J5T3dCT29vczlhVjJCMFEyajBOQmp3WE00a3BsUWdxN2hDMXFVRmJxTzloMVBxRy0tRDVGb1NQRGo4U2RzUm1QRm9rYlQtV2Yyb0tPcW1ua0J2REVKZTF6Q1IxXzloZExoWWxraFlaNW5BNVZXZW1JN2xORDQ3OXZITWg0WGwzRzctTlVQQ2dWZk0wMmxKaG5TVVg?oc=5",
-          "desc": "Sevilla se engalana para recibir las 'dos estrellas' de la selección en un Sánchez-Pizjuán imbatido ABC",
+          "desc": "Sevilla se engalana para recibir las 'dos estrellas' de la selección en un Sánchez-Pizjuán imbatido abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T23:02:58+00:00"
         },
@@ -174,7 +174,7 @@
         {
           "title": "Agustín López: «Es mucho el porcentaje de jugadores canteranos del Sevilla FC que han pasado por el primer equipo»",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNHg3RkxhS2FiUHpMaXRxRFhhNWlvRFdWSFlYMW5tVExkMjJWdUNkRVY2dUNTNzJHS3VlLTByVnpSSmVUY01aZ2lJQkNZU1hrVnVVUHk0ZVU1TFlOVkhKdW1jdU5WSmFEMmIwWkFxWnJzZkxaVlN6dnNsaG1VV2huR3hxS0VyZXNBVmE5VXhTVW1sakNtUExQUWpYaWlvWGtjRVVFbU14OFc4UFRRTDQwVmsyVV9jbTEwS2s4cUJOeFpydlU1YjZRODBvVEJORGFhRTN4M3VHY0dzd21jbTUyU003ONIB6AFBVV95cUxQRU5zbERrTl9XTjRrUkFqRXItZWxaNlRzanJRQW5vaWhsaXVwNjFIRFM1UEZMdEhpRW5ZdGlVTUtZZ3M0TEJSS01PR0VyZ19RRDZMUUV4aUtSZTJ3TVlURVZmT3VJRThvaUJGNzB6Q3YyWk55aWZUT0VrRUhBY2FwX2l0TmxzQ2lsZEZhNkdHc0kwTnk3Ui00Y3RDYTdJeXByTWpvNHd3X3RHNlNLZzlucEpZRHNXUkQwNUtadDNDNmgtakNmQkpoOG03YUdFTDZETG8zTEM5TmZqS2tUVkFZM1cxaFk1Y196?oc=5",
-          "desc": "Agustín López: «Es mucho el porcentaje de jugadores canteranos del Sevilla FC que han pasado por el primer equipo» ABC",
+          "desc": "Agustín López: «Es mucho el porcentaje de jugadores canteranos del Sevilla FC que han pasado por el primer equipo» abc.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T21:13:37+00:00"
         }
@@ -185,18 +185,39 @@
       "icono": "⚽",
       "items": [
         {
+          "title": "José Luis, padre de Fernando Alonso: \"Le puedo pedir que vaya tranquilo en el coche, que él siempre va a tope. Y eso es lo que hace desde que llega a los pedales\"",
+          "link": "https://www.estadiodeportivo.com/motor/formula-1/jose-luis-padre-fernando-alonso-puedo-pedir-que-vaya-tranquilo-coche-que-siempre-tope-eso-que-hace-desde-que-llega-los-pedales-20260929-547505.html",
+          "desc": "El progenitor del piloto de Aston Martin desvela algunos detalles de cómo fueron los comienzos de Fernando y lo que costó que llegara a la cima En más de una ocasión, Fernando Alonso ha explicado cómo fue su llegada al mundo del motor y cómo se aficionó a los coches desde muy pequeño . El asturiano ha asegurado que la idea era de su padre, que fue el principal promotor de esa afición y el que la incentivó al ver que valía. Su progenitor, José Luis, le 'construyó' un circuito de karts para que entrenara e invirtió mucho dinero en su formación. Era un gran aficionado al motor, pero no esperaba que el pequeño Fernando fuera tan bueno. De hecho, construyó su primer kart para su hermana mayor . Pero ésta no le hizo caso y, en cambio, Fernando sí. El propio piloto de Aston Martin ha reconocido que gran parte de la nómina de sus padres se iba para pagar sus carreras en la etapa de formación. Una inversión que afectó a su familia, aunque a la postre sí fue rentable, habida cuenta de lo que Fernando ha logrado a lo largo de su carrera. A sus 45 años, el piloto asturiano es el más veterano de la parrilla actual de F1, ha batido récords de longevidad y duración en la máxima categoría del automovilismo, tiene el récord de carreras disputadas... Y la única duda es si seguirá el próximo año con Aston Martin. Un sistema para que el pequeño Fernando Alonso condujese Sobre aquellos primeros años no sólo ha hablado Fernando. También lo ha hecho José Luis, quien ha explicado detalles de cómo se fue dando cuenta de hasta dónde podía llegar el pequeño Fernando con su afición. Sobre todo, cuando, con tres años, se subió por primera vez a un kart y vio que lo disfrutaba. \"Se lo ponía al ralentí y le seguía andando a su lado por si ocurría algún imprevisto. Él no podía acelerar ni frenar\", pues no alcanzaba a los pedales , señala José Luis en una entrevista en El País, donde también reveló cómo solucionó el problema con un sistema de tacos, con los que llegaba. \"Al principio empezó como un juego, pero desde los cinco o seis años se le vio que tenía más picardía que los niños de su edad. (...) Al cabo de un par de años ves que tiene aptitudes, porque empieza a ganar carreras\", indica sobre cómo empezó a darse cuenta de que su hijo tenía aptitudes para ser piloto profesional. Fernando Alonso: \"Una vez le di una vuelta en coche al rey Juan Carlos. Llegamos a poner el coche a 220-230 kilómetros por hora\" De hecho, muy pronto, Fernando Alonso empezó a tomar decisiones por sí mismo y pasar de lo que le decía su progenitor. \"Desde que él tenía siete u ocho años, que le decía que tenía que ir así o de esa otra manera, ya sabía que no me hacía caso, que iba por su cuenta. Pero siempre le salían las cosas bien, así que decidí que era mejor dejarlo y no ponerle freno\", reconoce José Luis Alonso. El alto coste de la carrera de Alonso Esas carreras tenían contra la pared la economía familiar, algo de lo que el actual piloto de Aston Martin ha hablado en más de una ocasión y que también admite su progenitor. \"Siempre quise que supiese el valor de las cosas. Sabía que una carrera costaba 6.000 euros y que, para ganarlos, su padre debía trabajar seis meses\", explica, al tiempo que confirma que era un esfuerzo consensuado por todos. \"Era necesario el consenso familiar. Y lo hubo. Si no, habría sido imposible\", añade. Para José Luis, lo que hizo no fue nada especial a lo que otros padres hacen por sus hijos. Sólo que lo suyo era algo más costoso. \"No hice nada especial. Le metí en un kart, igual que muchos otros padres enseñaron a sus hijos a pescar o a jugar al tenis\", afirma. Así mismo, también admite que, pese a ser sólo un niño, nunca o pudo controlar. \"Siempre hizo lo que quiso y he sido yo mucho más cauto que él. Le puedo pedir que vaya tranquilo en el coche, que él siempre va a tope. Y eso es lo que hace desde que llega a los pedales\", explica , aunque, luego, también admite que la frialdad del piloto de F1 sí que la ha heredado de él. La frialdad de Fernando la hereda de José Luis Alonso Y lo dejó claro cuando Fernando Alonso, en sus primeros años con Renault, cuajo su primera gran carrera en Montmeló y, en Hungría, ganó su primera carrera en la F1. \"Pensé que Fernando podría ganar después de Barcelona\", confirmó tras un segundo puesto en el que el piloto ovetense llamó la atención de todos. Fernando Alonso: “Mi padre fabricó un kart para mi hermana, pero el que me subí fui yo” Luego, tras convertirse ese mismo año (2003) en el primer español en ganar una carrera, José Luis ni se inmutó. \" Está muy bien esta victoria, pero habrá que seguir trabajando, porque habrá otros circuitos menos propicios. (…) Yo no percibo nada especial por esta victoria. Para eso soy frío. Está bien hacerlo, pero a partir de ahora hay que pensar ya en la siguiente prueba\", indicaba entonces. De tal palo...",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T10:58:25+00:00"
+        },
+        {
+          "title": "Raphinha coloca al Barcelona en la Liga",
+          "link": "https://www.marca.com/futbol/primera-division/2026/09/29/raphinha-coloca-barcelona-liga.html",
+          "desc": "los culés han ganado con autoridad los ocho encuentros, siete de laliga y uno de champions, gracias al brasileño, que atraviesa el mejor momento de su carrera",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-29T12:57:32+02:00"
+        },
+        {
+          "title": "El Barça pierde a su director general tan solo un año después de su 'fichaje'",
+          "link": "https://www.estadiodeportivo.com/futbol/barcelona/barca-pierde-director-general-tan-solo-ano-despues-fichaje-20260929-547503.html",
+          "desc": "Manel del Río, hasta ahora CEO del club azulgrana, ha comunicado a Joan Laporta su decisión y se ha despedido del Comité de Dirección tras una etapa marcada por un perfil altamente discreto Manel del Río dejará el FC Barcelona a finales de septiembre después de comunicar su decisión al presidente Joan Laporta. El hasta ahora CEO azulgrana ya se ha despedido del Comité de Dirección y, según fuentes del club, su salida se ha producido de \"mutuo acuerdo\". Del Río pone así punto final a una etapa de poco más de un año como director general , aunque llevaba cuatro años vinculado a la entidad. La noticia, adelantada por el diario Ara, supone un nuevo movimiento en la estructura ejecutiva del Barça. Desde el club se ha valorado la \"gran faena\" realizada por Del Río durante su trayectoria en la entidad y se considera que su marcha abre la puerta a \"empezar una nueva dirección financiera y una nueva etapa\". Plega el director general del Barça https://t.co/VzqTmBW5MG &mdash; diariARA (@diariARA) September 29, 2026 \\n \\n\\n\"}\"> Un adiós pactado con Laporta Del Río comunicó personalmente su decisión a Joan Laporta y este lunes se despidió de los integrantes del Comité de Dirección. Su salida se hará efectiva al finalizar el mes, aunque por el momento el cargo quedará vacante. Su adiós se produce después de que el club haya afrontado diferentes cambios en sus áreas económicas y ejecutivas . Marcel Ramírez, hasta entonces responsable de la dirección financiera, también abandonó recientemente su puesto, siendo sustituido por Sergio Serrano . La salida de Del Río se produce, por tanto, en plena remodelación de la estructura económica del Barcelona y en un contexto en el que la entidad continúa trabajando para avanzar en proyectos estratégicos como la reforma del Camp Nou. Poco más de un año como director general Aunque Del Río deja ahora el cargo de CEO, su relación con el Barcelona comenzó bastante antes . El ejecutivo llegó al club en septiembre de 2022 para convertirse en el segundo de Maribel Meléndez , entonces directora general corporativa. Posteriormente fue asumiendo diferentes responsabilidades dentro de la estructura azulgrana, pasando por las áreas financiera y corporativa, hasta que Joan Laporta le confió la dirección general . Del Río asumió oficialmente un cargo que llevaba tiempo sin tener una figura estable al frente. Su nombramiento se produjo después de varios cambios desde la salida de Ferran Reverter en febrero de 2022. Ahora, poco más de un año después de su llegada a la dirección general, su etapa toca a su fin . Un perfil discreto para una etapa complicada Su paso por el Barça ha estado marcado por un perfil considerablemente alejado de los focos. Esa discreción era precisamente una de las características que destacaban las personas que habían trabajado con él. \"Es muy serio, correcto, disciplinado y muy metódico. No le gusta la notoriedad ni estar en el foco mediático. Solo aparece en público cuando es necesario. Y nunca se le ha visto como una persona con ganas de ascender\", explicaban sobre él desde el entorno del club cuando se anunció su 'fichaje'. Dentro del club se valoraba especialmente su capacidad para negociar con interlocutores internacionales y trasladar posteriormente cuestiones económicas complejas de una manera más comprensible. Su formación y experiencia estaban especialmente vinculadas a la gestión empresarial y financiera . Es licenciado en Negocio Internacional por la Universidad de Nottingham , cuenta con una diplomatura de negocios por la Universidad de Pekín y un máster de Administración Internacional por Esade . La marcha de Del Río obliga ahora a Laporta a buscar una nueva figura para una posición que volverá a quedar vacante. El Barcelona encara así una nueva etapa en su organigrama económico, con cambios también en la dirección financiera y con importantes asuntos sobre la mesa.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T10:50:16+00:00"
+        },
+        {
+          "title": "Jacobo Ramón y una posible vuelta al Real Madrid: \"No pienso en nada más\"",
+          "link": "https://www.marca.com/futbol/real-madrid/2026/09/29/jacobo-ramon-posible-vuelta-real-madrid-pienso-mas.html",
+          "desc": "El central madrileño ha hablado en 'La Gazzetta dello Sport' sobre su presente y futuro",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-29T12:42:25+02:00"
+        },
+        {
           "title": "Porzingis sigue su calvario en la NBA: \"No tenemos un plazo estimado para su recuperación ni nada más allá de eso\"",
           "link": "https://www.estadiodeportivo.com/baloncesto/nba/porzingis-sigue-calvario-nba-tenemos-plazo-estimado-para-recuperacion-nada-mas-alla-eso-20260929-547500.html",
           "desc": "Los Golden State Warriors confirman la baja del letón por un tiempo indefinido mientras Stephen Curry confirma que ha perdido dinero para renovar hasta la temporada 2028-2029 Kristaps Porzingis no levanta cabeza. El ex del Cajasol sigue sufriendo con las lesiones y ahora, un año más, va a comenzar con el pie izquierdo la que esperaba que fuera una temporada de éxitos tras llegar a los Warriors a mitad de temporada. El pívot letón no podrá comenzar la pretemporada con el equipo de la bahía de San Francisco. En este caso por un problema \"de salud\" indeterminado, que se une a los problemas respiratorios que ya sufrió en los Celtics y a los otros temas físicos que le han impedido jugar con asiduidad en los últimos años. La baja del jugador de los Golden State Warriors la confirmó el general manager de la franquicia, Mike Dunleavy Jr., quien admitió que, en principio, Porzingis no estará en Hawái con el equipo. “ Kristaps estará de baja indefinidamente por un problema de salud del que me informaron el domingo. Así que se perderá el inicio del training camp. No tenemos un plazo estimado para su recuperación ni nada más allá de eso. Así que empezamos con algunos jugadores lesionados, pero tenemos mucha profundidad en el equipo. Saldremos adelante”, afirmaba el que fuera número 3 del Draft de la NBA 2002. De fracasar en el Real Madrid a firmar por los Miami Heat El técnico de los Warriors, Steve Kerr, corroboraba las palabras de Dunleavy, al tiempo que reconocía que no se lo esperaba. \"Esto nos pilló por sorpresa, pero lo afrontaremos y saldremos adelante\", añade un Kerr que también cuenta con la baja de Jimmy Butler, al que ya le queda poco para reaparecer tras romperse hace ocho meses el ligamento cruzado de la rodilla, y la de Moses Moody, que a pasada campaña se rompió el tendón rotuliano en marzo y que no volverá hasta 2027. Stephen Curry explica que pierde 10 millones Pese a todo, todas las miradas del Media Day con el que los Warriors comenzaron la temporada no estaban puestas en Kristaps Porzingis. Stephen Curry lo acaparaba todo . La estrella de la franquicia californiana confirmó el viernes su renovación con los de San Francisco por dos años y 116 millones de dólares. Eso significa que tendrá en su nuevo contrato una opción de jugador para la temporada 2028-2029 y que, ahora que tiene 38 años, posiblemente acabe su carrera en la NBA en el mismo equipo con el que la comenzó. Curry daba más detalles de cómo había sido esta renovación ante los medios. \"Este es mi hogar. Esto es lo que hemos construido. Esta es una comunidad ante la que he jugado durante toda mi carrera y poder terminar esta historia de la manera correcta es una parte importante de ello\", confirma Steph Curry. El exterior norteamericano admite que fue una negociación cordial y que renunció a cerca de 10 millones de dólares. \"Sí, me ofrecieron el máximo. Sí, todas las opciones estaban sobre la mesa y, probablemente, todo lo que hayan escuchado sea, de alguna manera, cierto. Para mí, se trataba simplemente de procesar todo eso para llegar a la decisión que fuera adecuada para mí y para el equipo. Creo que todos somos gente inteligente en esta sala, así que pueden leer entre líneas por qué el contrato está estructurado de esa manera\", indicó sobre una extensión que ofrece una opción de jugador en su segundo año. Gregg Popovich se casa con la exmujer de uno de sus antiguos ayudantes en los Spurs Curry renunció para permitir a su equipo tener más margen de acción en el mercado con el objetivo de tratar un último anillo antes del final de su carrera. \"Se trata de que, para que tengamos una oportunidad esta temporada de jugar al baloncesto y competir. Todos tenemos que hacer nuestro trabajo para ganar. Todos lo sabemos, yo incluido. Tengo que estar sano y disponible\", sentenciaba.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-29T10:12:02+00:00"
-        },
-        {
-          "title": "Un jugador del Atlético Mineiro recomienda un libro de Tolstói y desata la locura: es el más vendido de Brasil y se ha creado un club de lectura",
-          "link": "https://www.marca.com/tiramillas/sociedad/2026/09/29/jugador-atletico-mineiro-recomienda-libro-tolstoi-desata-locura-mas-vendido-brasil-aficionados-han-creado-club-lectura.html",
-          "desc": "Fuera de los terrenos de juego ha encontrado una curiosa segunda vocación fuera del fútbol",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-29T12:06:05+02:00"
         },
         {
           "title": "Un concejal de Vox en Sabadell simula que dispara un \"tiro en la nuca\" a una edil de los Comuns",
@@ -285,7 +306,7 @@
         {
           "title": "Hallada durante las obras de los Juegos Olímpicos de Barcelona, es de las pocas barcas medievales destinadas al transporte de mercancías que se conservan en el Mediterráneo",
           "link": "https://www.eldiario.es/spin/hallada-durante-obras-juegos-olimpicos-barcelona-barcas-medievales-destinadas-transporte-mercancias-conservan-mediterraneo-pm_1_13545586.html",
-          "desc": "Estuvo sepultada bajo dos metros de arena y permaneció oculta seis siglos a pocos kilómetros de la capital catalana Un buque hundido en la Segunda Guerra Mundial, convertido en arrecife: así ha transformado el fondo marino Botado en 1892, estas fueron las tres grandes expediciones polares de este barco diseñado para flotar sobre el hielo En 1990 y durante las obras del Canal Olímpico en Castelldefels para los Juegos Olímpicos de Barcelona , emergió del delta del Llobregat toda una joya arqueológica . Sepultada bajo dos metros de arena y protegida por lodos húmedos, la nave permaneció oculta durante seis siglos en un ambiente anóxico que evitó la descomposición de sus maderas. Bautizada como “ Les Sorres X ”, este hallazgo no solo interrumpió las obras deportivas, sino que abrió una ventana inédita hacia el comercio marítimo bajomedieval en la costa catalana. Su trascendencia histórica radica en ser una de las poquísimas embarcaciones mercantes bajomedievales conservadas en el Mediterráneo. Perteneciente a la segunda mitad del siglo XIV, esta nave representa un testimonio único para el estudio de la arquitectura naval y la vida comercial. A diferencia de los barcos de guerra o de gran calado documentados en archivos, este barco refleja las dinámicas cotidianas del transporte marítimo de mercancías entre los prósperos puertos de la Corona de Aragón y otras plazas comerciales costeras. Con una eslora aproximada de diez metros , una manga de dos metros y un puntal de casi un metro, “Les Sorres X” presentaba un diseño estilizado para la navegación costera. La embarcación requería una modesta tripulación de tres o cuatro personas y combinaba la fuerza de una vela latina con seis remos por cada banda. Sus formas constructivas, parecidas a las del tradicional llagut catalán, permitían realizar maniobras ágiles en aguas poco profundas e internarse sin contratiempos por los marjales y estuarios cercanos a la gran ciudad de Barcelona. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-aWan9zMvESc-3127', 'youtube', 'aWan9zMvESc', document.getElementById('yt-aWan9zMvESc-3127')); }]); Entre sus características constructivas más sobresalientes destaca la presencia de un avanzado timón de codaste o de rueda en la popa , elemento que sustituyó al clásico doble timón lateral de época romana y altomedieval. Este sistema de gobierno supuso un salto tecnológico determinante para la precisión del rumbo en la navegación comercial bajomedieval. El examen arqueológico de sus estructuras transversales y cuadernas ha permitido comprobar la solidez de una nave concebida específicamente para resistir los viajes continuados cargando toneladas de productos a lo largo del litoral cercano. En el momento de su hundimiento en las marismas del Llobregat, “Les Sorres X” transportaba un valioso cargamento de jarras cerámicas de origen sevillano, identificadas como del tipo Amigues VIIIa. Estas vasijas, de unos cuarenta centímetros de diámetro, iban estibadas en la bodega sobre ramas finas de vid y esparto para amortiguar los golpes del viaje. En su interior se descubrieron escamas, vértebras y conchas que atestiguan el transporte de pescado en conserva, procedente con gran probabilidad del golfo de Cádiz y destinado al abastecimiento de los grandes núcleos urbanos de la época. La urgencia por finalizar el canal olímpico motivó una compleja intervención arqueológica de emergencia asumida por el Centre d'Arqueologia Subaquàtica de Catalunya. El equipo de especialistas tuvo que desmontar minuciosamente cerca de un millar de piezas de madera fragmentadas para trasladarlas a los laboratorios de Girona. Allí, los restos fueron sumergidos durante casi dos años en un tanque de acero inoxidable con cerca de cinco toneladas de polietilenglicol, un tratamiento químico pionero que reemplazó el agua interior de las fibras celulósicas y estabilizó definitivamente la madera arqueológica. Exposición permanente Tras ser cedida al Museu Marítim de Barcelona , la nave fue objeto de una reconstrucción no invasiva que unió nuevamente sus mil elementos estructurales. Los estudios científicos revelaron una asombrosa continuidad en la arquitectura naval mediterránea, al comprobar que las líneas de “Les Sorres X” son casi idénticas a las de embarcaciones tradicionales del siglo XX como el caro d'art Papet o la palangrera Madrona. Esta persistencia demuestra que las soluciones técnicas para la navegación de cabotaje se mantuvieron inalteradas a lo largo de varios siglos. Hoy en día, “Les Sorres X” brilla como la pieza central de una exposición permanente en las históricas Reales Atarazanas de Barcelona , ocupando un lugar de honor en el museo. La escenografía recrea el entorno deltaico original con un mar metálico y una réplica suspendida a escala real que permite comprender el aspecto que lucía la embarcación en pleno viaje. Convertida quizás en el barco más antiguo expuesto en un museo español, esta joya rescata del olvido la memoria de los hombres de mar y la vitalidad del comercio bajomedieval.",
+          "desc": "Estuvo sepultada bajo dos metros de arena y permaneció oculta seis siglos a pocos kilómetros de la capital catalana Un buque hundido en la Segunda Guerra Mundial, convertido en arrecife: así ha transformado el fondo marino Botado en 1892, estas fueron las tres grandes expediciones polares de este barco diseñado para flotar sobre el hielo En 1990 y durante las obras del Canal Olímpico en Castelldefels para los Juegos Olímpicos de Barcelona , emergió del delta del Llobregat toda una joya arqueológica . Sepultada bajo dos metros de arena y protegida por lodos húmedos, la nave permaneció oculta durante seis siglos en un ambiente anóxico que evitó la descomposición de sus maderas. Bautizada como “ Les Sorres X ”, este hallazgo no solo interrumpió las obras deportivas, sino que abrió una ventana inédita hacia el comercio marítimo bajomedieval en la costa catalana. Su trascendencia histórica radica en ser una de las poquísimas embarcaciones mercantes bajomedievales conservadas en el Mediterráneo. Perteneciente a la segunda mitad del siglo XIV, esta nave representa un testimonio único para el estudio de la arquitectura naval y la vida comercial. A diferencia de los barcos de guerra o de gran calado documentados en archivos, este barco refleja las dinámicas cotidianas del transporte marítimo de mercancías entre los prósperos puertos de la Corona de Aragón y otras plazas comerciales costeras. Con una eslora aproximada de diez metros , una manga de dos metros y un puntal de casi un metro, “Les Sorres X” presentaba un diseño estilizado para la navegación costera. La embarcación requería una modesta tripulación de tres o cuatro personas y combinaba la fuerza de una vela latina con seis remos por cada banda. Sus formas constructivas, parecidas a las del tradicional llagut catalán, permitían realizar maniobras ágiles en aguas poco profundas e internarse sin contratiempos por los marjales y estuarios cercanos a la gran ciudad de Barcelona. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-aWan9zMvESc-3303', 'youtube', 'aWan9zMvESc', document.getElementById('yt-aWan9zMvESc-3303')); }]); Entre sus características constructivas más sobresalientes destaca la presencia de un avanzado timón de codaste o de rueda en la popa , elemento que sustituyó al clásico doble timón lateral de época romana y altomedieval. Este sistema de gobierno supuso un salto tecnológico determinante para la precisión del rumbo en la navegación comercial bajomedieval. El examen arqueológico de sus estructuras transversales y cuadernas ha permitido comprobar la solidez de una nave concebida específicamente para resistir los viajes continuados cargando toneladas de productos a lo largo del litoral cercano. En el momento de su hundimiento en las marismas del Llobregat, “Les Sorres X” transportaba un valioso cargamento de jarras cerámicas de origen sevillano, identificadas como del tipo Amigues VIIIa. Estas vasijas, de unos cuarenta centímetros de diámetro, iban estibadas en la bodega sobre ramas finas de vid y esparto para amortiguar los golpes del viaje. En su interior se descubrieron escamas, vértebras y conchas que atestiguan el transporte de pescado en conserva, procedente con gran probabilidad del golfo de Cádiz y destinado al abastecimiento de los grandes núcleos urbanos de la época. La urgencia por finalizar el canal olímpico motivó una compleja intervención arqueológica de emergencia asumida por el Centre d'Arqueologia Subaquàtica de Catalunya. El equipo de especialistas tuvo que desmontar minuciosamente cerca de un millar de piezas de madera fragmentadas para trasladarlas a los laboratorios de Girona. Allí, los restos fueron sumergidos durante casi dos años en un tanque de acero inoxidable con cerca de cinco toneladas de polietilenglicol, un tratamiento químico pionero que reemplazó el agua interior de las fibras celulósicas y estabilizó definitivamente la madera arqueológica. Exposición permanente Tras ser cedida al Museu Marítim de Barcelona , la nave fue objeto de una reconstrucción no invasiva que unió nuevamente sus mil elementos estructurales. Los estudios científicos revelaron una asombrosa continuidad en la arquitectura naval mediterránea, al comprobar que las líneas de “Les Sorres X” son casi idénticas a las de embarcaciones tradicionales del siglo XX como el caro d'art Papet o la palangrera Madrona. Esta persistencia demuestra que las soluciones técnicas para la navegación de cabotaje se mantuvieron inalteradas a lo largo de varios siglos. Hoy en día, “Les Sorres X” brilla como la pieza central de una exposición permanente en las históricas Reales Atarazanas de Barcelona , ocupando un lugar de honor en el museo. La escenografía recrea el entorno deltaico original con un mar metálico y una réplica suspendida a escala real que permite comprender el aspecto que lucía la embarcación en pleno viaje. Convertida quizás en el barco más antiguo expuesto en un museo español, esta joya rescata del olvido la memoria de los hombres de mar y la vitalidad del comercio bajomedieval.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-29T09:00:34+00:00"
         },
@@ -325,32 +346,11 @@
           "fecha": "2026-09-29T07:51:29+00:00"
         },
         {
-          "title": "Desahuciada en Mataró una familia con una persona con discapacidad",
-          "link": "https://www.eldiario.es/catalunya/desahuciada-mataro-familia-persona-discapacidad_1_13545734.html",
-          "desc": "La protesta vecinal no logra impedir el desalojo de una familia que asegura que no tiene alternativa habitacional Miles de personas exigen a Sánchez en Barcelona que apruebe el 'decreto Maricarmen' Desahuciada una familia en Mataró, en Barcelona, con un miembro con discapacidad del 87%. El desalojo se ha llevado a cabo a primera hora de este martes con un amplio dispositivo de los Mossos d’Esquadra y a pesar de las protestas vecinales. La familia vivía de alquiler en ese piso del barrio de Cerdanyola de Mataró desde hacía 11 años. Residían en el hogar Jordi, que padece una enfermedad de salud mental, y su hermana, madre de tres hijos. Pilar Sánchez, del Sindicato de Vivienda de Mataró, ha afirmado que el decreto que este martesdebería aprobar el Gobierno español, “aunque sea ridículo”, sí habría detenido este desahucio concreto, puesto que se trata de una familia arrendataria vulnerable y de un casero gran tenedor. “Es gravísimo”, ha manifestado Sánchez, al mismo tiempo que ha dicho que se debe ejercer presión “hasta el último momento”. Sánchez ha denunciado que la familia no tiene una alternativa habitacional.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-29T07:47:45+00:00"
-        },
-        {
           "title": "Morata, sentenciado, y su técnico en el Leganés deja clara su situación: \"No tengo dudas... tiene el culo pelado\"",
           "link": "https://www.estadiodeportivo.com/futbol/leganes/morata-sentenciado-tecnico-leganes-deja-clara-situacion-tengo-dudas-tiene-culo-pelado-20260929-547491.html",
           "desc": "La afición de Butarque despide con pitos al delantero madrileño tras dos errores garrafales ante el Castellón La ilusión con la que llegó Álvaro Morata a Leganés , de momento, está chocando con su mal momento de forma . El delantero madrileño no levanta cabeza y ni siquiera el paso atrás dado al bajar de categoría le está ayudando. No sólo no marca, sino que falla ocasiones que antes siempre iban dentro. Y en poco tiempo ha acabado con la paciencia de sus aficionados. Butarque le despidió ayer con una pitada. El Leganés caía por 0-2 ante el líder de LaLiga Hypermotion, el Castellón, en parte, por los errores del que fuera capitán de la selección española. El ex de Real Madrid, Juventus, Atlético o Chelsea falló nada más empezar un gol cantado. A los 4 minutos, Patrick Soko le dejó en clara posición para definir, pero Morata se hizo un lío y no llegó a rematar. Ya con 0-2 en el marcador, Álvaro Morata pudo acortar distancias. Enel 65', el meta castellonense Matthys cometió un error y le puso el gol en bandeja al madrileño, pero éste estuvo de nuevo desacertado y, a puerta vacía, mandó el balón a las nubes. 😡 🗯️ Álvaro Morata se marcha entre pitos de Butarque tras fallar dos ocasiones claras de gol 📉 El Leganés ha caído ante un Castellón (0-2) que se convierte en nuevo líder de Segunda División https://t.co/DZ9CR2VtSk &mdash; El Larguero (@ellarguero) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\"> La ansiedad le está pudiendo en este arranque de temporada, que tras 4 partidos y 246 minutos sigue sin estrenarse en Segunda división con el Lega. Tras estos dos errores, Ruben Albés, su técnico, lo cambió y fue despedido por pitos. Debate en redes sociales sobre Álvaro Morata Las críticas tuvieron su continuidad en redes sociales entre los que ya le echan en cara su mal momento y los que creen que tenerle en el equipo es un lujo y esperan una pronta reacción. De momento, ni él ni su equipo están logrando lo que pensaban con su fichaje. Pero desde el club son pacientes. \"Su adaptación ha sido buenísima y tiene el culo pelado de situaciones vividas. Va a ser importante y va a hacer goles en el Leganés, no tengo dudas\", aseguraba el entrenador del C.D. Leganés, Rubén Albés, a la conclusión del choque. El técnico vigués tiene claro que, con paciencia, la racha goleadora de Morata del resto de delanteros cambiará . \"Tengo algo tremendamente claro y es que si confío, confío. No en el día bueno sí y en el malo no. Confío en mis delanteros y tengo el convencimiento de que van a hacer goles\", advertía. Albés pide tiempo para el Leganés \"Hoy estoy decepcionado, porque teníamos ilusión en el partido. Veo a la gente ilusionada y quería que hoy saliera un buen partido, pero esto es fútbol y la diferencia es cómo nos comportamos después de un golpe. Es fútbol y puedes perder, porque es el mejor equipo de la categoría. Pero teníamos esa ilusión , la gente estaba muy conectada desde el primer minuto y queríamos darles eso, pero no ha podido ser. Toca responder a la derrota de la mejor manera posible\", añadía un Albés que tiene al Leganés a mitad de table, décimo, pero sólo a dos puntos de los puestos de 'play off' a Primera división. Así se hizo el fichaje de Morata por el Leganés: \"En la primera videollamada él ya se ilusionó\" Por eso, Rubén Albés señala que no se pueden comparar con un Castellón que lleva año y medio de desarrollo y cuyos buenos resultados son una continuidad de los que ya tuvo la temporada pasada. \"Ellos tienen año y medio de desarrollo con una plantilla en la que repiten muchos jugadores. Nosotros somos un equipo en reciente construcción y hay situaciones que ahora ellos manejan mejor que nosotros. Tenemos margen de mejora y vamos a mejorar mucho. El reto es ser mejor equipo cuando vayamos a Castalia\", sentenciaba el gallego.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-29T07:45:02+00:00"
-        },
-        {
-          "title": "Bombazo: ¡Luke Littler, el 'Messi de los dardos', eliminado en primera ronda del Mundial!",
-          "link": "https://www.marca.com/otros-deportes/2026/09/29/bombazo-luke-littler-messi-dardos-eliminado-primera-ronda-mundial.html",
-          "desc": "El deportista de 19 años y vigente campeón dijo adiós al campeonato ante el veterano Luke Woodhouse",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-29T09:39:37+02:00"
-        },
-        {
-          "title": "Monchi pide perdón por elegir a Lamine Yamal para el Balón de Oro: «Si a alguien le ha molestado, le pido disculpas»",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMllNYnVILWhFeG16eTBmZDFXZUJOUl9IWFgyeEY2U2o3RlZqSmpGNFgyMEpJeUlubFFkcnZJMi1MNTJLOEdnTEJIcGNoRFJsRXpnRjE5YVp6SE9GcmNtcXZmc3V5ZEdwQ3RNZ2dNWURRN3Z5TmFRaW11RDZQQjlkT2RWMnpuanl6LVFYcTc0UWU3SHVaemxZdzM4YkhGVFBxcTZiMEJmc0E0d21TUE1fLVhmQ3R0V2R4S3RzVnd5Q003aGd0UmlTanhnX3hPQdIB0wFBVV95cUxPcFhNMWNLRUlPcUV1SGtUdE9UMGZacEI2WFI2ZXoxYzJHem9IRWdtQzAxSW9tZ0pSbzdnVy1kbVBNYk9oZmU5WGVNNGowd1FWMUs1d05NdEN5RFk0WDZxM3BHYUdvT1RTTXlmUWRab1ljTk9NNW81X2hvenJDUUcwektSamY4SjlYak5yT2ZpQ2F3NmM3el9sVkxHUXJtXzNjTGdVOUJZSjdtQkloRWF4dVBmOXd3eGh1NE9UZTBCMkFkNTMwV2s0TkxrV1M2NnFfeFhR?oc=5",
-          "desc": "Monchi pide perdón por elegir a Lamine Yamal para el Balón de Oro: «Si a alguien le ha molestado, le pido disculpas» ABC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T07:37:45+00:00"
         }
       ]
     },
@@ -363,56 +363,63 @@
           "link": "https://www.formula1.com/en/latest/article/binotto-wants-slater-in-an-f1-seat-in-the-near-future.IzNhz498XCeJkBpKaTPPG",
           "desc": "Audi CEO Mattia Binotto has made no secret of his plans for Freddie Slater, stating in Azerbaijan that he wants the youngster “into an F1 seat” in the near future.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "How Hadjar cleverly handled his comeback to claim a podium in Baku",
           "link": "https://www.formula1.com/en/latest/article/how-hadjar-cleverly-handled-his-comeback-to-claim-a-podium-in-baku.6e5PnWMLxKo38Bj0iVBRRg",
           "desc": "IndyCar race winner and F1 TV analyst James Hinchcliffe explains what was so impressive about Hadjar's racing return in Azerbaijan after three Grands Prix on the sidelines.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "PALMER: Why George Russell’s Baku win was so impressive",
           "link": "https://www.formula1.com/en/latest/article/why-russells-baku-win-was-so-impressive.4DjGxjpyh7WxwnhjmZfk7H",
           "desc": "Former Renault F1 driver and F1 TV analyst Jolyon Palmer explores the details behind George Russell's victory in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "Perez reflects on 'one of my best weekends'",
           "link": "https://www.formula1.com/en/latest/article/one-of-my-best-weekends-perez-reflects-on-return-to-form-despite-missing-out-on-points.hPrfr5yj1t7STWELMeJlI",
           "desc": "Sergio Perez believes his performance in the Azerbaijan Grand Prix was \"one of my best weekends\" in Formula 1, despite failing to reach the points for Cadillac.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "Sainz and Albon evaluate Williams’ Baku upgrades",
           "link": "https://www.formula1.com/en/latest/article/were-going-to-need-more-if-we-want-to-fight-sainz-and-albon-evaluate-williams-baku-upgrades.3NtXUGpgq3CTGpopkeYtFe",
           "desc": "Carlos Sainz and Alex Albon have given their verdict on Williams’ major upgrade package that debuted at the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "'Less pressure on me than there is him' – Russell on title",
           "link": "https://www.formula1.com/en/latest/article/theres-much-less-pressure-on-me-than-there-is-him-russell-on-title-fight.6GVALSvKMH4XSTz3wndlLm",
           "desc": "George Russell won his third Grand Prix of the season with victory in Baku, the Mercedes man standing on the top step of the rostrum for the first time since Austria. In doing so, he cut team mate Kimi Antonelli's lead in the Drivers’ Championship to 66 points.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "Norris apologises to Colapinto for Baku post-race comments",
           "link": "https://www.formula1.com/en/latest/article/it-was-wrong-of-me-norris-apologises-to-colapinto-for-azerbaijan-post-race-comments.2Iy4VhKfVvs8YOejZh4Ofe",
           "desc": "Lando Norris has apologised to Franco Colapinto for comments he made immediately after the Azerbaijan Grand Prix, admitting “it was wrong of me” to do so.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
         },
         {
           "title": "Vasseur offers Ferrari upgrade promise to frustrated Leclerc",
           "link": "https://www.formula1.com/en/latest/article/vasseur-promises-frustrated-leclerc-that-ferrari-will-bring-upgrades-soon.3zh1dESFZnVmBLkiBxgoOl",
           "desc": "Ferrari Team Principal Fred Vasseur has promised that the Maranello-based squad will bring developments to the SF-26 “soon” after Charles Leclerc cited a lack of recent development as a reason behind their poor form in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T10:30:02.806720+00:00"
+          "fecha": "2026-09-29T11:00:03.889743+00:00"
+        },
+        {
+          "title": "José Luis, padre de Fernando Alonso: \"Le puedo pedir que vaya tranquilo en el coche, que él siempre va a tope. Y eso es lo que hace desde que llega a los pedales\"",
+          "link": "https://www.estadiodeportivo.com/motor/formula-1/jose-luis-padre-fernando-alonso-puedo-pedir-que-vaya-tranquilo-coche-que-siempre-tope-eso-que-hace-desde-que-llega-los-pedales-20260929-547505.html",
+          "desc": "El progenitor del piloto de Aston Martin desvela algunos detalles de cómo fueron los comienzos de Fernando y lo que costó que llegara a la cima En más de una ocasión, Fernando Alonso ha explicado cómo fue su llegada al mundo del motor y cómo se aficionó a los coches desde muy pequeño . El asturiano ha asegurado que la idea era de su padre, que fue el principal promotor de esa afición y el que la incentivó al ver que valía. Su progenitor, José Luis, le 'construyó' un circuito de karts para que entrenara e invirtió mucho dinero en su formación. Era un gran aficionado al motor, pero no esperaba que el pequeño Fernando fuera tan bueno. De hecho, construyó su primer kart para su hermana mayor . Pero ésta no le hizo caso y, en cambio, Fernando sí. El propio piloto de Aston Martin ha reconocido que gran parte de la nómina de sus padres se iba para pagar sus carreras en la etapa de formación. Una inversión que afectó a su familia, aunque a la postre sí fue rentable, habida cuenta de lo que Fernando ha logrado a lo largo de su carrera. A sus 45 años, el piloto asturiano es el más veterano de la parrilla actual de F1, ha batido récords de longevidad y duración en la máxima categoría del automovilismo, tiene el récord de carreras disputadas... Y la única duda es si seguirá el próximo año con Aston Martin. Un sistema para que el pequeño Fernando Alonso condujese Sobre aquellos primeros años no sólo ha hablado Fernando. También lo ha hecho José Luis, quien ha explicado detalles de cómo se fue dando cuenta de hasta dónde podía llegar el pequeño Fernando con su afición. Sobre todo, cuando, con tres años, se subió por primera vez a un kart y vio que lo disfrutaba. \"Se lo ponía al ralentí y le seguía andando a su lado por si ocurría algún imprevisto. Él no podía acelerar ni frenar\", pues no alcanzaba a los pedales , señala José Luis en una entrevista en El País, donde también reveló cómo solucionó el problema con un sistema de tacos, con los que llegaba. \"Al principio empezó como un juego, pero desde los cinco o seis años se le vio que tenía más picardía que los niños de su edad. (...) Al cabo de un par de años ves que tiene aptitudes, porque empieza a ganar carreras\", indica sobre cómo empezó a darse cuenta de que su hijo tenía aptitudes para ser piloto profesional. Fernando Alonso: \"Una vez le di una vuelta en coche al rey Juan Carlos. Llegamos a poner el coche a 220-230 kilómetros por hora\" De hecho, muy pronto, Fernando Alonso empezó a tomar decisiones por sí mismo y pasar de lo que le decía su progenitor. \"Desde que él tenía siete u ocho años, que le decía que tenía que ir así o de esa otra manera, ya sabía que no me hacía caso, que iba por su cuenta. Pero siempre le salían las cosas bien, así que decidí que era mejor dejarlo y no ponerle freno\", reconoce José Luis Alonso. El alto coste de la carrera de Alonso Esas carreras tenían contra la pared la economía familiar, algo de lo que el actual piloto de Aston Martin ha hablado en más de una ocasión y que también admite su progenitor. \"Siempre quise que supiese el valor de las cosas. Sabía que una carrera costaba 6.000 euros y que, para ganarlos, su padre debía trabajar seis meses\", explica, al tiempo que confirma que era un esfuerzo consensuado por todos. \"Era necesario el consenso familiar. Y lo hubo. Si no, habría sido imposible\", añade. Para José Luis, lo que hizo no fue nada especial a lo que otros padres hacen por sus hijos. Sólo que lo suyo era algo más costoso. \"No hice nada especial. Le metí en un kart, igual que muchos otros padres enseñaron a sus hijos a pescar o a jugar al tenis\", afirma. Así mismo, también admite que, pese a ser sólo un niño, nunca o pudo controlar. \"Siempre hizo lo que quiso y he sido yo mucho más cauto que él. Le puedo pedir que vaya tranquilo en el coche, que él siempre va a tope. Y eso es lo que hace desde que llega a los pedales\", explica , aunque, luego, también admite que la frialdad del piloto de F1 sí que la ha heredado de él. La frialdad de Fernando la hereda de José Luis Alonso Y lo dejó claro cuando Fernando Alonso, en sus primeros años con Renault, cuajo su primera gran carrera en Montmeló y, en Hungría, ganó su primera carrera en la F1. \"Pensé que Fernando podría ganar después de Barcelona\", confirmó tras un segundo puesto en el que el piloto ovetense llamó la atención de todos. Fernando Alonso: “Mi padre fabricó un kart para mi hermana, pero el que me subí fui yo” Luego, tras convertirse ese mismo año (2003) en el primer español en ganar una carrera, José Luis ni se inmutó. \" Está muy bien esta victoria, pero habrá que seguir trabajando, porque habrá otros circuitos menos propicios. (…) Yo no percibo nada especial por esta victoria. Para eso soy frío. Está bien hacerlo, pero a partir de ahora hay que pensar ya en la siguiente prueba\", indicaba entonces. De tal palo...",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T10:58:25+00:00"
         },
         {
           "title": "Verstappen, sin piedad contra la F1: \"Estos coches no valen para nada\"",
@@ -420,13 +427,6 @@
           "desc": "El neerlandés sigue señalando al reglamento 2026 de la clase reina y reivindica, en el podcast 'P1 with Matt & Tommy' su desacuerdo",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-29T11:44:17+02:00"
-        },
-        {
-          "title": "Samuel Alonso Omeñaca, nuevo director de la Feria del Libro de Madrid",
-          "link": "https://www.elmundo.es/cultura/literatura/2026/09/29/6abb80dbe9cf4a17038b4586.html",
-          "desc": "El escritor y editor había dirigido la Feria de Zaragoza. Sustituye a Eva Orúe. Leer",
-          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-          "fecha": "2026-09-29T11:13:14+02:00"
         },
         {
           "title": "Cesc y Barça, condenados a reencontrarse: desvelada la cláusula de su salida",
@@ -533,11 +533,53 @@
       "icono": "💻",
       "items": [
         {
+          "title": "Comienzan los Días Naranja de PcComponentes: Apple Watch Ultra con un 37% de descuento y unas gafas tipo Ray Ban Meta por menos de 50 euros",
+          "link": "https://hipertextual.com/ofertas-descuentos/dias-naranja-pc-componentes-2/",
+          "desc": "Hay algunas citas marcadas en rojo en el calendario, sobre todo las que tienen que ver con grandes ofertas comerciales. Cuando hablamos de tecnología, una de las fechas más importantes es, sin duda, los Días Naranja de PcComponentes. Este año, comenzaron el pasado domingo 27 de septiembre y finalizan el próximo domingo, 11 de noviembre. […] Seguir leyendo: Comienzan los Días Naranja de PcComponentes: Apple Watch Ultra con un 37% de descuento y unas gafas tipo Ray Ban Meta por menos de 50 euros",
+          "source": "https://hipertextual.com/feed",
+          "fecha": "2026-09-29T10:34:28+00:00"
+        },
+        {
+          "title": "Requisitos de The Witcher 3 Remastered: exige Windows 11",
+          "link": "https://www.muycomputer.com/2026/09/29/requisitos-de-the-witcher-3-remastered-exige-windows-11/",
+          "desc": "CD Projekt RED ha confirmado los requisitos mínimos, recomendados y óptimos de The Witcher 3 Remastered, una remasterización del juego original que incluye la opción de activar trazado de rayos y trazado de trayectorias. El juego también es compatible con los ecosistemas NVIDIA DLSS, AMD FSR e Intel XeSS, que incluyen tecnologías de reescalado y […] La entrada Requisitos de The Witcher 3 Remastered: exige Windows 11 se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-29T10:31:55+00:00"
+        },
+        {
+          "title": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGh3UXg4V2JYYlhhMmk4VlA0OTFJdDBWUXAwdmpKYlNMUS1BUWRhdWdpcjNDZzkwSFNnb3ZXUklCSUYwWFBxWm9uZDdYa2FkUEhXVG1pLXVjWXJDMmdSek5qaXBGMXlNNDZhYzdmQzVBQ2Q2NzZjTENpYlhGTUN2U2NmQ1dqSUVYVEE2MWNmellKMTdiZzZJ?oc=5",
+          "desc": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares Yahoo en Español Vida y Estilo",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:30:00+00:00"
+        },
+        {
+          "title": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnF4QWMwT1l1MUVqUlBCaTNHemJMbkdlQlY0dFlvVHk4OF95UTFVZExpNnY4anI1QUpGUmNsQ2FzTW5DQ0xXTmR2aTVtT0REVERRRFppRGZNUHlFRkVISHZLUFJvMDBfSk43bU9FQVp4NUhNTm0tU3dBdWNhZzg0STNBWklwUGYwMmRwMjhfX3BIanNJcVhITnhJNUVzWWtMYmNaclJzQ1FCZHNW?oc=5",
+          "desc": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT Yahoo Finanzas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:29:44+00:00"
+        },
+        {
+          "title": "Es el objeto para coleccionistas de Gears of War más extraño y se agotó en horas: un Lancer cortapizzas",
+          "link": "https://vandal.elespanol.com/noticia/2026272020/es-el-objeto-para-coleccionistas-de-gears-of-war-mas-extrano-y-se-agoto-en-horas-un-lancer-cortapizzas/",
+          "desc": "XBOX anuncia una colaboración para celebrar el lanzamiento de Gears of War: E-Day que nos trae el producto para coleccionistas más extraño de la saga. Gears of War: E-Day se estrena el 6 de octubre en Xbox Series y PC, con debut en Xbox Game Pass. Para celebrar el lanzamiento, en Estados Unidos se ha anunciado una colaboración que ha dado como fruto un extraño objeto para coleccionistas: un cortapizzas. XBOX y Prince Street Pizza han presentado una especie de réplica de la famosa Lancer de la saga Gears of War -y en concreto, de su prototipo- con un uso práctico, puesto que su sierra se puede utilizar para cortar pizzas . Se trata de una edición limitada con un precio de 60 dólares -más gastos de envío- y no es un juguete, su hoja corta, por lo que se señala que sólo debe manejarla un adulto. Han volado: se agotó en horas La promoción no duró mucho y no sabemos cuántas unidades se han producido, pero la página oficial indica que se agotó en horas. Teniendo en cuenta que se habla de un producto limitado, parece poco probable que vuelva a estar disponible. La compra del cortapizzas también incluye un código para desbloquear un emblema de pizza en Gears of War: E-Day . \"La empuñadura Prototype Lancer te permite cortar las pizzas más cargadas de salsa sin mancharte los nudillos, mientras que la parte superior del mango ofrece una cómoda posición secundaria para la mano, garantizando un rendimiento de corte óptimo\", se lee en la página de su tienda. Si preferís una réplica más fiel y a tamaño real de este arma, también existe aunque su precio sube a los 300 dólares . En Vandal os contamos nuestras impresiones de Gears of War: E-Day : \"Es más rápido, más flexible y más espectacular , pero sigue teniendo ese peso, esa personalidad y esa contundencia que hicieron de Gears algo especial\", señalamos sobre esta precuela.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-29T10:25:00+00:00"
+        },
+        {
           "title": "Control Resonant evita la polémica pintura amarilla a propósito: Remedy explica por qué no quiere usarla",
           "link": "https://vandal.elespanol.com/noticia/2026272019/control-resonant-evita-la-polemica-pintura-amarilla-a-proposito-remedy-explica-por-que-no-quiere-usarla/",
           "desc": "El director de Control Resonant explica que Remedy decidió prescindir de señales demasiado evidentes para que los jugadores tengan que orientarse y explorar por su cuenta. Control Resonant apuesta por un mundo mucho más amplio que su predecesor, pero Remedy ha evitado una de las soluciones más habituales y polémicas de los videojuegos modernos para orientar al jugador : la pintura amarilla que señala salientes, escaleras, puertas y otros elementos interactivos. Y no ha sido algo accidental. Mikael Kasurinen, director del juego, ha hablado sobre esta decisión durante una entrevista en el podcast Dropped Frames . \"Fue una decisión consciente, obviamente\" , explica. Remedy prefirió recurrir a la iluminación, los objetos del escenario y el propio diseño de los entornos en lugar de colocar indicadores especialmente evidentes. Remedy quiere que encontremos el camino por nuestra cuenta La razón está relacionada con la filosofía de diseño de Control Resonant . Kasurinen considera importante que los jugadores sientan que son ellos quienes están descubriendo cómo avanzar , en lugar de limitarse a seguir instrucciones colocadas por los desarrolladores. Vídeo: El director reconoce que todo videojuego es una experiencia diseñada y que siempre existe cierto grado de orientación, pero cree que hay que encontrar un equilibrio. Si el escenario transmite constantemente un mensaje equivalente a \"ve aquí\", explica, la decisión ya no pertenece realmente al jugador . Kasurinen incluso menciona como ejemplo contrario las polémicas indicaciones visuales de Marvel's Wolverine , donde el sentido del olfato de Logan puede crear rastros visibles que conducen hacia determinados objetivos. En el caso de Remedy, la intención es que observar el escenario y comprenderlo forme parte del propio juego. El estudio es consciente de que esta filosofía puede hacer que algunos jugadores se sientan perdidos inicialmente. Kasurinen admite que Control Resonant puede parecer difícil de descifrar al principio, pero considera que obligar al jugador a participar activamente en la exploración hace que descubrir un camino o un secreto resulte más satisfactorio. Remedy espera además que este planteamiento anime a regresar a zonas ya exploradas, probar rutas diferentes y preguntarse si se tomaron las decisiones correctas, en lugar de recorrer el mundo siguiendo una sucesión de señales evidentes.",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-09-29T10:25:00+00:00"
+        },
+        {
+          "title": "Nvidia Open Agent Safety Platform vs. los 9 incidentes de OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWFqU1BJdE5ZaVpyTlJXZmViamhpWVdiOC01dTRITW9FRkh5ZUkyaHIwWVdteHNKaC1OUjk1a2h4d3NFd0VsdHVQWDhDbFg3eGZMeldxVHBoZmNIN3oxOHZhTzk1eGthZzNQSklFODREMU51MTFkZUtZcG9YYjZhRExaSk93RXdDd1JwWjNSeFZQdEVyb0NZS2RB?oc=5",
+          "desc": "Nvidia Open Agent Safety Platform vs. los 9 incidentes de OpenAI El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:24:43+00:00"
         },
         {
           "title": "Nvidia lanza su plataforma de seguridad para agentes mientras OpenAI publica su catálogo de desastres",
@@ -654,51 +696,9 @@
         {
           "title": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUprSXdoT3d5dnViVndtOWpfZEk1NTIzTDZsOFlFN0dJN2dHb3R3U2R3MXBNRGZYTldvVTZhTEViNzYyTTJueHNicUlKdl82MWVqZ290NjhlYk9hVW5BQUdoa3BDTTAzSWxvWEtrVGRjQ1VJVEhjVEx6cjVDMlhIdWRGZnp1WHVrLUhORzQ4by0ycXRDREROY3N6c082dXhVenRtS2NPaExlSE5iT1c1QWxZbUs4YXRLVnpHak50NlRNWHBPZEVHYXBHM0jSAdIBQVVfeXFMTVpVUHZNckQ4WEVwMVB1VkNhbHRyazJrZVhuU2ZVTmVFM1R3Tkhhbm0zSlRFUnNCcEhoUUttanNYWGJUaXJOZWVHZXJ5VlZYOHRmckR3dVF1dlp1Q2tmZWpiME9EejdpY0FXbWhFOGxQQmlXOHJra08xOGp6ZmFZdDkxRHFYOVI4WGlHT2g1V1BwVXdkWFBoS3RHR1BpaWRNNjROSWNES1AxOU9Hd29NM1UzcUxnR0VOOGtpc21FWnF5SzVnUkN5bHFqSkFKOVVGdmRn?oc=5",
-          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares xataka.com",
+          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares Xataka",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:16:00+00:00"
-        },
-        {
-          "title": "Adiós a los problemas de iOS 27. Apple acaba de actualizar tu iPhone y así puedes acabar con todos los bugs",
-          "link": "https://hipertextual.com/tecnologia/adios-a-los-problemas-de-ios-27-apple-acaba-de-actualizar-tu-iphone-y-asi-puedes-acabar-con-todos-los-bugs/",
-          "desc": "Seguramente has estado viendo vídeos de los iPhone 18 Pro con iOS 27 que no dejan en muy buena posición a Apple. Durante los últimos días, varios bugs del software se han hecho bastante virales, y antes de que vaya a más, la compañía ha decidido lanzar una nueva versión que corrige todos estos errores […] Seguir leyendo: Adiós a los problemas de iOS 27. Apple acaba de actualizar tu iPhone y así puedes acabar con todos los bugs",
-          "source": "https://hipertextual.com/feed",
-          "fecha": "2026-09-29T09:04:25+00:00"
-        },
-        {
-          "title": "EVGA vendía gráficas NVIDIA por debajo de su coste",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNME1QYTMxajI4Q3ZPbGVPd2ZacGZWc0Z0bXFIaDZmSGh4OVR5SmsybkVRWFlRWG1Wdno3WDV1Vkc5RXJLdjExMkJXZlJLa0FZeGszNXdKbU9QdG5aVnZPMW50ZC1iRXpYX2UwLTgtb2p1dTA2aFppYmJJMndfUW1ZeUlHMUZ6SzhKU2ljWGswOXJEVE9oZjBXeDJ0NmzSAaIBQVVfeXFMTUstMGxrRlQ4QmdOMEhWSUl5N2hmeGVVLXRHZG9EVUVhOWlMVWtzNnFfN1RUeFBhVTM2UW1FME9qNV9TYzVfQktUTUg5a0xfdU9mVlNYLTlNbGQzTFY5OHVwd2l4RGR4QkNHLU1QbWo3aUhXQm04MU10RlF4Q3VhaWdqVmhLQ1d3dDA4dWJOaFpaTlVQYWJkc2FaZWNsMHJfMFF3?oc=5",
-          "desc": "EVGA vendía gráficas NVIDIA por debajo de su coste Profesional Review",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T09:03:57+00:00"
-        },
-        {
-          "title": "Hallada durante las obras de los Juegos Olímpicos de Barcelona, es de las pocas barcas medievales destinadas al transporte de mercancías que se conservan en el Mediterráneo",
-          "link": "https://www.eldiario.es/spin/hallada-durante-obras-juegos-olimpicos-barcelona-barcas-medievales-destinadas-transporte-mercancias-conservan-mediterraneo-pm_1_13545586.html",
-          "desc": "Estuvo sepultada bajo dos metros de arena y permaneció oculta seis siglos a pocos kilómetros de la capital catalana Un buque hundido en la Segunda Guerra Mundial, convertido en arrecife: así ha transformado el fondo marino Botado en 1892, estas fueron las tres grandes expediciones polares de este barco diseñado para flotar sobre el hielo En 1990 y durante las obras del Canal Olímpico en Castelldefels para los Juegos Olímpicos de Barcelona , emergió del delta del Llobregat toda una joya arqueológica . Sepultada bajo dos metros de arena y protegida por lodos húmedos, la nave permaneció oculta durante seis siglos en un ambiente anóxico que evitó la descomposición de sus maderas. Bautizada como “ Les Sorres X ”, este hallazgo no solo interrumpió las obras deportivas, sino que abrió una ventana inédita hacia el comercio marítimo bajomedieval en la costa catalana. Su trascendencia histórica radica en ser una de las poquísimas embarcaciones mercantes bajomedievales conservadas en el Mediterráneo. Perteneciente a la segunda mitad del siglo XIV, esta nave representa un testimonio único para el estudio de la arquitectura naval y la vida comercial. A diferencia de los barcos de guerra o de gran calado documentados en archivos, este barco refleja las dinámicas cotidianas del transporte marítimo de mercancías entre los prósperos puertos de la Corona de Aragón y otras plazas comerciales costeras. Con una eslora aproximada de diez metros , una manga de dos metros y un puntal de casi un metro, “Les Sorres X” presentaba un diseño estilizado para la navegación costera. La embarcación requería una modesta tripulación de tres o cuatro personas y combinaba la fuerza de una vela latina con seis remos por cada banda. Sus formas constructivas, parecidas a las del tradicional llagut catalán, permitían realizar maniobras ágiles en aguas poco profundas e internarse sin contratiempos por los marjales y estuarios cercanos a la gran ciudad de Barcelona. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-aWan9zMvESc-3127', 'youtube', 'aWan9zMvESc', document.getElementById('yt-aWan9zMvESc-3127')); }]); Entre sus características constructivas más sobresalientes destaca la presencia de un avanzado timón de codaste o de rueda en la popa , elemento que sustituyó al clásico doble timón lateral de época romana y altomedieval. Este sistema de gobierno supuso un salto tecnológico determinante para la precisión del rumbo en la navegación comercial bajomedieval. El examen arqueológico de sus estructuras transversales y cuadernas ha permitido comprobar la solidez de una nave concebida específicamente para resistir los viajes continuados cargando toneladas de productos a lo largo del litoral cercano. En el momento de su hundimiento en las marismas del Llobregat, “Les Sorres X” transportaba un valioso cargamento de jarras cerámicas de origen sevillano, identificadas como del tipo Amigues VIIIa. Estas vasijas, de unos cuarenta centímetros de diámetro, iban estibadas en la bodega sobre ramas finas de vid y esparto para amortiguar los golpes del viaje. En su interior se descubrieron escamas, vértebras y conchas que atestiguan el transporte de pescado en conserva, procedente con gran probabilidad del golfo de Cádiz y destinado al abastecimiento de los grandes núcleos urbanos de la época. La urgencia por finalizar el canal olímpico motivó una compleja intervención arqueológica de emergencia asumida por el Centre d'Arqueologia Subaquàtica de Catalunya. El equipo de especialistas tuvo que desmontar minuciosamente cerca de un millar de piezas de madera fragmentadas para trasladarlas a los laboratorios de Girona. Allí, los restos fueron sumergidos durante casi dos años en un tanque de acero inoxidable con cerca de cinco toneladas de polietilenglicol, un tratamiento químico pionero que reemplazó el agua interior de las fibras celulósicas y estabilizó definitivamente la madera arqueológica. Exposición permanente Tras ser cedida al Museu Marítim de Barcelona , la nave fue objeto de una reconstrucción no invasiva que unió nuevamente sus mil elementos estructurales. Los estudios científicos revelaron una asombrosa continuidad en la arquitectura naval mediterránea, al comprobar que las líneas de “Les Sorres X” son casi idénticas a las de embarcaciones tradicionales del siglo XX como el caro d'art Papet o la palangrera Madrona. Esta persistencia demuestra que las soluciones técnicas para la navegación de cabotaje se mantuvieron inalteradas a lo largo de varios siglos. Hoy en día, “Les Sorres X” brilla como la pieza central de una exposición permanente en las históricas Reales Atarazanas de Barcelona , ocupando un lugar de honor en el museo. La escenografía recrea el entorno deltaico original con un mar metálico y una réplica suspendida a escala real que permite comprender el aspecto que lucía la embarcación en pleno viaje. Convertida quizás en el barco más antiguo expuesto en un museo español, esta joya rescata del olvido la memoria de los hombres de mar y la vitalidad del comercio bajomedieval.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-29T09:00:34+00:00"
-        },
-        {
-          "title": "AMD comprará World Labs para competir en IA física",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcl9lQ1FiTjZYV2xyOU1xa0U2OW5fTVZ5T0dweERldVI4czkzeC1nUjlNT0V4dGh6Q28xOWJYT2ZzU1JMSldDLVd6Q0hiT1JlQXJfdVlDZGJmVHlVUktTS3BpUDVCOGJVbTdBdEpNZGNpY25oeVg4d0lMZjRYc3FWODN4d2EzeXRQWDNRMmItNkV4bDd1MUZpQlZmU3ZNSUdjVDdRVm1hOEpjN2s?oc=5",
-          "desc": "AMD comprará World Labs para competir en IA física MuyComputerPRO",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T08:46:49+00:00"
-        },
-        {
-          "title": "Ordena cientos de libros en una biblioteca embrujada en lo nuevo de los creadores de I Am Your Beast",
-          "link": "https://vandal.elespanol.com/noticia/2026272014/ordena-cientos-de-libros-en-una-biblioteca-embrujada-en-lo-nuevo-de-los-creadores-de-i-am-your-beast/",
-          "desc": "Something is Wrong with the Library es un peculiar simulador narrativo de terror en el que tendremos que ordenar cientos de libros mientras descubrimos qué ocurrió en una biblioteca embrujada. Strange Scaffold, el estudio responsable de I Am Your Beast y Clickolding , ha anunciado su próximo y peculiar proyecto. Se llama Something is Wrong with the Library y propone algo tan cotidiano como ordenar cientos de libros en una biblioteca , aunque hacerlo será bastante más complicado cuando empiecen a producirse fenómenos sobrenaturales . El juego llegará a PC a través de Steam durante el cuarto trimestre de 2026 y sus responsables lo describen como un simulador narrativo de organización con terror . La biblioteca contará con miles de títulos de libros reales y tendremos que colocar los ejemplares caídos o perdidos atendiendo al Sistema Decimal Dewey, el autor y el título. Una tranquila noche ordenando libros que se complica bastante La historia nos lleva hasta Sweet Elm, una pequeña localidad de montaña que ha cambiado gracias al multimillonario Alex Dieter . El empresario instaló fibra óptica, financió mejoras en la ciudad y puso en marcha diferentes iniciativas para convertirla en un pequeño centro de innovación tecnológica. El problema es que también asesinaba a personas sin hogar y escondía sus cuerpos dentro de las paredes de la biblioteca . A continuación podéis ver su primer tráiler: Vídeo: Como consecuencia, la Biblioteca Pública Alex Dieter está ahora embrujada . Los libros aparecen tirados por el suelo y antiguos usuarios y fuerzas sobrenaturales alteran constantemente sus estanterías. Nuestra tarea será limpiar y ordenar todo durante una única y tensa noche con la ayuda de Phillip Shed, el antiguo administrador del edificio. El denominado Modular Chaos System hará además que los libros que debemos colocar cambien en cada partida , por lo que la organización de las estanterías no será siempre idéntica. Contará con numerosas manifestaciones sobrenaturales que podremos ir descubriendo mientras avanzamos. Entre sus características, sus creadores mencionan también de manera bastante misteriosa \"The Drowning Room\", sin explicar todavía qué nos espera en esa habitación.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-29T08:42:00+00:00"
-        },
-        {
-          "title": "No habrá noticias de PS6 en el CES 2027: Sony se perderá la feria de tecnología por primera vez en 60 años",
-          "link": "https://vandal.elespanol.com/noticia/2026272013/no-habra-noticias-de-ps6-en-el-ces-2027-sony-se-perdera-la-feria-de-tecnologia-por-primera-vez-en-60-anos/",
-          "desc": "Sony ha confirmado que no asistirá al CES 2027, descartando cualquier noticia sobre PlayStation 6 que se rumorea que llegará a finales de 2027. Sony ha confirmado que no asistirá al CES 2027 , que se celebra del 6 al 9 de enero de 2027 en Las Vegas. Esta es su primera ausencia en 60 años y descarta por tanto que tengamos algún tipo de noticia relacionada con PlayStation 6. El CES es la feria de tecnología y electrónica de consumo más grande del mundo, y todas las grandes compañías han participado en el evento para mostrar sus productos. Sony solía tener una gran espacio y han estado presentes desde el primer año en 1967, y en todas estas décadas han mostrado televisores, equipos de sonido, móviles y en casos concretos, novedades o accesorios para sus consolas . Como curiosidad, hay otra empresa japonesa que se perderá por primera vez un CES, Panasonic Holdings. Si bien esta no es una feria con una gran presencia de videojuegos, en el pasado Sony ha utilizado estas citas para llevar sus tecnologías de imagen 3D -con los juegos compatibles-, la realidad virtual, el servicio PlayStation Now o la confirmación del nombre y logo de PlayStation 5 . Una decisión que refleja su nuevo rumbo hacia una empresa de entretenimiento Aunque Sony ha estado siempre asociada a productos electrónicos, en los últimos años se han orientado al entretenimiento: cine, anime, música y juegos . Este año por ejemplo se anunció que cedía el control de sus televisores a TCL . \" Evaluamos de manera continua y estratégica nuestro enfoque respecto a los eventos y las comunicaciones , basándonos en las necesidades y prioridades de nuestro diverso negocio\", ha comunicado un portavoz a Bloomberg . Ya este año la presencia de Sony en el CES se redujo a la presentación de Afeela Prototype 2026 de Sony Honda Mobility, un proyecto que está en entredicho por la \"reevaluación\" de la joint venture . La noticia tiene relevancia para PlayStation porque se espera que PlayStation 6 y la versión portátil sean lanzadas en noviembre de 2027 , y el CES 2027 podría haber sido el primer lugar para realizar alguno de los anuncios de las consolas o tecnologías .",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-29T08:41:00+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "José Luis, padre de Fernando Alonso: \"Le puedo pedir que vaya tranquilo en el coche, que él siempre va a tope. Y eso es lo que hace desde que llega a los pedales\"",
+          "link": "https://www.estadiodeportivo.com/motor/formula-1/jose-luis-padre-fernando-alonso-puedo-pedir-que-vaya-tranquilo-coche-que-siempre-tope-eso-que-hace-desde-que-llega-los-pedales-20260929-547505.html",
+          "desc": "El progenitor del piloto de Aston Martin desvela algunos detalles de cómo fueron los comienzos de Fernando y lo que costó que llegara a la cima En más de una ocasión, Fernando Alonso ha explicado cómo fue su llegada al mundo del motor y cómo se aficionó a los coches desde muy pequeño . El asturiano ha asegurado que la idea era de su padre, que fue el principal promotor de esa afición y el que la incentivó al ver que valía. Su progenitor, José Luis, le 'construyó' un circuito de karts para que entrenara e invirtió mucho dinero en su formación. Era un gran aficionado al motor, pero no esperaba que el pequeño Fernando fuera tan bueno. De hecho, construyó su primer kart para su hermana mayor . Pero ésta no le hizo caso y, en cambio, Fernando sí. El propio piloto de Aston Martin ha reconocido que gran parte de la nómina de sus padres se iba para pagar sus carreras en la etapa de formación. Una inversión que afectó a su familia, aunque a la postre sí fue rentable, habida cuenta de lo que Fernando ha logrado a lo largo de su carrera. A sus 45 años, el piloto asturiano es el más veterano de la parrilla actual de F1, ha batido récords de longevidad y duración en la máxima categoría del automovilismo, tiene el récord de carreras disputadas... Y la única duda es si seguirá el próximo año con Aston Martin. Un sistema para que el pequeño Fernando Alonso condujese Sobre aquellos primeros años no sólo ha hablado Fernando. También lo ha hecho José Luis, quien ha explicado detalles de cómo se fue dando cuenta de hasta dónde podía llegar el pequeño Fernando con su afición. Sobre todo, cuando, con tres años, se subió por primera vez a un kart y vio que lo disfrutaba. \"Se lo ponía al ralentí y le seguía andando a su lado por si ocurría algún imprevisto. Él no podía acelerar ni frenar\", pues no alcanzaba a los pedales , señala José Luis en una entrevista en El País, donde también reveló cómo solucionó el problema con un sistema de tacos, con los que llegaba. \"Al principio empezó como un juego, pero desde los cinco o seis años se le vio que tenía más picardía que los niños de su edad. (...) Al cabo de un par de años ves que tiene aptitudes, porque empieza a ganar carreras\", indica sobre cómo empezó a darse cuenta de que su hijo tenía aptitudes para ser piloto profesional. Fernando Alonso: \"Una vez le di una vuelta en coche al rey Juan Carlos. Llegamos a poner el coche a 220-230 kilómetros por hora\" De hecho, muy pronto, Fernando Alonso empezó a tomar decisiones por sí mismo y pasar de lo que le decía su progenitor. \"Desde que él tenía siete u ocho años, que le decía que tenía que ir así o de esa otra manera, ya sabía que no me hacía caso, que iba por su cuenta. Pero siempre le salían las cosas bien, así que decidí que era mejor dejarlo y no ponerle freno\", reconoce José Luis Alonso. El alto coste de la carrera de Alonso Esas carreras tenían contra la pared la economía familiar, algo de lo que el actual piloto de Aston Martin ha hablado en más de una ocasión y que también admite su progenitor. \"Siempre quise que supiese el valor de las cosas. Sabía que una carrera costaba 6.000 euros y que, para ganarlos, su padre debía trabajar seis meses\", explica, al tiempo que confirma que era un esfuerzo consensuado por todos. \"Era necesario el consenso familiar. Y lo hubo. Si no, habría sido imposible\", añade. Para José Luis, lo que hizo no fue nada especial a lo que otros padres hacen por sus hijos. Sólo que lo suyo era algo más costoso. \"No hice nada especial. Le metí en un kart, igual que muchos otros padres enseñaron a sus hijos a pescar o a jugar al tenis\", afirma. Así mismo, también admite que, pese a ser sólo un niño, nunca o pudo controlar. \"Siempre hizo lo que quiso y he sido yo mucho más cauto que él. Le puedo pedir que vaya tranquilo en el coche, que él siempre va a tope. Y eso es lo que hace desde que llega a los pedales\", explica , aunque, luego, también admite que la frialdad del piloto de F1 sí que la ha heredado de él. La frialdad de Fernando la hereda de José Luis Alonso Y lo dejó claro cuando Fernando Alonso, en sus primeros años con Renault, cuajo su primera gran carrera en Montmeló y, en Hungría, ganó su primera carrera en la F1. \"Pensé que Fernando podría ganar después de Barcelona\", confirmó tras un segundo puesto en el que el piloto ovetense llamó la atención de todos. Fernando Alonso: “Mi padre fabricó un kart para mi hermana, pero el que me subí fui yo” Luego, tras convertirse ese mismo año (2003) en el primer español en ganar una carrera, José Luis ni se inmutó. \" Está muy bien esta victoria, pero habrá que seguir trabajando, porque habrá otros circuitos menos propicios. (…) Yo no percibo nada especial por esta victoria. Para eso soy frío. Está bien hacerlo, pero a partir de ahora hay que pensar ya en la siguiente prueba\", indicaba entonces. De tal palo...",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T10:58:25+00:00"
+        },
         {
           "title": "La energía que viene a transformar Europa",
           "link": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-09-29/la-energia-que-viene-a-transformar-europa.html",
@@ -866,13 +873,6 @@
           "desc": "El dispendio en costear su guerra y pagar intereses de deuda supera el 50% del gasto total de los presupuestos. La inflación real podría triplicar los datos oficiales",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-09-29T03:30:00+00:00"
-        },
-        {
-          "title": "El Supremo confirma la sanción de seis millones a Telefónica por sus acuerdos con Yoigo",
-          "link": "https://cincodias.elpais.com/companias/2026-09-29/el-supremo-confirma-la-sancion-de-seis-millones-a-telefonica-por-sus-acuerdos-con-yoigo.html",
-          "desc": "El alto tribunal determina que el pacto comercial violó las normas de competencia entre dos empresas rivales del sector",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-29T03:15:00+00:00"
         }
       ]
     },
@@ -880,6 +880,34 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Requisitos de The Witcher 3 Remastered: exige Windows 11",
+          "link": "https://www.muycomputer.com/2026/09/29/requisitos-de-the-witcher-3-remastered-exige-windows-11/",
+          "desc": "CD Projekt RED ha confirmado los requisitos mínimos, recomendados y óptimos de The Witcher 3 Remastered, una remasterización del juego original que incluye la opción de activar trazado de rayos y trazado de trayectorias. El juego también es compatible con los ecosistemas NVIDIA DLSS, AMD FSR e Intel XeSS, que incluyen tecnologías de reescalado y […] La entrada Requisitos de The Witcher 3 Remastered: exige Windows 11 se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-29T10:31:55+00:00"
+        },
+        {
+          "title": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGh3UXg4V2JYYlhhMmk4VlA0OTFJdDBWUXAwdmpKYlNMUS1BUWRhdWdpcjNDZzkwSFNnb3ZXUklCSUYwWFBxWm9uZDdYa2FkUEhXVG1pLXVjWXJDMmdSek5qaXBGMXlNNDZhYzdmQzVBQ2Q2NzZjTENpYlhGTUN2U2NmQ1dqSUVYVEE2MWNmellKMTdiZzZJ?oc=5",
+          "desc": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares Yahoo en Español Vida y Estilo",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:30:00+00:00"
+        },
+        {
+          "title": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnF4QWMwT1l1MUVqUlBCaTNHemJMbkdlQlY0dFlvVHk4OF95UTFVZExpNnY4anI1QUpGUmNsQ2FzTW5DQ0xXTmR2aTVtT0REVERRRFppRGZNUHlFRkVISHZLUFJvMDBfSk43bU9FQVp4NUhNTm0tU3dBdWNhZzg0STNBWklwUGYwMmRwMjhfX3BIanNJcVhITnhJNUVzWWtMYmNaclJzQ1FCZHNW?oc=5",
+          "desc": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT Yahoo Finanzas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:29:44+00:00"
+        },
+        {
+          "title": "Nvidia Open Agent Safety Platform vs. los 9 incidentes de OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWFqU1BJdE5ZaVpyTlJXZmViamhpWVdiOC01dTRITW9FRkh5ZUkyaHIwWVdteHNKaC1OUjk1a2h4d3NFd0VsdHVQWDhDbFg3eGZMeldxVHBoZmNIN3oxOHZhTzk1eGthZzNQSklFODREMU51MTFkZUtZcG9YYjZhRExaSk93RXdDd1JwWjNSeFZQdEVyb0NZS2RB?oc=5",
+          "desc": "Nvidia Open Agent Safety Platform vs. los 9 incidentes de OpenAI El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:24:43+00:00"
+        },
         {
           "title": "Nvidia lanza su plataforma de seguridad para agentes mientras OpenAI publica su catálogo de desastres",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjFDNENjd2JuTFpWNlF2clRJdjhZckx0RnN3dGg0amx3a2x6aVB0WEdKaklkbV9kMFV0X1g1cUJwV2RITlFobFRfd0ZXMGltbS1CX0kzQkdiTHp1WlNsR19Na1U2blVSVlFqaTFHcEVMQnpPUllyT19Db3BIWGx0djJ6Q21jSFRDc0hySTU5U2F4dmJuZzFPb01oUEVkcm1Ma3J0OXJqWHVYMktQZDVxQkVB?oc=5",
@@ -939,7 +967,7 @@
         {
           "title": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUprSXdoT3d5dnViVndtOWpfZEk1NTIzTDZsOFlFN0dJN2dHb3R3U2R3MXBNRGZYTldvVTZhTEViNzYyTTJueHNicUlKdl82MWVqZ290NjhlYk9hVW5BQUdoa3BDTTAzSWxvWEtrVGRjQ1VJVEhjVEx6cjVDMlhIdWRGZnp1WHVrLUhORzQ4by0ycXRDREROY3N6c082dXhVenRtS2NPaExlSE5iT1c1QWxZbUs4YXRLVnpHak50NlRNWHBPZEVHYXBHM0jSAdIBQVVfeXFMTVpVUHZNckQ4WEVwMVB1VkNhbHRyazJrZVhuU2ZVTmVFM1R3Tkhhbm0zSlRFUnNCcEhoUUttanNYWGJUaXJOZWVHZXJ5VlZYOHRmckR3dVF1dlp1Q2tmZWpiME9EejdpY0FXbWhFOGxQQmlXOHJra08xOGp6ZmFZdDkxRHFYOVI4WGlHT2g1V1BwVXdkWFBoS3RHR1BpaWRNNjROSWNES1AxOU9Hd29NM1UzcUxnR0VOOGtpc21FWnF5SzVnUkN5bHFqSkFKOVVGdmRn?oc=5",
-          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares xataka.com",
+          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares Xataka",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:16:00+00:00"
         },
@@ -951,11 +979,11 @@
           "fecha": "2026-09-29T09:03:57+00:00"
         },
         {
-          "title": "EVGA revela por qué dejaron de trabajar con NVIDIA: vender GPU con pérdidas y persecusión a filtradores",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNkbEJzVnhJeVE0SWhmR3k4amFBaFBzRWJ0amhPcVhMajliSDdjWW1uV0h6VW1IWV9mWWhYOHRrSmFzSnF2X1VuS1lnME15UTNmQmp4QkVleUVaLTNRaFNldXoxdUQ3aUJMTWtLZXNqSFhlal9FQVZoLXJJQVVtNHF2N3hvTmt3ZGN2OTlHcw?oc=5",
-          "desc": "EVGA revela por qué dejaron de trabajar con NVIDIA: vender GPU con pérdidas y persecusión a filtradores El Chapuzas Informático",
+          "title": "Nvidia aprueba recompra de US$150.000M y vigila agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFoVFJ5WlFKazRsa2h0MGRNb3BGT2tJY0M3SnktWGxlYkxBN1JuTV9SR1RuWk5aTEpDU0QxbzlhR1VwMXhuZ3VUUmh4NW1jOTJoYnU1d0hvMkt4T3BiTDlqejlJcG1sWEltZ3JocjlVSVdxanpGRTNuWFBuVEo2VVNxNlFoS3JZOXBsTG14a1dnYWhTMUE?oc=5",
+          "desc": "Nvidia aprueba recompra de US$150.000M y vigila agentes de IA El Ecosistema Startup",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T08:39:36+00:00"
+          "fecha": "2026-09-29T08:24:40+00:00"
         },
         {
           "title": "Unos ladrones robaron un remolque de la marca Nvidia que contenía únicamente 20.000 libras de arena",
@@ -1019,34 +1047,6 @@
           "desc": "Datos clave: NVIDIA eleva la recompra en $150 mil millones; comprará Hugging Face por $13 mil millones TradingView",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T07:00:00+00:00"
-        },
-        {
-          "title": "Nvidia DLSS «oficial» en una Radeon RX 7000 es posible gracias a un mod",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEdHemRyTXdxeXoyTUZWWjBmalFqb0p0VlhHWUNNQ2dIWTNHMWprZElLMmtSMFh2M3dqdmxXNV9MV2ZPclgzTG9nT0JfN2VieFQ2VGZEMG1EMzRhUjQySlp6UVJCa2dFdnBaNENsZG1yZTVZUFhRR1g4aGNaVEJDWFBVd05NR2I1ay1la1F3c0ttWC15UnpwNtIBngFBVV95cUxNRm9HMVlJdmRaV09kNWVUZXE3blBKbWR6TVdhWEZiREVsa1RTR0VIbExPS1RtcDY4TkRZQjdaLUE5c2tySWpZUTVLY1JFMWdHSkpWcERsNEdZNG1XVDBycndjcVJMWTV4M3hDcDltZGVpaFJpaVdSYTRMeEMtOVhyXzBSZlp0OERrdkhRN3RQd0FFVWlHb0hMSkdaOTMxUQ?oc=5",
-          "desc": "Nvidia DLSS «oficial» en una Radeon RX 7000 es posible gracias a un mod Profesional Review",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:56:43+00:00"
-        },
-        {
-          "title": "AMD compra World Labs, la ‘start-up’ de la ‘madrina de la IA’, por 8.200 millones de dólares, y presiona a Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM2g1cnhyTl9KSmxPLVdZOXMxUFBLOTRsUzBWVVJQMGpMZjN1UWdweUZqbThOVDJ4bWJZQkIxNGJoSl9DVHZnczFGNWhUYl93SXhjUUQzdlBOREZEaDZhUXZ0c2dncmtBUGNwOXViRXA0TTVYZE02ek1nQjdsVUxmR3hzZXlUeFFUeHpWSG94NlZXY2lJMEFnb0ZXcEFWcUVCX0tVdEJROUduVDRWdm5SRTNLOTNQNE5DREJSVFdiUXR2dy1ZN0JrOEpnUHdYR1M4ZTU0ZXNfYThoZVF6ajdZWXZvd3QtaGxwZ291NXdPbnUwUdIBhgJBVV95cUxQZzR3SF9maTdiRVBOb29qQ0owOXRDOVRmakZaWWgtMjJlSWkxcTV0VnVzX0o0d1VCdGFBUmlrZTdaRm9RbzJvR1Q1OWU1SlYwa0tKSnY5aTJCQUVZY2VxZUpJWk5LTUg2UDdiTUpkMEJ0bjFPUC1fUnJWbGZuZzdrMHJkM1V6UkxxWVpYSF95XzF6X2xhdmRpaFVrYUdPVG82dTVQTWVURHhZeDZKZHZlQjh5X0ZVeU1xQ25VOE9jZXBHdnFscGRlWWp5S2JnQ2xmVmEwVGZqel9Oei13NE9kWHRHNFlDbF84R09LUnBrS2Z2VTJpbVNIM2JSN08xdUNiWlNTTFhn?oc=5",
-          "desc": "AMD compra World Labs, la ‘start-up’ de la ‘madrina de la IA’, por 8.200 millones de dólares, y presiona a Nvidia Cinco Días",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:55:27+00:00"
-        },
-        {
-          "title": "Pekín se dispondría a autorizar a ByteDance y Alibaba a comprar chips de Nvidia por valor de miles de millones de dólares",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2pVYU9ENlRkWnVBakF2MHZxeHluZlctUUk1SGpOcGRKcjJDaDVmcnJsUzRiMFlIVTVYTkVOWHh6dmF0dTJFdHlTVHlCSkpCNjM0MGVrZE51dTlENjBGZVFWY0J1VThSbHdJRnRJb2R4aW9UM1RyT3d2RVNPNko4MUl6a2hPT25CNDNnM01MNXJONXZfck9hX0swUG9SMTFvU09jTUNzT0lXWEdPckVj?oc=5",
-          "desc": "Pekín se dispondría a autorizar a ByteDance y Alibaba a comprar chips de Nvidia por valor de miles de millones de dólares Le Grand Continent",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:54:23+00:00"
-        },
-        {
-          "title": "NVIDIA prepara cuatro estrenos con trazado de rayos y DLSS 4.5",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3FsTEpZY01QdVRJSFZlMTZvanNqZDEtVDM0ckYwaVoteGhOQW5FRGVHTllvbG9pZVpPTGV1anZTT19vMk9XSldWWnVxU1d2V0JuWXlYa1pkTXRZcXlHMGpoYjJzQ09DRFdabTZicTNFUVNBdk1iMFJYb29idnVrbFBMc0I3YjJMT3doNU53MVMyd3JyNGc?oc=5",
-          "desc": "NVIDIA prepara cuatro estrenos con trazado de rayos y DLSS 4.5 Hardware Premium",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:30:00+00:00"
         }
       ]
     },
@@ -1081,6 +1081,20 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "Requisitos de The Witcher 3 Remastered: exige Windows 11",
+          "link": "https://www.muycomputer.com/2026/09/29/requisitos-de-the-witcher-3-remastered-exige-windows-11/",
+          "desc": "CD Projekt RED ha confirmado los requisitos mínimos, recomendados y óptimos de The Witcher 3 Remastered, una remasterización del juego original que incluye la opción de activar trazado de rayos y trazado de trayectorias. El juego también es compatible con los ecosistemas NVIDIA DLSS, AMD FSR e Intel XeSS, que incluyen tecnologías de reescalado y […] La entrada Requisitos de The Witcher 3 Remastered: exige Windows 11 se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-29T10:31:55+00:00"
+        },
+        {
+          "title": "AMD compra World Labs por US$8.200M y suma a Fei-Fei Li",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaURRajl5MjByYk5zRklIRS1scVkxZ3lGUk1DMGh2TWZ2VnFmbUtvenM4UjAtYkhfVjdvTmF3T3dQSUFhZGZ0cVFvVk9IbmFBVFowVlJuSGl1d2dhN3lsM2hoQVlGc19UWHlzUDJGOTctd2ZtOGVVaDNOakNjY2VwUUQ5X2JzVTMxSldjalF3?oc=5",
+          "desc": "AMD compra World Labs por US$8.200M y suma a Fei-Fei Li El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T10:27:44+00:00"
+        },
         {
           "title": "AMD compra World Labs por US$8.200M y ficha a Fei-Fei Li",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzlpSkVoOVVBQXYzTWJqY1VWM2JDUVFsOWVzaks1VnJRM0J4YVJKRjZyNVpxMlRfTTd4aDBYclI4V1VKRFhMbmVwWUFHR1pESWtKTURnNW1ZcTdtMmtLbkRjdVNBM2RGXzlHaEEyTVV3Q09MYV9iZG00YUlTcG9VUWY4bXQwSHNXenh2anV2UWF6QQ?oc=5",
@@ -1126,7 +1140,7 @@
         {
           "title": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUprSXdoT3d5dnViVndtOWpfZEk1NTIzTDZsOFlFN0dJN2dHb3R3U2R3MXBNRGZYTldvVTZhTEViNzYyTTJueHNicUlKdl82MWVqZ290NjhlYk9hVW5BQUdoa3BDTTAzSWxvWEtrVGRjQ1VJVEhjVEx6cjVDMlhIdWRGZnp1WHVrLUhORzQ4by0ycXRDREROY3N6c082dXhVenRtS2NPaExlSE5iT1c1QWxZbUs4YXRLVnpHak50NlRNWHBPZEVHYXBHM0jSAdIBQVVfeXFMTVpVUHZNckQ4WEVwMVB1VkNhbHRyazJrZVhuU2ZVTmVFM1R3Tkhhbm0zSlRFUnNCcEhoUUttanNYWGJUaXJOZWVHZXJ5VlZYOHRmckR3dVF1dlp1Q2tmZWpiME9EejdpY0FXbWhFOGxQQmlXOHJra08xOGp6ZmFZdDkxRHFYOVI4WGlHT2g1V1BwVXdkWFBoS3RHR1BpaWRNNjROSWNES1AxOU9Hd29NM1UzcUxnR0VOOGtpc21FWnF5SzVnUkN5bHFqSkFKOVVGdmRn?oc=5",
-          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares xataka.com",
+          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares Xataka",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:16:00+00:00"
         },
@@ -1234,20 +1248,6 @@
           "desc": "AMD adquiere World Labs, fundada por la “madrina” de la IA Fei-Fei Li Gestión",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-28T22:26:42+00:00"
-        },
-        {
-          "title": "AMD adquiere World Labs, fundada por la \"madrina\" de la IA Fei-Fei Li",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnVfejlQX3BiQzUwUV8zN0NJRXV5X0FOQnZ5b3c5SkpUV0I4eVIzWG9uSmtJRWhMYTR4NjUwMHowcEE3M0dDXzY2ZUZaZ3dWZXJyRUx4Q3VYRElGQW16bkZrS19iVEY0d25QVXJfSlBWZElkMDBKUEdzSzI0MGs3alJJNWYyTXpGRWlkOV9pd3ppMzdURlcxVXRqdjJFU2NqZXFBMjRUNFppQmRSVks1U3RianFYaWVxNnlFaEJpNA?oc=5",
-          "desc": "AMD adquiere World Labs, fundada por la \"madrina\" de la IA Fei-Fei Li Clarin.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T22:00:06+00:00"
-        },
-        {
-          "title": "AMD acuerda comprar World Labs por USD $8.200 millones y sumar a Fei-Fei Li a su equipo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakRUUzUzUlkyN2tTX1VGRmN6NDFnbG12VXliU2xJNkJZalFNMlRacl9IcEJCNzJpT2lVRExfTFYzSDg1bmJxSFoxWWFGVk01Nkdlc2dkTUhFc1R4S050UC1aQ1FkMW9sMTY1X0RTRUp5cDJrZ29kM3pfbGtTMHc2VFpfN1hDcHY4YXNFYUg0UzJMNFFTaWZyTC1yUGEwNmtQRHhtSG4xSUhocmxvNHZjQkNuRWtNTlMtYlBvYXlhTUY5SUs4MzZB?oc=5",
-          "desc": "AMD acuerda comprar World Labs por USD $8.200 millones y sumar a Fei-Fei Li a su equipo diariobitcoin.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-28T21:56:21+00:00"
         }
       ]
     }
