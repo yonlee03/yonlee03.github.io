@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T13:30:05.778685+00:00",
+  "generado": "2026-09-29T14:00:03.705500+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -11,11 +11,32 @@
       "icono": "🔴⚪",
       "items": [
         {
+          "title": "EL PRESIDENTE DEL SEVILLA FC OBSEQUIÓ A DE LA FUENTE CON UN CUADRO CONMEMORATIVO",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1NFYXlOXzh4R01VNGFaZExFVFcwSmQwZnhTYzZ3R0prUnM4YTcteFhuNHJJR1Z5dXlsc19zX1BDazA2T3ZIZTlGc1NOa3lPQXFnR1FUYk9pQnRhRTE1X2c5SnROeHVjWXUyQWtrWkprc3llTjlXUGt1elN3T2FuMDR4YmdmckFlZ3lLbTJORU90YmM?oc=5",
+          "desc": "EL PRESIDENTE DEL SEVILLA FC OBSEQUIÓ A DE LA FUENTE CON UN CUADRO CONMEMORATIVO Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:37:18+00:00"
+        },
+        {
+          "title": "Fotogalería Tercera Andaluza G4 J2 | Sevilla FC 'D' 5-0 Ciudad Jardín CF",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVZUdWVKRUtNY3lQOEJYYzBsczJZMXpIZTcxVU9zQlh3T3BZRzNtOW1oRFo5ZGFFeGNjbnN3V21TM0poekx4RDFZOHQtUjAycEZKb2tZd1FpLVhFdHg5THJBSzRkNnQ1VVQ2V0VWbzE5RnlfWHBnTjY1Q2FDQzVQbw?oc=5",
+          "desc": "Fotogalería Tercera Andaluza G4 J2 | Sevilla FC 'D' 5-0 Ciudad Jardín CF elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:10:00+00:00"
+        },
+        {
           "title": "El Sevilla vuelve al trabajo pendiente de Vargas y Stassin",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelI2ZU4wWW44ZFd6eTEzMUVhVUMwVC1lVlc1RlR6UXNaX19vNUo1UVBhZ29PY20tTDR2UWRSQUFfZlZNdFNCdDd1aVN1OG5jc1JscXFXYXBnVkxTSENqc2lXUWthMktfdWV0azlIOTdsR2xubDJoa081dFhCblpHaWc3NURRSEpxQWJ4bmZkU3AwdllxbXVWbWprTW85T3dNV0HSAaIBQVVfeXFMT3F6dS1nWWtxWGF3YjdMN3JzZXloc0toM01Mak1TQ21yMmxuS3YtQ2FrUXgtUXJWdThORHB4ckZqdEREaVZORl9zQ3ZxR3NaeGRHR3BWd0tkN3BaMmg3dGk0RUhLa05iMUVHUkF2aGZZMkZXYjhWdmhWeVFWUzlVNGFfR2JPRmpxMFNDM251T2FwZE96Sm1OM2FKdWdmdnd2aFVB?oc=5",
           "desc": "El Sevilla vuelve al trabajo pendiente de Vargas y Stassin MARCA",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T13:04:36+00:00"
+        },
+        {
+          "title": "Fotogalería Segunda Andaluza Juvenil | Sevilla FC 4-1 Nevaluz Écija UD",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0E1azNRbEJjWlhHWWh3eUxCMDVkejkzaWpWWGFqSzFfdmM5VE50dV9EcWd1dm1sNkNnLXp1dXhHYUdHWWFsMjZ4MXhjb0IxUGFpcmR4WHI2bHVSQ3RJWGlnUTNqN09GR3NfWk84Z3hkdktuY0R0T2Vya1JNY2hyMkZvOA?oc=5",
+          "desc": "Fotogalería Segunda Andaluza Juvenil | Sevilla FC 4-1 Nevaluz Écija UD elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T12:45:00+00:00"
         },
         {
           "title": "El 'Papu' Gómez acaba con su culebrón y ya tiene nuevo equipo",
@@ -90,7 +111,7 @@
         {
           "title": "Los 2 motivos por los que España juega en Sevilla en el Sánchez-Pizjuán y no en la Cartuja",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbTljU2dDczdBUHg1Nzg4cXdsMWdtbjMtZFZWcWY1TW5JLUdHMzEtQWFVQnIta0JfNTEtcVp4UUlLbkhMTGpuekxRSnFoYjhtTmhlOHQycUNaMnExdTZkd09rTGcwVjJLcWZaU01ibEF1RjgzOTlzaEd2bXY0UkFvOVlsMGdod00tdWRHOXRKRmNxM3g1QnphWmd2VXBPWjc3TThLTG9WdGJkN1JRWmlPM2JYdlk1VHNOTTZF0gHAAUFVX3lxTE91RmM0RkRlWlktaWFkM3l2eUhCalI1TmVnb0Y2eXNVN0tBcVJZaUJLWFhMcnJyOVczblR3aDhYa1czVmtHUkpTS3pfSzNCX2k5UHFEWWRDRVNYdWZBaWltN0JHcXNqZW00TnhPNmhxTXUwU3JFUG82N2VwaTFLVnpITnBSY01CT3owSExQV0pMV0NYaVRqenlzcmRXVWRJR1o0QURSUU5aWWNJR3BaTWpHQ2tKcXBaMmlESlZPM3FRSg?oc=5",
-          "desc": "Los 2 motivos por los que España juega en Sevilla en el Sánchez-Pizjuán y no en la Cartuja El Debate De la Fuente: \"Venir a Sevilla me emociona mucho, pero venir aquí, al estadio del Sevilla, mucho más\" Muchodeporte El Sevilla FC y La Que Se Avecina, unidos por la selección española diariodesevilla.es",
+          "desc": "Los 2 motivos por los que España juega en Sevilla en el Sánchez-Pizjuán y no en la Cartuja El Debate De la Fuente: \"Venir a Sevilla me emociona mucho, pero venir aquí, al estadio del Sevilla, mucho más\" Muchodeporte El Sevilla FC y La Que Se Avecina, unidos por la selección española Diario de Sevilla",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:22:30+00:00"
         },
@@ -156,27 +177,6 @@
           "desc": "El director deportivo del Espanyol ha matizado sus declaraciones sobre el ganador del Balón de Oro, en las que se decantaba por Lamine Yamal sin ser consciente que ahora es la estrella de su eterno rival Las dos derrotas consecutivas antes del parón de selecciones han dejado una sensación extraña en el Espanyol , sobre la última frente al Elche, en casa y con el rival en inferioridad numérica desde el minuto 6 de partido. Las miradas han empezado a apuntar de nuevo sobre Manolo González , técnico perico, aunque Monchi , el director deportivo, ha mantenido la calma y ha apostado por la continuidad del preparador de Folgoso de Caurel. \"Me preocupan más los resultados, es verdad que las sensaciones también de los últimos partidos no han sido buenas, sobre todo el día del Elche. Yo creo que estamos todos de acuerdo en que el equipo no estuvo a la altura de lo que exigía el partido. Jugar contra diez casi 90 minutos te tiene que exigir más pero hasta ese momento yo creo que el equipo había tenido buenos partidos. Por tanto, es un compendio de ambas cosas: resultados y sensaciones, que creo que tienen solución. Lo que pasa es que, como he dicho al principio, las exigencias en este club son grandes. Hay necesidad en el ambiente de intentar estar una temporada tranquila después de los últimos años, que han sido muy complicados. Ojalá seamos capaces de retomar el camino. Creo que hay tiempo y hay argumentos para pensar que sí\", ha dicho en su intervención en 'El Larguero' de la COPE . 🫵 🔵 Monchi, sobre el estado de forma del @RCDEspanyol : &quot;Me preocupan MÁS los resultados&quot; 📉 &quot;Las sensaciones no han sido buenas, ante el Elche el equipo no estuvo a la ALTURA&quot; 😓 &quot;Creo que tienen solución, pero la exigencia es alta y hay necesidad de una temporada tranquila&quot; pic.twitter.com/Ke2YocXSP4 &mdash; El Larguero (@ellarguero) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Sin embargo, él mismo y sin ser consciente probablemente todavía del cargo que ostenta, unas horas antes había agitado esta calma que anhela para la afición perica , ya que al ser preguntado por su candidato al 'Balón de Oro', barriendo para casa se decantó por Lamine Yamal , sin caer en ese momento de que es la gran estrella del eterno rival de su actual club, por lo que quiso pedir disculpas. \"Como perico, tenía que haber dicho cualquier otro, pero no lo he hecho con ningún tipo de maldad\" \"> Monchi, director deportivo del Espanyol: \"El proyecto debe ser buscar más la tranquilidad y desde ahí intentar mirar para arriba\" Monchi deja clara sus intenciones con Manolo González en el Espanyol \"Hoy me han preguntado y he creado un poquito de polémica entre el aficionado perico. Al que se haya molestado le pido disculpas . Me han dicho: 'Oye, Mbappé, francés; Harry Kane, inglés; o Lamine Yamal, español...' Y he tirado por la parte española, evidentemente. Como perico, tenía que haber dicho cualquier otro, pero no lo he hecho con ningún tipo de maldad. Sé lo que significa el sentimiento perico, me he identificado desde el primer día , lo he notado desde las calles y, vuelvo a decir, si a alguien le he molestado, le pido disculpas porque ha sido un poco poniéndome la bandera española\", han zanjado. 🌕 😅 Monchi, sobre el Balón de Oro: &quot;Hoy he dicho que se lo daría a Lamine y he generado polémica&quot; 🇪🇸 &quot;Pido perdón a los &#39;pericos&#39;, lo he dicho pensando con la bandera española...&quot; 🙏 &quot;Si a alguien le ha molestado, pido disculpas&quot; pic.twitter.com/eeHuTPzFA2 &mdash; El Larguero (@ellarguero) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\"> La esperanza perica: Roberto Fernández, Roger Hinojo, Javi Hernández... También habló Monchi sobre Roberto Fernández , delantero del Espanyol que ha marcado seis goles en siete jornadas y la irrupción de otros tantos canteranos que están teniendo minutos con Manolo. \"La verdad es que es la nota más positiva. Esa y la irrupción de los jóvenes como Javi Hernández, como Roger Hinojo, como Marcos Fernández, como Rafel Bauzà. Pero el caso de Roberto Fernández es un motivo de satisfacción. Yo creo que, además, muy merecido. Un chico magnífico, muy trabajador y que, además, este año lo necesitábamos porque, con la lesión de Kike García, nos quedábamos un poco huérfanos en la punta de ataque y la verdad es que ha asumido ese rol, ha asumido la responsabilidad y nos está dando mucho\". \"El caso de Roberto Fernández es un motivo de satisfacción. Yo creo que, además, muy merecido\" \"> Por último, Monchi analizó lo que espera de Bryan Zaragoza , el fichaje que más ha ilusionado este verano y que poco a poco va de menos a más. \"Fue complicada la operación en sí, porque había que unir muchos intereses, pero a nivel de convencer al chico, fue fácil. Yo creo que él tenía ganas de volver a España. Él sabe que en España es donde él creo que tiene su hábitat más natural para poder rendir. La conversación con Manolo fue muy positiva y, bueno, creo que poco a poco estamos viendo al Bryan Zaragoza que queremos. Es verdad que llegó con un déficit físico importante, pero estamos convencidos de que él quiere encontrar en Barcelona y en el Espanyol su lugar idóneo, y nosotros creemos que puede ser un jugador que nos puede dar mucho\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-29T06:24:39+00:00"
-        },
-        {
-          "title": "Monchi pide perdón a la afición del Espanyol por darle el Balón de Oro a Lamine Yamal",
-          "link": "https://www.marca.com/futbol/espanyol/2026/09/29/monchi-pide-perdon-aficion-espanyol-darle-balon-oro-lamine-yamal.html",
-          "desc": "Monchi justifica que apostó por Lamine Yamal \"al tirar por la parte española\", pero reconoce que como perico debería haber dicho cualquier otro\"",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-29T08:17:46+02:00"
-        },
-        {
-          "title": "El Sevilla presume de cantera",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xXzRSMVFmbDE3NVpoU3ctWkZFSmFUMjd3ck1OZk4yZHFGNHJuV3RZZ1pPV0x1NkFKcy1RaGp3bkF4cTFEelpCVTRQWTNwUzk4M1J2a1ppTElnVm1FNXJGSmltZVhvTXJUSWVlUG14bU5MMUlIUEtqUkV3?oc=5",
-          "desc": "El Sevilla presume de cantera Muchodeporte",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:00:42+00:00"
-        },
-        {
-          "title": "Partidos de fútbol hoy | Horarios, canales y dónde ver en televisión en España",
-          "link": "https://www.estadiodeportivo.com/futbol/selecciones/partidos-futbol-hoy-horarios-canales-donde-ver-television-espana-20260929-547429.html",
-          "desc": "España-Croacia y Chequia-Inglaterra destacan en una jornada de la UEFA Nations League que completa la segunda fecha de la fase de liga con diez partidos La UEFA Nations League 2026/27 encara este martes 29 de septiembre la última jornada de la segunda fecha de la fase de liga. Después de los encuentros disputados durante el domingo y el lunes, la competición baja el telón de esta jornada con diez partidos , repartidos entre las Ligas A, B y C. El gran foco estará puesto en Sevilla , donde España recibirá a Croacia en el Ramón Sánchez-Pizjuán. La campeona del mundo afronta su segundo encuentro de esta edición después de su estreno ante Inglaterra. Al mismo tiempo, Inglaterra visitará a Chequia en el otro partido del Grupo A3. La selección española femenina sub 20 recupera el trono mundial y pone de relieve el dominio del fútbol español A Luis de la Fuente le crecen los problemas y coge el teléfono de emergencia otra vez España-Croacia, el gran partido del día La Selección Española será uno de los grandes protagonistas de este martes. El conjunto dirigido por Luis de la Fuente se enfrentará a Croacia a partir de las 20:45 horas en el Ramón Sánchez-Pizjuán . El duelo corresponde al Grupo A3, en el que también se encuentran Inglaterra y Chequia. España llega a esta segunda jornada después de vencer a Inglaterra en Wembley, mientras que Croacia inició su participación ante Chequia también con victoria. Ambos lideran el grupo y el resultado puede dejar a uno en solitario en la primera posición. Chequia-Inglaterra, el otro duelo de la Liga A También a las 20:45 horas , Chequia e Inglaterra se medirán en el otro encuentro del Grupo A3. Los ingleses buscan seguir avanzando en un grupo en el que España y Croacia ya marchan en las primeras posiciones tras vencer en sus primeros partidos. El resultado de este partido y el de Sevilla comenzarán a dibujar la clasificación del grupo después de las dos primeras jornadas. Inglaterra debe reaccionar ante la República Checa del español Santi Denia si quiere competir la primera plaza. Otros ocho partidos para cerrar la segunda jornada Además de los dos encuentros de la Liga A, la jornada ofrece otros ocho partidos con protagonismo de la Liga B y La Liga C : Finlandia - Bielorrusia (18:00) Moldavia - Islas Feroe (18:00) Escocia - Suiza (20:45) Eslovenia - Macedonia del Norte (20:45) San Marino - Albania (20:45) Luxemburgo - Islandia (20:45) Bulgaria - Estonia (20:45) Eslovaquia - Kazajistán (20:45) ¿Dónde ver la Nations League en España? Todos los partidos se podrán ver por DAZN. La plataforma de streaming emitirá nueve de los diez partidos ya que tiene los derechos de la competición para esta edición 26/27. RTVE y RTVE Play emitirán el España-Croacia de esta jornada en abierto.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-29T06:00:07+00:00"
         }
       ]
     },
@@ -184,6 +184,34 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "España, un modelo que domina el mundo a base de estrellas",
+          "link": "https://www.marca.com/futbol/seleccion/2026/09/29/espana-modelo-domina-mundo-base-estrellas.html",
+          "desc": "Los títulos se acumulan en el museo de la Ciudad del Fútbol",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-29T15:58:34+02:00"
+        },
+        {
+          "title": "El modelo que domina el mundo",
+          "link": "https://www.marca.com/futbol/seleccion/2026/09/29/espana-modelo-domina-mundo-base-estrellas.html",
+          "desc": "Los títulos se acumulan en el museo de la Ciudad del Fútbol",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-29T15:58:34+02:00"
+        },
+        {
+          "title": "Dani Ceballos amplía a 13 las ausencias de Pellegrini para preparar el Betis - Ceuta de este jueves",
+          "link": "https://www.estadiodeportivo.com/futbol/betis/dani-ceballos-amplia-hasta-las-ausencias-pellegrini-para-preparar-betis-ceuta-este-jueves-20260929-547497.html",
+          "desc": "El centrocampista utrerano no se ha dejado ver en el entrenamiento de este martes, el primero después de las 'mini-vacaciones' que ha disfrutado la plantilla aprovechando el largo parón, antes de recibir al equipo de José Juan Romero este próximo jueves Se acabó el descanso. El largo parón liguero por los compromisos de las selecciones nacionales, que en esta primera 'Ventana FIFA' de la temporada 2026/2027 se extiende hasta las tres semanas, ha ofrecido tiempo para desconectar, para tomarse unas mini-vacaciones e incluso para trabajar lo suficiente para estar a tope para el regreso de la competición de clubes. En su caso, la plantilla del Real Betis ha vuelto al trabajo en la mañana de este martes, en una sesión en la Ciudad Deportiva Luis del Sol con la que Manuel Pellegrini ha comenzado a preparar el partido amistoso que su equipo disputará este próximo jueves ante la AD Ceuta para ayudar a la ciudad autónoma en los complicadísimos momentos que sufre desde la masiva avalancha migratoria de hace dos meses. Con este partido en el Estadio La Cartuja, el Real Betis romperá el larguísimo paréntesis de 21 días que van desde el empate ante el RC Deportivo de La Coruña del domingo 20 de septiembre hasta el duelo del 11 de octubre frente al CA Osasuna . De momento, la semana ha arrancado con la baja de Dani Ceballos , que ha protagonizado la más destacada de las 14 ausencias que ha contado la entidad de las Trece Barras en este regreso a las instalaciones deportivas de Los Bermejales. Diego Llorente y Marc Bartra aligeran la enfermería verdiblanca Para recibir al Ceuta, Pellegrini no podrá contar aún con Aitor Ruibal , que necesitará un poco más para volver a ejercitarse con el grupo y necesita tiempo para coger ritmo de competición después de estar cuatro meses parado tras su operación de menisco. Además, el técnico chileno está pendiente de la evolución de Diego Llorente , que se perdió los cuatro partidos previos al parón por una dolencia muscular sumada a la fractura nasal que sufrió contra el Real Madrid; pero ya se reintegró en el grupo desde hace dos sesiones. Ya superaste el lunes ✅ Restamos un día para que regrese la competición ✅ ✅ pic.twitter.com/bpocxAeVD4 &mdash; Real Betis Balompié 🌴💚 (@RealBetis) September 29, 2026 \\n \\n\\n\",\"proveedor\":4}\"> También acabó apartado del grupo Marc Bartra , aquejado de una leve sobrecarga en los isquiotibiales tras el último encuentro en Riazor que le ha obligado a seguir un plan de trabajo individualizado en pos de estar ya listo para cuando vuelva LaLiga. El central catalán también se ha dejado ver este martes, a pesar de que aún sigue arrastrando molestias en la zona afectada y la consigna es no correr riesgo alguno; especialmente teniendo en cuenta que tampoco está Diego Llorente. Los 11 jugadores internacionales del Betis dejan a Pellegrini con lo puesto para recibir al Ceuta Asimismo, como es lógico, tampoco estarán disponibles los 11 jugadores internacionales que se encuentran concentrados con sus respectivos combinados nacionales: los argentinos Valentín Gómez y Giovani Lo Celso -no se ha ejecitado este martes aunque no viajará a su país hasta el día 6-; el uruguayo Facundo Bernal , el marroquí Ez Abde , el mexicano Álvaro Fidalgo , el irlandés Troy Parrott , el dominicano Junior Firpo , los sub 21 españoles Ángel Ortiz y Manu González -promocionado tras la lesión del sevillista Fran González- y los sub 20 José Antonio Morante e Iván Corralejo , jugadores del filial que trabajan de manera asidua con el primer equipo. Troy Parrott, goleador en el encuentro de la UEFA Nations League 🌍 El delantero sumó un tanto en la victoria de @IrelandFootball frente a Israel (0-3) 🇮🇪 pic.twitter.com/EWzDNxLUvy &mdash; Real Betis Balompié 🌴💚 (@RealBetis) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\">",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T13:57:59+00:00"
+        },
+        {
+          "title": "Ya hay precios para el Clásico del Spotify Camp Nou: no son asequibles",
+          "link": "https://www.marca.com/futbol/barcelona/2026/09/29/hay-precios-clasico-spotify-camp-nou-son-asequibles.html",
+          "desc": "El Barça ya ha puesto a la venta las primeras entradas, exclusivamente para socios",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-29T15:47:34+02:00"
+        },
         {
           "title": "Decenas de activistas y el 'efecto Maricarmen' salvan a otra vecina de un desahucio junto a la acampada de Sol",
           "link": "https://www.eldiario.es/madrid/somos/decenas-activistas-efecto-maricarmen-salvan-vecina-desahucio-acampada-sol_1_13546545.html",
@@ -299,7 +327,7 @@
         {
           "title": "El Ayuntamiento de Sevilla acoge la Copa del Mundial de fútbol este miércoles: horario para ver (y hacerse la foto) con el trofeo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkRYdDN3ZHEwR0VYWGdUSWFfT3Zvd0k0TE80amlFM045R0dTeUw2b3BHaXgyVXJRTVJ1ekJESkFNcm5qa3UySTY3N1YtNjRuRmpEVlVnZTIwWTRtY2tlaVJscUd5SlFoNjZYeXdQWFc5bGU1eVo3NEQ3Vzd2cjVOV05ucFpQQUJNYklLelczNlZaYV94d0dlN2FkZDAzVGpQU3k4LU42NzdqcG9scHlQcVpGNUlJWlk?oc=5",
-          "desc": "El Ayuntamiento de Sevilla acoge la Copa del Mundial de fútbol este miércoles: horario para ver (y hacerse la foto) con el trofeo diariodesevilla.es",
+          "desc": "El Ayuntamiento de Sevilla acoge la Copa del Mundial de fútbol este miércoles: horario para ver (y hacerse la foto) con el trofeo Diario de Sevilla",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:42:02+00:00"
         },
@@ -323,34 +351,6 @@
           "desc": "Manel Del Río, director general desde hace justo un año, deja la entidad",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-29T13:35:32+02:00"
-        },
-        {
-          "title": "\"¿Luis de la Fuente o Del Bosque? Con jugadores que no llegan a nivel individual a los de 2010, ha conseguido los mismos éxitos\"",
-          "link": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/luis-fuente-del-bosque-con-jugadores-que-llegan-nivel-individual-los-2010-conseguido-los-mismos-exitos-20260929-547504.html",
-          "desc": "En 'La Prórroga' de ESTADIO Deportivo hemos debatido sobre el mejor entrenador de la historia de la Selección española, para algunos siempre lo será Del Bosque con su Mundial 2010 y su Eurocopa 2012, para otros ya lo es Luis de la Fuente con su Nations League de 2023, su Euro 2024, su Mundial 2026 y quién sabe si alguno más... Vicente del Bosque y Luis de la Fuente son los dos únicos seleccionadores en la historia de España que pueden presumir de haber conseguido el trofeo más ansiado de todos, la copa del mundo. Del Bosque lo consiguió en 2010 en Sudáfrica y De la Fuente hace apenas dos meses en Nueva York, de ahí que sobre la mesa siempre esté el debate de quién es el mejor seleccionador de nuestro país. Algo sobre lo que nos hemos atrevido a debatir en 'La Prórroga' de ESTADIO Deportivo aunque vaya por delante que ha sido difícil elegir a uno. \"Siempre va a estar el debate de si Luis de la Fuente es mejor o no que Vicente del Bosque, porque yo creo que Luis Aragonés , por mucho cariño que le tengamos, es el creador del germen de todas esa generación ganadora, pero yo me quedo con Luis de la Fuente\", admite un servidor, Fernando Ruiz . Uno de los aspectos por los que nos guiamos a la hora de elegir a uno u otro son los títulos. Aquí gana Luis de la Fuente, que tras su Mundial ya supera a Del Bosque , pues al igual que salmantino tiene este y una Eurocopa, pero el riojano ya ha sumado una Liga de Naciones, torneo por otra parque no existía en la época de Del Bosque. \"En cuanto a títulos, prácticamente son los mismos, una Eurocopa y un Mundial , pero yo creo que Luis de la Fuente , con jugadores que no llegan al nivel de los que tenía Del Bosque en 2010, porque también está el debate de si es el mejor equipo de la selección de toda la historia, yo creo que esta selección no tiene tanta calidad individual como la de aquel 2010 y, sin embargo, ha conseguido llevarla a los mismos éxitos\", ha justificado. \"Creo que esta selección no tiene tanta calidad individual como la de aquel 2010 y, sin embargo, ha conseguido llevarla a los mismos éxitos\" \"> \"Yo veo a esta selección mucho más equipo. Por ahí entonces yo me decantaría por Luis de la Fuente. Y además a Luis de la Fuente le queda otra Eurocopa por jugar, aparte de la Liga de Naciones que ha empezado, le quedan otra Eurocopa y otro Mundial . Entonces, todavía quién sabe si De la Fuente puede incluso igualar el ciclo de Eurocopa-Mundial-Eurocopa\", añade Fernando Ruiz. Luis de la Fuente es el mejor seleccionador del mundo y el mejor español de la historia \"Se tienen que lesionar los tres porteros para que llamen a Álvaro Valles\" \"Por eso mismo tiene más mérito\" , dice nuestro otro redactor en el debate, Aitor Torvisco. \"Para mí la clave la acabas de decir tú. Es decir, si seguimos prefiriendo al mejor Casillas antes que al mejor Unai Simón , al mejor Villa antes que al mejor Oyarzabal o Ferran Torres , a Puyol , Piqué , en fin, Xavi , Xabi Alonso e Iniesta... Si estamos hablando de todos esos jugadores y los seguimos poniendo a un nivel tan top por encima de los que nos están dando la gloria inmediata hoy, eso significa que el trabajo que está haciendo Luis de la Fuente es mejor\", expresa Aitor Torvisco . La herencia de Del Bosque, no fue la misma que la de De la Fuente Otro factor fundamental que destacamos en el debate en ESTADIO Deportivo es la diferencia que había entre el equipo que recogió Del Bosque en 2008 tras ganar la Eurocopa con Luis Aragonés, es decir, un equipo ya campeón, con respecto al que recogió De la Fuente en 2022 tras el Mundial de Qatar. \"Del Bosque se encuentra un grupo hecho por Luis Aragonés, que es el que, digamos, tiene que enfrentarse con todo el tema de Raúl, tiene que hacer un poco de limpia, de cambio generacional, incluso ir contra estilo, porque el estilo de Luis Aragonés no era ese tiqui-taca, pero claro, Del Bosque tenía la experiencia suficiente como para ver lo que tenía y decía 'voy a revolucionar esto' y con otra manera totalmente radicalmente distinta de jugar\", explica nuestro redactor Aitor Torvisco. \"Del Bosque se encuentra un grupo hecho por Luis Aragonés;&nbsp;Luis de la Fuente se ha encontrado un grupo totalmente por hacer\" \"> Todo lo contrario de lo que le ha pasado a Luis de la Fuente. \"Y sin embargo, Luis de la Fuente se ha encontrado un grupo totalmente por hacer, una generación por hacer , que sí, que conocía la casa porque a todos los ha dirigido él en categorías inferiores, pero ha tenido que liderar también sus marrones, como no ha tenido el caso Raúl, pero ha tenido el caso Sergio Ramos, por ejemplo, que todos nos lo habríamos llevado a la selección y hay un por qué, un por qué no va ese tipo de jugador... ¿por qué no ha ido Álvaro Valles con el temporadón que está haciendo en el Betis? Porque es un jugador ya de un perfil de 29-30 años que podrá ir en algún momento como complemento, pero que él prefiere tirar de alguien que le vaya a servir para el futuro grupo, entonces todo eso lo está haciendo de una manera espectacular\", zanja Torvisco.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-29T11:33:21+00:00"
-        },
-        {
-          "title": "Sierra y el Sevilla, una historia de afortunada casualidad: \"Víctor Orta negociaba el fichaje de Peque y apareció el nombre de Miguel Sierra\"",
-          "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/sierra-sevilla-una-historia-afortunada-casualidad-victor-orta-negociaba-fichaje-peque-aparecio-nombre-miguel-sierra-20260929-547501.html",
-          "desc": "El director de la cantera sevillista, Agustín López, explica que en el club había informes positivos del extremo granadino desde que jugaba en el Cadete nazarí pero, a pesar de ello, su contratación llegó de manera totalmente anecdótica: \"Había que jugársela a cara o cruz y salió cara\" El Sevilla FC se ha reforzado mucho (11 refuerzos) y muy bien este pasado verano, especialmente en el último día de mercado, pero el gran nombre propio de este ilusionante arranque de temporada ha sido Miguel Sierra: máximo goleador con dos dianas , ante Atlético de Madrid y RC Deportivo, además forzó un penalti en la jornada 1 ante el Rayo Vallecano y la tempranera expulsión de Yuri Berchiche en la victoria contra el Athletic Club de la segunda cita liguera. No es una situación coyuntural, pues el extremo granadino ya venía de ser el 'pichichi' de la pretemporada nervionense (tres tantos) y ahora ya no hay quien le mueva del once tipo de Luis García Plaza. Lo más curioso de todo es que todo nace de una afortunada casualidad: cuando Víctor Orta estaba negociando el fichaje de Gerard Fernández 'Peque' se encontró con el nazarí . Así lo ha desvelado el director de los escalafones inferiores del Sevilla FC, Agustín López , que ha presumido de que Miguel Sierra ofrezca el enésimo motivo de orgullo en un club que no para de esculpir nuevas perlas que se asientan en el primer equipo: Kike Salas es uno de los líderes de esta plantilla, Joaquín Martínez 'Oso' y Juanlu Sánchez han dejado plusvalías muy necesarias para la salud financiera de la entidad, Andrés Castrín ya es una realidad, ahí siguen Isaac Romero , José Ángel Carmona o Manu Bueno , y aporreando la puerta se encuentran Nico Guilén, Manuel Ángel Castillo, Iker Muñoz ... Agustín López revela la intrahistoria del fichaje de Miguel Sierra por el Sevilla FC \"A Miguel Sierra hay un momento en el que ya intentamos firmarlo cuando jugaba en el Cadete del Granada , pero entonces él decide quedarse porque le favorecía seguir su camino allí porque estaba en su casa, por su educación, por su entorno... Por todo. Mantuvimos un seguimiento hasta que llega al Avilés . En la etapa de Víctor (Orta) como director deportivo, en la operación del fichaje de Peque (entonces en el Racing) sale el nombre de Miguel\", ha relatado Agustín López en una entrevista en el programa 'La Cantera' de SevillaFC+ , recordando que ambos futbolistas están representados por Joaquín Vigueras y la agencia JV Sports . Recién renovado, ahora Miguel Sierra tiene una cláusula de rescisión de 20 millones de euros y un contrato en vigor hasta 2029 ; pero en aquel momento su libertad costaba 90.000 euros y el Avilés acabó vendiéndole por la mitad: \"Nosotros (el departamento de cantera) avalamos el fichaje de Sierra porque conocíamos al jugador, entendíamos que estaba en un momento de horas bajas porque ya estaba navegando por el fútbol español, dando un poco de tumbos. Estos jugadores talentosos, es muy importante la mano de los profesionales que lo acojan, si no entienden esa manera de sentir el fútbol ese tipo de jugadores se pierden en el camino. Vino en el momento perfecto, dimos el OK a ese fichaje porque lo teníamos identificado y fue todo muy fácil\". \"Entró en el Sevilla FC en las condiciones que queríamos. Con él había que jugársela a cara o cruz, pero ha salido cara. Sierra es un futbolista que está llamando la atención de todo el mundo, que está haciendo muy buenos partidos en el primer equipo... Ahora no se puede parar, debe seguir . Con la ayuda de todos ha recuperado su mejor versión, y es la misma que vimos cuando era Cadete del Granada\", proseguía un reivindicativo Agustín López. No pudo triunfar en el Sevilla pero ahora recoge frutos en el Deportivo: \"Parece que los pequeñitos tienen que hacer mucho más pero, a mayor categoría, más destaca Luismi\" Luis García Plaza impone un \"lavado de cara\" en el Sevilla y advierte a Rubén Vargas: \"Si no corre, no jugará\" Al Real Avilés ya había llegado de casualidad El brillo de Sierra en Nervión a día de hoy no se entiende sin la intervención de Francisco Javier Vidales, exresponsable de cantera en clubes como el Atlético de Madrid o el Real Sporting de Gijón y ojeador con una suma experiencia. En una reciente entrevista concedida a ESTADIO Deportivo explicó que descubrió al extremo sevillista casi de casualidad para brindarle su primera experiencia como senior en el Real Avilés . Los números ponen el valor el gran trabajo de la cantera del Sevilla FC \"Podemos dar muchas vueltas y hacer muchos análisis, pero los números no fallan: en estas dos últimas temporadas son siete los canteranos los que han jugado más de 15 partidos con el primer equipo . El porcentaje es muy alto, más allá de las necesidades. No es fácil mantener estos números y eso es el resultado final de una elaboración hecha con mucho mimo y muy a la sombra. Procesos que sólo se ven cuando nuestros jugadores disfrutan de oportunidades en el primer equipo y ayudan a que el club pueda cumplir su objetivo. Seguimos trabajando, creciendo, fortaleciendo e intentando mejorar en todos los procesos para que sean más jugadores los que estén preparados cuando les toque\". En la tarea de captación caben técnicas muy diversas: \" Unos jugadores llegan de pequeños, como Kike, Juanlu, Carmona, Isaac, Nico Guillén o Manu Bueno... Otros llegan por un trabajo exhaustivo de captación, como Castrín o Miguel Sierra . Hay un trabajo conjunto dentro de la apuesta del club por la cantera. Es necesario seguir desarrollando este producto, para ayudarnos en el presente y en el futuro. La clave está en acompañarles y ayudarles en su adaptación, buscando esa base familiar. Son pequeñas claves que hacen que al aficionado le entren por los ojos y sean del gusto del entrenador. Hay mucho que mejorar y crecer, porque el ADN de la gente es inconformista. Esto es el Sevilla FC y no nos vamos a detener\". \" Hay que saber de dónde se viene y cómo se está trabajando . El Barcelona B lleva varios años en Segunda Federación. Es una categoría muy dura que permite que jugadores muy jóvenes se estén desarrollando. Tenemos un ramillete de jugadores que se está consolidando. Hemos perdido la categoría, pero me habría preocupado más hacerlo con Oso, Castrín, Sierra o Manu Bueno. Tuvieron que entrar jugadores más jóvenes que ahora se están consolidando y vamos a pelear, pero con el principal objetivo de que suban jugadores como Iker Muñoz o Manu Guillén. En este sistema formativo, tenemos claro qué jugadores van a llegar y qué jugadores vamos a potenciar en el mundo profesional\", ha concluido Agustín López.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-29T11:25:04+00:00"
-        },
-        {
-          "title": "Carla Suárez renueva al frente de la selección española de la BJK Cup",
-          "link": "https://www.marca.com/tenis/2026/09/29/carla-suarez-renueva-frente-seleccion-espanola-bjk-cup.html",
-          "desc": "La canaria, que terminaba contrato, extiende su vínculo hasta 2029",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-09-29T13:11:52+02:00"
-        },
-        {
-          "title": "Jonathan David, una explosión con premio",
-          "link": "https://www.marca.com/futbol/atletico/2026/09/29/jonathan-david-explosion-premio.html",
-          "desc": "Ha pasado de promediar un gol cada 295 minutos en la Juve a hacerlo cada 59' en el Atlético. De seguir a este nivel los rojiblancos pagarán su opción de compra de 25 millones de euros.",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-29T13:11:32+02:00"
         }
       ]
     },
@@ -359,60 +359,67 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Why Alonso has re-signed with Aston Martin",
+          "link": "https://www.formula1.com/en/latest/article/analysis-why-alonso-is-staying-at-aston-martin-and-what-it-means-for-the-2027-grid.2b7yrPKHBN8kcLMJy5PbFa",
+          "desc": "Fernando Alonso's love affair with Formula 1 will continue as the Spaniard has opted to stick around for at least another year with Aston Martin.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
+        },
+        {
           "title": "Aston Martin keep Alonso and Stroll for 2027",
           "link": "https://www.formula1.com/en/latest/article/alonso-and-stroll-to-stay-at-aston-martin-in-2027-as-team-confirm-unchanged-line-up.7xg2Sct45vzW92UaiE8YXR",
           "desc": "Fernando Alonso says 'racing is my life' as he and Lance Stroll extend their Aston Martin contracts, leaving four seats to fill on the 2027 grid.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
           "title": "BARRETTO: Why Ferrari have moved to shield Vasseur",
           "link": "https://www.formula1.com/en/latest/article/ferrari-move-to-end-speculation-over-vasseurs-future-amid-horner-speculation-plus-barretto-analysis.5vNkTkDQSbhS9Pnh8mulTm",
           "desc": "Ferrari confirm they have faith in Team Principal Fred Vasseur after Christian Horner named the Scuderia his 'dream' destination.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
           "title": "Binotto wants Slater in an F1 seat in the near future",
           "link": "https://www.formula1.com/en/latest/article/binotto-wants-slater-in-an-f1-seat-in-the-near-future.IzNhz498XCeJkBpKaTPPG",
           "desc": "Audi CEO Mattia Binotto has made no secret of his plans for Freddie Slater, stating in Azerbaijan that he wants the youngster “into an F1 seat” in the near future.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
           "title": "How Hadjar cleverly handled his comeback to claim a podium in Baku",
           "link": "https://www.formula1.com/en/latest/article/how-hadjar-cleverly-handled-his-comeback-to-claim-a-podium-in-baku.6e5PnWMLxKo38Bj0iVBRRg",
           "desc": "IndyCar race winner and F1 TV analyst James Hinchcliffe explains what was so impressive about Hadjar's racing return in Azerbaijan after three Grands Prix on the sidelines.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
           "title": "PALMER: Why George Russell’s Baku win was so impressive",
           "link": "https://www.formula1.com/en/latest/article/why-russells-baku-win-was-so-impressive.4DjGxjpyh7WxwnhjmZfk7H",
           "desc": "Former Renault F1 driver and F1 TV analyst Jolyon Palmer explores the details behind George Russell's victory in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
           "title": "Perez reflects on 'one of my best weekends'",
           "link": "https://www.formula1.com/en/latest/article/one-of-my-best-weekends-perez-reflects-on-return-to-form-despite-missing-out-on-points.hPrfr5yj1t7STWELMeJlI",
           "desc": "Sergio Perez believes his performance in the Azerbaijan Grand Prix was \"one of my best weekends\" in Formula 1, despite failing to reach the points for Cadillac.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
           "title": "Sainz and Albon evaluate Williams’ Baku upgrades",
           "link": "https://www.formula1.com/en/latest/article/were-going-to-need-more-if-we-want-to-fight-sainz-and-albon-evaluate-williams-baku-upgrades.3NtXUGpgq3CTGpopkeYtFe",
           "desc": "Carlos Sainz and Alex Albon have given their verdict on Williams’ major upgrade package that debuted at the Azerbaijan Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "fecha": "2026-09-29T14:00:03.705500+00:00"
         },
         {
-          "title": "'Less pressure on me than there is him' – Russell on title",
-          "link": "https://www.formula1.com/en/latest/article/theres-much-less-pressure-on-me-than-there-is-him-russell-on-title-fight.6GVALSvKMH4XSTz3wndlLm",
-          "desc": "George Russell won his third Grand Prix of the season with victory in Baku, the Mercedes man standing on the top step of the rostrum for the first time since Austria. In doing so, he cut team mate Kimi Antonelli's lead in the Drivers’ Championship to 66 points.",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T13:30:05.778685+00:00"
+          "title": "El escritor, editor y gestor Samuel Alonso, nuevo director de la Feria del Libro de Madrid",
+          "link": "https://elpais.com/cultura/2026-09-29/el-escritor-editor-y-gestor-samuel-alonso-nuevo-director-de-la-feria-del-libro-de-madrid.html",
+          "desc": "El responsable asume el cargo con el objetivo de reforzar el rol de las librerías y la relación del evento con el público",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-29T13:21:43+00:00"
         },
         {
           "title": "Oficial: Fernando Alonso seguirá en la Fórmula 1 con Aston Martin",
@@ -427,13 +434,6 @@
           "desc": "En 'La Prórroga' de ESTADIO Deportivo hemos debatido sobre el mejor entrenador de la historia de la Selección española, para algunos siempre lo será Del Bosque con su Mundial 2010 y su Eurocopa 2012, para otros ya lo es Luis de la Fuente con su Nations League de 2023, su Euro 2024, su Mundial 2026 y quién sabe si alguno más... Vicente del Bosque y Luis de la Fuente son los dos únicos seleccionadores en la historia de España que pueden presumir de haber conseguido el trofeo más ansiado de todos, la copa del mundo. Del Bosque lo consiguió en 2010 en Sudáfrica y De la Fuente hace apenas dos meses en Nueva York, de ahí que sobre la mesa siempre esté el debate de quién es el mejor seleccionador de nuestro país. Algo sobre lo que nos hemos atrevido a debatir en 'La Prórroga' de ESTADIO Deportivo aunque vaya por delante que ha sido difícil elegir a uno. \"Siempre va a estar el debate de si Luis de la Fuente es mejor o no que Vicente del Bosque, porque yo creo que Luis Aragonés , por mucho cariño que le tengamos, es el creador del germen de todas esa generación ganadora, pero yo me quedo con Luis de la Fuente\", admite un servidor, Fernando Ruiz . Uno de los aspectos por los que nos guiamos a la hora de elegir a uno u otro son los títulos. Aquí gana Luis de la Fuente, que tras su Mundial ya supera a Del Bosque , pues al igual que salmantino tiene este y una Eurocopa, pero el riojano ya ha sumado una Liga de Naciones, torneo por otra parque no existía en la época de Del Bosque. \"En cuanto a títulos, prácticamente son los mismos, una Eurocopa y un Mundial , pero yo creo que Luis de la Fuente , con jugadores que no llegan al nivel de los que tenía Del Bosque en 2010, porque también está el debate de si es el mejor equipo de la selección de toda la historia, yo creo que esta selección no tiene tanta calidad individual como la de aquel 2010 y, sin embargo, ha conseguido llevarla a los mismos éxitos\", ha justificado. \"Creo que esta selección no tiene tanta calidad individual como la de aquel 2010 y, sin embargo, ha conseguido llevarla a los mismos éxitos\" \"> \"Yo veo a esta selección mucho más equipo. Por ahí entonces yo me decantaría por Luis de la Fuente. Y además a Luis de la Fuente le queda otra Eurocopa por jugar, aparte de la Liga de Naciones que ha empezado, le quedan otra Eurocopa y otro Mundial . Entonces, todavía quién sabe si De la Fuente puede incluso igualar el ciclo de Eurocopa-Mundial-Eurocopa\", añade Fernando Ruiz. Luis de la Fuente es el mejor seleccionador del mundo y el mejor español de la historia \"Se tienen que lesionar los tres porteros para que llamen a Álvaro Valles\" \"Por eso mismo tiene más mérito\" , dice nuestro otro redactor en el debate, Aitor Torvisco. \"Para mí la clave la acabas de decir tú. Es decir, si seguimos prefiriendo al mejor Casillas antes que al mejor Unai Simón , al mejor Villa antes que al mejor Oyarzabal o Ferran Torres , a Puyol , Piqué , en fin, Xavi , Xabi Alonso e Iniesta... Si estamos hablando de todos esos jugadores y los seguimos poniendo a un nivel tan top por encima de los que nos están dando la gloria inmediata hoy, eso significa que el trabajo que está haciendo Luis de la Fuente es mejor\", expresa Aitor Torvisco . La herencia de Del Bosque, no fue la misma que la de De la Fuente Otro factor fundamental que destacamos en el debate en ESTADIO Deportivo es la diferencia que había entre el equipo que recogió Del Bosque en 2008 tras ganar la Eurocopa con Luis Aragonés, es decir, un equipo ya campeón, con respecto al que recogió De la Fuente en 2022 tras el Mundial de Qatar. \"Del Bosque se encuentra un grupo hecho por Luis Aragonés, que es el que, digamos, tiene que enfrentarse con todo el tema de Raúl, tiene que hacer un poco de limpia, de cambio generacional, incluso ir contra estilo, porque el estilo de Luis Aragonés no era ese tiqui-taca, pero claro, Del Bosque tenía la experiencia suficiente como para ver lo que tenía y decía 'voy a revolucionar esto' y con otra manera totalmente radicalmente distinta de jugar\", explica nuestro redactor Aitor Torvisco. \"Del Bosque se encuentra un grupo hecho por Luis Aragonés;&nbsp;Luis de la Fuente se ha encontrado un grupo totalmente por hacer\" \"> Todo lo contrario de lo que le ha pasado a Luis de la Fuente. \"Y sin embargo, Luis de la Fuente se ha encontrado un grupo totalmente por hacer, una generación por hacer , que sí, que conocía la casa porque a todos los ha dirigido él en categorías inferiores, pero ha tenido que liderar también sus marrones, como no ha tenido el caso Raúl, pero ha tenido el caso Sergio Ramos, por ejemplo, que todos nos lo habríamos llevado a la selección y hay un por qué, un por qué no va ese tipo de jugador... ¿por qué no ha ido Álvaro Valles con el temporadón que está haciendo en el Betis? Porque es un jugador ya de un perfil de 29-30 años que podrá ir en algún momento como complemento, pero que él prefiere tirar de alguien que le vaya a servir para el futuro grupo, entonces todo eso lo está haciendo de una manera espectacular\", zanja Torvisco.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-29T11:33:21+00:00"
-        },
-        {
-          "title": "Fernando Alonso renueva con Aston Martin y seguirá en la Fórmula 1 a los 46 años",
-          "link": "https://www.elmundo.es/deportes/formula-1/2026/09/29/6abb9d0221efa0ff198b45c9.html",
-          "desc": "El asturiano despeja su futuro antes del Gran Premio de Bahréin y mantiene su apuesta por el proyecto británico y el nuevo ciclo de Honda Leer",
-          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-          "fecha": "2026-09-29T13:21:09+02:00"
         },
         {
           "title": "Aston Martin anuncia la renovación de Fernando Alonso por una temporada más",
@@ -533,11 +533,46 @@
       "icono": "💻",
       "items": [
         {
+          "title": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3Z2YXRlVUNSdEp4OVR0MU9lWnlQNmRwYmtkU3dWcmlTX3lxZnhJYWVkWEY5dmR0NTh2RllYdWZ4Rjk4ZGxTT0g0MGpPZkNFY291Xy1vUm9OY1FLSVMxVERyTlJKZ0EwRURoTDRORElyc0dzUWhSMUQ0cHdZeDdlN05hUTBBTlR3R0VsQmpVNW5iWW5sRlJiWkZZbzNCUnE0SkRxV3dnZ1o4MzhHOGJvaFNPQkttd28?oc=5",
+          "desc": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD Fanáticos del Hardware",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:45:14+00:00"
+        },
+        {
+          "title": "Konami registra de nuevo varios juegos clásicos: todos ellos fueron publicados por Hudson Soft",
+          "link": "https://vandal.elespanol.com/noticia/2026272027/konami-registra-de-nuevo-varios-juegos-clasicos-todos-ellos-fueron-publicados-por-hudson-soft/",
+          "desc": "Al menos tres clásicos de Hudson Soft han sido registrados de nuevo por Konami, y muchos creen que formarán parte de algún nuevo recopilatorio. Konami ha registrado de nuevo marcas de varios juegos clásicos que probablemente no tienen previstas nuevas secuelas, pero los jugadores creen que podrían ser candidatos para una nueva colección . Los juegos en concreto Soldier Blade , Alien Crush y Star Soldier , lanzados a finales de los 80 y principios de los 90. Son juegos publicados originalmente por Hudson Soft , compañía que Konami adquirió en 2005, y han sido relanzados en alguna ocasión en la distribución digital de Nintendo para Wii, 3DS o Wii U. ¿Nuevo recopilatorio a la vista? Konami lleva años recuperando muchos de sus clásicos , y no sólo con colecciones de sus sagas más comerciales como Metal Gear Solid y Castlevania . De hecho recientemente estrenaron Super Bomberman Collection , con la saga más famosa de Hudson, y anteriormente hemos visto Arcade Classics Anniversary Collection , Contra Anniversary Collection , Teenage Mutant Ninja Turtles: The Cowabunga Collection o Yu-Gi-Oh! Early Days Collection . Alien Crush es un juego de pinball desarrollado por Compile en 1988 para TurboGrafx-16, mientras que Star Soldier (1986) y Soldier Blade (1992) son matamarcianos clásicos . Medios como Insider Gaming señalan que estos registros en la misma fecha recuerdan a movimientos similares de Konami con Mystical Ninja en 2025 que se tradujo en el recopilatorio Ganbare Goemon Daishuugo lanzado este año.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-29T13:34:00+00:00"
+        },
+        {
+          "title": "Acciones de QumulusAI suben por contratos de GPUs Nvidia por $240.9M",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hmVU1TR3NueW5wTUZyTWlobkd3R0l1NWMwa05iU3BzWFcxZ3VhM2poTjYyUDNVdDQtT3RJSlB6aFdkWnVRbFBaSlBpNHpockFVMzRnNHdxZTVCWVl1TUtWckhyRUVRLXRObmVLTTdxU3h3SnI2QVg5Y0lvUlBmZFd3WnB5VEJjTWpEQ1pUSERybWVzLVlBOGd6OG9oNll6Nk1nenUxWENNTEFPeTFlNGFOcFk5R1JqdkptX29EOA?oc=5",
+          "desc": "Acciones de QumulusAI suben por contratos de GPUs Nvidia por $240.9M Investing.com México",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:28:46+00:00"
+        },
+        {
+          "title": "Nvidia lanza plataforma de seguridad para agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3ZmRGxybGE5RzRJSUg1N3M4QnFpbXI1RnpobWVKQ1FUVmYzT1p3eTRGcjhBM3g2a0paU3VpVjBnLWpJUERGaXVURGoySGlFQl9ubkVYOXp1a1NucFdudV9SWUlvRFR0MXAxc1pGV21MeHh0elJweHFUR2FhdGNtUEdhbGhib0UtRVRLbUprSXJYZw?oc=5",
+          "desc": "Nvidia lanza plataforma de seguridad para agentes de IA El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:21:39+00:00"
+        },
+        {
+          "title": "Nvidia crea plataforma para controlar a agentes de IA rebeldes",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnEzbXRlUEhXRmM4cnNzNVM5bGx3SmRfMVhmWVU2MU44WTVrVHlFdk9ERWppU1lqal9QeWNfdDVuWnVSbmdMd2NLVjY0dW15MEs1ZjZkSGZlV2taWVFRWTAxSTV6N0RRSVF0VHA3LVROc2pWZGJpeFZYa2xpVExsRnJyTzNQeTVqV3lUa1hDYm1yaWI2UjI4Rg?oc=5",
+          "desc": "Nvidia crea plataforma para controlar a agentes de IA rebeldes El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:21:39+00:00"
+        },
+        {
           "title": "OpenAI intentó invertir 100 millones de dólares en Hugging Face.",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50RXpCc2dhVkNrd0RRVkpmZFBzcWcxUXNKVExvNGtKUTRVNUpyTklGV29xMGRGQjYwYkk5UGY0TFhqazNrNFZ6ZWxjZmhrWVp1bXdQek4xdU5YeS0teWhKQ0FEZ2c5Zzhob1B1X19EaTZBbmhuMjhfZEt3WQ?oc=5",
           "desc": "OpenAI intentó invertir 100 millones de dólares en Hugging Face. es.qz.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T13:22:33+00:00"
+          "fecha": "2026-09-29T13:21:34+00:00"
         },
         {
           "title": "The Darkness llega a PC: un port soñado que por fin se ha hecho realidad",
@@ -552,6 +587,13 @@
           "desc": "Samsung invierte $1,000 millones en la empresa de infraestructura Helix AI es.qz.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T12:52:27+00:00"
+        },
+        {
+          "title": "AMD comprará la startup de IA World Labs de Fei-Fei Li por 8.2 mil millones",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUtzMXJMUS1fdkVNZTdBN1pScU5abUhGd3BNX29jTFE1SHNwQi1IVERrWkFqSWZhNjVkZzk3SEk2UXF5d2poZkFEV0E0MzBrMU93Q0NTa1ZGZmVsX09VOE1YMzBkYnpZTG9IR3FRby1XN3lwUHpSNkFSQmpuQl91bkVJalJNZmJUQ05pQnhkLU9GVWxCMGtGSnVwSFkxZmJxbmc?oc=5",
+          "desc": "AMD comprará la startup de IA World Labs de Fei-Fei Li por 8.2 mil millones TyN Magazine",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T12:51:39+00:00"
         },
         {
           "title": "Shuhei Yoshida elige sus juegos favoritos del Tokyo Game Show 2026 y uno consiste en depilar hombres",
@@ -631,6 +673,13 @@
           "fecha": "2026-09-29T11:53:44+00:00"
         },
         {
+          "title": "Nvidia lanza una nueva plataforma de seguridad y afirma que puede evitar que los agentes de IA se descontrolen",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLVYyRzk0Z1V5RzNWcElxM1BtNnlKSUxuZ3Nhck1rTkYxMHpjcmtTeE04WW1wWWRKYVJENjVXZ2s2TXlEd1d1LUlPRXd5dnpHMXVjMVQyUExVQ1hoaW5zM09UZ19xRGhEcTJvbHlVbldFQWc1LXZqR1RHX2FOQkM3ZUlUbFVjM1JRYzV4QU8xLVp2U0NmMXZZQk1pQXZ2dHE2N0tHbDJxcUd4YVhRT2pibkxad052MXhNU3FoV2cyVEUwQUkxLVV4c0ZvWUhYeWFEWUJieWxCckt0MGM?oc=5",
+          "desc": "Nvidia lanza una nueva plataforma de seguridad y afirma que puede evitar que los agentes de IA se descontrolen Forbes Chile",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T11:49:10+00:00"
+        },
+        {
           "title": "El Galaxy S27 Ultra mejorará sus cámaras traseras con estos tres cambios",
           "link": "https://www.muycomputer.com/2026/09/29/el-galaxy-s27-ultra-mejorara-sus-camaras-traseras-con-estos-tres-cambios/",
           "desc": "Ayer vimos el que será, en teoría, el diseño final del Galaxy S27 Ultra, un diseño que ha generado mucha polémica por su parecido con el iPhone 18 Pro Max de Apple, y hoy tenemos nueva información sobre las mejoras que Samsung podría integrar en las cámaras de su próximo smartphone tope de gama. Las […] La entrada El Galaxy S27 Ultra mejorará sus cámaras traseras con estos tres cambios se publicó primero en MuyComputer .",
@@ -650,55 +699,6 @@
           "desc": "The Witcher 3: Wild Hunt - Remastered, la versión mejorada de The Witcher 3, llega a consolas y PC. Una comparativa nos muestra cómo se ve en Switch 2 y Steam Deck. The Witcher 3: Wild Hunt - Remastered se estrena en consolas y PC como una actualización gratuita, con numerosas mejoras en gráficos y gameplay que os contamos en nuestro análisis . Una comparativa pone frente a frente la versión de Nintendo Switch 2 y Steam Deck . El salto visual entre Nintendo Switch y Switch 2 es más que evidente , pero quizás muchos jugadores estén interesados en ver la diferencia entre Switch 2 y el PC consolizado portátil más popular, Steam Deck . Sea cual sea tu portátil tendrás una buena experiencia El canal ElAnalistaDeBits ha comparado estas versiones de The Witcher 3: Wild Hunt - Remastered utilizando la configuración preestablecida por CD Projekt para Steam Deck , y el resultado es que en ambos casos tendremos una buena experiencia con uno de los RPG más influyentes de la última década. En el caso de la consola de Nintendo se alcanza un máximo de 40 fps en mmodo portátil y pantallas compatibles con 120 Hz. En Steam Deck el framerate está desbloqueado y eso permite que funcione a más imágenes por segundo -en general entre 40 y 50 fps-. A cambio la resolución y ajustes en la portátil de Valve son algo inferiores a Switch 2 . La conclusión por tanto es que sea cual sea tu plataforma, The Witcher 3 se jugará estupendamente y sin grandes sacrificios respecto a versiones domésticas. \"Las mejoras gráficas hacen que esta nueva versión no tenga nada que envidiar a un lanzamiento de 2026 en lo audiovisual, las nuevas animaciones, los retoques en el combate , los ajustes en los árboles de habilidades y otros pequeños añadidos para mejorar las posibilidades y la calidad del juego en general hacen que sea la versión más redonda del mejor título de rol y acción de la década\", concluimos en nuestra opinión de Remastered, que también trae mejoras en la jugabilidad y comodidad.",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-09-29T11:38:00+00:00"
-        },
-        {
-          "title": "NVIDIA autoriza una recompra de acciones por valor de 150.000 millones",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmFPX185T0lUM0dIcFMwRmhuUXRoNnZwZjFhN2ZkNVk2QTZRNlE0OUE4YnFwMDJNTFJYZTE3SGgyam4wdElSZFVrX0psM1ZtRk9IN3J5QWp0eWlsRjAtNzJnMkI3Q3NSUk9KMktNRVlCWThYNW83TnVyN0swTFlwNU1FaVRISVlRd1RDRFZneWk3bTZL?oc=5",
-          "desc": "NVIDIA autoriza una recompra de acciones por valor de 150.000 millones MuyComputerPRO",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T11:34:17+00:00"
-        },
-        {
-          "title": "Nvidia bate el récord de recompras y entra en la seguridad para IA",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnIybkR6aHQ0UFk2ZFdwYVRMVzBfNExqcjNwQ1g5RlJjcW11U2l1WlZYckl6czNUV1gydUE4RXZRQVAxSkNnOGpoVE1qSnJ4bVdmQnhpaGlKa2VQa3BNdWZRUlVsV0NNX0F3c1dSbE1yVjdBYk5LVVg2RXYyVm9qcG9YSEgzMWc?oc=5",
-          "desc": "Nvidia bate el récord de recompras y entra en la seguridad para IA moncloa.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T11:33:52+00:00"
-        },
-        {
-          "title": "Sony Japan tries an anti-scalper lottery system for PS5 Pro orders, locks systems behind a 60-hour playtime requirement",
-          "link": "https://www.tomshardware.com/video-games/playstation/sony-japan-tries-an-anti-scalper-lottery-system-for-ps5-pro-orders-locks-systems-behind-a-60-hour-playtime-requirement-strict-lottery-system-blocks-scalpers-and-tourists-in-japan-requires-a-domestic-account-to-buy",
-          "desc": "In the face of strong demand and device shortages, Sony has decided to filter PlayStation 5 Pro purchasers in Japan using a lottery system.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-29T11:32:05+00:00"
-        },
-        {
-          "title": "¿Qué novedades llegan a ChatGPT? OpenAI celebra hoy su gran evento: horario y dónde verlo",
-          "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/que-novedades-llegan-chatgpt-openai-celebra-hoy-gran-evento-horario-donde-verlo_7042660_0.html",
-          "desc": "DevDay es el mayor evento del año de OpenAI.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-29T13:30:29+02:00"
-        },
-        {
-          "title": "Dynasty Warriors 3 Remastered detalla su rendimiento en Switch 2: hasta 60 fps y 1440p en el dock",
-          "link": "https://vandal.elespanol.com/noticia/2026272023/dynasty-warriors-3-remastered-detalla-su-rendimiento-en-switch-2-hasta-60-fps-y-1440p-en-el-dock/",
-          "desc": "Dynasty Warriors 3: Complete Edition Remastered funcionará entre 30 y 60 fps en Switch 2, alcanzará 1440p en el dock y mantendrá la misma cantidad de enemigos que las demás versiones. Koei Tecmo ha detallado cómo funcionará Dynasty Warriors 3: Complete Edition Remastered en Nintendo Switch 2 , concretando tanto su resolución como su rendimiento en los modos portátil y televisión. Omega Force asegura que esta versión mostrará la misma cantidad de personajes simultáneamente que las demás plataformas, con una tasa de imágenes de entre 30 y 60 fps . Tomohiko Sho, productor del juego, explica que el equipo ha realizado diferentes ajustes para mantener la escala de las grandes batallas. El resultado será una tasa de entre 30 y 60 fps, sin un modo que garantice por ahora los 60 fps de manera constante . 1440p en el dock y 1080p reescalados en portátil También se han concretado las resoluciones. Al jugar con Switch 2 conectada al televisor , Dynasty Warriors 3: Complete Edition Remastered alcanzará una resolución de 2560 x 1440 píxeles, es decir, 1440p . Vídeo: En modo portátil la imagen se mostrará a 1080p mediante reescalado . Sho no ha detallado cuál será la resolución interna utilizada antes de aplicar ese proceso, por lo que habrá que esperar a análisis técnicos para conocer con mayor precisión cómo se comporta la versión portátil. Omega Force también estudia incorporar más adelante modos específicos que prioricen los gráficos o el rendimiento mediante una actualización. De momento, el lanzamiento utilizará esta configuración única con una tasa variable entre 30 y 60 fps. Ya se puede probar gratis antes de su lanzamiento Los jugadores que quieran comprobar por sí mismos cómo funciona el remaster en Switch 2 ya pueden descargar una demo gratuita desde Nintendo eShop . El juego completo se pondrá a la venta este 1 de octubre , también en PS5 , XBOX Series y PC Además, Koei Tecmo ha anunciado que tras el lanzamiento llegará mediante una actualización gratuita un modo cooperativo online para dos jugadores , ampliando las opciones multijugador de esta recuperación del clásico de acción originalmente publicado en PS2. Dynasty Warriors 3: Complete Edition Remastered recupera tanto el juego original como los contenidos de su expansión Xtreme Legends , renovando sus gráficos y otros apartados para las plataformas actuales.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-29T11:28:00+00:00"
-        },
-        {
-          "title": "Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170",
-          "link": "https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay",
-          "desc": "This powerful CyberPowerPC gaming rig, powered by the AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070, alongside a 1TB SSD and 32GB of DDR5 RAM, unlocks 4K gameplay for $1,999.99.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-29T11:10:00+00:00"
-        },
-        {
-          "title": "AMD acuerda comprar World Labs por 8.200 millones de dólares y suma a Fei-Fei Li a su estrategia de IA",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWloNlpDcXROeGgtT28wN21jS21FSDdfMG9PQ1IzamVZWmhGUEJsNzNTZHFCOHUtVkFDOTdKR3pNZGFPMFp6d0JTckJQNVo4MzRsaDNoVzVKazREdW5nVHRkVFhMRWNGTUxzRHByNk10eVZpUzdvSlI3dzl5Q09xb0tEcEE2RUFtbHZ0Y05wUDQzTTNIOVZGNTVOWGQ4MDJoLXFiMlFsMXpPVDlHa1FYMmNUQUdaemdnRk9SbFkwT3c0RkN5NGpCRmFWYlZfRERj?oc=5",
-          "desc": "AMD acuerda comprar World Labs por 8.200 millones de dólares y suma a Fei-Fei Li a su estrategia de IA Fanáticos del Hardware",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T11:02:40+00:00"
         }
       ]
     },
@@ -707,9 +707,16 @@
       "icono": "📈",
       "items": [
         {
+          "title": "Cómo quedan las prórrogas del alquiler tras los nuevos decretos de vivienda",
+          "link": "https://www.eldiario.es/economia/quedan-prorrogas-alquiler-nuevos-decretos-vivienda_1_13546690.html",
+          "desc": "En una ley hay una extensión de los alquileres para los próximos dos años, hasta 2028 y en el segundo decreto se regula la renovación automática de los alquileres, que pedían Sumar y el Sindicato de Inquilinas Estas son las medidas de los decretos de vivienda del Gobierno: escudo antidesahucios y prórroga de alquileres El Gobierno ha aprobado dos decretos de vivienda este martes , para evitar desahucios como el de Maricarmen, la anciana de 87 años que se ha convertido en símbolo de la crisis de la vivienda en España , pero también con varias novedades sobre las prórrogas de los alquileres, que condicionan la vida y la economía de alrededor de 10 millones de personas que viven bajo esta modalidad en España . Entre los cambios aprobados , hay medidas sobre la renovación y la prórroga de los alquileres, así como un tope para los aumentos del precio de los alquileres por parte de los propietarios, entre otras. El primer decreto es el más amplio, con medidas en varias direcciones, como la prohibición de los desahucios hasta 2030, la prórroga de los alquileres hasta 2028, incentivos fiscales a inquilinos y propietarios, y medidas contra la “compra especulativa”. El segundo decreto es el que regula “la renovación automática de los contratos de alquiler”, como reclamaban los sindicatos de vivienda, ha afirmado el ministro de Derechos Sociales, Pablo Bustinduy. A falta del texto definitivo de los decretos-ley, a continuación resumimos algunas de las medidas más relevantes anunciadas en las ruedas de prensa posterior al Consejo de Ministros en esta materia, tanto de la ministra de Vivienda, Isabel Rodríguez, como la celebrada por la parte de Sumar dentro de la coalición. Prórroga de los alquileres en los próximos dos años Se recoge “la prórroga de todos los contratos de alquiler que finalicen hasta el año 2029”, en referencia al 31 de diciembre de 2028, ha afirmado el ministro Bustinduy. El responsable de Derechos Sociales ha explicado que se ha ampliado la cobertura de esta prórroga para “los contratos en tácita reconducción”. Pablo Bustinduy ha afirmado que la medida estimen que cubra a unos “cinco millones de compatriotas”, entre ellos, “más de un millón de niños y niñas”. La medida es muy relevante, porque hay muchos alquileres aún con precios contenidos por las regulaciones a raíz de la pandemia y que ahora no contaban con esos límites, por lo que son susceptibles de sufrir elevados aumentos, que está registrando este mercado . Se impide subir el alquiler por encima del índice de Vivienda El ministro Bustinduy ha afirmado que el decreto ley incluye también “la congelación al 0% de la actualización de los contratos de alquiler que estén por encima de los índices de referencia del Ministerio de Vivienda”. Habrá que ver el detalle de la ley, para ver si necesitará el concurso de las comunidades autónomas. Además, Bustinduy ha afirmado que el decreto regula también un “blindaje del control de los precios de alquiler en zonas tensionadas”, así como el “fortalecimiento del derecho de tanteo y retracto para personas inquilinas”. “Protección reforzada” ante comisiones y sobrecostes Bustinduy también ha anunciado que se regula una “protección reforzada” de inquilinos e inquilinas “frente a comisiones y sobrecostes abusivos”, que el Ministerio de Consumo ha estado abordando en esta legislatura. La revisión automática de los alquileres Este es la “única” medida que va separada en un propio decreto-ley, ha explicado el ministro Bustinduy, que consiste en “la renovación automática de los contratos de alquiler” a su término, que son cinco años en el caso de personas físicas y siete años en el de personas jurídicas. “Cuando finalicen se renovarán automáticamente”, ha afirmado Bustinduy, que ha sostenido que el texto ha sido aprobado “en los términos literales” que planteaban los sindicatos de vivienda. Esto implica la conversión —en la práctica— de los contratos de alquiler en indefinidos, salvo que el propietario de la vivienda la necesite para sí o sus familiares, entre otras excepciones que se recojan en la regulación y que la ministra de Vivienda, Isabel Rodríguez, no ha detallado más. “Supone una revolución en la cultura del alquiler en nuestro país y de la economía política del mercado de la vivienda como la hemos conocido en las últimas décadas”, ha afirmado el ministro de Derechos Sociales.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-09-29T13:29:43+00:00"
+        },
+        {
           "title": "Sumar presiona a Junts con los decretos de vivienda: \"Quien se oponga al clamor social tendrá un destino muy delicado\"",
           "link": "https://www.eldiario.es/politica/sumar-presiona-junts-decretos-vivienda-oponga-clamor-social-tendra-destino-delicado_1_13547222.html",
-          "desc": "El ministro Bustinduy celebra la aprobación de los dos paquetes de medidas y asegura que suponen \"un paso decisivo para poder transformar un modelo económico que se ha convertido en el principal lastre para las clases trabajadoras\" El Gobierno prohíbe los desahucios hasta 2030 y aprueba un decreto aparte que recoge los alquileres indefinidos Sumar confía en que la movilización social tuerza el brazo a Junts y logre forzar a los independentistas a convalidar el próximo viernes los decretos de vivienda que aprobó este martes el Consejo de Ministros. El ministro de Derechos Sociales, Pablo Bustinduy, aseguró este martes que los dos paquetes de medidas suponen “un paso decisivo para poder transformar un modelo económico que se ha convertido en el principal lastre para las clases trabajadoras” y, aunque no nombró expresamente a Junts, sí auguró “a quien se ponga frente a ese clamor social un destino político muy delicado”. Bustinduy compareció este martes acompañado de los otros cuatro ministros de Sumar —la vicepresidenta Yolanda Díaz y Mónica García (Sanidad), Ernest Urtasun (Cultura) y Sira Rego (Juventud)— en una rueda de prensa paralela a la del Consejo de Ministros para explicar el contenido de unos decretos que, afirmó, contienen “medidas efectivas para proteger, reforzar y dar tranquilidad a millones de familias en España”. El titular de Derechos Sociales aseguró que los dos decretos aprobados responden a una “dura negociación” con el PSOE “que ha sido posible en el contexto de la histórica movilización popular que ha tenido lugar en nuestro país por el derecho a la vivienda”. El ministro celebró que el Consejo de Ministros haya aprobado, aseguró, “muchas de las medidas” que Sumar llevaba tiempo exigiendo y que el PSOE se había resistido a poner en marcha a lo largo de la legislatura. Entre ellas se encuentran, enumeró Bustinduy, “la prórroga de todos los contratos de alquiler que terminen hasta 2029, ampliada y reforzada”, así como “una protección reforzada contra desahucios hasta 2030”, “la regulación de los alquileres de temporada y habitaciones”, “un nuevo régimen sancionador para los pisos turísticos ilegales” o la “prohibición de la compra especulativa para fondos buitre hasta 2028”. Todas esas medidas, explicó el dirigente, estarán incluidas en el primero de los dos decretos aprobados este martes. El segundo únicamente recogerá una medida: la prórroga automática de todos los contratos de alquiler una vez venzan salvo que su propietario los necesite para sí o sus familiares, lo que, en la práctica, supone que los contratos se conviertan en indefinidos. Este segundo decreto tiene muy pocos visos de ser convalidado el viernes ante la oposición frontal de Junts, si bien Bustinduy aseguró que es “una revolución en la cultura del alquiler y en la economía política del mercado de la vivienda” y aseguró que su “objetivo” es “la convalidación de los dos decretos”. El ministro, eso sí, admitió que Sumar pretendía que esa medida no fuera desgajada del resto en un segundo texto pero que no ha logrado convencer al PSOE. Preguntado expresamente por si el Gobierno tiene atados los apoyos de Junts para convalidar el primero de los dos decretos, el que contempla el grueso de las medidas, Bustinduy echó balones fuera y evitó dar una respuesta. “Las conversaciones han sido constantes” y “todo el mundo conoce que la aritmética parlamentaria es compleja”, explicó el ministro, que sin embargo vaticinó que en los próximos días se producirá un “intensísimo debate sobre lo que implican estas medidas. ”Va a ser muy difícil de explicar una posiciónde desinterés o de desgana por este asunto“, sostuvo Bustinduy.",
+          "desc": "El ministro Bustinduy celebra la aprobación de los dos paquetes de medidas y asegura que suponen \"un paso decisivo para poder transformar un modelo económico que se ha convertido en el principal lastre para las clases trabajadoras\" El Gobierno prohíbe los desahucios hasta 2030 y aprueba un decreto aparte que recoge los alquileres indefinidos Sumar confía en que la movilización social tuerza el brazo a Junts y logre forzar a los independentistas a convalidar el próximo viernes los decretos de vivienda que aprobó este martes el Consejo de Ministros. El ministro de Derechos Sociales, Pablo Bustinduy, aseguró este martes que los dos paquetes de medidas suponen “un paso decisivo para poder transformar un modelo económico que se ha convertido en el principal lastre para las clases trabajadoras” y, aunque no nombró expresamente a Junts, sí auguró “a quien se ponga frente a ese clamor social un destino político muy delicado”. Bustinduy compareció este martes acompañado de los otros cuatro ministros de Sumar —la vicepresidenta Yolanda Díaz y Mónica García (Sanidad), Ernest Urtasun (Cultura) y Sira Rego (Juventud)— en una rueda de prensa paralela a la del Consejo de Ministros para explicar el contenido de unos decretos que, afirmó, contienen “medidas efectivas para proteger, reforzar y dar tranquilidad a millones de familias en España”. El titular de Derechos Sociales aseguró que los dos decretos aprobados responden a una “dura negociación” con el PSOE “que ha sido posible en el contexto de la histórica movilización popular que ha tenido lugar en nuestro país por el derecho a la vivienda”. El ministro celebró que el Consejo de Ministros haya aprobado, aseguró, “muchas de las medidas” que Sumar llevaba tiempo exigiendo y que el PSOE se había resistido a poner en marcha a lo largo de la legislatura. Entre ellas se encuentran, enumeró Bustinduy, “la prórroga de todos los contratos de alquiler que terminen hasta 2029, ampliada y reforzada”, así como “una protección reforzada contra desahucios hasta 2030”, “la regulación de los alquileres de temporada y habitaciones”, “un nuevo régimen sancionador para los pisos turísticos ilegales” o la “prohibición de la compra especulativa para fondos buitre hasta 2028”. Todas esas medidas, explicó el dirigente, estarán incluidas en el primero de los dos decretos aprobados este martes. El segundo únicamente recogerá una medida: la prórroga automática de todos los contratos de alquiler una vez venzan salvo que su propietario los necesite para sí o sus familiares, lo que, en la práctica, supone que los contratos se conviertan en indefinidos. Este segundo decreto tiene muy pocos visos de ser convalidado el viernes ante la oposición frontal de Junts, si bien Bustinduy aseguró que es “una revolución en la cultura del alquiler y en la economía política del mercado de la vivienda” y aseguró que su “objetivo” es “la convalidación de los dos decretos”. El ministro, eso sí, admitió que Sumar pretendía que esa medida no fuera desgajada del resto en un segundo texto pero que no ha logrado convencer al PSOE. Preguntado expresamente por si el Gobierno tiene atados los apoyos de Junts para convalidar el primero de los dos decretos, el que contempla el grueso de las medidas, Bustinduy echó balones fuera y evitó dar una respuesta. “Las conversaciones han sido constantes” y “todo el mundo conoce que la aritmética parlamentaria es compleja”, explicó el ministro, que sin embargo vaticinó que en los próximos días se producirá un “intensísimo debate sobre lo que implican estas medidas. ”Va a ser muy difícil de explicar una posiciónde desinterés o de desgana por este asunto“, sostuvo Bustinduy. Por el contrario, el ministro si cargó expresamente contra el previsible rechazo de PP y Vox a la convalidación de ambos decretos el próximo viernes. “De lo que se va a hablar en la sede de la soberanía popular va a ser de desahucios, de fondos buitre, de especuladores que le roban el sueño a las familias, de infancia, de garantizar el derecho a una vida digna, y no va a haber bandera, ni consigna, ni exabrupto, que sirva para tapar el hecho de que hoy PP y Vox están defendiendo a quienes desahucian, a los fondos buitre, a los especuladores”, argumentó Bustinduy.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-29T13:11:07+00:00"
         },
@@ -805,13 +812,6 @@
           "fecha": "2026-09-29T09:37:27+00:00"
         },
         {
-          "title": "Rusia hipoteca su futuro económico por la guerra: defensa, seguridad y espionaje suman ya casi la mitad del gasto público",
-          "link": "https://elpais.com/internacional/2026-09-29/rusia-hipoteca-su-futuro-economico-por-la-guerra-defensa-seguridad-y-espionaje-suman-ya-casi-la-mitad-del-gasto-publico.html",
-          "desc": "Putin aumenta el gasto militar en un tercio para su sexto año de invasión de Ucrania, una cifra inédita desde la URSS. Los bombardeos ucranios sobre refinerías penalizan los ingresos por hidrocarburos pese a la fuerte subida de precios",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-29T09:13:32+00:00"
-        },
-        {
           "title": "Estonia atribuye a Rusia un ataque contra una empresa de defensa",
           "link": "https://www.eldiario.es/internacional/estonia-atribuye-rusia-ataque-empresa-defensa_1_13545943.html",
           "desc": "El ministro de Asuntos Exteriores de Estonia, Margus Tsahkna, ha asegurado que el ataque incendiario perpetrado en agosto contra Milrem Robotics \"se trata de un acto de sabotaje ordenado por los servicios especiales de la Federación Rusa\" El “juego psicológico” de la guerra híbrida de Rusia contra Europa Otro incidente grave atribuido a Rusia contra un país europeo. El ministro de Asuntos Exteriores de Estonia, Margus Tsahkna, ha atribuido formalmente a Rusia un ataque incendiario perpetrado en agosto contra Milrem Robotics, una empresa de defensa que trabaja habitualmente con el Gobierno estonio. “Sobre la base de la información recopilada por el Servicio de Seguridad Interior de Estonia, se trata de un acto de sabotaje ordenado por los servicios especiales de la Federación Rusa”, ha comentado Tsahkna. El ministro estonio ha asegurado que “los autores han sido detenidos y ya no representan una amenaza para la seguridad nacional”. Moscú ha negado su responsabilidad. “Tales acusaciones son infundadas, gratuitas y completamente irreales”, declaró el portavoz de la Presidencia rusa, Dmitri Peskov, en su rueda de prensa telefónica diaria. El Kremlin “no puede ni va a tomar en serio tales declaraciones”, agregó. Desde hace meses Moscú ejerce una fuerte presión sobre los países europeos de la OTAN , que va desde el juego del gato y el ratón con incursiones de drones y cazas en la frontera europea oriental a ataques cibernéticos o estrategias de desinformación urdidas por el Kremlin. Sin embargo, este ataque es un salto cualitativo en la estrategia del Kremlin. La agencia de seguridad nacional de Estonia, Kaitsepolitseiamet (KAPO) apunta que el ataque incendiario fue “un acto deliberado y planificado de antemano, encargado por los servicios de seguridad rusos. Según la información de la que dispone KAPO, el modus operandi del ataque contra Milrem es coherente con otros actos de sabotaje llevados a cabo en Europa en nombre de Rusia”. Los servicios secretos estonios apuntan a que “las empresas de la industria de defensa, especialmente las dedicadas a la tecnología de drones, así como las organizaciones que apoyan a Ucrania, han estado entre los objetivos de los servicios de seguridad rusos desde el comienzo de la guerra de agresión de Rusia contra Ucrania”. En el informe de Kapo, se señala que “desde el comienzo de la guerra rusa contra Ucrania, se han identificado y detenido a más de 20 personas implicadas en ataques físicos llevados a cabo en nombre de los servicios de seguridad rusos”. “Las acusaciones son infundadas, gratuitas y completamente irreales”, declaró el portavoz de la Presidencia rusa, Dmitri Peskov, en su rueda de prensa telefónica diaria. El Kremlin “no puede ni va a tomar en serio tales declaraciones”, indicó. Este es el incidente más grave que se atribuye a Rusia desde el ataque de un dron ruso al aeropuerto de Leipzig, en Alemania , que fue asumida por la OTAN y la Comisión Europea como un salto en la escalada de Rusia contra la seguridad europea . Rutte pide calma y Lituania niega rumores de invasión El secretario general de la OTAN, Mark Rutte, que se encontraba en una reunión con el primer ministro de Lituania, Mindaugas Sinkevicius, ha apuntado que “Rusia está intentando debilitar nuestra determinación y poner fin a nuestro apoyo a Ucrania, pero está fracasando, tanto en el campo de batalla en Ucrania como en su intento de socavar nuestra unidad y nuestro apoyo a Ucrania”. El primer ministro lituano ha subrayado que, pese a que “Rusia busca sembrar el miedo, generar división”, pero ha rechazado como “exageraciones” las advertencias sobre una posible invasión de tropas rusas en territorio europeo como han deslizado algunos medios de comunicación“. “Creo que es necesario decirle a la sociedad si existe una amenaza. Pero no se puede exagerar y decir: 'Oh, algo va a ocurrir en las próximas semanas o meses'. ¿Hay alguna prueba, una prueba real, que los servicios de inteligencia estén aportando, algún elemento que indique que Rusia se está preparando para algo? Y, en realidad, no la hay”, ha puntualizado Sinkevicius. En el mismo sentido se ha posicionado el secretario general de la OTAN, que ha pedido “calma, porque estamos invirtiendo en nuestra defensa. Rusia no está en una buena situación”. “No estoy diciendo que estas actividades de la zona gris no tengan impacto. Pueden tenerlo y, en ocasiones, claramente lo tienen. Lo que estoy diciendo es que disponemos de todas las opciones de respuesta: algunas son visibles y otras no; no siempre son públicas ni siempre son inmediatas”, ha remachado Rutte. El primer ministro de Suecia, Ulf Kristersson, ha apuntado que “la atribución por parte de Estonia de un ataque incendiario orquestado por Rusia contra una empresa de defensa es extremadamente seria. Suecia respalda plenamente a Estonia y estoy en estrecho contacto con el primer ministro Kristen Michal”.",
@@ -868,11 +868,11 @@
           "fecha": "2026-09-29T07:21:17+00:00"
         },
         {
-          "title": "La subida de los carburantes dispara la inflación al 4,9% en septiembre",
-          "link": "https://www.elmundo.es/economia/2026/09/29/6abb6376e9cf4a78548b4576.html",
-          "desc": "El Gobierno aprueba este martes un nuevo paquete de medidas para proteger a las familias y sectores afectados por el conflicto energético Leer",
-          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-          "fecha": "2026-09-29T09:15:18+02:00"
+          "title": "La inflación se calienta aún más y roza el 5% en septiembre por las gasolinas",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inflacion-se-calienta-aun-mas-se-dispara-4-9-septiembre-por-las-gasolinas_7042505_0.html",
+          "desc": "El Gobierno atribuye parte del incremento a un efecto estadístico por la bajada de los carburantes el año pasado. El IPC subyacente aumenta hasta el 3,1%, el máximo en más de dos años.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-09-29T09:00:35+02:00"
         }
       ]
     },
@@ -880,6 +880,27 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Acciones de QumulusAI suben por contratos de GPUs Nvidia por $240.9M",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hmVU1TR3NueW5wTUZyTWlobkd3R0l1NWMwa05iU3BzWFcxZ3VhM2poTjYyUDNVdDQtT3RJSlB6aFdkWnVRbFBaSlBpNHpockFVMzRnNHdxZTVCWVl1TUtWckhyRUVRLXRObmVLTTdxU3h3SnI2QVg5Y0lvUlBmZFd3WnB5VEJjTWpEQ1pUSERybWVzLVlBOGd6OG9oNll6Nk1nenUxWENNTEFPeTFlNGFOcFk5R1JqdkptX29EOA?oc=5",
+          "desc": "Acciones de QumulusAI suben por contratos de GPUs Nvidia por $240.9M Investing.com México",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:28:46+00:00"
+        },
+        {
+          "title": "Nvidia lanza plataforma de seguridad para agentes de IA",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3ZmRGxybGE5RzRJSUg1N3M4QnFpbXI1RnpobWVKQ1FUVmYzT1p3eTRGcjhBM3g2a0paU3VpVjBnLWpJUERGaXVURGoySGlFQl9ubkVYOXp1a1NucFdudV9SWUlvRFR0MXAxc1pGV21MeHh0elJweHFUR2FhdGNtUEdhbGhib0UtRVRLbUprSXJYZw?oc=5",
+          "desc": "Nvidia lanza plataforma de seguridad para agentes de IA El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:21:39+00:00"
+        },
+        {
+          "title": "Nvidia crea plataforma para controlar a agentes de IA rebeldes",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnEzbXRlUEhXRmM4cnNzNVM5bGx3SmRfMVhmWVU2MU44WTVrVHlFdk9ERWppU1lqal9QeWNfdDVuWnVSbmdMd2NLVjY0dW15MEs1ZjZkSGZlV2taWVFRWTAxSTV6N0RRSVF0VHA3LVROc2pWZGJpeFZYa2xpVExsRnJyTzNQeTVqV3lUa1hDYm1yaWI2UjI4Rg?oc=5",
+          "desc": "Nvidia crea plataforma para controlar a agentes de IA rebeldes El Ecosistema Startup",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:21:39+00:00"
+        },
         {
           "title": "Trump reúne en la Casa Blanca a líderes de Nvidia, Anthropic, OpenAI y Meta para debatir el futuro de la IA",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2dwaXp2OFQxSUZjWU5sTVRCNGtQRU9LTGxLekQxTTZ1RmJVcW5Sdm1NeW1jb0FvZnViTmRGVW02LVA0c0VpbTFjLXVPdlRMU0dFM1kwMERvWTRTbW4wUjI3YXNCRXVWVVViMnM2UGl3R19oQ2hTQjRRWlVaWG10eWZsUlBLSlRYZUJMOTdpbGkxQkk5MlBHOE5EaGY5R1ZKT3dWMlVNODZBSGdoT0JlcjBBOFNRT2ZNZ2lWaUZCR21QSUxycHU2TUFtTng4UHByTnBYaS1jQjhONzRMZG1RatIB-wFBVV95cUxOX0VXbkg3TmhtY09BbFBYWlhvMmcwY182UXlLSWpmQVFjZ0tEUVFVMjJ3eGdBcGFVZnluYWtzQnFZWU90MzF5M3hDbk5WNUlNN0tVa0RjT2lSWG5hZnl4akRVTkFZQXdWdVowUjNjODBIUzhEbWhTeEo3STFfX0Qzb2JkU3V4RVhnVU1haDB1YjZxdng2VkE2VnZRRktxTVRFN1o0NV9JZW9BSUVVSHB5X3BoNmRZLUJpVjdFMUJMaW5oeTR2T0xEYUpuVl9SQldQSTdOa1lYYVVIT0JmS2VMalAzWEdDNko3UGdjVFhtenVLUU9hVVA4dDJZQQ?oc=5",
@@ -914,6 +935,13 @@
           "desc": "Un ex empleado de EVGA sitúa en NVIDIA el origen del colapso de sus GPU Hardware Premium",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:57:00+00:00"
+        },
+        {
+          "title": "Nvidia lanza una nueva plataforma de seguridad y afirma que puede evitar que los agentes de IA se descontrolen",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLVYyRzk0Z1V5RzNWcElxM1BtNnlKSUxuZ3Nhck1rTkYxMHpjcmtTeE04WW1wWWRKYVJENjVXZ2s2TXlEd1d1LUlPRXd5dnpHMXVjMVQyUExVQ1hoaW5zM09UZ19xRGhEcTJvbHlVbldFQWc1LXZqR1RHX2FOQkM3ZUlUbFVjM1JRYzV4QU8xLVp2U0NmMXZZQk1pQXZ2dHE2N0tHbDJxcUd4YVhRT2pibkxad052MXhNU3FoV2cyVEUwQUkxLVV4c0ZvWUhYeWFEWUJieWxCckt0MGM?oc=5",
+          "desc": "Nvidia lanza una nueva plataforma de seguridad y afirma que puede evitar que los agentes de IA se descontrolen Forbes Chile",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T11:49:10+00:00"
         },
         {
           "title": "NVIDIA autoriza una recompra de acciones por valor de 150.000 millones",
@@ -988,7 +1016,7 @@
         {
           "title": "Samsung invierte 880 millones en Helix, compañía de infraestructura de IA respaldada de KKR y Nvidia",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTV6aTFmeGFSLXhEdzMxVEQxS2lQak14Z1dQNDI4TlpscVl5RnM1OWtWRmY4RHNzMlFuV0g0Q2xlZmFYS1dmY2V1MFhqSUhVQmp1X0Z5VVBSNmVlVkdsRGg2TkJRRGktRkJoSVNIcHczLWVpQ3d3d01pRWtjcWRtYjU4YnNGc2FqRElrSGRBYktUUDg1T3JqTWhLdFNSYTYwSFNtQUIyUUVnUkJBQWdybk9YZlZWUTByd3E1N0gxWFJoME5fdGVLcEpzVnRSblVnSDFBeTRETTJ1VGhqMlZvRDRNZw?oc=5",
-          "desc": "Samsung invierte 880 millones en Helix, compañía de infraestructura de IA respaldada de KKR y Nvidia Europa Press",
+          "desc": "Samsung invierte 880 millones en Helix, compañía de infraestructura de IA respaldada de KKR y Nvidia europapress.es",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:59:57+00:00"
         },
@@ -1019,34 +1047,6 @@
           "desc": "Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles.",
           "source": "https://www.tomshardware.com/feeds.xml",
           "fecha": "2026-09-29T09:30:00+00:00"
-        },
-        {
-          "title": "Modder lleva NVIDIA DLSS de forma nativa a las AMD RX 7000 gracias a ZLUDA con un rendimiento más que decente",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTdDhRYkZiOUpuY0h1V3RBWUlEVnBOSUdFcnZNMF81Y0Z6YUs3aXZkQS1ibWw3ZkdYU0tiN0tva3FvQWZSYzBZa2RtalRyMXVNRUVCTEV0dWVtckE5UmVacjJUZDY0b2dFX2pNT2FR?oc=5",
-          "desc": "Modder lleva NVIDIA DLSS de forma nativa a las AMD RX 7000 gracias a ZLUDA con un rendimiento más que decente El Chapuzas Informático",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T09:19:07+00:00"
-        },
-        {
-          "title": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUprSXdoT3d5dnViVndtOWpfZEk1NTIzTDZsOFlFN0dJN2dHb3R3U2R3MXBNRGZYTldvVTZhTEViNzYyTTJueHNicUlKdl82MWVqZ290NjhlYk9hVW5BQUdoa3BDTTAzSWxvWEtrVGRjQ1VJVEhjVEx6cjVDMlhIdWRGZnp1WHVrLUhORzQ4by0ycXRDREROY3N6c082dXhVenRtS2NPaExlSE5iT1c1QWxZbUs4YXRLVnpHak50NlRNWHBPZEVHYXBHM0jSAdIBQVVfeXFMTVpVUHZNckQ4WEVwMVB1VkNhbHRyazJrZVhuU2ZVTmVFM1R3Tkhhbm0zSlRFUnNCcEhoUUttanNYWGJUaXJOZWVHZXJ5VlZYOHRmckR3dVF1dlp1Q2tmZWpiME9EejdpY0FXbWhFOGxQQmlXOHJra08xOGp6ZmFZdDkxRHFYOVI4WGlHT2g1V1BwVXdkWFBoS3RHR1BpaWRNNjROSWNES1AxOU9Hd29NM1UzcUxnR0VOOGtpc21FWnF5SzVnUkN5bHFqSkFKOVVGdmRn?oc=5",
-          "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares Xataka",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T09:16:00+00:00"
-        },
-        {
-          "title": "EVGA vendía gráficas NVIDIA por debajo de su coste",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNME1QYTMxajI4Q3ZPbGVPd2ZacGZWc0Z0bXFIaDZmSGh4OVR5SmsybkVRWFlRWG1Wdno3WDV1Vkc5RXJLdjExMkJXZlJLa0FZeGszNXdKbU9QdG5aVnZPMW50ZC1iRXpYX2UwLTgtb2p1dTA2aFppYmJJMndfUW1ZeUlHMUZ6SzhKU2ljWGswOXJEVE9oZjBXeDJ0NmzSAaIBQVVfeXFMTUstMGxrRlQ4QmdOMEhWSUl5N2hmeGVVLXRHZG9EVUVhOWlMVWtzNnFfN1RUeFBhVTM2UW1FME9qNV9TYzVfQktUTUg5a0xfdU9mVlNYLTlNbGQzTFY5OHVwd2l4RGR4QkNHLU1QbWo3aUhXQm04MU10RlF4Q3VhaWdqVmhLQ1d3dDA4dWJOaFpaTlVQYWJkc2FaZWNsMHJfMFF3?oc=5",
-          "desc": "EVGA vendía gráficas NVIDIA por debajo de su coste Profesional Review",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T09:03:57+00:00"
-        },
-        {
-          "title": "EVGA revela por qué dejaron de trabajar con NVIDIA: vender GPU con pérdidas y persecución a filtradores",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNkbEJzVnhJeVE0SWhmR3k4amFBaFBzRWJ0amhPcVhMajliSDdjWW1uV0h6VW1IWV9mWWhYOHRrSmFzSnF2X1VuS1lnME15UTNmQmp4QkVleUVaLTNRaFNldXoxdUQ3aUJMTWtLZXNqSFhlal9FQVZoLXJJQVVtNHF2N3hvTmt3ZGN2OTlHcw?oc=5",
-          "desc": "EVGA revela por qué dejaron de trabajar con NVIDIA: vender GPU con pérdidas y persecución a filtradores El Chapuzas Informático",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T08:39:36+00:00"
         }
       ]
     },
@@ -1082,11 +1082,25 @@
       "icono": "🖥️",
       "items": [
         {
+          "title": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3Z2YXRlVUNSdEp4OVR0MU9lWnlQNmRwYmtkU3dWcmlTX3lxZnhJYWVkWEY5dmR0NTh2RllYdWZ4Rjk4ZGxTT0g0MGpPZkNFY291Xy1vUm9OY1FLSVMxVERyTlJKZ0EwRURoTDRORElyc0dzUWhSMUQ0cHdZeDdlN05hUTBBTlR3R0VsQmpVNW5iWW5sRlJiWkZZbzNCUnE0SkRxV3dnZ1o4MzhHOGJvaFNPQkttd28?oc=5",
+          "desc": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD Fanáticos del Hardware",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T13:45:14+00:00"
+        },
+        {
           "title": "AMD sale de compras: ¿es acertada su inversión de 8.200 millones de dólares?",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNW1sZHdYaFl6SVpPMUFhNW1ZbHFWeDZmNUFKd2hDTVRQaGVoUnM5MUV0TFZLRlZScEpSV0xFZXo1SEM4VFZyTlJYU2ZCamdHcTFMRU9nOWc0ZDd1V256dFA5eTZrVTZ3RjhNLWFqU3VIMzlFODg0WjJuS0stNnFCdlUyN2hlOThmNWRQZHhoQnRJRlFNM29IZU95TlROTzI4QXRXUFlMaTd5eTBBMHI2NjRFS3BzTUgtNFE?oc=5",
           "desc": "AMD sale de compras: ¿es acertada su inversión de 8.200 millones de dólares? XTB.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T13:04:47+00:00"
+        },
+        {
+          "title": "AMD comprará la startup de IA World Labs de Fei-Fei Li por 8.2 mil millones",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUtzMXJMUS1fdkVNZTdBN1pScU5abUhGd3BNX29jTFE1SHNwQi1IVERrWkFqSWZhNjVkZzk3SEk2UXF5d2poZkFEV0E0MzBrMU93Q0NTa1ZGZmVsX09VOE1YMzBkYnpZTG9IR3FRby1XN3lwUHpSNkFSQmpuQl91bkVJalJNZmJUQ05pQnhkLU9GVWxCMGtGSnVwSFkxZmJxbmc?oc=5",
+          "desc": "AMD comprará la startup de IA World Labs de Fei-Fei Li por 8.2 mil millones TyN Magazine",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T12:51:39+00:00"
         },
         {
           "title": "AMD adquiere World Labs de Fei-Fei Li por $8.2 mil millones",
@@ -1234,20 +1248,6 @@
           "desc": "AMD compra World Labs, la ‘start-up’ de la ‘madrina de la IA’, por 8.200 millones de dólares, y presiona a Nvidia Cinco Días",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T06:55:27+00:00"
-        },
-        {
-          "title": "El Framework Desktop se actualiza con el AMD Ryzen AI Max+ Pro 495, las reservas estarán disponibles mañana",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcHNZT0M2UWZoTkZpclBDNXozdTNBU0xKcEZCem9kVDlaZmtIcTNCU0tBRExCWklCeFlOZm4zUmNtTUk5Uzc0SnJod09oVjA0MTczTmZlV2Vwbzl6TzhsRXoyUWNTY3B6dHNmU25FTU5UYVRaV0Fsd3dxLTYxV05nQjVjRXFZalhFT3pRbmtWM1ZrY0dIS2Vtdm1FS2NsMFdyWXV5YjZtckFIUEhER2xvM01rQmRibDFBbzZ6ZmJWYWlDbU5ZTHI0c05heU9tUm5lM3NwZUljdGJUeFhIUlNsLVhMWUJ6dTc5YXc?oc=5",
-          "desc": "El Framework Desktop se actualiza con el AMD Ryzen AI Max+ Pro 495, las reservas estarán disponibles mañana pronetic.geeknetic.es",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:05:09+00:00"
-        },
-        {
-          "title": "AMD anuncia el acuerdo para adquirir la Startup de IA Espacial World Labs por 8.200 millones de dólares",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGM1b29CU2xWX0RzRmdrMHdzV2lILWM4UEhadVVrRnRneWE2MmZyaWI2MHZNdTJITm1YWm5HMTdRckc3V05sWGRGRi1zNkJGQnFwT1pHRkQwUlJhQUFyT3hUenVXeFpQS2J4cnQ0X29IZzFQR1ViVzFSRnNlWkFqaVlMLTV1T0s4RDdfbi1acy1aelJ4SzRlTlF4eUpSdkd6TzBsVTJxLUlBZTFRdmo1ckVOX2NDWDQ2U25xMkxyMzdlLVVwUmlKOV8yalBvZ1lLeGxUUjdfc2h2Q2cwVGY3RF9jZFR1Zw?oc=5",
-          "desc": "AMD anuncia el acuerdo para adquirir la Startup de IA Espacial World Labs por 8.200 millones de dólares pronetic.geeknetic.es",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T05:34:54+00:00"
         }
       ]
     }
