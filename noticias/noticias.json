@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T14:00:03.705500+00:00",
+  "generado": "2026-09-29T14:30:07.933191+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -90,7 +90,7 @@
         {
           "title": "Nervión se le resiste a Emery desde su marcha",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDVKaDBtVVl5Q2dFN2xMRmJDSUNJazVlb001SEE4R1locGVMcmNPX2RUajNZenhsSzJrd2oweHVRcF9TdVZxcXlXTzJkTE9HV1ZUQ0RPSU1VeHlvaWVSNHlJNG1iYXZaa1EyT2ZGQUZ3RG1FeWNwQktCRU4ycVNia2xoYmtuWlkwVXk3X01JUQ?oc=5",
-          "desc": "Nervión se le resiste a Emery desde su marcha Muchodeporte",
+          "desc": "Nervión se le resiste a Emery desde su marcha muchodeporte.com",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T10:02:54+00:00"
         },
@@ -111,7 +111,7 @@
         {
           "title": "Los 2 motivos por los que España juega en Sevilla en el Sánchez-Pizjuán y no en la Cartuja",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbTljU2dDczdBUHg1Nzg4cXdsMWdtbjMtZFZWcWY1TW5JLUdHMzEtQWFVQnIta0JfNTEtcVp4UUlLbkhMTGpuekxRSnFoYjhtTmhlOHQycUNaMnExdTZkd09rTGcwVjJLcWZaU01ibEF1RjgzOTlzaEd2bXY0UkFvOVlsMGdod00tdWRHOXRKRmNxM3g1QnphWmd2VXBPWjc3TThLTG9WdGJkN1JRWmlPM2JYdlk1VHNOTTZF0gHAAUFVX3lxTE91RmM0RkRlWlktaWFkM3l2eUhCalI1TmVnb0Y2eXNVN0tBcVJZaUJLWFhMcnJyOVczblR3aDhYa1czVmtHUkpTS3pfSzNCX2k5UHFEWWRDRVNYdWZBaWltN0JHcXNqZW00TnhPNmhxTXUwU3JFUG82N2VwaTFLVnpITnBSY01CT3owSExQV0pMV0NYaVRqenlzcmRXVWRJR1o0QURSUU5aWWNJR3BaTWpHQ2tKcXBaMmlESlZPM3FRSg?oc=5",
-          "desc": "Los 2 motivos por los que España juega en Sevilla en el Sánchez-Pizjuán y no en la Cartuja El Debate De la Fuente: \"Venir a Sevilla me emociona mucho, pero venir aquí, al estadio del Sevilla, mucho más\" Muchodeporte El Sevilla FC y La Que Se Avecina, unidos por la selección española Diario de Sevilla",
+          "desc": "Los 2 motivos por los que España juega en Sevilla en el Sánchez-Pizjuán y no en la Cartuja El Debate De la Fuente: \"Venir a Sevilla me emociona mucho, pero venir aquí, al estadio del Sevilla, mucho más\" muchodeporte.com El Sevilla FC y La Que Se Avecina, unidos por la selección española diariodesevilla.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:22:30+00:00"
         },
@@ -132,7 +132,7 @@
         {
           "title": "El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXZ3LXMzekpLLTdTczRBbjhzd0RBa2xhVVY4U01fcGVHMENOb0FuUk4tSk1aYVBfOFhQT2ZMU0g3MXNyS0ZDbGhacHNLNVo4cHRIVm5QN1NrU0t3SUtweGtsNHRBUF93OVE4Z0xtLUtFMnlSVE1iY3dHNGptR2FsRFlCQTUwM3YzbkNEVkhvYUpoVDBTNlRUQzI4THM3RlU?oc=5",
-          "desc": "El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena Muchodeporte",
+          "desc": "El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena muchodeporte.com",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:15:53+00:00"
         },
@@ -148,7 +148,7 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHVSaDNDQ0tsanRqenNSWGc3Rnl5c1F3ZmtXRWp3RTcwajlYcDJrejFQV1Q3MHJPMEhtWDl2WUJtaXdZNUdnY1lLZkdJVkVHRkJSYk5CcXA2ckZuOXVxUDVnclZ6NzdzU2w4b3Q5S3l6MXdfMjVITnU3YXJFSkczN0tTakJfSlpLbklpdEh2M21haE9J?oc=5",
           "desc": "FRAN GONZÁLEZ REGRESA DE LA CONCENTRACIÓN CON ESPAÑA SUB-21 Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T08:35:07+00:00"
+          "fecha": "2026-09-29T08:40:39+00:00"
         },
         {
           "title": "Monchi compara a las aficiones del Sevilla y el Espanyol: \"No hay tanta diferencia\"",
@@ -165,7 +165,7 @@
           "fecha": "2026-09-29T07:16:50+00:00"
         },
         {
-          "title": "A qué hora es el España - Croacia: horario y dónde ver hoy en TV y online el partido de Nations League",
+          "title": "A qué hora es el España - Croacia: horario y dónde ver hoy en TV y online el partido de la Nations League",
           "link": "https://www.marca.com/futbol/nations-league/2026/09/29/hora-espana-croacia-horario-ver-hoy-tv-online-partido-nations-league.html",
           "desc": "La selección española jugará en el Ramón Sánchez-Pizjuán",
           "source": "https://www.marca.com/rss/futbol.xml",
@@ -185,6 +185,27 @@
       "icono": "⚽",
       "items": [
         {
+          "title": "El Celta echa de menos a Borja Iglesias: la pieza de Giráldez que va mucho más allá del gol",
+          "link": "https://www.estadiodeportivo.com/futbol/celta/celta-echa-menos-borja-iglesias-pieza-giraldez-que-mucho-mas-alla-del-gol-20260929-547520.html",
+          "desc": "El delantero gallego apenas ha podido participar en este inicio de temporada por una lesión muscular y acumula 48 minutos en LaLiga, pero sus 27 minutos ante el Racing volvieron a demostrar por qué es una pieza estratégica para el Celta más allá de sus goles El fútbol son goles, pero hay delanteros que aportan mucho más sobre el césped. Eso es lo que le pasa al Celta de Vigo con Borja Iglesias y por lo que el club gallego necesita recuperar al 'Panda' cuanto antes. Lo necesita por sus goles, evidentemente, pero también por todo lo que aporta cuando está sobre el terreno de juego. Claudio Giráldez tiene en el delantero santiagués una pieza importante para su manera de entender el fútbol y su ausencia en este arranque de temporada se está haciendo notar. El campeón del mundo ha tenido muy pocos minutos en las primeras jornadas del campeonato. Entre la incorporación tardía a los entrenamientos tras el Mundial y una lesión muscular que frenó su preparación, solo ha podido disputar 48 minutos en LaLiga, además de los 12 que jugó en el encuentro europeo frente al Omonia de Nicosia. El Celta, mientras tanto, espera recuperar cuanto antes a uno de sus principales argumentos ofensivos. Porque Borja Iglesias no solo está para rematar. Su capacidad para jugar de espaldas, aguantar la pelota, descargar y dar continuidad a las jugadas ofrece a sus compañeros una alternativa especialmente importante ante determinados escenarios. Borja Iglesias, sincero con La Bola Negra de los Javis: \"Gente llorando, respiraciones cortadas, miedo\" El desagradable aviso a Borja Iglesias, jugador del Celta de Vigo: \"El día que te den un susto nos reiremos todos\" Eso fue lo que volvió a comprobarse en la última jornada ante el Racing de Santander . Borja Iglesias entró al campo y disputó 27 minutos que cambiaron la cara del conjunto celeste. No necesitó rematar a portería para convertirse en uno de los jugadores más destacados del Celta y ayudar a desencadenar la goleada. El Celta echa de menos sus goles y algo más Los números de las dos últimas temporadas explican parte de la importancia del ex del Betis. Borja Iglesias ha sido el máximo goleador del Celta en ambas campañas, con 25 tantos en LaLiga: 14 el pasado curso y 11 en el anterior. A ellos añadió otros cuatro entre Copa del Rey y competición europea, además de siete asistencias entre el torneo doméstico y Europa. Y a estas alturas de las dos temporadas anteriores ya había dejado una huella importante. El pasado curso había participado en los siete primeros partidos de Liga, tres de ellos como titular, acumulando 347 minutos y cuatro goles. Marcó ante Villarreal, Girona, Rayo Vallecano y Elche, tantos que terminaron significando tres puntos al Celta en un inicio marcado por una sucesión de empates. Un año antes, en su regreso al conjunto vigués, también tuvo un impacto inmediato. Disputó igualmente siete partidos, cuatro como titular, para un total de 441 minutos y tres goles, ante Villarreal, Osasuna y Valladolid. La última polémica de Borja Iglesias, jugador del Celta de Vigo: \"Un poquito de homofobia para empezar el sábado\" Esta vez la historia está siendo diferente. Su preparación se vio condicionada desde el principio y una rotura miofascial del sóleo izquierdo terminó retrasando todavía más su puesta a punto. Debutó en Getafe con 21 minutos, aunque las molestias volvieron a dejarle fuera de la convocatoria ante el Málaga. Frente al Racing volvió a tener minutos. Y esa actuación sirvió para recordar al Celta lo que puede ofrecer cuando está cerca de su mejor versión. \"Nos faltan jugadores importantes para atacar bloques bajos, como Iago, Borja o Aleix, que nos pueden dar soluciones que ahora mismo no tenemos\", reconocía el propio Claudio Giráldez. Sobre el delantero, además, fue claro: \"Borja no está para jugar más de 45 minutos\". El parón de selecciones le debe venir bien al 'Panda'. Al no haber sido convocado por Luis de la Fuente, está teniendo varias semanas para continuar con su preparación y tratar de acercarse progresivamente a su mejor nivel. El objetivo pasa por que pueda llegar en mejores condiciones a los próximos partidos, con el duelo ante el Elche en el horizonte y la posterior visita de la Juventus de Turín a Balaídos .",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T14:19:56+00:00"
+        },
+        {
+          "title": "Dani Ceballos amplía a 13 las ausencias de Pellegrini para preparar el Betis - Ceuta de este jueves",
+          "link": "https://www.estadiodeportivo.com/futbol/betis/dani-ceballos-amplia-hasta-las-ausencias-pellegrini-para-preparar-betis-ceuta-este-jueves-20260929-547497.html",
+          "desc": "El centrocampista utrerano no se ha dejado ver en el entrenamiento de este martes, el primero después de las 'mini-vacaciones' que ha disfrutado la plantilla aprovechando el largo parón, antes de recibir al equipo de José Juan Romero este próximo jueves Se acabó el descanso. El largo parón liguero por los compromisos de las selecciones nacionales, que en esta primera 'Ventana FIFA' de la temporada 2026/2027 se extiende hasta las tres semanas, ha ofrecido tiempo para desconectar, para tomarse unas mini-vacaciones e incluso para trabajar lo suficiente para estar a tope para el regreso de la competición de clubes. En su caso, la plantilla del Real Betis ha vuelto al trabajo en la mañana de este martes, en una sesión en la Ciudad Deportiva Luis del Sol con la que Manuel Pellegrini ha comenzado a preparar el partido amistoso que su equipo disputará este próximo jueves ante la AD Ceuta para ayudar a la ciudad autónoma en los complicadísimos momentos que sufre desde la masiva avalancha migratoria de hace dos meses. Con este partido en el Estadio La Cartuja, el Real Betis romperá el larguísimo paréntesis de 21 días que van desde el empate ante el RC Deportivo de La Coruña del domingo 20 de septiembre hasta el duelo del 11 de octubre frente al CA Osasuna . De momento, la semana ha arrancado con la baja de Dani Ceballos , que ha protagonizado la más destacada de las 13 ausencias que ha contado la entidad de las Trece Barras en este regreso a las instalaciones deportivas de Los Bermejales. Aitor Ruibal y Marc Bartra siguen en la enfermería verdiblanca Para recibir al Ceuta, Pellegrini no podrá contar aún con Aitor Ruibal , que tardará un poco más en volver a ejercitarse con el grupo y necesita tiempo para coger ritmo de competición después de estar cuatro meses parado tras su operación de menisco. Además, el técnico chileno está pendiente de la evolución de Diego Llorente , que se perdió los cuatro partidos previos al parón por una dolencia muscular sumada a la fractura nasal que sufrió contra el Real Madrid; pero el madrileño ya se reintegró en el grupo desde hace dos sesiones y trabaja con total normalidad al mismo ritmo que el resto de sus compañeros. Ya superaste el lunes ✅ Restamos un día para que regrese la competición ✅ ✅ pic.twitter.com/bpocxAeVD4 &mdash; Real Betis Balompié 🌴💚 (@RealBetis) September 29, 2026 \\n \\n\\n\",\"proveedor\":4}\"> También acabó apartado del grupo Marc Bartra , aquejado de una leve sobrecarga en los isquiotibiales tras el último encuentro en Riazor que le ha obligado a seguir un plan de trabajo individualizado en pos de estar ya listo para cuando vuelva LaLiga. El central catalán también se ha dejado ver este martes, pero de momento sigue ejercitándose de manera individual y la consigna es no correr riesgo alguno mientras sigue arrastrando molestias en la zona afectada . Los 11 jugadores internacionales del Betis dejan a Pellegrini con lo puesto para recibir al Ceuta Asimismo, como es lógico, tampoco estarán disponibles los 11 jugadores internacionales que se encuentran concentrados con sus respectivos combinados nacionales: los argentinos Valentín Gómez y Giovani Lo Celso -aunque no viajará a su país hasta el día 6 al acudir sólo para el homenaje a Messi-; el uruguayo Facundo Bernal , el marroquí Ez Abde , el mexicano Álvaro Fidalgo , el irlandés Troy Parrott , el dominicano Junior Firpo , los sub 21 españoles Ángel Ortiz y Manu González -promocionado tras la lesión del sevillista Fran González- y los sub 20 José Antonio Morante e Iván Corralejo , jugadores del filial que trabajan de manera asidua con el primer equipo. Troy Parrott, goleador en el encuentro de la UEFA Nations League 🌍 El delantero sumó un tanto en la victoria de @IrelandFootball frente a Israel (0-3) 🇮🇪 pic.twitter.com/EWzDNxLUvy &mdash; Real Betis Balompié 🌴💚 (@RealBetis) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\">",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T14:17:02+00:00"
+        },
+        {
+          "title": "El Castellón hace historia en la liga española",
+          "link": "https://www.estadiodeportivo.com/futbol/castellon/castellon-hace-historia-liga-espanola-20260929-547518.html",
+          "desc": "El equipo de Pablo Hernández sigue manteniéndose en la cúspide de LaLiga Hypermotion después de siete jornadas disputadas. Y con sus números ha igualado un récord y ha escrito una página dorada en sus anales Sólo el FC Barcelona de Hansi Flick puede presumir a estas alturas de la temporada tener mejores números que el Castellón de Pablo Hernández. Los albinegros asaltaron Butarque este pasado lunes para cerrar la séptima jornada en LaLiga Hypermotion y se mantiene invicto, con seis victorias y un empate, y con sólo 2 goles en contra por los 14 que ha conseguido anotar ya. Pero lo que es mejor aún, con este triunfo ante el Leganés, el cuadro castellonense no sólo ha recuperado el liderato sino que, además, lo ha hecho igualando un récord y escribiendo una página dorada en su historia. Concreatamente, los levantinos han firmado el mejor comienzo de un equipo en Segunda desde que el Elche lograra idénticos números hace 14 años. Y, por ende, han sellado el mejor inicio de sus 104 años de historia. Los albinegros han ganado cuatro partidos como visitante y ya encadenan cinco triunfos consecutivos. Además, el conjunto castellonense tiene una ventaja de 7 puntos sobre el séptimo (que marca quedarse fuera de la promoción de ascenso) y de 4 sobre el tercero (que marca quedarse fuera del ascenso directo). El Elche, el último precedente El último equipo que consiguió 19 de los 21 primeros puntos, como ha hecho el Castellón, fue el Elche hace 14 años y el cuadro ilicitano consiguió el ascenso a Primera división , objetivo que persigue el conjunto orellut que no está en la máxima categoría desde hace más de 35 años. El meta albinegro, Romain Matthys, es el portero que menos goles ha recibido, solo 2 tras jugar los 630 minutos que transcurren de liga y, además, el Castellón es el segundo equipo más goleador con 14 tantos, solo superado por el Eibar que ha marcado un gol más. El Castellón asalta también Butarque y Morata sigue gafado en el Leganés Un Castellón que logra igualar su mejor inicio de la historia que data de la temporada 1971-1972, cuando ascendió a Primera división y, como ahora, ganó seis partidos y empató uno, pero marcó un gol menos en esas primeras siete jornadas. Y una de las razones de este indudable éxito es lo repartido que está el gol en esta plantilla. Sir más lejos, ante el cuadro pepinero fue el centrocampista Israel Suero quien anotó su segundo gol de la temporada para abrir la lata frente al conjunto madrileño. Cabe recordar que fue Suero quien cerró hace dos semanas el triunfo de los albinegros ante el Albacete . Esta vez, demostró todo el inmenso talento que atesora al resolver a los venticuatro minutos con un sutil toque un fallido despeje del portero del Leganés fuera del área.El tanto de la sentencia llegaría por mediación del delantero danés Adam Jakobsen en la segunda parte, quien se estrenó como goleador en la presente temporada al culminar con un disparo cruzado desde el interior del área una gran acción individual. Pablo Hernández, técnico del Castellón, valora el cierre del mercado: \"Se ha quedado una plantilla muy competitiva\" No obstante, el máximo goleador del equipo sigue siendo Ousmane Camara, quien ya suma cuatro dianas y está a sólo una del máximo artillero de la Categoría de Plata, Enric Gallego (Tenerife).",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T14:01:43+00:00"
+        },
+        {
           "title": "España, un modelo que domina el mundo a base de estrellas",
           "link": "https://www.marca.com/futbol/seleccion/2026/09/29/espana-modelo-domina-mundo-base-estrellas.html",
           "desc": "Los títulos se acumulan en el museo de la Ciudad del Fútbol",
@@ -192,18 +213,11 @@
           "fecha": "2026-09-29T15:58:34+02:00"
         },
         {
-          "title": "El modelo que domina el mundo",
+          "title": "La envidia mundial<br>",
           "link": "https://www.marca.com/futbol/seleccion/2026/09/29/espana-modelo-domina-mundo-base-estrellas.html",
           "desc": "Los títulos se acumulan en el museo de la Ciudad del Fútbol",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-29T15:58:34+02:00"
-        },
-        {
-          "title": "Dani Ceballos amplía a 13 las ausencias de Pellegrini para preparar el Betis - Ceuta de este jueves",
-          "link": "https://www.estadiodeportivo.com/futbol/betis/dani-ceballos-amplia-hasta-las-ausencias-pellegrini-para-preparar-betis-ceuta-este-jueves-20260929-547497.html",
-          "desc": "El centrocampista utrerano no se ha dejado ver en el entrenamiento de este martes, el primero después de las 'mini-vacaciones' que ha disfrutado la plantilla aprovechando el largo parón, antes de recibir al equipo de José Juan Romero este próximo jueves Se acabó el descanso. El largo parón liguero por los compromisos de las selecciones nacionales, que en esta primera 'Ventana FIFA' de la temporada 2026/2027 se extiende hasta las tres semanas, ha ofrecido tiempo para desconectar, para tomarse unas mini-vacaciones e incluso para trabajar lo suficiente para estar a tope para el regreso de la competición de clubes. En su caso, la plantilla del Real Betis ha vuelto al trabajo en la mañana de este martes, en una sesión en la Ciudad Deportiva Luis del Sol con la que Manuel Pellegrini ha comenzado a preparar el partido amistoso que su equipo disputará este próximo jueves ante la AD Ceuta para ayudar a la ciudad autónoma en los complicadísimos momentos que sufre desde la masiva avalancha migratoria de hace dos meses. Con este partido en el Estadio La Cartuja, el Real Betis romperá el larguísimo paréntesis de 21 días que van desde el empate ante el RC Deportivo de La Coruña del domingo 20 de septiembre hasta el duelo del 11 de octubre frente al CA Osasuna . De momento, la semana ha arrancado con la baja de Dani Ceballos , que ha protagonizado la más destacada de las 14 ausencias que ha contado la entidad de las Trece Barras en este regreso a las instalaciones deportivas de Los Bermejales. Diego Llorente y Marc Bartra aligeran la enfermería verdiblanca Para recibir al Ceuta, Pellegrini no podrá contar aún con Aitor Ruibal , que necesitará un poco más para volver a ejercitarse con el grupo y necesita tiempo para coger ritmo de competición después de estar cuatro meses parado tras su operación de menisco. Además, el técnico chileno está pendiente de la evolución de Diego Llorente , que se perdió los cuatro partidos previos al parón por una dolencia muscular sumada a la fractura nasal que sufrió contra el Real Madrid; pero ya se reintegró en el grupo desde hace dos sesiones. Ya superaste el lunes ✅ Restamos un día para que regrese la competición ✅ ✅ pic.twitter.com/bpocxAeVD4 &mdash; Real Betis Balompié 🌴💚 (@RealBetis) September 29, 2026 \\n \\n\\n\",\"proveedor\":4}\"> También acabó apartado del grupo Marc Bartra , aquejado de una leve sobrecarga en los isquiotibiales tras el último encuentro en Riazor que le ha obligado a seguir un plan de trabajo individualizado en pos de estar ya listo para cuando vuelva LaLiga. El central catalán también se ha dejado ver este martes, a pesar de que aún sigue arrastrando molestias en la zona afectada y la consigna es no correr riesgo alguno; especialmente teniendo en cuenta que tampoco está Diego Llorente. Los 11 jugadores internacionales del Betis dejan a Pellegrini con lo puesto para recibir al Ceuta Asimismo, como es lógico, tampoco estarán disponibles los 11 jugadores internacionales que se encuentran concentrados con sus respectivos combinados nacionales: los argentinos Valentín Gómez y Giovani Lo Celso -no se ha ejecitado este martes aunque no viajará a su país hasta el día 6-; el uruguayo Facundo Bernal , el marroquí Ez Abde , el mexicano Álvaro Fidalgo , el irlandés Troy Parrott , el dominicano Junior Firpo , los sub 21 españoles Ángel Ortiz y Manu González -promocionado tras la lesión del sevillista Fran González- y los sub 20 José Antonio Morante e Iván Corralejo , jugadores del filial que trabajan de manera asidua con el primer equipo. Troy Parrott, goleador en el encuentro de la UEFA Nations League 🌍 El delantero sumó un tanto en la victoria de @IrelandFootball frente a Israel (0-3) 🇮🇪 pic.twitter.com/EWzDNxLUvy &mdash; Real Betis Balompié 🌴💚 (@RealBetis) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\">",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-29T13:57:59+00:00"
         },
         {
           "title": "Ya hay precios para el Clásico del Spotify Camp Nou: no son asequibles",
@@ -213,9 +227,16 @@
           "fecha": "2026-09-29T15:47:34+02:00"
         },
         {
+          "title": "Ya hay precios para el Clásico: ¡desde 476 euros!",
+          "link": "https://www.marca.com/futbol/barcelona/2026/09/29/hay-precios-clasico-spotify-camp-nou-son-asequibles.html",
+          "desc": "El Barça ya ha puesto a la venta las primeras entradas, exclusivamente para socios",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-29T15:47:34+02:00"
+        },
+        {
           "title": "Decenas de activistas y el 'efecto Maricarmen' salvan a otra vecina de un desahucio junto a la acampada de Sol",
           "link": "https://www.eldiario.es/madrid/somos/decenas-activistas-efecto-maricarmen-salvan-vecina-desahucio-acampada-sol_1_13546545.html",
-          "desc": "El lanzamiento estaba previsto para este martes en Navas de Tolosa, una calle situada entre Sol y Gran Vía. Pero una marea humana ha expulsado a la Policía antes de anunciar la noticia: “¡Este desahucio lo hemos parado!” Hay muchas Maricarmen, algo que en los últimos días se ha repetido hasta la saciedad. Y el efecto dominó de su desahucio no solo ha movilizado a cientos de personas, reactivado una macroacampada en Sol e impulsado un decreto con su nombre en el último Consejo de Ministros: también ha blindado a otras como ella antes incluso de que algunos lanzamientos queden frenados por ley. El caso de Olga comenzó a moverse a media mañana. Es una mujer de 66 años que, como Maricarmen, vive de alquiler en el distrito Centro de Madrid. Hoy era el día en el que iban a desahuciarla de su piso, a pocos metros de la protesta y en el que vive sola, de alquiler. Primero corrió la voz entre las tiendas de campaña que, desde el sábado por la noche, plantan cara a la crisis por la vivienda desde la misma plaza que vio nacer el 15M. Pero, mientras muchos ojos seguían pendientes del acuerdo político que se negociaba en ese momento, otros tantos acudieron al número 5 en la calle Navas de Tolosa. Una marea humana acabó echando calle abajo a la Policía y, sobre las 12.30, se hizo oficial: “¡Este desahucio lo hemos parado!”. Minutos antes de esa escena, Raquel corría por la calle Preciados para llegar a tiempo al lanzamiento. “No sé qué ha pasado, lo estaban diciendo en la acampada”, contesta acelerada. Acaba de llegar de Barcelona y se ha ido directa a la Puerta del Sol: “Fui a celebrar el cumpleaños de mi hija, pero en cuanto terminamos cogí un tren de vuelta. Estuve en el 15M y ahora es aquí donde quiero estar”. Como ella, algunos comenzaron a abandonar sus tiendas ante el runrún de un desahucio que, en ese momento, estaba a punto de ejecutarse. Y en el camino, ya desde la esquina con calle Postigo, comienzan a oírse los cánticos. “¡Un desahucio, otra okupación!”. Raquel trató de abrirse paso entre decenas de personas que, en ese momento, ya estaban haciendo guardia frente al domicilio. Vista de la calle Navas de Tolosa desde la vivienda de la inquilina bajo amenaza de desahucio Varios agentes uniformados como antidisturbios formaron un cordón policial mientras asistía la comisión judicial. La tensión se volvió cada vez más palpable y las críticas a la actuación policial se intensificaron. Hasta que, en pleno cruce de reproches y una vez bajaron del edificio dos hombres vestidos de traje señalados por el gentío, todo se precipitó: los manifestantes comenzaron a avanzar calle abajo mientras, sin margen para continuar, los policías no tuvieron más remedio que retroceder varios metros atrás. “¡Vergüenza me daría ser policía!”, continuaban, hasta que la patrulla terminó disolviéndose ante el inminente anuncio de que el desahucio había sido aplazado hasta el próximo 14 de octubre, cuando se reanudará a las 9.30 de la mañana. Este periódico ha podido hablar con la vecina afectada, que padece EPOC (una enfermedad pulmonar) y otras enfermedades o condiciones sociales severas de las que de momento prefiere no hablar públicamente; al menos hasta que su abogado y los sindicatos le ayuden a trazar su estrategia. La vivienda en la que vive de alquiler fue comprada en 2004 por el fondo Brick SA, tal y como ha podido constatar Somos Madrid. Según relata la vecina, que tampoco ha detallado cuánto paga de alquiler, desde entonces ha vivido otro intento de desahucio --el año pasado, siempre en base a su testimonio-- y durante un tiempo tuvo que ser trasladada a otro piso de la misma empresa, en un traslado temporal por una rotura de techo en el apartamento que ella alquila. También pasó tres meses en un albergue de Samur Social, y fue precisamente al solicitar un informe de vulnerabilidad que la protega ante el desahucio cuando conoció a una de las asistentes a la manifestación de Sol. “Me avisó de que iban a desahuciarla hoy y empezamos a correr la voz por la acampada. Aún no me lo creo, pero esta es la prueba de que la presión ciudadana sirve”, relata ella misma. Es Noelia, la misma joven que anunció una denuncia contra el agitador Bertrand Ndongo por llevar un spray pimienta durante una visita a la protesta. El primer intento de desahucio contra la vecina en Navas de Tolosa 5 fue el 28 de abril, el mismo día del apagón. A la espera de novedades sobre el contenido de los decretos anunciados por el Gobierno, desde el Sindicato de Inquilinas de Madrid y el Sindicato de Vivienda de Tetuán (ambos con representantes presentes durante el desahucio) llaman a acudir de nuevo en la mañana del 14 de agosto: “No nos olvidemos de las otras Maricarmen”. Apoya el trabajo periodístico de Somos Madrid Esta información ha podido salir a la luz gracias a las personas que apoyan la edición local de Madrid en elDiario.es. Si tú también quieres y puedes hacerlo, hazte socia, hazte socio y contribuye a sostener nuestro trabajo diario y a publicar exclusivas que cambien las cosas. Si ya tienes una suscripción, puedes hacer una aportación extra a la sección local de Madrid para apoyar las informaciones de proximidad, sobre lo que importa en el día a día de los habitantes de esta ciudad: para hacerlo, entra en el apartado de 'tu cuota' en tu perfil privado . Tu ayuda al periodismo local es importante.",
+          "desc": "El lanzamiento estaba previsto para este martes en Navas de Tolosa, una calle situada entre Sol y Gran Vía. Pero una marea humana ha expulsado a la Policía antes de anunciar la noticia: “¡Este desahucio lo hemos parado!” Hay muchas Maricarmen, algo que en los últimos días se ha repetido hasta la saciedad. Y el efecto dominó de su desahucio no solo ha movilizado a cientos de personas, reactivado una macroacampada en Sol e impulsado un decreto con su nombre en el último Consejo de Ministros: también ha blindado a más como ella antes incluso de que algunos lanzamientos queden frenados por ley. El caso de otra vecina comenzó a moverse a media mañana. Es una mujer de 66 años que, como Maricarmen, vive sola y de alquiler, esta vez en el distrito Centro de Madrid. Hoy era el día en el que iban a desahuciarla de su piso, a pocos metros de la protesta. Primero corrió la voz entre las tiendas de campaña que, desde el sábado por la noche, plantan cara a la crisis por la vivienda en la misma plaza que vio nacer el 15M. Pero, mientras muchos ojos seguían pendientes del acuerdo político que se negociaba en ese momento, otros tantos acudieron al número 5 en la calle Navas de Tolosa. Una marea humana acabó echando calle abajo a la Policía y, sobre las 12.30, se hizo oficial: “¡Este desahucio lo hemos parado!”. Minutos antes de esa escena, Raquel corría por la calle Preciados para llegar a tiempo al lanzamiento. “No sé qué ha pasado, lo estaban diciendo en la acampada”, contesta acelerada. Acaba de llegar de Barcelona y se ha ido directa a la Puerta del Sol: “Fui a celebrar el cumpleaños de mi hija, pero en cuanto terminamos cogí un tren de vuelta. Estuve en el 15M y ahora es aquí donde quiero estar”. Como ella, algunos comenzaron a abandonar sus tiendas ante el runrún de un desahucio que, en ese momento, estaba a punto de ejecutarse. Y en el camino, ya desde la esquina con calle Postigo, comienzan a oírse los cánticos. “¡Un desahucio, otra okupación!”. Raquel trató de abrirse paso entre decenas de personas que, en ese momento, ya estaban haciendo guardia frente al domicilio. Vista de la calle Navas de Tolosa desde la vivienda de la inquilina bajo amenaza de desahucio Varios agentes uniformados como antidisturbios formaron un cordón policial mientras asistía la comisión, un grupo de funcionarios enviado desde el Juzgado para ejecutar formalmente el desahucio. La tensión se volvió cada vez más palpable y se intensificaron las críticas a la actuación de la Policía hasta que bajaron del edificio dos hombres vestidos de traje, señalados por el gentío en pleno cruce de reproches. Y todo se precipitó: los manifestantes comenzaron a avanzar calle abajo mientras, sin margen para continuar, los policías no tuvieron más remedio que retroceder varios metros atrás. “¡Vergüenza me daría ser policía!”, continuaba la multitud, hasta que la patrulla terminó disolviéndose ante el inminente anuncio de que el desahucio era aplazado hasta el próximo 14 de octubre. Se reanudará a las 9.30 de la mañana. Este periódico ha podido hablar con la vecina afectada, que padece EPOC (una enfermedad pulmonar) y otras enfermedades o condiciones sociales severas de las que de momento prefiere no hablar públicamente; al menos hasta que su abogado y los sindicatos le ayuden a trazar su estrategia. La vivienda en la que vive de alquiler fue comprada en 2004 por el fondo Brick SA, tal y como ha podido constatar Somos Madrid. Según relata la vecina, que tampoco ha detallado cuánto paga de alquiler, desde entonces ha vivido otro intento de desahucio --el año pasado, siempre en base a su testimonio-- y durante un tiempo tuvo que ser trasladada a otro piso de la misma empresa, en un traslado temporal por una rotura de techo en el apartamento que ella alquila. También pasó tres meses en un albergue de Samur Social, y fue precisamente al solicitar un informe de vulnerabilidad que la protega ante el desahucio cuando conoció a una de las asistentes a la manifestación de Sol. “Me avisó de que iban a desahuciarla hoy y empezamos a correr la voz por la acampada. Aún no me lo creo, pero esta es la prueba de que la presión ciudadana sirve”, relata ella misma. Es Noelia, la misma joven que anunció una denuncia contra el agitador Bertrand Ndongo por llevar un spray pimienta durante una visita a la protesta. El primer intento de desahucio contra la vecina en Navas de Tolosa 5 fue el 28 de abril, el mismo día del apagón. A la espera de novedades sobre el contenido de los decretos anunciados por el Gobierno, desde el Sindicato de Inquilinas de Madrid y el Sindicato de Vivienda de Tetuán (ambos con representantes presentes durante el desahucio) llaman a acudir de nuevo en la mañana del 14 de agosto: “No nos olvidemos de las otras Maricarmen”. Apoya el trabajo periodístico de Somos Madrid Esta información ha podido salir a la luz gracias a las personas que apoyan la edición local de Madrid en elDiario.es. Si tú también quieres y puedes hacerlo, hazte socia, hazte socio y contribuye a sostener nuestro trabajo diario y a publicar exclusivas que cambien las cosas. Si ya tienes una suscripción, puedes hacer una aportación extra a la sección local de Madrid para apoyar las informaciones de proximidad, sobre lo que importa en el día a día de los habitantes de esta ciudad: para hacerlo, entra en el apartado de 'tu cuota' en tu perfil privado . Tu ayuda al periodismo local es importante.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-29T13:06:22+00:00"
         },
@@ -327,30 +348,9 @@
         {
           "title": "El Ayuntamiento de Sevilla acoge la Copa del Mundial de fútbol este miércoles: horario para ver (y hacerse la foto) con el trofeo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkRYdDN3ZHEwR0VYWGdUSWFfT3Zvd0k0TE80amlFM045R0dTeUw2b3BHaXgyVXJRTVJ1ekJESkFNcm5qa3UySTY3N1YtNjRuRmpEVlVnZTIwWTRtY2tlaVJscUd5SlFoNjZYeXdQWFc5bGU1eVo3NEQ3Vzd2cjVOV05ucFpQQUJNYklLelczNlZaYV94d0dlN2FkZDAzVGpQU3k4LU42NzdqcG9scHlQcVpGNUlJWlk?oc=5",
-          "desc": "El Ayuntamiento de Sevilla acoge la Copa del Mundial de fútbol este miércoles: horario para ver (y hacerse la foto) con el trofeo Diario de Sevilla",
+          "desc": "El Ayuntamiento de Sevilla acoge la Copa del Mundial de fútbol este miércoles: horario para ver (y hacerse la foto) con el trofeo diariodesevilla.es",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:42:02+00:00"
-        },
-        {
-          "title": "Regresa Juan Foyth y el Villarreal de Iñigo Pérez ya solo tiene un lesionado",
-          "link": "https://www.estadiodeportivo.com/futbol/villarreal/regresa-juan-foyth-villarreal-inigo-perez-solo-tiene-lesionado-20260929-547506.html",
-          "desc": "El defensa argentino completa parte del entrenamiento con sus compañeros durante el parón internacional y encara la recta final de su recuperación Buenas noticias para el Villarreal en el ecuador del parón de selecciones. Juan Foyth ha vuelto a trabajar con el grupo después de varias semanas apartado por sus problemas musculares, por lo que Santi Comesaña es el único que continúa al margen por la lesión que arrastra en el tobillo izquierdo . De esta forma, Iñigo Pérez ya solo tiene un futbolista lesionado en la primera plantilla a la espera de que el argentino complete su puesta a punto. La reincorporación de Foyth supone un paso importante pensando en el regreso de LaLiga . El Villarreal volverá a competir el próximo 10 de octubre con una exigente visita al Real Madrid en el Santiago Bernabéu, un encuentro para el que el técnico amarillo espera recuperar al mayor número posible de efectivos. Lunes ✅ pic.twitter.com/8OzkzQOMO8 &mdash; Villarreal CF (@VillarrealCF) September 28, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Foyth vuelve a trabajar con sus compañeros El defensa argentino se ejercita ya junto al resto de la plantilla después de haberse quedado en Vila-real durante el parón internacional. Foyth había sido incluido inicialmente en la convocatoria de Argentina , pero finalmente no acudió a la concentración al no encontrarse todavía completamente recuperado de sus problemas musculares. El futbolista optó por continuar con su recuperación en la localidad castellonense y aprovechar estos días para avanzar en su puesta a punto . La decisión ha dado sus frutos y ya ha podido reincorporarse al trabajo colectivo. El argentino llevaba cerca de un mes de baja y su regreso supone una noticia especialmente positiva para Iñigo Pérez. El defensa había comenzado la temporada con protagonismo y, si mantiene esta evolución durante los próximos entrenamientos, podría estar disponible para el duelo contra el Real Madrid. Ahora bien, todavía deberá completar las siguientes sesiones sin molestias y recuperar progresivamente el ritmo competitivo antes de que el cuerpo técnico determine si está en condiciones de volver a jugar. Comesaña, único lesionado de la plantilla La situación de Santi Comesaña es diferente. El centrocampista continúa trabajando al margen del grupo mientras se recupera de la lesión en el tobillo izquierdo que sufrió el pasado 17 de septiembre. Comesaña sigue inmerso en su proceso de recuperación y su presencia ante el Real Madrid todavía no está asegurada. El centrocampista deberá esperar a los próximos días para comprobar cómo evoluciona su dolencia y cuándo puede comenzar a reincorporarse progresivamente al trabajo con sus compañeros. El cuerpo técnico no quiere acelerar los plazos y será la evolución de la lesión la que determine cuándo puede estar nuevamente a disposición de Iñigo Pérez. Un parón con muchos internacionales El regreso de Foyth cobra todavía más importancia teniendo en cuenta que el Villarreal está afrontando este parón con una plantilla muy reducida. Hasta trece futbolistas del primer equipo han sido llamados por sus respectivas selecciones: Logan Costa, Alex Freeman, Renato Veiga, Santiago Mouriño, Ilias Akhomach, Carlos Macià, Tajon Buchanan, Pape Gueye, Nathan-Dylan Saliba, Georges Mikautadze, Nicolas Pépé y Tani Oluwaseyi . A ellos se suman varios jugadores del filial que están completando las sesiones para permitir al cuerpo técnico mantener el ritmo de trabajo. En este contexto, la vuelta de Foyth permite a Iñigo Pérez recuperar un efectivo para los entrenamientos y, sobre todo, empezar a vislumbrar un regreso a la competición con una enfermería prácticamente vacía. El objetivo, llegar al Bernabéu con todos los efectivos El Villarreal tendrá ahora varios días por delante para continuar preparando el regreso de LaLiga. El equipo afrontará el 10 de octubre una de las pruebas más exigentes de la temporada ante el Real Madrid. Foyth encara la recta final de su recuperación y Comesaña sigue siendo el único jugador de la primera plantilla que permanece lesionado. El objetivo del cuerpo técnico pasa ahora por no forzar ninguna recuperación y comprobar durante las próximas sesiones quién puede llegar en condiciones al Santiago Bernabéu.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-29T11:39:59+00:00"
-        },
-        {
-          "title": "El Barça, en alerta: Raphinha, sustituido con Brasil por molestias musculares en la pierna derecha",
-          "link": "https://www.marca.com/futbol/barcelona/2026/09/29/raphinha-sustituido-brasil-molestias-musculares.html",
-          "desc": "El azulgrana no pudo continuar el partido amistoso contra Australia",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-29T13:38:47+02:00"
-        },
-        {
-          "title": "Cambios en la cúpula del Barça",
-          "link": "https://www.marca.com/futbol/barcelona/2026/09/29/cambios-cupula-barca.html",
-          "desc": "Manel Del Río, director general desde hace justo un año, deja la entidad",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-09-29T13:35:32+02:00"
         }
       ]
     },
@@ -359,60 +359,60 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "F1 Business Summit adds new Las Vegas speakers",
+          "link": "https://www.formula1.com/en/latest/article/f1-business-summit-adds-haas-boss-komatsu-gordon-ramsay-and-russell-wilson.7bjK395TdRilEl7AorqYMG",
+          "desc": "The F1 Business Summit returns on 19 November at Caesars Palace, with Haas Team Principal Ayao Komatsu, Gordon Ramsay and Russell Wilson among the speakers.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
+        },
+        {
           "title": "Why Alonso has re-signed with Aston Martin",
           "link": "https://www.formula1.com/en/latest/article/analysis-why-alonso-is-staying-at-aston-martin-and-what-it-means-for-the-2027-grid.2b7yrPKHBN8kcLMJy5PbFa",
           "desc": "Fernando Alonso's love affair with Formula 1 will continue as the Spaniard has opted to stick around for at least another year with Aston Martin.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "Aston Martin keep Alonso and Stroll for 2027",
           "link": "https://www.formula1.com/en/latest/article/alonso-and-stroll-to-stay-at-aston-martin-in-2027-as-team-confirm-unchanged-line-up.7xg2Sct45vzW92UaiE8YXR",
           "desc": "Fernando Alonso says 'racing is my life' as he and Lance Stroll extend their Aston Martin contracts, leaving four seats to fill on the 2027 grid.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "BARRETTO: Why Ferrari have moved to shield Vasseur",
           "link": "https://www.formula1.com/en/latest/article/ferrari-move-to-end-speculation-over-vasseurs-future-amid-horner-speculation-plus-barretto-analysis.5vNkTkDQSbhS9Pnh8mulTm",
           "desc": "Ferrari confirm they have faith in Team Principal Fred Vasseur after Christian Horner named the Scuderia his 'dream' destination.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "Binotto wants Slater in an F1 seat in the near future",
           "link": "https://www.formula1.com/en/latest/article/binotto-wants-slater-in-an-f1-seat-in-the-near-future.IzNhz498XCeJkBpKaTPPG",
           "desc": "Audi CEO Mattia Binotto has made no secret of his plans for Freddie Slater, stating in Azerbaijan that he wants the youngster “into an F1 seat” in the near future.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "How Hadjar cleverly handled his comeback to claim a podium in Baku",
           "link": "https://www.formula1.com/en/latest/article/how-hadjar-cleverly-handled-his-comeback-to-claim-a-podium-in-baku.6e5PnWMLxKo38Bj0iVBRRg",
           "desc": "IndyCar race winner and F1 TV analyst James Hinchcliffe explains what was so impressive about Hadjar's racing return in Azerbaijan after three Grands Prix on the sidelines.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "PALMER: Why George Russell’s Baku win was so impressive",
           "link": "https://www.formula1.com/en/latest/article/why-russells-baku-win-was-so-impressive.4DjGxjpyh7WxwnhjmZfk7H",
           "desc": "Former Renault F1 driver and F1 TV analyst Jolyon Palmer explores the details behind George Russell's victory in Azerbaijan.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "Perez reflects on 'one of my best weekends'",
           "link": "https://www.formula1.com/en/latest/article/one-of-my-best-weekends-perez-reflects-on-return-to-form-despite-missing-out-on-points.hPrfr5yj1t7STWELMeJlI",
           "desc": "Sergio Perez believes his performance in the Azerbaijan Grand Prix was \"one of my best weekends\" in Formula 1, despite failing to reach the points for Cadillac.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
-        },
-        {
-          "title": "Sainz and Albon evaluate Williams’ Baku upgrades",
-          "link": "https://www.formula1.com/en/latest/article/were-going-to-need-more-if-we-want-to-fight-sainz-and-albon-evaluate-williams-baku-upgrades.3NtXUGpgq3CTGpopkeYtFe",
-          "desc": "Carlos Sainz and Alex Albon have given their verdict on Williams’ major upgrade package that debuted at the Azerbaijan Grand Prix.",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-29T14:00:03.705500+00:00"
+          "fecha": "2026-09-29T14:30:07.933191+00:00"
         },
         {
           "title": "El escritor, editor y gestor Samuel Alonso, nuevo director de la Feria del Libro de Madrid",
@@ -522,7 +522,7 @@
         {
           "title": "La alianza Alonso-Verstappen que puede cambiar la F1 en 2027",
           "link": "https://www.marca.com/motor/formula1/gp-bahrein/2026/09/29/alianza-alonso-verstappen-cambiar-f1-2027.html",
-          "desc": "Red Bull y Max dispuestos a apoyar la postura del asturiano para cambiar la entrega de potencia eléctrica, no sólo en calificación",
+          "desc": "El piloto madrileño, previo a hablar con los comisarios de carrera, se mostro pesimista sobre su encuentro con Hamilton",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-09-29T06:29:56+02:00"
         }
@@ -533,9 +533,30 @@
       "icono": "💻",
       "items": [
         {
+          "title": "NVIDIA DLSS funciona en las Radeon RX 7000",
+          "link": "https://www.muycomputer.com/2026/09/29/nvidia-dlss-funciona-en-las-radeon-rx-7000/",
+          "desc": "El ecosistema de tecnologías que integra NVIDIA DLSS es exclusivo de las GeForce RTX 20 y superiores, pero un modder ha logrado hacerlo funcionar en las Radeon RX 7000, basadas en la arquitectura RDNA 3. Es un logro importante que, como habréis podido imaginar, ha requerido bastante trabajo. Para lograr que NVIDIA DLSS funcione en […] La entrada NVIDIA DLSS funciona en las Radeon RX 7000 se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-29T14:01:58+00:00"
+        },
+        {
+          "title": "El Castellón hace historia en la liga española",
+          "link": "https://www.estadiodeportivo.com/futbol/castellon/castellon-hace-historia-liga-espanola-20260929-547518.html",
+          "desc": "El equipo de Pablo Hernández sigue manteniéndose en la cúspide de LaLiga Hypermotion después de siete jornadas disputadas. Y con sus números ha igualado un récord y ha escrito una página dorada en sus anales Sólo el FC Barcelona de Hansi Flick puede presumir a estas alturas de la temporada tener mejores números que el Castellón de Pablo Hernández. Los albinegros asaltaron Butarque este pasado lunes para cerrar la séptima jornada en LaLiga Hypermotion y se mantiene invicto, con seis victorias y un empate, y con sólo 2 goles en contra por los 14 que ha conseguido anotar ya. Pero lo que es mejor aún, con este triunfo ante el Leganés, el cuadro castellonense no sólo ha recuperado el liderato sino que, además, lo ha hecho igualando un récord y escribiendo una página dorada en su historia. Concreatamente, los levantinos han firmado el mejor comienzo de un equipo en Segunda desde que el Elche lograra idénticos números hace 14 años. Y, por ende, han sellado el mejor inicio de sus 104 años de historia. Los albinegros han ganado cuatro partidos como visitante y ya encadenan cinco triunfos consecutivos. Además, el conjunto castellonense tiene una ventaja de 7 puntos sobre el séptimo (que marca quedarse fuera de la promoción de ascenso) y de 4 sobre el tercero (que marca quedarse fuera del ascenso directo). El Elche, el último precedente El último equipo que consiguió 19 de los 21 primeros puntos, como ha hecho el Castellón, fue el Elche hace 14 años y el cuadro ilicitano consiguió el ascenso a Primera división , objetivo que persigue el conjunto orellut que no está en la máxima categoría desde hace más de 35 años. El meta albinegro, Romain Matthys, es el portero que menos goles ha recibido, solo 2 tras jugar los 630 minutos que transcurren de liga y, además, el Castellón es el segundo equipo más goleador con 14 tantos, solo superado por el Eibar que ha marcado un gol más. El Castellón asalta también Butarque y Morata sigue gafado en el Leganés Un Castellón que logra igualar su mejor inicio de la historia que data de la temporada 1971-1972, cuando ascendió a Primera división y, como ahora, ganó seis partidos y empató uno, pero marcó un gol menos en esas primeras siete jornadas. Y una de las razones de este indudable éxito es lo repartido que está el gol en esta plantilla. Sir más lejos, ante el cuadro pepinero fue el centrocampista Israel Suero quien anotó su segundo gol de la temporada para abrir la lata frente al conjunto madrileño. Cabe recordar que fue Suero quien cerró hace dos semanas el triunfo de los albinegros ante el Albacete . Esta vez, demostró todo el inmenso talento que atesora al resolver a los venticuatro minutos con un sutil toque un fallido despeje del portero del Leganés fuera del área.El tanto de la sentencia llegaría por mediación del delantero danés Adam Jakobsen en la segunda parte, quien se estrenó como goleador en la presente temporada al culminar con un disparo cruzado desde el interior del área una gran acción individual. Pablo Hernández, técnico del Castellón, valora el cierre del mercado: \"Se ha quedado una plantilla muy competitiva\" No obstante, el máximo goleador del equipo sigue siendo Ousmane Camara, quien ya suma cuatro dianas y está a sólo una del máximo artillero de la Categoría de Plata, Enric Gallego (Tenerife).",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T14:01:43+00:00"
+        },
+        {
+          "title": "‘Madrina de la IA’ se une a AMD en un acuerdo de US$8.200 millones",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlAyY0llNXFjQk1KT05rbXVjcHI2SHBUUUR2WkFmSnAzVld0V0pXeG5nc09TUDR4MHY3UHpPSnp1R21uaDU0QWxQU1R2ZHljd0RjUDZIbzN0R1MzMUpQbEVnZHhpUEhvbEg4ZU5lanZRM1RnWHFUTllTbmY1YlF0ZEM4TGFVdHIwUUdYNGx5cnJvR21nYUk0a05XaUZnU3V6OGZpT0pNcjY1eGc?oc=5",
+          "desc": "‘Madrina de la IA’ se une a AMD en un acuerdo de US$8.200 millones Forbes Perú",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T14:01:25+00:00"
+        },
+        {
           "title": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3Z2YXRlVUNSdEp4OVR0MU9lWnlQNmRwYmtkU3dWcmlTX3lxZnhJYWVkWEY5dmR0NTh2RllYdWZ4Rjk4ZGxTT0g0MGpPZkNFY291Xy1vUm9OY1FLSVMxVERyTlJKZ0EwRURoTDRORElyc0dzUWhSMUQ0cHdZeDdlN05hUTBBTlR3R0VsQmpVNW5iWW5sRlJiWkZZbzNCUnE0SkRxV3dnZ1o4MzhHOGJvaFNPQkttd28?oc=5",
-          "desc": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD Fanáticos del Hardware",
+          "desc": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD fanaticosdelhardware.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T13:45:14+00:00"
         },
@@ -654,7 +675,7 @@
         {
           "title": "Nvidia asegura que su nueva solución pudo haber detenido ataque Hugging Face",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTVsTjZIajl2YWRDRmVpVW1OclFTaUxZT1VKU0VEaTlOOGszellFUklhc01fY2FsLU12MzdlQjVpdldzRFg5clc5SWdrUXBVcW9PTkkwcXlSRDRLU1h0WVZJVTlaVUd3V25tNWx0cW5EVzRicExybDg1UUtDTWstbFdnYmRDOU83S0x3ZEx5Tk5KWGhqam9RUnY0d0Nudw?oc=5",
-          "desc": "Nvidia asegura que su nueva solución pudo haber detenido ataque Hugging Face dplnews.com",
+          "desc": "Nvidia asegura que su nueva solución pudo haber detenido ataque Hugging Face DPL News",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:59:18+00:00"
         },
@@ -678,27 +699,6 @@
           "desc": "Nvidia lanza una nueva plataforma de seguridad y afirma que puede evitar que los agentes de IA se descontrolen Forbes Chile",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:49:10+00:00"
-        },
-        {
-          "title": "El Galaxy S27 Ultra mejorará sus cámaras traseras con estos tres cambios",
-          "link": "https://www.muycomputer.com/2026/09/29/el-galaxy-s27-ultra-mejorara-sus-camaras-traseras-con-estos-tres-cambios/",
-          "desc": "Ayer vimos el que será, en teoría, el diseño final del Galaxy S27 Ultra, un diseño que ha generado mucha polémica por su parecido con el iPhone 18 Pro Max de Apple, y hoy tenemos nueva información sobre las mejoras que Samsung podría integrar en las cámaras de su próximo smartphone tope de gama. Las […] La entrada El Galaxy S27 Ultra mejorará sus cámaras traseras con estos tres cambios se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-29T11:47:02+00:00"
-        },
-        {
-          "title": "AMD compró por 8.200 millones de dólares el laboratorio de IA de Fei-Fei Li",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXV2djlYQ3h1MG14Y1pEbndYREZPV2VUWjdCNE0zSHN6TzZhYXh4cVo4Unpsa3JyZGtmSnN1cWRMRjJVZl96M3RtbjdaS0NUcDd2eFRfUW1ZNnhzOUJmd0RTRnhiZWttM1BKaGh0TVVDVWVIVC1WQkQxWm9RUGF5TFZqVmRoN2czd2FKbW90NVRTM1Z0X01yRWxhbHZfT2h0eFU1ak9FWmVQS0RqbjVDRGFGSVdTWHfSAdIBQVVfeXFMTWFTZF90TDRCaXNuc1FWMmNYTzhtWFdSWGd3RVRLYXZNSkF6N3pqbktPVW1pX2RSQ2VkU3RmODhGV1VTVnBBcmlEVU9SRmhEZDJUVUhOYXNlbFVjNDVkM2szdVh3YmFZa2ZlYVQ4VHNRb0tjeVl6RDhyMVJUZjE0cXJtNkNXeU53YUtJell0OGQ2R3Y5dEczaGZzTHlLc0hWNE16MldMOHBzdDNac0M3STdLOWFfRUtKY3hNaFBnNVBFbnVOTTdVbkhGWlVsczMzU1hn?oc=5",
-          "desc": "AMD compró por 8.200 millones de dólares el laboratorio de IA de Fei-Fei Li Infobae",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T11:46:25+00:00"
-        },
-        {
-          "title": "The Witcher 3 Remastered en Switch 2 vs Steam Deck: comparan la nueva versión en las dos portátiles",
-          "link": "https://vandal.elespanol.com/noticia/2026272024/the-witcher-3-wild-hunt-remastered-en-switch-2-vs-steam-deck-comparan-la-nueva-version-en-las-dos-portatiles/",
-          "desc": "The Witcher 3: Wild Hunt - Remastered, la versión mejorada de The Witcher 3, llega a consolas y PC. Una comparativa nos muestra cómo se ve en Switch 2 y Steam Deck. The Witcher 3: Wild Hunt - Remastered se estrena en consolas y PC como una actualización gratuita, con numerosas mejoras en gráficos y gameplay que os contamos en nuestro análisis . Una comparativa pone frente a frente la versión de Nintendo Switch 2 y Steam Deck . El salto visual entre Nintendo Switch y Switch 2 es más que evidente , pero quizás muchos jugadores estén interesados en ver la diferencia entre Switch 2 y el PC consolizado portátil más popular, Steam Deck . Sea cual sea tu portátil tendrás una buena experiencia El canal ElAnalistaDeBits ha comparado estas versiones de The Witcher 3: Wild Hunt - Remastered utilizando la configuración preestablecida por CD Projekt para Steam Deck , y el resultado es que en ambos casos tendremos una buena experiencia con uno de los RPG más influyentes de la última década. En el caso de la consola de Nintendo se alcanza un máximo de 40 fps en mmodo portátil y pantallas compatibles con 120 Hz. En Steam Deck el framerate está desbloqueado y eso permite que funcione a más imágenes por segundo -en general entre 40 y 50 fps-. A cambio la resolución y ajustes en la portátil de Valve son algo inferiores a Switch 2 . La conclusión por tanto es que sea cual sea tu plataforma, The Witcher 3 se jugará estupendamente y sin grandes sacrificios respecto a versiones domésticas. \"Las mejoras gráficas hacen que esta nueva versión no tenga nada que envidiar a un lanzamiento de 2026 en lo audiovisual, las nuevas animaciones, los retoques en el combate , los ajustes en los árboles de habilidades y otros pequeños añadidos para mejorar las posibilidades y la calidad del juego en general hacen que sea la versión más redonda del mejor título de rol y acción de la década\", concluimos en nuestra opinión de Remastered, que también trae mejoras en la jugabilidad y comodidad.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-09-29T11:38:00+00:00"
         }
       ]
     },
@@ -706,6 +706,20 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "El Celta echa de menos a Borja Iglesias: la pieza de Giráldez que va mucho más allá del gol",
+          "link": "https://www.estadiodeportivo.com/futbol/celta/celta-echa-menos-borja-iglesias-pieza-giraldez-que-mucho-mas-alla-del-gol-20260929-547520.html",
+          "desc": "El delantero gallego apenas ha podido participar en este inicio de temporada por una lesión muscular y acumula 48 minutos en LaLiga, pero sus 27 minutos ante el Racing volvieron a demostrar por qué es una pieza estratégica para el Celta más allá de sus goles El fútbol son goles, pero hay delanteros que aportan mucho más sobre el césped. Eso es lo que le pasa al Celta de Vigo con Borja Iglesias y por lo que el club gallego necesita recuperar al 'Panda' cuanto antes. Lo necesita por sus goles, evidentemente, pero también por todo lo que aporta cuando está sobre el terreno de juego. Claudio Giráldez tiene en el delantero santiagués una pieza importante para su manera de entender el fútbol y su ausencia en este arranque de temporada se está haciendo notar. El campeón del mundo ha tenido muy pocos minutos en las primeras jornadas del campeonato. Entre la incorporación tardía a los entrenamientos tras el Mundial y una lesión muscular que frenó su preparación, solo ha podido disputar 48 minutos en LaLiga, además de los 12 que jugó en el encuentro europeo frente al Omonia de Nicosia. El Celta, mientras tanto, espera recuperar cuanto antes a uno de sus principales argumentos ofensivos. Porque Borja Iglesias no solo está para rematar. Su capacidad para jugar de espaldas, aguantar la pelota, descargar y dar continuidad a las jugadas ofrece a sus compañeros una alternativa especialmente importante ante determinados escenarios. Borja Iglesias, sincero con La Bola Negra de los Javis: \"Gente llorando, respiraciones cortadas, miedo\" El desagradable aviso a Borja Iglesias, jugador del Celta de Vigo: \"El día que te den un susto nos reiremos todos\" Eso fue lo que volvió a comprobarse en la última jornada ante el Racing de Santander . Borja Iglesias entró al campo y disputó 27 minutos que cambiaron la cara del conjunto celeste. No necesitó rematar a portería para convertirse en uno de los jugadores más destacados del Celta y ayudar a desencadenar la goleada. El Celta echa de menos sus goles y algo más Los números de las dos últimas temporadas explican parte de la importancia del ex del Betis. Borja Iglesias ha sido el máximo goleador del Celta en ambas campañas, con 25 tantos en LaLiga: 14 el pasado curso y 11 en el anterior. A ellos añadió otros cuatro entre Copa del Rey y competición europea, además de siete asistencias entre el torneo doméstico y Europa. Y a estas alturas de las dos temporadas anteriores ya había dejado una huella importante. El pasado curso había participado en los siete primeros partidos de Liga, tres de ellos como titular, acumulando 347 minutos y cuatro goles. Marcó ante Villarreal, Girona, Rayo Vallecano y Elche, tantos que terminaron significando tres puntos al Celta en un inicio marcado por una sucesión de empates. Un año antes, en su regreso al conjunto vigués, también tuvo un impacto inmediato. Disputó igualmente siete partidos, cuatro como titular, para un total de 441 minutos y tres goles, ante Villarreal, Osasuna y Valladolid. La última polémica de Borja Iglesias, jugador del Celta de Vigo: \"Un poquito de homofobia para empezar el sábado\" Esta vez la historia está siendo diferente. Su preparación se vio condicionada desde el principio y una rotura miofascial del sóleo izquierdo terminó retrasando todavía más su puesta a punto. Debutó en Getafe con 21 minutos, aunque las molestias volvieron a dejarle fuera de la convocatoria ante el Málaga. Frente al Racing volvió a tener minutos. Y esa actuación sirvió para recordar al Celta lo que puede ofrecer cuando está cerca de su mejor versión. \"Nos faltan jugadores importantes para atacar bloques bajos, como Iago, Borja o Aleix, que nos pueden dar soluciones que ahora mismo no tenemos\", reconocía el propio Claudio Giráldez. Sobre el delantero, además, fue claro: \"Borja no está para jugar más de 45 minutos\". El parón de selecciones le debe venir bien al 'Panda'. Al no haber sido convocado por Luis de la Fuente, está teniendo varias semanas para continuar con su preparación y tratar de acercarse progresivamente a su mejor nivel. El objetivo pasa por que pueda llegar en mejores condiciones a los próximos partidos, con el duelo ante el Elche en el horizonte y la posterior visita de la Juventus de Turín a Balaídos .",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T14:19:56+00:00"
+        },
+        {
+          "title": "Davidovich desvela el secreto de su segundo título en la ATP: \"Me hizo soltar la mala energía que tenía y ya sé como lidiar con la presión en los momentos ajustados\"",
+          "link": "https://www.estadiodeportivo.com/tenis/davidovich-desvela-secreto-segundo-titulo-atp-hizo-soltar-mala-energia-que-tenia-como-lidiar-con-presion-los-momentos-ajustados-20260929-547522.html",
+          "desc": "El tenista malagueño ha salido del pozo en el que se encontraba entre las lesiones y los resultados de la mejor manera, conquistando un nuevo trofeo para sus vitrinas El tenista español Alejandro Davidovich ganó el torneo ATP 250 de Chengdú (China), que se disputa sobre pista dura, al vencer en la final al polaco Hubert Hurkacz por 6-4, 7-6(7) en el primer abierto de la gira asiática para él, cuya presencia también está confirmada en el ATP 500 de Tokio que empieza este miércoles. Sucede en el palmarés al chileno Alejandro Tabilo , que se impuso en la edición de 2025 al derrotar al italiano Lorenzo Musetti en la final. Es el segundo español en hacerse con el título tras Pablo Carreño, en 2019. Para Davidovich, es su segundo título ATP, después del que sumó en Mallorca en el mes de junio, y lo consigue en su primer torneo después de meses de baja por molestias en la espalda. Ambos tenistas habían necesitado disputar tres sets, remontando el primero, en sus respectivos encuentros de semifinales, disputados este lunes. Davidovich superó al georgiano Nikoloz Basilashvili por 4-6, 6-4, 6-3, mientras que Hurkacz hizo lo mismo contra el canadiense Denis Shapovalov (6-7, 6-3, 6-3). Los precedentes favorecían al español, número 28 del mundo, que se había impuesto en cuatro de los seis enfrentamientos previos entre estos dos tenistas. Davidovich salió agresivo al resto en el primer juego, forzando tres puntos de rotura que, sin embargo, no pudo aprovechar. Hurkacz, que ocupa el puesto 41 en la clasificación de la ATP, sostuvo su rendimiento a base de potentes saques. La rotura de servicio llegó en el séptimo juego, y fue a favor del español. En su siguiente turno de saque, Davidovich consolidó la rotura con un 'ace' para ponerse 5-3 y dejar encarrilado el primer set (6-4).A pesar de los ocho saques directos con los que el polaco terminó la manga inicial, le lastraban sus 14 errores no forzados. En el segundo set, Hurkacz estuvo más equilibrado, defendiendo su servicio con más solvencia, pero muy perjudicado por sus propios errores. Davidovich no quiere ser menos que Carlos Alcaraz ni Rafa Jódar , con 5-5 en el marcador, en el que Davidovich se puso 40-15, con dos opciones para romper el servicio de su rival. No lo consiguió a la primera, ni tampoco a la segunda, gracias a los 'aces' de Hurkacz, que salvó su turno de saque milagrosamente para él.A continuación, al servicio, el español llevó el segundo set al desempate, que podía ser definitivo si lo conquistaba. En el sexto punto, el polaco consiguió un 'mini break' que consolidó su sensación de dominio durante el 'tie break'. Dispuso de tres bolas de 'set' con 6-3, y las tres las desperdició.A Davidovich le espoleó su capacidad de resistir y dispuso de su primer punto de partido con 8-7 en el marcador. Subió a la red, retado por Hurkacz, y fue mejor que el polaco para hacerse con su segundo título de la temporada. Davidovich confirma un cambio mental en su vida El tenista andaluz ha declarado este martes, tras conquistar el torneo ATP 250 de Chengdú (China) ante Hubert Hurkacz, que ha cambiado mentalmente gracias a lo que sucedió en Mallorca hace unos meses. \"Ganar allí me hizo soltar la mala energía que tenía, y ya sé cómo lidiar con la presión en los momentos ajustados. Sabía que tendría mi oportunidad y he seguido. Al final he tenido algo de suerte y estoy muy contento de cómo he rendido hoy\", subrayó el malagueño. Davidovich toca el cielo y Rafa Jódar ya sabe lo que le espera Es el segundo título de su carrera después del de Mallorca, también de nivel 250. Antes, había disputado cinco finales de torneos ATP (Montecarlo, Delray Beach, Acapulco, Washington y Basilea), y en todas había sido derrotado. En Chengdú, Davidovich, segundo cabeza de serie en su debut en el abierto chino, se impuso en la final ante el polaco por 6-4, 7-6(7). En el desempate definitivo, salvó los tres puntos de set de los que dispuso Hurkacz. \"No es fácil describir el 'tie break', él estaba sacando muy bien, yo he tenido mi oportunidad cuando he roto en el 6-5. Tenía la esperanza de seguir luchando y ganar el título. No ha sido fácil, ha sido muy ajustado\", reconoció. Este torneo suponía su regreso a las pistas después de meses sin competir , desde Umag (Croacia), en julio, por unas molestias en la espalda: \"Hicimos un gran esfuerzo para volver más fuertes y estar al mejor nivel de rendimiento que podíamos\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-29T14:19:52+00:00"
+        },
         {
           "title": "Cómo quedan las prórrogas del alquiler tras los nuevos decretos de vivienda",
           "link": "https://www.eldiario.es/economia/quedan-prorrogas-alquiler-nuevos-decretos-vivienda_1_13546690.html",
@@ -723,7 +737,7 @@
         {
           "title": "El Supremo rechaza por falta de competencia la demanda de Julio Iglesias contra Yolanda Díaz",
           "link": "https://www.eldiario.es/cultura/supremo-rechaza-falta-competencia-demanda-julio-iglesias-yolanda-diaz_1_13547289.html",
-          "desc": "La Sala de lo Civil entiende que la petición de 50.000 euros del cantante a la Vicepresidenta debe realizarse ante los juzgados de Madrid porque sus declaraciones sobre el caso no se hicieron en conexión con su cargo en el Gobierno La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta El Tribunal Supremo ha rechazado por falta de competencia la demanda de honor que el cantante Julio Iglesias interpuso contra la Vicepresidenta del Gobierno, Yolanda Díaz, por sus declaraciones sobre las informaciones de elDiario.es sobre el artista español. Los jueces de la Sala de lo Civil entienden que esa demanda, en la que Iglesias pide 50.000 euros a la política , debe presentarse ante los juzgados ordinarios y no ante el Supremo ya que “actuó como ciudadana y dirigente política” y no como miembro del Gobierno. El cantante llevó a Yolanda Díaz ante la sala primera del Tribunal Supremo después de varios mensajes y declaraciones realizados tanto en su perfil de Bluesky como en una entrevista en Televisión Española en las primeras semanas de enero de este año. Los días en los que elDiario.es publicó el resultado de tres años de investigación sobre cómo varias extrabajadoras de las mansiones del artista denunciaban haber sido sometidas a agresiones sexuales en un ambiente de control y acoso. El Supremo, como ya hizo cuando el juez Manuel García Castellón demandó a Ione Belarra , entiende que las declaraciones de Díaz sobre el caso de Julio Iglesias –que la Fiscalía española rechazó investigar por falta de competencia de los tribunales españoles– no fueron hechas en el ejercicio de su cargo, lo que llevaría su aforamiento ante la Sala de lo Civil, sino “como ciudadana y dirigente política”. El resultado es que la defensa de Julio Iglesias debe presentar esta demanda ante los juzgados ordinarios de Madrid. “Se manifestó esencialmente como política feminista y dirigente de Sumar, pero no como ministra de Trabajo o vicepresidenta segunda del Gobierno. La condición de ministra quedó limitada a la respuesta dada a determinadas preguntas que efectivamente guardaban relación directa con su cartera (el salario mínimo, las pensiones o la jubilación) y que nada tienen que ver con los hechos que han motivado la demanda”, dicen los jueces.",
+          "desc": "La Sala de lo Civil entiende que la petición de 50.000 euros del cantante a la Vicepresidenta debe realizarse ante los juzgados de Madrid porque sus declaraciones sobre el caso no se hicieron en conexión con su cargo en el Gobierno La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta El Tribunal Supremo ha rechazado por falta de competencia la demanda de honor que el cantante Julio Iglesias interpuso contra la Vicepresidenta del Gobierno, Yolanda Díaz, por sus declaraciones sobre las informaciones de elDiario.es sobre el artista español. Los jueces de la Sala de lo Civil entienden que esa demanda, en la que Iglesias pide 50.000 euros a la política , debe presentarse ante los juzgados ordinarios y no ante el Supremo ya que “actuó como ciudadana y dirigente política” y no como miembro del Gobierno. El cantante llevó a Yolanda Díaz ante la sala primera del Tribunal Supremo después de varios mensajes y declaraciones realizados tanto en su perfil de Bluesky como en una entrevista en Televisión Española en las primeras semanas de enero de este año. Los días en los que elDiario.es publicó el resultado de tres años de investigación sobre cómo varias extrabajadoras de las mansiones del artista denunciaban haber sido sometidas a agresiones sexuales en un ambiente de control y acoso. El Supremo, como ya hizo cuando el juez Manuel García Castellón demandó a Ione Belarra , entiende que las declaraciones de Díaz sobre el caso de Julio Iglesias –que la Fiscalía española rechazó investigar por falta de competencia de los tribunales españoles– no fueron hechas en el ejercicio de su cargo, lo que llevaría su aforamiento ante la Sala de lo Civil, sino “como ciudadana y dirigente política”. El resultado es que la defensa de Julio Iglesias debe presentar esta demanda ante los juzgados ordinarios de Madrid. “Se manifestó esencialmente como política feminista y dirigente de Sumar, pero no como ministra de Trabajo o vicepresidenta segunda del Gobierno. La condición de ministra quedó limitada a la respuesta dada a determinadas preguntas que efectivamente guardaban relación directa con su cartera (el salario mínimo, las pensiones o la jubilación) y que nada tienen que ver con los hechos que han motivado la demanda”, dicen los jueces. La Ley Orgánica del Poder Judicial, zanjan, solo atribuye la competencia de estos casos al Supremo cuando las declaraciones son realizadas “en el ejercicio de su cargo”.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-29T12:56:19+00:00"
         },
@@ -854,25 +868,11 @@
           "fecha": "2026-09-29T10:09:16+02:00"
         },
         {
-          "title": "El Gobierno limitará este martes a un 15% la subida del gas en la tarifa regulada y el precio de la bombona de butano a 19,55€",
-          "link": "https://www.20minutos.es/nacional/gobierno-limitara-este-martes-un-15-subida-gas-tarifa-regulada-precio-bombona-butano-19-55e_7042545_0.html",
-          "desc": "Aagesen confirma estas dos medidas en materia de energía en el tercer decreto por la crisis en Oriente Medio que aprobará el Consejo de Ministros. La limitación del precio del gas entrará en vigor en octubre y reducirá un encarecimiento estimado en un 45%.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-29T09:49:12+02:00"
-        },
-        {
           "title": "Fernando Alonso y la firma de su vida",
           "link": "https://www.estadiodeportivo.com/motor/formula-1/fernando-alonso-obligado-firmar-20260928-547456.html",
           "desc": "El asturiano está completando su peor año en la Fórmula desde que debutó en 2001. Actualmente es decimonoveno en el Mundial y sólo ha sumado un punto en lo que va de curso. Aston Martin y la Fórmula 1 desean que continúe, pero el asturiano sigue sin verlo claro. Pero los números le obligan a firmar Es el último culebrón de Fernando Alonso, pero va para largo. Todas las partes desea que acabe bien, pero el desenlace puede ser fatídico si no se ponen de acuerdo. Aston Martin ya le ha puesto su propuesta para que continúe pilotando de verde las dos próximas temporadas, mientras que la Fórmula 1 se ha reunido con él por medio de Ben Sulayem, el jefe supremo, para 'suplicarle' en privado que no abandone el Gran Circo, porque sigue siendo uno de sus principales reclamos sea cual sea su posición en la tabla. El ovetense pidió de plazo hasta después del verano para anunciar su decisión, con la intención de ver si Aston Martin le presentaba un AMR26B que le ilusionara para el futuro. Fue un espejismo lo de Hungría y Países Bajos. Y menos mal que no se precipitó y ha decidido postergar dicho comunicado, porque los de Silverstone siguen empeñados en que el piloto español firme su peor temporada en la F1. Comenzaron reconociendo que tenían un problema, hasta Honda se destapó recalcando que habían estado trabajando con profesionales no especializados en la Fórmula 1 y que eso les había pasado factura. Fernando Alonso no puede más con Aston Martin tras lo ocurrido en la 'Qualy' de Azerbaiyán: \"Por eso no estamos en la pole\" Sin embargo, el panorama ya ha cambiado. Ahora los nipones parecen haber tomado la sartén por el mango y no están dispuesto a dejarse pisotear por los comentarios del bicampeón del mundo de aquí a lo que resta de campaña. \"Ha sido una falta de potencia anómala\", subrayó el asturiano en Bakú. Shintaro Orihara, director de Honda en la Fórmula 1 , le ha contestado de forma tajante: \"Con los datos que tenemos ahora, que los hemos comprobado todos, por ahora el motor está bien, no encontramos ningún problema en los datos. Revisaremos cuidadosamente el trabajo de mantenimiento y también los datos que recibimos de la fábrica, y ellos también lo revisarán cuidadosamente. Así que por ahora no tenemos ningún problema, pero lo miraremos cuidadosamente. Tenemos que revisar cuidadosamente la potencia del motor, también la gestión de energía y quizá el GPS. En la FP3, en la clasificación y en la carrera, no hemos visto ningún problema en el motor. Así que creo que el nuevo motor está en buen estado. Es un motor nuevo para el resto de la temporada\". Mike Krack, por su parte, ya se lo ha dejado claro . Que no hay prisas y que tienen un plan B: \"Hasta marzo de 2027 que empiece la competición hay tiempo para que tome la decisión correcta. Y si decide no continuar activaremos la otra alternativa que tenemos\". Fernando Alonso, obligado a continuar El asturiano ya ha dicho por activa y por pasiva que su continuidad \"no depende tanto del monoplaza como del propio reglamento de la competición\". Este le impide disfrutar porque ya no puede adelantar y arriesgar cuando quiere. Y eso le aburre. Sin embargo, si Fernando Alonso decide dar por finalizada su aventura en la Fórmula 1 lo hará por la puerta de atrás, sin duda alguna. De momento, marcha 19º con un sólo punto en su casillero, la peor puntuación de sus 21 temporadas en la categoría reina, sin tener en cuenta el año de su estreno (2001) y el 2002, donde ejerció de piloto de pruebas. Fernando Alonso se retirará sin su ansiada victoria 33 Cabe recordar que, además de contar con dos títulos de campeón del mundo en su palmarés, ambos conseguidos con Renault, el ovetense suma más de 100 podios y más de 2.300 puntos en el Gran Circo , un logro al alcance de muy pocos. Su paso por Renault, McLaren, Ferrari, Alpine o Aston Martin le han hecho ganarse el respeto de aficionados, trabajadores y de sus propios compañeros en la pista. La victoria 33 se le está resistiendo más de lo previsto y la rozó el primero año de Aston Martin, pero a día de hoy parece algo impensable salvo que cambie de escudería. Sin embargo, conociendo el gen competitivo que tiene Fernando, su principal motivación para renovar puede ser precisamente no abandonar con tan pobres registros e intentar conseguir, al menos, un broche de plata a semejante trayectoria. Porque cuando aterrizó en Silverstone jamás pensaría que podría hacerlo peor que en McLaren, donde, en 2015, se quedó con sólo 11 puntos y terminó 17º. Temporadas, equipos, puntos y clasificación de Fernando Alonso en la Fórmula 1 2001. Debuta con Minardi (23º) 2002. Piloto de pruebas en Renault 2003. Renault / 55 puntos / 4º 2004. Renault / 59 puntos / 4º 2005. Renault / 133 puntos / 1º 2006. Renault / 134 puntos / 1º 2007. McLaren / 109 puntos / 3º 2008. Renault / 61 puntos / 5º 2009. Renault / 26 puntos / 9º 2010. Ferrari / 252 puntos / 2º 2011. Ferrari / 251 puntos / 4º 2012. Ferrari / 278 puntos / 2º 2013. Ferrari / 242 puntos / 2º 2014. Ferrari / 161 puntos / 6º 2015. McLaren / 11 puntos / 17º 2016. McLaren / 54 puntos / 10º 2017. McLaren / 17 puntos / 15º 2018. McLaren / 50 puntos / 11º 2021. Alpine / 81 puntos / 10º 2022. Alpine / 81 puntos / 9º 2023. Aston Martin / 206 puntos / 4º 2024. Aston Martin / 70 puntos / 9º 2025. Aston Martin / 56 puntos / 10º 2026. Aston Martin / 1 punto / 19º (a falta de 8 Grandes Premios) Las 32 victorias de Fernando Alonso en la Fórmula 1 2003: Hungría 2005: Malasia, Baréin, San Marino, Europa, Francia, Alemania y China. 2006: Baréin, Australia, España, Mónaco, Reino Unido, Canadá y Japón. 2007: Malasia, Mónaco, Europa e Italia. 2008: Singapur y Japón. 2010: Baréin, Alemania, Italia, Singapur y Corea del Sur. 2011: Reino Unido. 2012: Malasia, Europa y Alemania 2013: China y España.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-09-29T07:21:17+00:00"
-        },
-        {
-          "title": "La inflación se calienta aún más y roza el 5% en septiembre por las gasolinas",
-          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inflacion-se-calienta-aun-mas-se-dispara-4-9-septiembre-por-las-gasolinas_7042505_0.html",
-          "desc": "El Gobierno atribuye parte del incremento a un efecto estadístico por la bajada de los carburantes el año pasado. El IPC subyacente aumenta hasta el 3,1%, el máximo en más de dos años.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-29T09:00:35+02:00"
         }
       ]
     },
@@ -880,6 +880,13 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "NVIDIA DLSS funciona en las Radeon RX 7000",
+          "link": "https://www.muycomputer.com/2026/09/29/nvidia-dlss-funciona-en-las-radeon-rx-7000/",
+          "desc": "El ecosistema de tecnologías que integra NVIDIA DLSS es exclusivo de las GeForce RTX 20 y superiores, pero un modder ha logrado hacerlo funcionar en las Radeon RX 7000, basadas en la arquitectura RDNA 3. Es un logro importante que, como habréis podido imaginar, ha requerido bastante trabajo. Para lograr que NVIDIA DLSS funcione en […] La entrada NVIDIA DLSS funciona en las Radeon RX 7000 se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-29T14:01:58+00:00"
+        },
         {
           "title": "Acciones de QumulusAI suben por contratos de GPUs Nvidia por $240.9M",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0hmVU1TR3NueW5wTUZyTWlobkd3R0l1NWMwa05iU3BzWFcxZ3VhM2poTjYyUDNVdDQtT3RJSlB6aFdkWnVRbFBaSlBpNHpockFVMzRnNHdxZTVCWVl1TUtWckhyRUVRLXRObmVLTTdxU3h3SnI2QVg5Y0lvUlBmZFd3WnB5VEJjTWpEQ1pUSERybWVzLVlBOGd6OG9oNll6Nk1nenUxWENNTEFPeTFlNGFOcFk5R1JqdkptX29EOA?oc=5",
@@ -925,7 +932,7 @@
         {
           "title": "Nvidia asegura que su nueva solución pudo haber detenido ataque Hugging Face",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTVsTjZIajl2YWRDRmVpVW1OclFTaUxZT1VKU0VEaTlOOGszellFUklhc01fY2FsLU12MzdlQjVpdldzRFg5clc5SWdrUXBVcW9PTkkwcXlSRDRLU1h0WVZJVTlaVUd3V25tNWx0cW5EVzRicExybDg1UUtDTWstbFdnYmRDOU83S0x3ZEx5Tk5KWGhqam9RUnY0d0Nudw?oc=5",
-          "desc": "Nvidia asegura que su nueva solución pudo haber detenido ataque Hugging Face dplnews.com",
+          "desc": "Nvidia asegura que su nueva solución pudo haber detenido ataque Hugging Face DPL News",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:59:18+00:00"
         },
@@ -972,16 +979,16 @@
           "fecha": "2026-09-29T10:31:55+00:00"
         },
         {
-          "title": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares - es-us.vida-estilo.yahoo.com",
+          "title": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGh3UXg4V2JYYlhhMmk4VlA0OTFJdDBWUXAwdmpKYlNMUS1BUWRhdWdpcjNDZzkwSFNnb3ZXUklCSUYwWFBxWm9uZDdYa2FkUEhXVG1pLXVjWXJDMmdSek5qaXBGMXlNNDZhYzdmQzVBQ2Q2NzZjTENpYlhGTUN2U2NmQ1dqSUVYVEE2MWNmellKMTdiZzZJ?oc=5",
-          "desc": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares es-us.vida-estilo.yahoo.com",
+          "desc": "Nvidia anuncia una recompra de acciones valorada en 150.000 millones de dólares Yahoo en Español Vida y Estilo",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T10:30:00+00:00"
         },
         {
-          "title": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT",
+          "title": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT - es-us.finanzas.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnF4QWMwT1l1MUVqUlBCaTNHemJMbkdlQlY0dFlvVHk4OF95UTFVZExpNnY4anI1QUpGUmNsQ2FzTW5DQ0xXTmR2aTVtT0REVERRRFppRGZNUHlFRkVISHZLUFJvMDBfSk43bU9FQVp4NUhNTm0tU3dBdWNhZzg0STNBWklwUGYwMmRwMjhfX3BIanNJcVhITnhJNUVzWWtMYmNaclJzQ1FCZHNW?oc=5",
-          "desc": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT Yahoo Finanzas",
+          "desc": "Nvidia mantiene conversaciones con aseguradoras sobre riesgos de financiamiento de infraestructura de IA, según FT es-us.finanzas.yahoo.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T10:29:44+00:00"
         },
@@ -1016,7 +1023,7 @@
         {
           "title": "Samsung invierte 880 millones en Helix, compañía de infraestructura de IA respaldada de KKR y Nvidia",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTV6aTFmeGFSLXhEdzMxVEQxS2lQak14Z1dQNDI4TlpscVl5RnM1OWtWRmY4RHNzMlFuV0g0Q2xlZmFYS1dmY2V1MFhqSUhVQmp1X0Z5VVBSNmVlVkdsRGg2TkJRRGktRkJoSVNIcHczLWVpQ3d3d01pRWtjcWRtYjU4YnNGc2FqRElrSGRBYktUUDg1T3JqTWhLdFNSYTYwSFNtQUIyUUVnUkJBQWdybk9YZlZWUTByd3E1N0gxWFJoME5fdGVLcEpzVnRSblVnSDFBeTRETTJ1VGhqMlZvRDRNZw?oc=5",
-          "desc": "Samsung invierte 880 millones en Helix, compañía de infraestructura de IA respaldada de KKR y Nvidia europapress.es",
+          "desc": "Samsung invierte 880 millones en Helix, compañía de infraestructura de IA respaldada de KKR y Nvidia Europa Press",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:59:57+00:00"
         },
@@ -1040,13 +1047,6 @@
           "desc": "AMD compra World Labs por US$8.200M para pelearle a Nvidia El Ecosistema Startup",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:36:30+00:00"
-        },
-        {
-          "title": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
-          "link": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison",
-          "desc": "Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-29T09:30:00+00:00"
         }
       ]
     },
@@ -1082,9 +1082,37 @@
       "icono": "🖥️",
       "items": [
         {
+          "title": "AMD adquiere World Labs por 8.2 millones de dólares: ¿Qué ganará la compañía? - Root-Nation.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81U3U1UU9DVS1tdm8zX09SaFJsQ0lIajhzbm80ZjNkVDAzMlBHR3NEVTdBSkttelpfMFJHLVJNV2VlWWdOcXZLa2JUdlhYSWQ0TjV1cks3WHI4T0pXcjdfZUpnYU9JWHBRQTFzUV8tUzZpcS02THVDV3Bn?oc=5",
+          "desc": "AMD adquiere World Labs por 8.2 millones de dólares: ¿Qué ganará la compañía? Root-Nation.com",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T14:20:09+00:00"
+        },
+        {
+          "title": "AMD Acquires Fei Fei Li Founded World Labs for $8.2 Billion in All Stock Deal",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52dTYwTUl6NzM3R0dfcXNtVnZVR3MtSFdSdzVmNW9CN1NxZ0I0Zm5ndHczZ2huTGZwRVNsSHFrcHRCV254aF9xeU1KOFdvVE1GeXlhOXFzVGJZX3RFeUcxbHg3ZW9YcU1sYTloUmRCbU1QUFMxYzlxT0VhT3diUQ?oc=5",
+          "desc": "AMD Acquires Fei Fei Li Founded World Labs for $8.2 Billion in All Stock Deal TIKR.com",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T14:18:11+00:00"
+        },
+        {
+          "title": "NVIDIA DLSS funciona en las Radeon RX 7000",
+          "link": "https://www.muycomputer.com/2026/09/29/nvidia-dlss-funciona-en-las-radeon-rx-7000/",
+          "desc": "El ecosistema de tecnologías que integra NVIDIA DLSS es exclusivo de las GeForce RTX 20 y superiores, pero un modder ha logrado hacerlo funcionar en las Radeon RX 7000, basadas en la arquitectura RDNA 3. Es un logro importante que, como habréis podido imaginar, ha requerido bastante trabajo. Para lograr que NVIDIA DLSS funcione en […] La entrada NVIDIA DLSS funciona en las Radeon RX 7000 se publicó primero en MuyComputer .",
+          "source": "https://www.muycomputer.com/feed",
+          "fecha": "2026-09-29T14:01:58+00:00"
+        },
+        {
+          "title": "‘Madrina de la IA’ se une a AMD en un acuerdo de US$8.200 millones",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlAyY0llNXFjQk1KT05rbXVjcHI2SHBUUUR2WkFmSnAzVld0V0pXeG5nc09TUDR4MHY3UHpPSnp1R21uaDU0QWxQU1R2ZHljd0RjUDZIbzN0R1MzMUpQbEVnZHhpUEhvbEg4ZU5lanZRM1RnWHFUTllTbmY1YlF0ZEM4TGFVdHIwUUdYNGx5cnJvR21nYUk0a05XaUZnU3V6OGZpT0pNcjY1eGc?oc=5",
+          "desc": "‘Madrina de la IA’ se une a AMD en un acuerdo de US$8.200 millones Forbes Perú",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T14:01:25+00:00"
+        },
+        {
           "title": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3Z2YXRlVUNSdEp4OVR0MU9lWnlQNmRwYmtkU3dWcmlTX3lxZnhJYWVkWEY5dmR0NTh2RllYdWZ4Rjk4ZGxTT0g0MGpPZkNFY291Xy1vUm9OY1FLSVMxVERyTlJKZ0EwRURoTDRORElyc0dzUWhSMUQ0cHdZeDdlN05hUTBBTlR3R0VsQmpVNW5iWW5sRlJiWkZZbzNCUnE0SkRxV3dnZ1o4MzhHOGJvaFNPQkttd28?oc=5",
-          "desc": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD Fanáticos del Hardware",
+          "desc": "Microsoft explica por qué lleva cinco años sin lanzar un Surface con procesador AMD fanaticosdelhardware.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T13:45:14+00:00"
         },
@@ -1154,7 +1182,7 @@
         {
           "title": "AMD acuerda comprar World Labs por 8.200 millones de dólares y suma a Fei-Fei Li a su estrategia de IA",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWloNlpDcXROeGgtT28wN21jS21FSDdfMG9PQ1IzamVZWmhGUEJsNzNTZHFCOHUtVkFDOTdKR3pNZGFPMFp6d0JTckJQNVo4MzRsaDNoVzVKazREdW5nVHRkVFhMRWNGTUxzRHByNk10eVZpUzdvSlI3dzl5Q09xb0tEcEE2RUFtbHZ0Y05wUDQzTTNIOVZGNTVOWGQ4MDJoLXFiMlFsMXpPVDlHa1FYMmNUQUdaemdnRk9SbFkwT3c0RkN5NGpCRmFWYlZfRERj?oc=5",
-          "desc": "AMD acuerda comprar World Labs por 8.200 millones de dólares y suma a Fei-Fei Li a su estrategia de IA Fanáticos del Hardware",
+          "desc": "AMD acuerda comprar World Labs por 8.200 millones de dólares y suma a Fei-Fei Li a su estrategia de IA fanaticosdelhardware.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T11:02:40+00:00"
         },
@@ -1201,6 +1229,13 @@
           "fecha": "2026-09-29T09:36:30+00:00"
         },
         {
+          "title": "AMD adquiere World Labs por 8.200 millones para integrar modelos espaciales en su hardware",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUDZHbldXR1RaQVZlcUhGSTBHbk93OUhSUXQ3OEJEZmF5VGVMSlMyNjRPdHJILV9fY3lpSmNNZFBWVE5WblI4dkhPTElwdDNhVzBsdHhnb2lHZ1NCaXpZd0RfV091WTdieFZMckJXT285TDNUZWZfTEtIQm1jY1JWc2pPbGE5NkdXRWphZE1UbEZlU0VIN1I5ZkM0aHBrNE0xY08zSnJ1eGNscVFIQnNzVDNUZW53RENabFd5LVlBVE5pNDJQc0VLODJVOU1vMmE1dEHSAdcBQVVfeXFMT1lZQ3ZOTXI3UGNkX0VMY3ZDdlM0amMtd0Z4ZFBKVDQtV0ZaRzBGTDJCczJhRkNVMW43VW12Q19pNjY4QW4yWDdFdzRzS1piRzBiQlIyUUsxRFVBbUxHMUZjNVdkTUxlOEpXdm82N3FJWkdpV2JoVUc2aDZTMm0zSWM2MmdTYkVlQ0VxQ09NMHljcDhlS0cwQ3J4ZHFVWTZFYTlVT1VJTWVmRXU4c213Y2p1OHE0Y0dVeC10VFRIZE5qeWZlRHFYbW51T0VNaFZBMV8ybHhXS0U?oc=5",
+          "desc": "AMD adquiere World Labs por 8.200 millones para integrar modelos espaciales en su hardware Profesional Review",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-29T09:30:41+00:00"
+        },
+        {
           "title": "Modder lleva NVIDIA DLSS de forma nativa a las AMD RX 7000 gracias a ZLUDA con un rendimiento más que decente",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTdDhRYkZiOUpuY0h1V3RBWUlEVnBOSUdFcnZNMF81Y0Z6YUs3aXZkQS1ibWw3ZkdYU0tiN0tva3FvQWZSYzBZa2RtalRyMXVNRUVCTEV0dWVtckE5UmVacjJUZDY0b2dFX2pNT2FR?oc=5",
           "desc": "Modder lleva NVIDIA DLSS de forma nativa a las AMD RX 7000 gracias a ZLUDA con un rendimiento más que decente El Chapuzas Informático",
@@ -1213,41 +1248,6 @@
           "desc": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares Xataka",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T09:16:00+00:00"
-        },
-        {
-          "title": "AMD comprará World Labs para competir en IA física",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcl9lQ1FiTjZYV2xyOU1xa0U2OW5fTVZ5T0dweERldVI4czkzeC1nUjlNT0V4dGh6Q28xOWJYT2ZzU1JMSldDLVd6Q0hiT1JlQXJfdVlDZGJmVHlVUktTS3BpUDVCOGJVbTdBdEpNZGNpY25oeVg4d0lMZjRYc3FWODN4d2EzeXRQWDNRMmItNkV4bDd1MUZpQlZmU3ZNSUdjVDdRVm1hOEpjN2s?oc=5",
-          "desc": "AMD comprará World Labs para competir en IA física MuyComputerPRO",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T08:46:49+00:00"
-        },
-        {
-          "title": "Pronóstico del precio de las acciones de AMD: AMD adquiere World Labs por 8.200 millones de dólares, se prevé que la acción suba a 732 dólares",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGlzSHdaRXIzelVxaEQ0d05XVERxMWtBcV9fcnNDMlBWZ1VyZUFiZXVna2JNWENsdmxrNE9LVkVQcmMxRmhJZGhVdWRNb2VmQjNsZ251ZEoyZGtmUnd1RmROeDk4V1JQRkxPVVVQd3d4LUFYNmwwOVRiVE55dm5pTGRDeDlnOWZLanYyQk1aVDV2U2ZHVUFEdzlnVXY5VW5pMDBOc3pVN3NHTGIxcVZMM1FuY2tlSWg5S1Iwc3VMQnkwSS1mLU5Wd200TWZzaFdFTzU5VnRnU0o?oc=5",
-          "desc": "Pronóstico del precio de las acciones de AMD: AMD adquiere World Labs por 8.200 millones de dólares, se prevé que la acción suba a 732 dólares TradingKey",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T08:31:31+00:00"
-        },
-        {
-          "title": "AMD adquiere World Labs en una operación íntegramente en acciones de 8.200 millones de dólares: ¿Podrá alcanzar a Nvidia en IA física?",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSDY3X1VCZTZUTTM0VjhBcW56MlNuSTA3OGFCZmwwM0J6ZXNGME00SmstM0NlUV9pazlwc2owOFlzV2dGc3dYdVhLREFPd19VdDFWcFYwQjR1aE9GYXpIYjNyN1VVR2tFMFZwMnltWktESmxlME9TQ2tQZFQ1bWp5UWlTZWtiR1hCMlBMMng3M0tiQnlxQ3I1SzFEeDJGbHFyclR0dDFxUDJsOVZXUEdmdUcwNm41TDBCQ21VdEw4bmJiNFFwOGJXaE1mZ3ZCMWphbWNqM0sxUmh0SXM2T25LSDhSeGFSWkU?oc=5",
-          "desc": "AMD adquiere World Labs en una operación íntegramente en acciones de 8.200 millones de dólares: ¿Podrá alcanzar a Nvidia en IA física? TradingKey",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T07:13:28+00:00"
-        },
-        {
-          "title": "Nvidia DLSS «oficial» en una Radeon RX 7000 es posible gracias a un mod",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZEdHemRyTXdxeXoyTUZWWjBmalFqb0p0VlhHWUNNQ2dIWTNHMWprZElLMmtSMFh2M3dqdmxXNV9MV2ZPclgzTG9nT0JfN2VieFQ2VGZEMG1EMzRhUjQySlp6UVJCa2dFdnBaNENsZG1yZTVZUFhRR1g4aGNaVEJDWFBVd05NR2I1ay1la1F3c0ttWC15UnpwNtIBngFBVV95cUxNRm9HMVlJdmRaV09kNWVUZXE3blBKbWR6TVdhWEZiREVsa1RTR0VIbExPS1RtcDY4TkRZQjdaLUE5c2tySWpZUTVLY1JFMWdHSkpWcERsNEdZNG1XVDBycndjcVJMWTV4M3hDcDltZGVpaFJpaVdSYTRMeEMtOVhyXzBSZlp0OERrdkhRN3RQd0FFVWlHb0hMSkdaOTMxUQ?oc=5",
-          "desc": "Nvidia DLSS «oficial» en una Radeon RX 7000 es posible gracias a un mod Profesional Review",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:56:43+00:00"
-        },
-        {
-          "title": "AMD compra World Labs, la ‘start-up’ de la ‘madrina de la IA’, por 8.200 millones de dólares, y presiona a Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM2g1cnhyTl9KSmxPLVdZOXMxUFBLOTRsUzBWVVJQMGpMZjN1UWdweUZqbThOVDJ4bWJZQkIxNGJoSl9DVHZnczFGNWhUYl93SXhjUUQzdlBOREZEaDZhUXZ0c2dncmtBUGNwOXViRXA0TTVYZE02ek1nQjdsVUxmR3hzZXlUeFFUeHpWSG94NlZXY2lJMEFnb0ZXcEFWcUVCX0tVdEJROUduVDRWdm5SRTNLOTNQNE5DREJSVFdiUXR2dy1ZN0JrOEpnUHdYR1M4ZTU0ZXNfYThoZVF6ajdZWXZvd3QtaGxwZ291NXdPbnUwUdIBhgJBVV95cUxQZzR3SF9maTdiRVBOb29qQ0owOXRDOVRmakZaWWgtMjJlSWkxcTV0VnVzX0o0d1VCdGFBUmlrZTdaRm9RbzJvR1Q1OWU1SlYwa0tKSnY5aTJCQUVZY2VxZUpJWk5LTUg2UDdiTUpkMEJ0bjFPUC1fUnJWbGZuZzdrMHJkM1V6UkxxWVpYSF95XzF6X2xhdmRpaFVrYUdPVG82dTVQTWVURHhZeDZKZHZlQjh5X0ZVeU1xQ25VOE9jZXBHdnFscGRlWWp5S2JnQ2xmVmEwVGZqel9Oei13NE9kWHRHNFlDbF84R09LUnBrS2Z2VTJpbVNIM2JSN08xdUNiWlNTTFhn?oc=5",
-          "desc": "AMD compra World Labs, la ‘start-up’ de la ‘madrina de la IA’, por 8.200 millones de dólares, y presiona a Nvidia Cinco Días",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T06:55:27+00:00"
         }
       ]
     }
