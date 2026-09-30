@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T07:50:08.753974+00:00",
+  "generado": "2026-09-30T08:00:05.950392+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -174,7 +174,7 @@
         {
           "title": "Desvelan por qué el España-Croacia se ha disputado en el Sánchez-Pizjuán",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW9FNk9aeGt1NWg5ZWZ0SXI1YldpODRXR2plVWlTU2NfU2pSOTRMaDl0RWh4bHBnc3E2VUdock9ISHl4WWJ6UTI1X21ybXRRM2QwbDU5NmduTUtEWnJJbkd6UlFuSEQxRGtUS2tYektpbkxYVjlnZUVsenU2S082RHNkVXpSNmNjQkRUcWo4QmRKWWhsWEctejJjanVfenBuT0lTSnkyS1hnZw?oc=5",
-          "desc": "Desvelan por qué el España-Croacia se ha disputado en el Sánchez-Pizjuán Diario de Sevilla El Sánchez-Pizjuán recibirá a la Centuria Romana Macarena Muchodeporte Nico Williams explica su sorpresa con un \"icónico\" Sánchez-Pizjuán: \"No me lo esperaba así\" El Desmarque",
+          "desc": "Desvelan por qué el España-Croacia se ha disputado en el Sánchez-Pizjuán Diario de Sevilla Sevilla se engalana para recibir las 'dos estrellas' de la selección en un Sánchez-Pizjuán imbatido ABC Nico Williams explica su sorpresa con un \"icónico\" Sánchez-Pizjuán: \"No me lo esperaba así\" El Desmarque",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T19:12:12+00:00"
         }
@@ -363,56 +363,56 @@
           "link": "https://www.formula1.com/en/latest/article/why-a-return-to-sepang-is-a-golden-ticket-for-formula-1-drivers.65koMbP1GaLhOtlXJL2Nn6",
           "desc": "F1 is set to return to Malaysia's Sepang International Circuit for the first time in nine years, with the track stepping in to host the Bahrain Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "5 storylines we're excited about ahead of the Bahrain GP",
           "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-bahrain-grand-prix-in-malaysia.5VJ800Id8hGFvoRpQQFc9u",
           "desc": "Chris Medland runs through the biggest talking points as F1 heads to Malaysia for Round 16 of the 2026 season.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "Where does Russell’s Baku win rank in the closest F1 finishes?",
           "link": "https://www.formula1.com/en/latest/article/where-does-russells-baku-win-rank-in-the-closest-ever-f1-finishes.4bMRcAuAIS4dJY4flIHkUw",
           "desc": "Which races have been won by an even tighter margin than George Russell's 0.196s victory over Max Verstappen in Azerbaijan?",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "The encouraging signs hidden within McLaren's Baku upgrade",
           "link": "https://www.formula1.com/en/latest/article/the-encouraging-signs-hidden-within-mclarens-baku-upgrade.2MeiTiEWq6Dvt2GkRG4UJh",
           "desc": "Mark Hughes and Giorgio Piola analyse McLaren's major Baku upgrade package and explain why the team emerged encouraged despite an imperfect debut.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "F1 Business Summit adds new Las Vegas speakers",
           "link": "https://www.formula1.com/en/latest/article/f1-business-summit-adds-haas-boss-komatsu-gordon-ramsay-and-russell-wilson.7bjK395TdRilEl7AorqYMG",
           "desc": "The F1 Business Summit returns on 19 November at Caesars Palace, with Haas Team Principal Ayao Komatsu, Gordon Ramsay and Russell Wilson among the speakers.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "Why Alonso has re-signed with Aston Martin",
           "link": "https://www.formula1.com/en/latest/article/analysis-why-alonso-is-staying-at-aston-martin-and-what-it-means-for-the-2027-grid.2b7yrPKHBN8kcLMJy5PbFa",
           "desc": "Fernando Alonso's love affair with Formula 1 will continue as the Spaniard has opted to stick around for at least another year with Aston Martin.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "Aston Martin keep Alonso and Stroll for 2027",
           "link": "https://www.formula1.com/en/latest/article/alonso-and-stroll-to-stay-at-aston-martin-in-2027-as-team-confirm-unchanged-line-up.7xg2Sct45vzW92UaiE8YXR",
           "desc": "Fernando Alonso says 'racing is my life' as he and Lance Stroll extend their Aston Martin contracts, leaving four seats to fill on the 2027 grid.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "BARRETTO: Why Ferrari have moved to shield Vasseur",
           "link": "https://www.formula1.com/en/latest/article/ferrari-move-to-end-speculation-over-vasseurs-future-amid-horner-speculation-plus-barretto-analysis.5vNkTkDQSbhS9Pnh8mulTm",
           "desc": "Ferrari confirm they have faith in Team Principal Fred Vasseur after Christian Horner named the Scuderia his 'dream' destination.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T07:50:08.753974+00:00"
+          "fecha": "2026-09-30T08:00:05.950392+00:00"
         },
         {
           "title": "Fernando Alonso: \"Soy mejor que ese tipo y que ese otro. Seguiré pensando así. ¿Cómo me iba a sentir en el salón, viendo la tele, pensando que puedo hacerlo mejor que ellos?\"",
@@ -532,6 +532,27 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "The Witcher 3 - Remastered añade NVIDIA Compatibilidad con DLSS 4.5 - Root-Nation.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGxCYWVtTmNQdVUzYTV5QW54TzdJWVNkR25uRXhvT3JZV3F5UDktU3NqMGtOa1JpX2NsRHRlQ2VDZWZoX2ZnbnBrN1RKWkwyWWI0QW45Q0pvZDlkY1NnRUx1dkxsYXpSX0l1cEpvQ055RHA1WVY0SF9Ma1N3cDJyVVNZbExrZldpd0ZrOGI5bFRrUHp3cnpFeg?oc=5",
+          "desc": "The Witcher 3 - Remastered añade NVIDIA Compatibilidad con DLSS 4.5 Root-Nation.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T07:46:10+00:00"
+        },
+        {
+          "title": "DeepSeek y Huawei lanzan un conjunto de herramientas de inteligencia artificial para competir con Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekRqTGd6My1xWWcyLXZ1S1lJLW1haWtOcVNJQkJkMzg4LUYwckIteE9VMlJTcTQyZkU2d2QwRTFibU43Nmx2YnVoQUg1RDhhZy1SdUd1TmhnYUdKSjI1VGNoNFljRE1JLTByd0gtWUw1dVJrQnI0aGw0VDE3TUVQOWl5VWNTWkxNNUVWYWhJOXJIbnFPVHRTNDRmRG1ORUgtVUI5WUlSSUJDOWtPMjRoblJ0MnhNTnNEcS1DUUtSOU9KaWhUUko5NjJpa1dvRl9FUHdTUXZlbnAzRHRlSzkzOEJoQkswNUI1UjY4cA?oc=5",
+          "desc": "DeepSeek y Huawei lanzan un conjunto de herramientas de inteligencia artificial para competir con Nvidia MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T07:37:24+00:00"
+        },
+        {
+          "title": "FREE FIRE MAX | Códigos de hoy miércoles 30 de septiembre de 2026 - Recompensas gratis",
+          "link": "https://vandal.elespanol.com/noticia/2026273008/free-fire-max-codigos-de-hoy-miercoles-30-de-septiembre-de-2026-recompensas-gratis/",
+          "desc": "Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, miércoles 30 de septiembre de 2026. Consigue recompensas como skins, diamantes y mucho más. El éxito para móviles Android e iOS , Garena Free Fire MAX , ha recibido nuevos códigos diarios para hoy miércoles 30 de septiembre de 2026 . Los jugadores pueden canjear estos códigos para recibir recompensas variadas en su cuenta. El Battle Royale de Garena es uno de los títulos más jugados y descargados del mercado y por ello la compañía a menudo libera diferentes códigos para su enorme comunidad. Si queréis haceros con ellos, daos prisa, en esta noticia os los compartimos todos. Códigos de Free Fire y Free Fire MAX para hoy miércoles 30 de septiembre de 2026 Estos son los códigos válidos para hoy miércoles 30 de septiembre de 2026 en Europa y México . 4ST1ZTBZBRP9 FT4E9Y5U1I3O FM6N1B8V3C4X FFM1VSWCPXN9 QK82S2LX5Q27 FL2K6J4H8G5F FK3J9H5G1F7D FU1I5O3P7A9S FE2R8T6Y4U1I FZ5X1C7V9B2N Recordad que los códigos pueden ser válidos o no en función de cuándo los introduzcáis . Algunos son válidos durante un día entero desde su publicación, mientras que otros no duran más que una o dos horas. Estos códigos, en principio, funcionan tanto en Free Fire como en la versión mejorada Free Fire MAX. La mayoría de los códigos liberados de Free Fire contienen recompensas aleatorias que pueden ser artículos tan valiosos como diamantes, monedas de oro, tokens, nuevos diseños y skins y mucho más. ¿Cómo canjear los códigos de Free Fire MAX? Canjear códigos promocionales de Free Fire MAX es muy fácil y solo hay que seguir unos sencillos pasos . Ten en cuenta que los códigos no se pueden canjear directamente desde dentro de la aplicación del juego, sino que hay que visitar esta página oficial de recompensas de Garena . Una vez dentro de la web: elige una de las plataformas de ingreso e inicia sesión con tu cuenta de Free Fire (Facebook, Twitter, VK, Google, Huawei o Apple). No podrás canjear códigos: con una cuenta de invitado. Después de iniciar sesión: ingresa tu código promocional alfanumérico y asegúrate de que tu usuario y servidor sean los correctos (las letras siempre son en mayúsculas). Cuando el código se haya confirmado correctamente: recibirás un mensaje de felicitación y las recompensas tardarán unos 30 minutos en llegar a tu cuenta (pudiendo incluso tardar 12 horas por diversos factores). Recordad que cada código de Free Fire solo se puede canjear una única vez por cuenta. Free Fire y Free Fire MAX son un Battle Royale gratuito que se encuentra disponible para dispositivos móviles Android e iOS . Si queréis ganar todas vuestras partidas, no dudéis en echar un vistazo a nuestra completa guía con trucos y consejos.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-30T07:36:00+00:00"
+        },
         {
           "title": "Micron vuelve a verse envuelta en una disputa de patentes: Netlist busca la prohibición de importación a EE. UU. de memorias que involucran productos de Nvidia, Google y Broadcom",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMHhBcFpDZ0ZwNGwwOXpfdHE5NWl0M1BWdjJXRkZyc216UkxUOTR3QXEzRmlYVmx3YVVmQ2E3LUp6X1VVeGdpX3hOalVPTERXOWtlNFYwQzhzekhCVUFFMHJKeFhHVTZmSHotNmRSLU5sTjIzSng3Q3JNcUhCN2dvcHZzejFZOFFQQlBQLUkwaWV0cE1YYmpEQ2hibkNBT2VMc05KYm5kMWVkcDZQQy1UZ2o0Yzg4MDJESFNxckl3YXVjcGNSMmVON2NxalQ2LVJWTFllbktMMTJ6aFFlekVEemwxa0g?oc=5",
@@ -678,27 +699,6 @@
           "desc": "AMD lleva la IA agéntica a las PCs profesionales America Sistemas",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T04:48:19+00:00"
-        },
-        {
-          "title": "DeepSeek se asocia con Huawei para desarrollar herramientas de programación de chips, lo que reduce la dependencia de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFUXB6X01QNFIwT3pXWVV0LTU5ak43ZDdHU1dHWDNOeEtYdFBsbFVRWVlWT1loeHRVWm5yODhIMjNaRG5JZkRMOE01R0JVSFF1Q1JJQmZiMmtqUjNnckxja0FfS19iNWNtSkV5bzl5ODJfRFhoZWVJ?oc=5",
-          "desc": "DeepSeek se asocia con Huawei para desarrollar herramientas de programación de chips, lo que reduce la dependencia de Nvidia TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T04:48:00+00:00"
-        },
-        {
-          "title": "El debate | ¿Es legítima la literatura hecha con inteligencia artificial?",
-          "link": "https://elpais.com/opinion/2026-09-30/el-debate-es-legitima-la-literatura-hecha-con-inteligencia-artificial.html",
-          "desc": "No hay una unanimidad en un sector creativo en el que algunos autores han abrazado públicamente la IA y otros la utilizan clandestinamente",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-30T03:30:01+00:00"
-        },
-        {
-          "title": "Una expedición hispano-argentina viajará a los Andes para comprobar si es real un geoglifo localizado por Google Earth",
-          "link": "https://elpais.com/ciencia/2026-09-30/una-expedicion-hispano-argentina-viajara-a-los-andes-para-comprobar-si-es-real-un-geoglifo-localizado-por-google-earth.html",
-          "desc": "Los investigadores revisarán si se trata de una estructura sagrada del periodo inca",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-30T03:30:01+00:00"
         }
       ]
     },
@@ -716,7 +716,7 @@
         {
           "title": "El primer ministro británico dice que considerará la vuelta del Reino Unido a la UE",
           "link": "https://www.eldiario.es/internacional/primer-ministro-britanico-dice-considerara-vuelta-reino-unido-ue_1_13549031.html",
-          "desc": "Andy Burnham dice que examinará las \"opciones\" de la relación a la largo plazo con la Unión y que una de ellas es reintegrarse \"plenamente\" en la Unión Burnham promete una nueva relación con la UE: “El Brexit nos ha hecho más daño que bien” Diez años después del Brexit, el séptimo primer ministro desde entonces considera la vuelta del Reino Unido a la Unión Europea. Andy Burnham asegura que el debate está abierto y está dispuesto a defender esa opción si es la que tiene más apoyo. En los próximos meses, el laborista examinará la relación “a largo plazo” de su país con la UE después del “daño” que ha hecho el Brexit, según anunció este martes en el congreso anual del Partido Laborista . En una entrevista con la radio de la BBC este miércoles aclaró que una de las opciones es la petición de la adhesión completa a la Unión, y que no puede dejar “en el aire” el debate que ya está en la opinión pública ni dejar otra década de declive. Su prioridad, según dijo, será “buscar consenso”. Las opciones que examinará en los próximos meses son mantener la relación actual, que considera ha perjudicado a la economía y la política migratoria; volver al mercado único o solo a la unión aduanera; o reintegrarse “plenamente” en la UE. Espera presentar opciones al país alrededor de la cumbre entre la UE y el Reino Unido que espera se celebrará antes de que termine el año. La opinión pública La mayoría de la población cree que el Brexit fue un error y está a favor de volver a la Unión Europea. Pero el Partido Laborista no se ha atrevido a proponerlo como objetivo pese a que las voces a favor del regreso se multiplican dentro del grupo, desde el alcalde de Londres al exprimer ministro Tony Blair . En el Parlamento, defienden el regreso a la UE los liberaldemócratas, los verdes y los nacionalistas escoceses y galeses. Los laboristas temen reabrir las heridas del Brexit que dividieron a su propio partido y alimentar a la minoría más antieuropea que apoya a la ultraderecha de Reform, el partido de Nigel Farage. Pero incluso el 51% de los votantes de Farage creen que la relación del Reino Unido con la UE es ahora demasiado distante, según una encuesta recién publicada de Politico . “Tenemos que ser sinceros. El Brexit no nos ha dado el control”, dijo Burnham en el congreso del Partido Laborista en Liverpool el martes. El primer ministro destacó la década de bajo crecimiento, la inestabilidad política desde 2016 y la limitación de las políticas migratorias por “la pérdida de la colaboración” con los antiguos socios europeos: “El Brexit nos ha hecho más daño que bien”. El Reino Unido ha perdido entre el 6% y el 8% de su PIB por estar fuera de la Unión Europea, según el informe más completo sobre el impacto económico del Brexit , publicado en noviembre de 2025 y que describe las caídas de la inversión, el empleo y la productividad. La caída en el comercio de bienes para el Reino Unido ha sido radical no solo con la Unión Europea, y la nueva política de priorizar la fabricación dentro de la Unión puede agravar la posición británica.",
+          "desc": "Andy Burnham dice que examinará las \"opciones\" de la relación a la largo plazo con la Unión y que una de ellas es reintegrarse \"plenamente\" en la Unión Burnham promete una nueva relación con la UE: “El Brexit nos ha hecho más daño que bien” Diez años después del Brexit, el séptimo primer ministro desde entonces considera la vuelta del Reino Unido a la Unión Europea. Andy Burnham asegura que el debate está abierto y está dispuesto a defender esa opción si es la que tiene más apoyo. En los próximos meses, el laborista examinará la relación “a largo plazo” de su país con la UE después del “daño” que ha hecho el Brexit, según anunció este martes en el congreso anual del Partido Laborista . En una entrevista con la radio de la BBC este miércoles aclaró que una de las opciones es la petición de la adhesión completa a la Unión, y que no puede dejar “en el aire” el debate que ya está en la opinión pública ni dejar otra década de declive. Su prioridad, según dijo, será “buscar consenso”. Las opciones que examinará en los próximos meses son mantener la relación actual, que considera ha perjudicado a la economía y la política migratoria; volver al mercado único o solo a la unión aduanera; o reintegrarse “plenamente” en la UE. Espera presentar opciones al país alrededor de la cumbre entre la UE y el Reino Unido que espera se celebre antes de que termine el año. La opinión pública La mayoría de la población cree que el Brexit fue un error y está a favor de volver a la Unión Europea. Pero el Partido Laborista no se ha atrevido a proponerlo como objetivo pese a que las voces a favor del regreso se multiplican dentro del laborismo, desde el alcalde de Londres al exprimer ministro Tony Blair . Los más explícitos en su deseo de volver a la UE han sido hasta ahora los liberaldemócratas, los verdes y los nacionalistas escoceses y galeses. Los laboristas temen reabrir las heridas del Brexit que dividieron a su propio partido y alimentar a la minoría más antieuropea que apoya a la ultraderecha de Reform, el partido de Nigel Farage. Pero incluso el 51% de los votantes de Farage creen que la relación del Reino Unido con la UE es ahora demasiado distante, según una encuesta recién publicada de Politico . “Tenemos que ser sinceros. El Brexit no nos ha dado el control”, dijo Burnham en el congreso del Partido Laborista en Liverpool el martes. El primer ministro destacó la década de bajo crecimiento, la inestabilidad política desde 2016 y la limitación de las políticas migratorias por “la pérdida de la colaboración” con los antiguos socios europeos: “El Brexit nos ha hecho más daño que bien”. El Reino Unido ha perdido entre el 6% y el 8% de su PIB por estar fuera de la Unión Europea, según el informe más completo sobre el impacto económico del Brexit , publicado en noviembre de 2025 y que describe las caídas de la inversión, el empleo y la productividad. La caída en el comercio para el Reino Unido por las nuevas barreras tras el Brexit ha sido uno de los motivos del declive y la nueva política de priorizar la fabricación dentro de la Unión puede agravar la posición británica.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-30T07:25:58+00:00"
         },
@@ -881,6 +881,20 @@
       "icono": "🎮",
       "items": [
         {
+          "title": "The Witcher 3 - Remastered añade NVIDIA Compatibilidad con DLSS 4.5 - Root-Nation.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGxCYWVtTmNQdVUzYTV5QW54TzdJWVNkR25uRXhvT3JZV3F5UDktU3NqMGtOa1JpX2NsRHRlQ2VDZWZoX2ZnbnBrN1RKWkwyWWI0QW45Q0pvZDlkY1NnRUx1dkxsYXpSX0l1cEpvQ055RHA1WVY0SF9Ma1N3cDJyVVNZbExrZldpd0ZrOGI5bFRrUHp3cnpFeg?oc=5",
+          "desc": "The Witcher 3 - Remastered añade NVIDIA Compatibilidad con DLSS 4.5 Root-Nation.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T07:46:10+00:00"
+        },
+        {
+          "title": "DeepSeek y Huawei lanzan un conjunto de herramientas de inteligencia artificial para competir con Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekRqTGd6My1xWWcyLXZ1S1lJLW1haWtOcVNJQkJkMzg4LUYwckIteE9VMlJTcTQyZkU2d2QwRTFibU43Nmx2YnVoQUg1RDhhZy1SdUd1TmhnYUdKSjI1VGNoNFljRE1JLTByd0gtWUw1dVJrQnI0aGw0VDE3TUVQOWl5VWNTWkxNNUVWYWhJOXJIbnFPVHRTNDRmRG1ORUgtVUI5WUlSSUJDOWtPMjRoblJ0MnhNTnNEcS1DUUtSOU9KaWhUUko5NjJpa1dvRl9FUHdTUXZlbnAzRHRlSzkzOEJoQkswNUI1UjY4cA?oc=5",
+          "desc": "DeepSeek y Huawei lanzan un conjunto de herramientas de inteligencia artificial para competir con Nvidia MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T07:37:24+00:00"
+        },
+        {
           "title": "Micron vuelve a verse envuelta en una disputa de patentes: Netlist busca la prohibición de importación a EE. UU. de memorias que involucran productos de Nvidia, Google y Broadcom",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMHhBcFpDZ0ZwNGwwOXpfdHE5NWl0M1BWdjJXRkZyc216UkxUOTR3QXEzRmlYVmx3YVVmQ2E3LUp6X1VVeGdpX3hOalVPTERXOWtlNFYwQzhzekhCVUFFMHJKeFhHVTZmSHotNmRSLU5sTjIzSng3Q3JNcUhCN2dvcHZzejFZOFFQQlBQLUkwaWV0cE1YYmpEQ2hibkNBT2VMc05KYm5kMWVkcDZQQy1UZ2o0Yzg4MDJESFNxckl3YXVjcGNSMmVON2NxalQ2LVJWTFllbktMMTJ6aFFlekVEemwxa0g?oc=5",
           "desc": "Micron vuelve a verse envuelta en una disputa de patentes: Netlist busca la prohibición de importación a EE. UU. de memorias que involucran productos de Nvidia, Google y Broadcom TradingKey",
@@ -986,13 +1000,6 @@
           "fecha": "2026-09-29T23:07:59+00:00"
         },
         {
-          "title": "Nvidia lanza plataforma de seguridad para contener agentes de IA que se salen de control",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnhvZmZudHR2eFVldy1rLVlWVEsyQXgwcTBDUnNqdk8yM2UwMnk5MHlkaHVXelBQclRaVXY1Sk9WdGdwSV9YTFZ0aG9DMEJfSzdSVnE1QnFEajJKVTNVYW96cjZMQWdNekN0N3pZRlNnUHRXUlJIXzZsTmpLYTZMWUQwT2h5WDRERmhGSTQwNldVN3BadGdfakhyMVFCdS01dDRQekhiWWFLSW9VM0tvdEgwdVNaMWM?oc=5",
-          "desc": "Nvidia lanza plataforma de seguridad para contener agentes de IA que se salen de control areacucuta.com",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T23:03:51+00:00"
-        },
-        {
           "title": "Exintegrantes de Nvidia crean startups de robótica e IA física",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnZSNXFtR3NZWHdCVm5acU11VVpaNFMzYmFsVGpadVVyU3pOa3NkTW8tdWpBS0lwOXNBVXYxRWJHQkRjOE5VSFNrZ1dUdVFhREdDZDVYaDgyZ1hfMHJLVm4td3RGTTRNTkZGYmN4QnF3OVlxamJyRDZCSzh3MVNUeEpTQ3pUSjBjTmR3MUJUcUgxZw?oc=5",
           "desc": "Exintegrantes de Nvidia crean startups de robótica e IA física neoteo.com",
@@ -1040,13 +1047,6 @@
           "desc": "OpenAI no firma el pacto de Nvidia sobre agentes IA El Ecosistema Startup",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-29T18:51:58+00:00"
-        },
-        {
-          "title": "Nvidia presenta una nueva barrera de seguridad contra agentes de inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWFiWVR6Qy1zNEFHOGVobGVHS2xpMm96bVJYYklCRHZZTWgxMjVjXzJlWFNCbnkxSDNON1g0SDRZQjRlT3hhd3V0dHZZVW5ublhobVhuSjRaaGRwRHlaWWpZSXd3TktWTlQzM0FuVFFuM3NXdGtJOHotZ2szbFkwYmpMR3hIRkJ4cENuSm90UEtNcHFpb1llREN0ek9OUTlNUnRqVUhsNkxaUjhBVlpvbmlVb0NGRVgxN051VS0wTFY?oc=5",
-          "desc": "Nvidia presenta una nueva barrera de seguridad contra agentes de inteligencia artificial ITSitio",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-29T18:28:19+00:00"
         }
       ]
     },
