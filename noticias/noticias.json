@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T14:30:03.683117+00:00",
+  "generado": "2026-09-30T15:00:05.136536+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,13 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "DÓNDE VER EL XV TROFEO ANTONIO PUERTA: SEVILLA FC VS ASTON VILLA FC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2lTSVUwYmYwTUkxYkZRRm5zMGNjUmdpVHZjaDVtaWRfdFQ0RE02QURIcERGMTYtejYzZHFHZk9MNklMVE9mQ0FJNWlmR09EN1N6QlRkYkNoRFBPeEZRU3VERmhUalN2TThhU2E4NkNNaWM5UTIydWtCZmZkNHNUSA?oc=5",
+          "desc": "DÓNDE VER EL XV TROFEO ANTONIO PUERTA: SEVILLA FC VS ASTON VILLA FC Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:37:58+00:00"
+        },
         {
           "title": "García Plaza valora a Del Nido Carrasco, admite sus ganas de derbi y aclara los objetivos: \"Todo el mundo que ha construido este Sevilla tiene su parte de culpa\"",
           "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/garcia-plaza-valora-del-nido-carrasco-admite-sus-ganas-derbi-aclara-los-objetivos-todo-mundo-que-construido-este-sevilla-tiene-parte-culpa-20260930-547614.html",
@@ -62,7 +69,7 @@
         {
           "title": "Fran González y un debut con el Sevilla que se resiste",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZG9mVFlEOGdDenkwWWszcGgzN1lSTUtuVGVwQURfdHlzOFNEWVU2TlQwVnJaeFk1R1hieWRRRmRYTVlKSnYzUTZtVGdMOGtOUl9UWDVTOF9KbUlha19aSVpPUGZoRHpreDZoT2JuQlMyQWlHRmRSN1ZLNE9OWFVNSUZGSVg2cHVrTUpmcnZGZFFVeU1jZmhydUNmQUFsbUc2TzdYV0l0SmNOUdIBtwFBVV95cUxNU1J5UVF0V1p6cm1nbkk3MXl6UGlxVjdmeWVTcVlfc3JJclpMb2NmX0p6Nnp1ZUN4MEphcTVvUGhVWVpWN0hIZlJmUlFyMEp3RlNzMGtlcTF1ZGZKb3gwV0IzU0dyMDZETllhM2tyRmFBVzdaZkt2XzBzRlB0ejBPbC1qMjdOblIyQ01ybVBlcHFncnp6azNEQVZKMGtJT0xIak03SUFqWnJwSGRON0JkUVNUUU9CRzg?oc=5",
-          "desc": "Fran González y un debut con el Sevilla que se resiste mundodeportivo.com",
+          "desc": "Fran González y un debut con el Sevilla que se resiste Mundo Deportivo",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T11:42:38+00:00"
         },
@@ -93,13 +100,6 @@
           "desc": "EL FEMENINO VISITARÁ LEZAMA EL SÁBADO 24 DE OCTUBRE DESDE LAS 12.00 HORAS Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T11:00:37+00:00"
-        },
-        {
-          "title": "CROACIA SE EJERCITA EN LA CIUDAD DEPORTIVA TRAS EL ENCUENTRO ANTE ESPAÑA",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmtVT1pzbVlIcXZPVW5VNVZWVTlWN2d3M1FzZFlmaXVidWlEbEZURTRuVTgtNlI1LUV0ZngzTFloVEl2QlJKdkRxWmlFSlBuWUNBV1dUSE5ZanJYQ1Bzb281VGFva0dJejZfMWNkTHQ0b0hmNXpEcmRBMnUyOE5sVmNjbm0wdU4xTGFwRnZ3eUs2TzM0NmZ1LXV1YllxUVJxWktNa3cxdm9ySFk?oc=5",
-          "desc": "CROACIA SE EJERCITA EN LA CIUDAD DEPORTIVA TRAS EL ENCUENTRO ANTE ESPAÑA Sevilla FC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T10:21:20+00:00"
         },
         {
           "title": "El Sevilla FC sigue preparando el trofeo Antonio Puerta",
@@ -185,6 +185,48 @@
       "icono": "⚽",
       "items": [
         {
+          "title": "Fidalgo asume la exigencia de un Betis de Champions: \"Somos ocho jugadores para tres posiciones\"",
+          "link": "https://www.marca.com/futbol/betis/2026/09/30/fidalgo-asume-exigencia-betis-champions-ocho-jugadores-tres-posiciones.html",
+          "desc": "El asturiano fue titular anoche con México y disputó 78 minutos en el empate frente a Perú",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-09-30T16:55:36+02:00"
+        },
+        {
+          "title": "Tello recuerda el Clásico que encendió a Guardiola: \"No podía sorprender a Mourinho\"",
+          "link": "https://www.estadiodeportivo.com/futbol/barcelona/tello-destapa-lio-del-clasico-2012-guardiola-comenzo-charla-enfadado-20260930-547602.html",
+          "desc": "Cristian Tello recuerda la tensión que se vivió en el vestuario del Barcelona antes del Clásico de 2012, cuando se filtró el once de Guardiola, y explica cómo afrontó aquel partido que acabó con derrota ante el Real Madrid de Mourinho Hay derrotas que se recuerdan por el resultado y otras por todo lo que ocurrió antes. Cristian Tello guarda en la memoria una de las noches más especiales de su etapa en el FC Barcelona, pero también una de las más extrañas. Era abril de 2012, el Real Madrid de José Mourinho visitaba el Camp Nou y Pep Guardiola se jugaba buena parte de sus opciones de pelear por la Liga. La reflexión de Cristian Tello tras su retirada del fútbol: \"Ahora lo hago de una manera diferente, tengo mi empresa de coches\" Cristian Tello se despide recordando la Copa del Betis y sus otros logros: \"Me considero un privilegiado. He disfrutado de cada viaje, cada ciudad, cada equipo, cada gol...\" El técnico azulgrana había preparado un once inesperado. Una de esas alineaciones con las que pretendía sorprender a Mourinho . Y Tello estaba entre los elegidos. El problema llegó antes de que comenzara el partido: la alineación se filtró . \"Entrábamos por la mañana en el Camp Nou, Guardiola ya puso la alineación y después volvimos por la tarde, cuando estábamos concentrados. Durante el mediodía, al comer, se filtró la alineación\", recuerda ahora el ya exfutbolista. La noticia cayó como un jarro de agua fría en el vestuario. Guardiola había diseñado el equipo pensando también en el factor sorpresa y, de repente, ese elemento había desaparecido. \" Fue una situación rara, porque Guardiola no podía sorprender a Mourinho como él hubiera querido\" , recuerda Tello. Guardiola no cambió el once A pesar de la filtración, el entrenador no dio marcha atrás. Mantuvo el equipo que había preparado y afrontó el Clásico con el plan previsto. Pero el ambiente ya no era el mismo. \"Guardiola ya comenzó la charla antes del partido en ese tono. Estaba enfadado. Nos decía que teníamos que ser una familia, una piña\". El mensaje del técnico no se limitó al jugador o jugadores que hubieran podido filtrar la alineación. Guardiola quería que el vestuario cerrara filas antes de un partido que podía resultar decisivo para el campeonato. Y ahí estaban también dos de los jóvenes que habían irrumpido con fuerza en el primer equipo: Tello e Isaac Cuenca . \"Me han salido muchas imágenes, tanto de mí como de Cuenca en aquel momento”, reconoce el exazulgrana, que recuerda aquella etapa como una oportunidad enorme para una generación que intentaba hacerse un sitio en uno de los mejores equipos del mundo. \"Guardiola sabía el potencial que teníamos\" Tello explica que Guardiola era muy exigente con ellos, pero que esa exigencia tenía un motivo. \" Él sabía, era consciente del potencial que podíamos tener jugando y de la ayuda que le podíamos dar a él\" . Con el paso del tiempo, el futbolista entiende que aquellas exigencias terminaron ayudándole a crecer. \"Para mí, eso me ha servido en un futuro para tener muchísima más exigencia cuando llego a estas etapas del campo y creo que me ha servido para mejorar\", señala el extremo que luego pasaría por el Betis o la Fiorentina, entre otros. \"Guardiola ya comenzó la charla antes del partido en ese tono. Estaba enfadado. Nos decía que teníamos que ser una familia, una piña\" \"> Aquella noche, sin embargo, el plan de Guardiola no terminó funcionando. El Real Madrid se impuso por 1-2 en el Camp Nou , un resultado que dejó al conjunto blanco con una ventaja prácticamente definitiva en la lucha por el campeonato. El equipo de Mourinho acabaría proclamándose campeón de Liga. El último gran Clásico de Guardiola Aquel partido tuvo además un significado especial por el momento que atravesaba el Barcelona. Era la última temporada de Guardiola y el técnico ya había decidido que no continuaría al frente del equipo. Para Tello, aquella decisión también tuvo consecuencias en el vestuario. \" Guardiola ya decidió que no continuaría y al vestuario le costó un poco . Cuando vienes de una dinámica tan buena, de ganar tantos títulos, para los jugadores fue difícil. Todo el vestuario quería que continuara\". Después llegaría Tito Vilanova, una temporada que terminaría con una Liga de 100 puntos, aunque marcada por la enfermedad del técnico y sus continuas ausencias. \" Fue una etapa muy difícil para el equipo . Fue una liga histórica de los 100 puntos, pero prácticamente día sí, día no, Tito estaba, no estaba\", recuerda. El vestuario también acusó aquella situación. \"Le guardaba mucho afecto a Tito y que estuviese viviendo una situación así es difícil para el vestuario”, apunta.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-30T14:51:54+00:00"
+        },
+        {
+          "title": "El Merendero de la Mari de Barcelona cierra por no poder pagar el alquiler de 53.000 euros al mes: “Llevábamos un año sufriendo”",
+          "link": "https://elpais.com/espana/catalunya/2026-09-30/el-merendero-de-la-mari-de-barcelona-cierra-por-no-poder-pagar-el-alquiler-de-53000-euros-al-mes-llevabamos-un-ano-sufriendo.html",
+          "desc": "La propiedad del histórico restaurante del Port Vell cuenta que la bajada de clientes ha sido drástica los últimos dos veranos",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-09-30T14:48:24+00:00"
+        },
+        {
+          "title": "Mourinho afronta un problema central en el Real Madrid ante el Villarreal",
+          "link": "https://www.estadiodeportivo.com/futbol/real-madrid/mourinho-afronta-problema-central-real-madrid-ante-villarreal-20260930-547618.html",
+          "desc": "El Real Madrid afronta el regreso a LaLiga con un problema en el centro de la defensa. Asencio pasará por quirófano, Huijsen está sancionado y Konaté apura su recuperación, mientras Militão acaba de volver al grupo tras meses sin competir. Mourinho tendrá que buscar soluciones para recibir al Villarreal José Mourinho tendrá que hacer encaje de bolillos para reconstruir su defensa de cara al próximo compromiso liguero. El Real Madrid recibirá al Villarreal el sábado 10 de octubre, a las 21:00 horas, en el Santiago Bernabéu, pero el parón internacional ha dejado al técnico portugués con varias dudas en una posición especialmente delicada. La situación ha cambiado en pocos días. Raúl Asencio, que había aparecido en algunas convocatorias durante este inicio de temporada, pasará por quirófano este jueves para solucionar una fractura por estrés en la tibia derecha. El club confirmó la intervención y las primeras estimaciones sitúan su periodo de recuperación entre dos y cuatro meses. Su ausencia se suma a la de Dean Huijsen. El central español fue expulsado en el derbi frente al Atlético de Madrid y tendrá que cumplir un encuentro de sanción, por lo que no podrá formar parte del plan de Mourinho ante el conjunto castellonense. El regreso de Ilia Topuria ya es una realidad Florentino Pérez regresa a la senda europea: el Real Madrid se reconcilia con Al Khelaifi Konaté, pendiente de llegar a tiempo El escenario tampoco es sencillo con Ibrahima Konaté . El francés sufrió una l esión en el ligamento colateral de la rodilla derecha durante la concentración con su selección y regresó a Madrid antes de tiempo. Las primeras previsiones apuntan a unas tres semanas de baja. El plazo deja al futbolista con opciones de llegar al partido contra el Villarreal, pero su presencia dependerá de cómo evolucione durante los próximos días. Konaté se había convertido en uno de los centrales habituales de Mourinho durante el comienzo del curso y ha sido una pieza importante en el arranque madridista. El problema para el entrenador no es únicamente que el francés llegue o no al encuentro. Si consigue recuperarse a tiempo, lo haría después de un periodo de inactividad y con muy pocos entrenamientos antes del regreso de la competición. Militão vuelve, pero lleva meses sin jugar La otra alternativa es Éder Militão . El brasileño ya ha comenzado a trabajar con sus compañeros después de varios meses apartado. De hecho, durante los entrenamientos del parón ya participó en algunos ejercicios junto al grupo. Sin embargo, el central no disputa un partido oficial desde el pasado mes de abril. Su vuelta a la dinámica colectiva supone un paso importante, pero todavía queda por comprobar cuándo estará preparado para competir al máximo nivel. Con este panorama, Antonio Rüdiger aparece como el único central plenamente disponible. El alemán podría convertirse en una pieza imprescindible para Mourinho frente al Villarreal si las circunstancias no cambian durante los próximos días. Tchouaméni vuelve a aparecer como alternativa Ante la falta de efectivos, Mourinho tiene una solución que ya conoce bien: Aurélien Tchouaméni. El centrocampista francés ha ejercido como central en diferentes etapas y podría volver a retrasar su posición si el técnico considera necesario completar la defensa con garantías. La cantera también representa otra posibilidad, aunque el cuerpo técnico tendrá que valorar si alguno de los jóvenes está preparado para asumir una responsabilidad de este calibre. Todavía quedan días para el Real Madrid - Villarreal, por lo que el escenario puede cambiar. El regreso de Konaté, la evolución de Militão y las decisiones de Mourinho determinarán finalmente quiénes ocupan el eje de la defensa en el Bernabéu. Lo que ya está confirmado es que el técnico tendrá que afrontar el regreso liguero con una zaga condicionada por las lesiones y las sanciones. La Selección española relanza a Oyarzabal y la Real Sociedad lo espera Joan Laporta vuelve a la carga: ﻿\"Con el Madrid se han roto relaciones, comparecieron en el caso Negreira solo para alargar el caso y justificar a su televisión\"",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-30T14:42:57+00:00"
+        },
+        {
+          "title": "Los datos avalan la apuesta del Valencia por Javier Aguirre: la permanencia en Primera, 'casi' garantizada en Mestalla",
+          "link": "https://www.estadiodeportivo.com/futbol/valencia/los-datos-avalan-apuesta-del-valencia-por-javier-aguirre-permanencia-primera-casi-garantizada-mestalla-20260930-547542.html",
+          "desc": "El técnico mejicano afronta por quinta vez el reto de llegar a un equipo español con la temporada iniciada en Primera división. Solo con el Leganés en la 2019/20, terminó descendiendo a Segunda. Esta ha sido la única vez en la que el 'vasco' ha visto como un equipo suyo terminó bajando al fútbol de plata El Valencia vuelve a estar en esta 2026/27 en una situación un tanto complicada a nivel clasificatorio. Después de siete jornadas, con el parón de selecciones por medio y con Carlos Corberán ya despedido, los de Mestalla optaron en primer lugar por la interinidad de Óscar Sánchez , que se saldó con un triunfo y una derrota. Días después se terminó por confirmar lo que era un secreto a voces y es que el Valencia apostaba por el regreso a España de un técnico carismático como es Javier Aguirre . El entrenador, apodado como 'el vasco Aguirre', vivió su última experiencia en el pasado Mundial , donde cuajó un gran papel con su selección, que además fue una de las anfitrionas junto a Estados Unidos y Canadá . Parecía que Javier Aguirre estaba viviendo ya sus últimos días como entrenador pero la llamada del Valencia , como el mismo confesó en su presentación, hizo que no tuviese otra opción que llegar a Mestalla . \"Nunca le puedo decir que no al Valencia \", afirmó el nuevo entrenador del Valencia. Desde Mestalla no se ha apostado por un técnico que podría salir cara o cruz como si ocurrió con un Corberán que no tenía experiencia en España . Javier Aguirre se podría decir que es un experto en situaciones límites y la del Valencia la es, tanto a nivel deportivo, como institucional con un divorcio claro entre la afición y la propiedad de Peter Lim. Los números no mienten y si el Valencia los comprobó, pudo ver que Javier Aguirre solo tiene un borrón en su cuenta particular de retos con equipos españoles y especialmente cuando se trata de darle un giro de 180 grados a la situación. Javier Aguirre, el especialista en salvar equipos del descenso a Segunda división Javier Aguirre ha entrenado en España durante un total de 15 temporadas, siendo la decimosexta la que afronta con el Valencia . De esa extensa lista de experiencias de Aguirre en Primera división , el técnico mejicano llegó con el curso ya empezado en cuatro ocasiones, cinco contando la 2026/27. Javier Aguirre, contundente en su presentación con el Valencia: \"No puedo vender lo que no tengo\" El 'efecto Aguirre' en el Valencia, visto desde México: \"Dependerá de si la plantilla está dispuesta a jugar con el cuchillo entre los dientes\" De esas cuatro temporadas se extraen una serie de conclusiones que al aficionado al Valencia , acostumbrado en los últimos años al sufrimiento sistemático aunque a veces haya habido momentos para ilusionarse, le den un buen puñado de esperanzas para creer en que en la última temporada de Me stalla, el equipo no firmará un descenso a Segunda que sería histórico y sumamente doloroso. Cuando Javier Aguirre salvó al Real Zaragoza La primera vez que Javier Aguirre aterrizaba en Primera división con una temporada ya empezada fue en la 2010/11. Lo hacía para dirigir a un histórico campeón de la Recopa como el Real Zaragoza y que ahora, por desgracia, pelea en el fútbol de barro de Primera RFEF . Javier Aguirre aterrizó en La Romareda con la jornada 11 ya disputada, los maños colistas y con solo 7 puntos de 33 disputados. El Real Zaragoza no lo tenía sencillo ya que llegaba a la última jornada con 42 puntos y en puestos de descenso. Un agónico triunfo de los zaragocistas en casa del Levante por 1-2 terminó suponiendo el primer éxito de Javier Aguirre como un técnico llamado para el rescate de un equipo. La historia se repitió con Javier Aguirre en el Espanyol, pero con más sufrimiento del esperado En el Espanyol , poco después del hito con el Real Zaragoza , Javier Aguirre se encontró a un cuadro perico en una situación aún peor a la de los maños. El Espanyol también era último pero después de 13 jornadas y con nueve puntos de 39 posibles. El Espanyol también acertó con la llegada de Javier Aguirre ya que después de 38 jornadas, los pericos terminaron decimoterceros con 44 puntos y dejando el descenso a ocho. El Espanyol de Javier Aguirre solo sumó un punto de los últimos 12 en juego \"> Pero el final de temporada fue mucho más agitado para los pericos de lo esperado ya que tan solo sumaron los pupilos de Javier Aguirre un punto de los últimos 12 en juego. A favor de los catalanes jugó que en la jornada 34, el descenso estaba a 11 puntos, por lo que caer a la Segunda división era muy complicado y dependía de un Deportivo de A Coruña que lo ganase todo, contando además con hasta seis equipos entre pericos y deportivistas. Javier Aguirre hace historia en el Mallorca Si hay un equipo en el que tengan especial estima hacia Javier Aguirre ese es el Mallorca . Sin ir más lejos, antes de llegar a Valencia , Son Moix había sido la última plaza del técnico mejicano y de donde se marchó después de tres temporadas. Pero el aterrizaje de Javier Aguirre en tierras baleares llegó posiblemente avalado por su buen hacer en situaciones difíciles. En la temporada 2021/22, el Mallorca ocupaba la tercera plaza por la cola en LaLiga después de 29 jornadas. Los bermellones sumaban 26 puntos y Javier Aguirre , con esa garra que transmite a sus jugadores, terminó obrando nuevamente el milagro de la permanencia en Primera división con siete puntos de los últimos nueve posibles. El Mallorca no logró salir de puestos de descenso hasta la penúltima jornada y el triunfo en la última fecha confirmó la continuidad en Primera de los bermellones. El borrón del Leganés para Javier Aguirre De las cuatro veces en las que Javier Aguirre ha llegado a un equipo con problemas, solo en una de esas ocasiones, el mejicano no pudo cumplir con su cometido. Fue en el Leganés en la campaña 2019/20. Javier Aguirre recalaba en el cuadro pepinero en la jornada 13, con los madrileños siendo colistas y con solo 5 puntos. El Leganés se quedó a solo un punto de la salvación con Aguirre en el banquillo \"> El Leganés se quedó a solo un punto de la salvación en Primera división en la que era su cuarta temporada consecutiva en la élite del fútbol español. Con 37 puntos se salvó el Celta de Vigo en una de las permanencias más baratas que se recuerdan en las últimas campañas en Primera división . Los borrones más importantes de Javier Aguirre Javier Aguirre , además del Valencia, donde acaba de aterrizar, ha dirigido en España a Osasuna , Atlético de Madrid, Real Zaragoza, Espanyol , Leganés y Real Mallorca . De estos seis equipos, solo en el Atlético de Madrid en la segunda de las dos campañas en las que estuvo y en el Real Zaragoza en la 2011/12 (después de salvarlo el curso anterior), terminó despedido antes del final de temporada, habiendo empezado el curso desde el comienzo. Por tanto, más allá de estos 'borrones' en una larga trayectoria en España , Javier Aguirre tiene los mimbres necesarios para sacar al Valencia de los puestos de descenso. Pero en Mestalla el ambiente no es el mejor y Javier Aguirre también tendrá que lidiar con eso en un equipo que además de despedir a Carlos Corberán , también cesó a Ron Gourlay , director deportivo hasta hace escasas semanas y el cual ha suplido Braulio .",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-30T14:37:22+00:00"
+        },
+        {
+          "title": "Javi Martón recupera el olfato",
+          "link": "https://www.estadiodeportivo.com/futbol/eibar/javi-marton-recupera-olfato-20260930-547619.html",
+          "desc": "El delantero ha roto la racha negativa en la que estaba inmerso en este comienzo de temporada después de haber marcado en el último encuentro de Segunda división en el que el equipo armero se impuso por 3-2 a la UD Las Palmas, a priori, un rival directo por la lucha por el ascenso a Primera división La SD Eibar está firmando un comienzo de temporada muy bueno gracias al cual se ha situado en la segunda posición de la clasificación de Segunda división después de haber enlazado seis victorias consecutivas. Una racha que no es fácil de lograr en una competición en la que la igualdad es la nota predominante y característica. No es la única buena noticia que tiene el club armero ya que estos seis triunfos también están sirviendo para recuperar a jugadores que no había comenzado inspirados como es el caso del goleador Javi Martón . Javi Martón se estrena esta temporada En la SD Eibar estaban muy contentos por el inicio de temporada que estaban realizando, pero al mismo tiempo se buscaba que todos y cada uno de los miembros de la plantilla aporten como saben en la lucha que tiene el equipo armero para ascender a Primera división . Una de las pequeñas preocupaciones que estaba en el ambiente de la SD Eibar era la falta de gol de Javi Martón la cual ya se ha solucionado después de que el delantero perforara la portería de la UD Las Palmas en el último encuentro liguero. Javier Martón es fundamental para la SD Eibar ya que el delantero de Villafranca la temporada pasado marcó 14 goles y dio 2 asistencias en los 39 partidos de Segunda división que disputó. Una cifra que le gustaría, al menos, igualar al ariete, el cual estaba bloqueado de cara a la portería rival en este comienzo de campaña 2026/2027. Javi Martón ha marcado su primer gol de la temporada cuando en la anterior anotó un total de 14 tantos \"> Y es que en seis partidos, Javi Martón no había estado nada fino a la hora de marcar gol ya que había participado en todos y cada uno de los partidos disputado hasta el momento, pero sin tener puntería. Todo se acabó el pasado fin de semana cuando el delantero de la SD Eibar le marcó a la UD Las Palmas y fue decisivo para que el equipo armero ganara a un rival directo en la pelea por el ascenso a Primera división. De hecho, Javi Martón marcó el que, a la postre, fue el gol decisivo ya que hizo el 3-1 cuando el encuentro finalizó con 3-2. Gracias a ese tanto, la SD Eibar puede conservar la segunda posición de la clasificación con 18 puntos siendo el único que le sigue el ritmo al actual líder, el CD Castellón que acumula 19 puntos. Por su parte, Javi Martón espera que este gol sea un punto de inflexión en lo que va de temporada y que esto le sirva para recuperar el instinto goleador de la campaña pasada lo cual puede ser clave para que la SD Eibar consiga el ascenso a Primera división . Por el momento, tanto el equipo armero como el delantero de Villafranca van por el buen camino para hacer una campaña que se quede en el recuerdo de una afición del club vasco que sueña con volver a jugar en la élite del fútbol español. La próxima cita liguera de la SD Eibar es contra el Albacete Balompié , a domicilio, este mismo sábado.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-09-30T14:34:04+00:00"
+        },
+        {
           "title": "Lamine Yamal, la estrella de la Selección Española y del Barcelona: \"Es un orgullo para todos los que tenemos raíces africanas ver a nominados africanos al Balón de Oro\"",
           "link": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/lamine-yamal-estrella-seleccion-espanola-del-barcelona-orgullo-para-todos-los-que-tenemos-raices-africanas-ver-nominados-africanos-balon-oro-20260930-547599.html",
           "desc": "Lamine Yamal sigue dando pasos hacia la élite mundial. El delantero del Barcelona habló sobre sus raíces africanas y el orgullo que siente al ver a más jugadores del continente entre los candidatos al Balón de Oro, un premio que también aparece entre sus grandes objetivos Lamine Yamal afronta la recta final hacia el Balón de Oro 2026 con la ambición intacta y sin esconder que le gustaría conquistar el prestigioso premio. El atacante del Barcelona, durante la concentración con España, concedió una entrevista al medio egipcio ON Sport en la que habló de sus opciones para hacerse con el galardón y, especialmente, del orgullo que siente por sus raíces africanas. El futbolista azulgrana ha vuelto a situarse entre los grandes nombres de la carrera por el Balón de Oro después de un inicio de temporada en el que está teniendo un papel protagonista tanto con el Barcelona como con la selección española. De hecho, Lamine ya había defendido públicamente su candidatura días antes en una entrevista con TVE, donde aseguró que hay pocos futbolistas en Europa que hagan disfrutar tanto como él y que precisamente eso es o que puede marcar la diferencia. Ahora, el internacional español puso el foco en una cuestión diferente: la presencia de jugadores africanos entre los nominados. Lamine Yamal, 19 años: \"Si tuviera un hijo, podría cuidar de él\" El tema \"sociológico\" de Lamine Yamal, candidato a Balón de Oro: \"Es negro, es musulmán y juega en el Barcelona\" \"Es un orgullo para nosotros ver nominados a jugadores africanos\" Lamine se mostró especialmente satisfecho al comprobar que futbolistas con raíces africanas forman parte de la lista de candidatos al premio. Para el jugador del Barcelona, se trata de una cuestión que trasciende al propio fútbol y que representa a muchos jugadores que, como él, tienen vínculos familiares con el continente. \" Creo que es un orgullo para todos nosotros, los que tenemos raíces, los que somos de algún país africano en el que tenemos familia, los que hemos estado ahí... es un orgullo para nosotros ver nominados a jugadores africanos\" , explicó. El extremo también quiso ir un paso más allá y expresó su deseo de que esta representación siga aumentando en los próximos años. Su mensaje no se centró únicamente en la nacionalidad, sino en la posibilidad de que cada vez más futbolistas africanos puedan alcanzar la élite y competir por los grandes reconocimientos individuales. \" Estamos contentos, ojalá que haya muchísimos más, pero creo que tiene que ver con el juego y no con la nacionalidad. Ojalá que sí, que seamos un montón de africanos... estaremos todos muy orgullosos\" , añadió. Las palabras de Lamine llegan pocos días después de que Kylian Mbappé también reivindicara públicamente sus raíces africanas durante su particular carrera por el Balón de Oro. El francés expresó su deseo de ganar el premio y dedicárselo a África. Marruecos y Guinea Ecuatorial, parte de su identidad La relación de Lamine Yamal con África viene marcada por su familia. El futbolista nació en Esplugues de Llobregat y creció en Catalunya, pero su padre, Mounir Nasraoui, es de origen marroquí, mientras que su madre, Sheila Ebana, tiene raíces de Guinea Ecuatorial. El propio jugador ha explicado en diferentes ocasiones cómo esa mezcla cultural ha formado parte de su crecimiento personal. En una entrevista en 'Universo Valdano', Lamine destacó precisamente lo que supone haber crecido entre diferentes culturas . \"Ser el producto de dos culturas te ayuda en todo, como ser humano, a la hora de conocer a otra persona sabes que tienes que ayudarle\" , explicó entonces. \"Ser el producto de dos culturas te ayuda en todo, como ser humano, a la hora de conocer a otra persona sabes que tienes que ayudarle\" \"> Ahora ha vuelto a reivindicar esa parte de su identidad en un momento en el que su nombre aparece entre los candidatos al mayor premio individual del fútbol. Un Balón de Oro con fecha marcada La gala del Balón de Oro 2026 se celebrará el 26 de octubre en el London Palladium Theatre de Londres , en una edición especial por el 70º aniversario del premio . Lamine forma parte de la lista oficial de nominados junto a otros grandes nombres del fútbol mundial. La votación, eso sí, ya ha concluido, por lo que sus actuaciones más recientes con España no podrán modificar el resultado. El delantero afronta así las próximas semanas con la certeza de que su nombre estará entre los protagonistas de una gala en la que también estará muy presente el debate sobre quién merece suceder a Ousmane Dembélé. Mientras tanto, Lamine continúa mostrando públicamente las dos caras que acompañan a su figura: la ambición de quien quiere estar entre los mejores del mundo y el orgullo por unas raíces familiares que siguen formando parte de su identidad. Maria Majó, vecina de Lamine Yamal en Rocafonda: \"Salía a jugar al fútbol a la pista con los niños marroquíes del barrio. Es muy bueno que se muestre orgulloso del barrio\" Sheila, madre de Lamine Yamal, zanja el debate sobre sus orígenes: \"Mi hijo es ecuatoguineano y me duele que la gente diga que no lo es\"",
@@ -248,6 +290,13 @@
           "fecha": "2026-09-30T15:14:22+02:00"
         },
         {
+          "title": "En el nombre del padre<br>",
+          "link": "https://www.marca.com/futbol/real-madrid/2026/09/30/ema-modric-nombre-padre.html",
+          "desc": "La hija de Luka se incorporó esta temporada al cadete del Real Madrid.",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-09-30T15:14:22+02:00"
+        },
+        {
           "title": "García Plaza responde sobre la posible salida de Rubén Vargas del Sevilla y pide la renovación de Castrín: \"No puedo garantizar nada en enero\"",
           "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/garcia-plaza-responde-sobre-posible-salida-ruben-vargas-del-sevilla-pide-renovacion-castrin-puedo-garantizar-nada-enero-20260930-547604.html",
           "desc": "Cuestionado sobre la posibilidad de que el extremo se marchara en enero, el míster dejó abierto todos los escenarios mientras asegura que tratará de recuperarlo para la causa, a la par que reivindica la base del equipo del curso pasado y aspira a sentar las bases atrás con la ampliación del gallego Luis García Plaza repasó la actualidad sevillista y se detuvo en nombres propios en una larga entrevista en la que de nuevo tuvo su cuota de protagonismo Rubén Vargas , por el que se le pregunta en casi todas sus comparecencias, sobre todo por su fecha de vuelta, si bien ahora fue más allá. En esta ocasión, a tenor de que todavía no ha reaparecido y de la competencia en banda, se le preguntó directamente sobre si existe la posibilidad de que salga en enero tras no hacerlo en verano y la respuesta de García Plaza deja abierto todos los escenarios. \"Rubén ha tenido problemas físicos y espero sacar su mejor rendimiento. Él tiene que coger ese punto de forma, pero ahora hay que quitarle el sitio a Miguel Sierra. No puedo garantizar quien va a estar, si va a seguir en enero, pero ni él, ni ningún jugador\", apuntó en Canal Sur Radio el técnico madrileño, que en otras intervenciones ya le ha dado un toque de atención al internacional suizo y que hoy también ha querido poner el foco en la base del equipo que permaneció. García Plaza reivindica a la base del equipo que permaneció en Nervión En este sentido, García Plaza afirma que solo se habla de los nuevos, pero los que se quedaron están siendo fundamentales en el rendimiento del equipo en el arranque liguero. \"Hay muchos nombres. El año pasado había que salvarse como sea. El día que se confirmó que seguíamos, le dije mi idea, que teníamos que renovar el vestuario al máximo. El presidente me dijo el nombre de José Ignacio Navarro. Nos pusimos a trabajar. Me gusta recordar que Suazo, Castrín, Kike, Agoumé, Miguel Sierra... estaban aquí. No valoro porque algunos no rindieron antes, pero están rindiendo\", indicó el míster, que quiere mantener los pies en el suelo y quiso recordar que, al margen de Fofana, era difícil de predecir lo que aportarían las otras contrataciones. Cuidado en el Sevilla con la renovación de Luis García Plaza Los cuatro elegidos por García Plaza en el Sevilla tienen nombre y apellido: tres 'repetidores' y una cara nueva \"Nosotros tenemos que tener claro lo que queremos hacer. Después de estos dos años, no debemos vender ni ser derrotistas. Hemos fichado jugadores, como Robbie Ure, que viene de una liga menor, o a Stassin, que es un crío de 21 años . Quitando a Fofana, que todos sabemos el nivel que tiene, el resto vienen a sumar y crecer\", apuntó el entrenador sevillista, que volvió a contar lo sucedido con Fofana: \"Cuando se cae su fichaje por el Lyon, escuchó el interés del Sevilla y el Sevilla sigue siendo el Sevilla\". \"Hemos fichado jugadores, como Robbie Ure, que viene de una liga menor, o a Stassin, que es un crío de 21 años. Quitando a Fofana, que todos sabemos el nivel que tiene, el resto vienen a sumar y crecer\" \"> La salida de Oso y la renovación de Castrín Además, volvió a reconocer que la salida de Oso fue dura y que ha tenido la oportunidad después de hablar con él, a la par que recalcó su interés ahora es hablar de los que están. \"Fue un momento duro, pero él ha salido, hablé con él y se está adaptando. Le deseo lo mejor. No es lo mismo tener una baja por lesión, pues estábamos jugando con el mercado abierto. No es fácil, pero creo que el equipo estuvo muy bien y reaccionó\", apuntó Plaza, que espera que se consume cuanto antes la renovación de Andrés Castrín , en el que confía plenamente. \"Desde que llegué le dije que tenía que jugar, era mi sensación. Ojalá renueve, él puede marcar un tiempo aquí. Nosotros no hablamos de su renovación, hablamos de fútbol, del día a día. Ojalá renueve, si logramos asentar esas bases con centrales como Castrín-Kike, con gente que quiere estar en el club...\", señaló con claridad meridiana el técnico capitalino, que, en relación a los últimos fichajes, indicó que, aunque lo conocía, Fofana le está sorprendiendo y destacó la intuición Stassin. García Plaza pide más a Alfon \"Fofana me ha sorprendido, ha llegado con muchas ganas. Ha hecho cosas que, como entrenador, sabes que lo ha hecho él, por su experiencia y talento. Lucas Stassin lee el fútbol muy bien, tiene intuición dentro del área\", apuntó García Plaza, que resalta la aportación de Félix Correia y que espera que Alfon se postule como otra opción para el costado : \"Félix es un chico con mucho recorrido, mucha pierna. Nos da un trabajo defensivo que ayuda mucho. También tenemos ahí a Alfon y espero que pueda dar un paso adelante. Esperamos mucho de él\".",
@@ -302,55 +351,6 @@
           "desc": "Kasper Schmeichel admite que el retiro forzado por una lesión le está resultando difícil de gestionar",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-09-30T14:32:01+02:00"
-        },
-        {
-          "title": "Los Mossos desahucian a una mujer vulnerable que ocupaba un piso en Barcelona",
-          "link": "https://www.eldiario.es/catalunya/mossos-desahucian-mujer-vulnerable-ocupaba-piso-barcelona_1_13550570.html",
-          "desc": "La afectada trató de frenar sin éxito el desalojo con un escrito in extremis este martes tras la aprobación del decreto de vivienda La acampada de Barcelona se prepara para resistir indefinidamente Rebel, una mujer en riesgo de exclusión que ocupaba un piso en el barrio de Sants de Barcelona, ha sido desahuciada este miércoles. Un contundente dispositivo de los Mossos d’Esquadra ha acudido al lugar para ejecutar el lanzamiento, que se ha llevado a cabo pese a las protestas de algunos vecinos pasadas las 13:00 horas. La afectada, que cuenta con un informe de vulnerabilidad de los servicios sociales del Ayuntamiento de Barcelona, en parte debido a un desahucio previo hace más de un año, trató de frenar in extremis el desalojo. En un escrito remitido al juzgado este martes pidió que se paralizara en base al decreto-ley de vivienda aprobado por el Gobierno, pero se lo denegaron, según explican desde el Grup d’Habitatge de Sants. Estos activistas, que trataron de negociar con la propiedad también sin éxito, han convocado a los vecinos a primera hora de este miércoles para paralizar el desahucio en la puerta. Pero el despliegue policial se impuso y la comitiva judicial ejecutó finalmente el desalojo. Rebel, que vive sola, no tiene por ahora ningun techo al que recurrir. Desde el Ayuntamiento le han ofrecido tres noches en un albergue.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-30T12:30:40+00:00"
-        },
-        {
-          "title": "Laporta, sobre el fichaje de Lautaro: \"Un día llamé a Marotta, él y yo, sin intermediarios, pero ni siquiera me dejó terminar de hablar\"",
-          "link": "https://www.estadiodeportivo.com/futbol/barcelona/laporta-sobre-fichaje-lautaro-dia-llame-marotta-sin-intermediarios-pero-siquiera-dejo-terminar-hablar-20260930-547600.html",
-          "desc": "El presidente blaugrana ha desvelado que este pasado verano intentaron el fichaje del capitán del Inter para reforzar su delantera, pero que no hubo manera El pasado verano el Fútbol Club Barcelona intentó por todos los medios el fichaje de un recambio para Robert Lewandowski . El nombre elegido era el de Julián Álvarez y el club blaugrana comenzó una estrategia para intentar llevarlo desde Madrid a Barcelona . El jugador mandó algún que otro mensaje público para intentar forzar la situación pero el Atlético de Madrid resistió una especie de guerra fría que se alargó casi todo el verano negándose a dejar salir al delantero argentino. Así, el Barça activó otras opciones a la espera de ver si la opción de Julián Álvarez se desbloqueaba o no y una de ellas fue la de Laurato Martínez, delantero del Inter de Milán, tal y como ha desvelado el propio Joan Laporta tras asistir a la asamblea de la European Footballs Club (EFC) a varios medios italianos, entre ellos el Corriere dello Sport . \"Quería fichar a Lautaro y era un futbolista que nos interesaba muchísimo. Nuestra intención era intentar llevarlo al Barcelona porque considerábamos que podía ser una pieza extraordinaria para nosotros. Les contaré cómo pasó. Un día llamé a Beppe Marotta: él y yo, sin intermediarios. Le dije que estaría encantado de tener a Lautaro en mi equipo y que admiraba mucho al chico. Pero ni siquiera me dejó terminar de hablar. Me dijo claramente que el jugador no estaba en venta y que él no sería quien decidiría si se marchaba o no. Así que puse fin a todas las conversaciones, no había manera de seguir adelante. Marotta y yo tenemos una relación de confianza mutua, no fuimos más allá por respeto a él y al Inter\", ha destapado el presidente del Barcelona. \"El Inter me dijo claramente que el jugador no estaba en venta y que él no decidiría si se marchaba o no\" \"> Joan Laporta también habló de otro nombre propio de la Serie A como es Cesc Fábregas, técnico del Como, y del que ya se ha desvelado que tiene una cláusula en su contrato que facilitaría su salida al Barça en caso de darse la situación. \" Cesc es uno de los nuestros y nos produce mucha satisfacción comprobar todo lo que está consiguiendo en el Como. Se merece este éxito. Será muy especial volver a recibirlo en el Camp Nou cuando nos enfrentemos en la Champions\", ha reconocido aunque su futuro no quiso decir mucho más: \" Cesc conoce perfectamente nuestra forma de entender el fútbol y lo que representa el Barcelona porque se formó aquí y siempre tendrá esta casa abierta. Nos gusta su idea futbolística y cómo interpreta el juego. Dicho esto, en estos momentos tenemos a un entrenador extraordinario como Hansi Flick y estamos encantados con todo lo que está consiguiendo.\" Y es que Laporta está encantado con el rendimiento que está sacando Hansi Flick a su plantilla. \"El Barcelona vuelve a transmitir respeto entre sus rivales y Flick nos ha convencido completamente con el trabajo que está realizando. Los resultados y el fútbol del equipo son muy buenos , aunque internamente insistimos en que debemos mantener los pies en el suelo y no dejarnos llevar por el momento\", ha recalcado en una entrevista donde ha tratado otros asuntos. \"Cesc conoce nuestra forma de entender el fútbol, nos gusta pero en estos momentos tenemos a un entrenador extraordinario como Hansi Flick\" \"> Cesc y Barça, condenados a reencontrarse: desvelada la cláusula de su salida Joan Laporta vuelve a la carga: ﻿\"Con el Madrid se han roto relaciones, comparecieron en el caso Negreira solo para alargar el caso y justificar a su televisión\" El Balón de Oro \"Para mí, Lamine debe estar por delante de todos. En estos momentos no veo a ningún futbolista superior a él. Tiene cualidades que recuerdan a los grandes jugadores que han marcado la historia de este deporte y, además, ya sabe lo que significa proclamarse campeón del mundo\". El adiós de Messi a Argentina \"Cuando Messi deje la selección estará marchándose, para mí, el mejor futbolista que ha existido. Johan Cruyff siempre fue mi gran referente y mi héroe, pero después apareció Leo. Siempre he sentido hacia él un cariño prácticamente paternal y ese sentimiento se ha hecho todavía mayor desde el fallecimiento de Jorge. Lo llevo en el corazón y su despedida supondrá también cerrar una época del fútbol que muchos hemos admirado profundamente\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-30T12:30:08+00:00"
-        },
-        {
-          "title": "Mercedes Vitoria y sus proveedores se alían para ganar flexibilidad con ayuda del Gobierno vasco",
-          "link": "https://www.eldiario.es/motor/sector_y_mercado/mercedes-vitoria-proveedores-alian-ganar-flexibilidad-ayuda-gobierno-vasco_1_13550500.html",
-          "desc": "El proyecto contempla una inversión público-privada inicial de 181 millones y tiene como objetivo mejorar la capacidad tecnológica y de adaptación productiva con la llegada del nuevo modelo eléctrico VLE El Barómetro Movilidad+Auto desvela las tendencias del sector en un encuentro en Barcelona La fábrica de Mercedes-Benz de Vitoria y once de sus proveedores vascos, nueve de ellos pymes, se han aliado para transformar los procesos productivos y ganar flexibilidad ante los cambios tecnológicos y de demanda que afronta la automoción. El proyecto, impulsado por el Gobierno vasco dentro de su Plan de Industria-Euskadi 2030, contempla una inversión público-privada inicial de 181 millones de euros entre 2026 y 2028, de los que alrededor de 61 millones se dedicarán a investigación, desarrollo e innovación tecnológica. El lehendakari, Imanol Pradales, y el consejero de Industria, Transición Energética y Sostenibilidad, Mikel Jauregi, han presentado este miércoles en la planta de Mercedes-Benz de Vitoria-Gasteiz el Proyecto Transformador 'Fabricación Flexible de la nueva Automoción', una iniciativa con la que Euskadi pretende en un laboratorio de vanguardia de sistemas de fabricación capaces de adaptarse rápidamente a las nuevas arquitecturas de vehículos y a la evolución del mercado en pleno proceso de electrificación. La iniciativa llega en un momento especialmente relevante para la planta vitoriana, que este año ha iniciado la producción del nuevo Mercedes-Benz VLE , el modelo eléctrico que sustituye al EQV y que incorpora nuevas funciones electrónicas, tecnologías avanzadas y sistemas de seguridad. La factoría tiene además por delante nuevos lanzamientos y deberá compatibilizar la fabricación de vehículos de combustión y eléctricos, aumentando la capacidad de sus líneas para responder a diferentes escenarios de demanda. Mejora de la competitividad La flexibilidad se convierte así en uno de los principales activos industriales del proyecto. El director de Mercedes-Benz Vitoria, Bernd Krottmayer, ha señalado que la compañía invierte en la planta “porque queremos asegurar que nuestra planta siga siendo una de las más competitivas del grupo Mercedes-Benz”. Para ello, ha considerado “clave” disponer de instalaciones y procesos flexibles que permitan adaptarse con mayor rapidez a los cambios del mercado. Según ha explicado Krottmayer, la iniciativa permitirá flexibilizar las líneas de producción para fabricar diferentes tipos de vehículos en una misma planta. Mercedes-Benz aportará 20 millones de euros de los 181 millones previstos, mientras que el resto procederá de la inversión del conjunto del proyecto y del apoyo público. La transformación no se limitará a la fábrica. Mercedes-Benz Vitoria liderará un consorcio en el que participan 11 empresas vascas, nueve de ellas pymes, además de agentes de la Red Vasca de Ciencia, Tecnología e Innovación, con Tecnalia al frente, el clúster de automoción ACICAE y la unidad de I+D BAM. El objetivo es combinar las capacidades industriales y tecnológicas existentes en Euskadi para desarrollar procesos y soluciones que puedan aplicarse a la fabricación de la próxima generación de vehículos. Entre las compañías participantes figura MB Sistemas, del grupo Mondragón. Su consejero delegado, Borja García, ha explicado que su contribución al proyecto se centrará en aprovechar mediante inteligencia artificial el gran volumen de datos que se generan durante los procesos de fabricación. La fábrica del futuro El nuevo sistema productivo busca, por tanto, que la fábrica pueda responder con mayor agilidad a los cambios de producto y de tecnología. Los nuevos VLE incorporan el 100% de las piezas de nuevo diseño y suponen, según el Gobierno vasco, un salto tecnológico inédito hasta ahora en Euskadi para el segmento de furgonetas de tamaño medio. El desarrollo de procesos más adaptables pretende reforzar la capacidad de la planta para asumir la evolución de la gama y contribuir a consolidar su carga de trabajo futura. Durante la presentación, Pradales ha situado este proyecto dentro de una estrategia más amplia para reforzar la industria vasca. “La carrera por hacer realidad la fábrica del futuro ya está en marcha y Euskadi tiene que luchar por estar entre los mejores”, ha afirmado. El lehendakari ha defendido la colaboración entre empresas, Administración y centros tecnológicos para afrontar las transformaciones digital y energética y ha reclamado “más centros de decisión, empresas de mayor tamaño, mayor intensidad tecnológica y una industria descarbonizada que no pierda competitividad”. Pradales también ha señalado que Europa debe adoptar “las decisiones adecuadas para proteger su mercado y su industria”, en un contexto de creciente competencia internacional y de transformación de las cadenas industriales. El diputado general de Álava, Ramiro González, ha destacado por su parte el peso de Mercedes en la economía del territorio después de siete décadas de actividad. Según ha señalado, el impacto de la compañía trasciende la propia factoría y alcanza unos 40.000 empleos directos e indirectos. González ha defendido que inversiones como la anunciada permiten avanzar hacia un modelo de fabricación “cada vez más flexible” y preparado para responder a la evolución tecnológica y de la demanda, manteniendo además una perspectiva de “neutralidad tecnológica”. La iniciativa de Mercedes-Benz Vitoria es uno de los 25 Proyectos Transformadores incluidos actualmente en el Plan de Industria-Euskadi 2030. De ellos, 18 ya se han puesto en marcha: 11 están liderados por el sector público y siete por empresas privadas. Estos siete proyectos privados movilizan más de 860 millones de euros de inversión inicial, de los que 429 millones corresponden a I+D y desarrollo tecnológico, y prevén crear más de 3.850 empleos y arrastrar a otras 171 empresas, en su mayoría pymes, del tejido industrial vasco.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-30T12:29:44+00:00"
-        },
-        {
-          "title": "El calvario de Raúl Asencio sigue: estará varios meses de baja tras pasar mañana por el quirófano",
-          "link": "https://www.20minutos.es/deportes/futbol/calvario-raul-asencio-sigue-estara-varios-meses-baja-tras-pasar-por-quirofano-este-jueves_7043228_0.html",
-          "desc": "El central canario sufre \"una fractura por estrés en la tibia de la pierna derecha\" y se operará este jueves, según ha informado el Real Madrid en un comunicado.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-30T14:28:35+02:00"
-        },
-        {
-          "title": "Tello destapa el lío del Clásico de 2012: \"Guardiola comenzó la charla enfadado\"",
-          "link": "https://www.estadiodeportivo.com/futbol/barcelona/tello-destapa-lio-del-clasico-2012-guardiola-comenzo-charla-enfadado-20260930-547602.html",
-          "desc": "Cristian Tello recuerda la tensión que se vivió en el vestuario del Barcelona antes del Clásico de 2012, cuando se filtró el once de Guardiola, y explica cómo afrontó aquel partido que acabó con derrota ante el Real Madrid de Mourinho Hay derrotas que se recuerdan por el resultado y otras por todo lo que ocurrió antes. Cristian Tello guarda en la memoria una de las noches más especiales de su etapa en el FC Barcelona, pero también una de las más extrañas. Era abril de 2012, el Real Madrid de José Mourinho visitaba el Camp Nou y Pep Guardiola se jugaba buena parte de sus opciones de pelear por la Liga. La reflexión de Cristian Tello tras su retirada del fútbol: \"Ahora lo hago de una manera diferente, tengo mi empresa de coches\" Cristian Tello se despide recordando la Copa del Betis y sus otros logros: \"Me considero un privilegiado. He disfrutado de cada viaje, cada ciudad, cada equipo, cada gol...\" El técnico azulgrana había preparado un once inesperado. Una de esas alineaciones con las que pretendía sorprender a Mourinho . Y Tello estaba entre los elegidos. El problema llegó antes de que comenzara el partido: la alineación se filtró . \"Entrábamos por la mañana en el Camp Nou, Guardiola ya puso la alineación y después volvimos por la tarde, cuando estábamos concentrados. Durante el mediodía, al comer, se filtró la alineación\", recuerda ahora el ya exfutbolista. La noticia cayó como un jarro de agua fría en el vestuario. Guardiola había diseñado el equipo pensando también en el factor sorpresa y, de repente, ese elemento había desaparecido. \" Fue una situación rara, porque Guardiola no podía sorprender a Mourinho como él hubiera querido\" , recuerda Tello. Guardiola no cambió el once A pesar de la filtración, el entrenador no dio marcha atrás. Mantuvo el equipo que había preparado y afrontó el Clásico con el plan previsto. Pero el ambiente ya no era el mismo. \"Guardiola ya comenzó la charla antes del partido en ese tono. Estaba enfadado. Nos decía que teníamos que ser una familia, una piña\". El mensaje del técnico no se limitó al jugador o jugadores que hubieran podido filtrar la alineación. Guardiola quería que el vestuario cerrara filas antes de un partido que podía resultar decisivo para el campeonato. Y ahí estaban también dos de los jóvenes que habían irrumpido con fuerza en el primer equipo: Tello e Isaac Cuenca . \"Me han salido muchas imágenes, tanto de mí como de Cuenca en aquel momento”, reconoce el exazulgrana, que recuerda aquella etapa como una oportunidad enorme para una generación que intentaba hacerse un sitio en uno de los mejores equipos del mundo. \"Guardiola sabía el potencial que teníamos\" Tello explica que Guardiola era muy exigente con ellos, pero que esa exigencia tenía un motivo. \" Él sabía, era consciente del potencial que podíamos tener jugando y de la ayuda que le podíamos dar a él\" . Con el paso del tiempo, el futbolista entiende que aquellas exigencias terminaron ayudándole a crecer. \"Para mí, eso me ha servido en un futuro para tener muchísima más exigencia cuando llego a estas etapas del campo y creo que me ha servido para mejorar\", señala el extremo que luego pasaría por el Betis o la Fiorentina, entre otros. \"Guardiola ya comenzó la charla antes del partido en ese tono. Estaba enfadado. Nos decía que teníamos que ser una familia, una piña\" \"> Aquella noche, sin embargo, el plan de Guardiola no terminó funcionando. El Real Madrid se impuso por 1-2 en el Camp Nou , un resultado que dejó al conjunto blanco con una ventaja prácticamente definitiva en la lucha por el campeonato. El equipo de Mourinho acabaría proclamándose campeón de Liga. El último gran Clásico de Guardiola Aquel partido tuvo además un significado especial por el momento que atravesaba el Barcelona. Era la última temporada de Guardiola y el técnico ya había decidido que no continuaría al frente del equipo. Para Tello, aquella decisión también tuvo consecuencias en el vestuario. \" Guardiola ya decidió que no continuaría y al vestuario le costó un poco . Cuando vienes de una dinámica tan buena, de ganar tantos títulos, para los jugadores fue difícil. Todo el vestuario quería que continuara\". Después llegaría Tito Vilanova, una temporada que terminaría con una Liga de 100 puntos, aunque marcada por la enfermedad del técnico y sus continuas ausencias. \" Fue una etapa muy difícil para el equipo . Fue una liga histórica de los 100 puntos, pero prácticamente día sí, día no, Tito estaba, no estaba\", recuerda. El vestuario también acusó aquella situación. \"Le guardaba mucho afecto a Tito y que estuviese viviendo una situación así es difícil para el vestuario”, apunta.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-30T12:26:19+00:00"
-        },
-        {
-          "title": "Barcelona quiere incrementar el uso del transporte público para entrar y salir de la ciudad",
-          "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-plantea-incrementar-uso-transporte-publico-para-entrar-salir-ciudad_7043239_0.html",
-          "desc": "El Ayuntamiento lanzará próximamente el concurso para realizar un análisis con mirada \"metropolitana y multimodal\".",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-30T14:25:35+02:00"
-        },
-        {
-          "title": "Florentino Pérez regresa a la senda europea: el Real Madrid se reconcilia con Al Khelaifi",
-          "link": "https://www.estadiodeportivo.com/futbol/real-madrid/florentino-perez-regresa-senda-europea-real-madrid-reconcilia-con-khelaifi-20260930-547596.html",
-          "desc": "El presidente blanco avanza hacia la reunificación con los grandes clubes continentales después de varios años de enfrentamiento por la Superliga y tras el acuerdo alcanzado con UEFA El Real Madrid está cada vez más cerca de cerrar una etapa marcada por su rebeldía con la Superliga y recuperar su presencia en los principales foros del fútbol europeo. Nasser Al-Khelaifi , presidente del PSG y de la European Football Clubs (EFC), antigua ECA, confirmó este martes que la entidad madridista se encuentra en proceso de reincorporación al organismo que reúne a más de 900 clubes. Un paso que evidencia el acercamiento entre Florentino Pérez y las instituciones continentales después de años de fuertes discrepancias. Al-Khelaifi confirma la vuelta del Real Madrid La confirmación llegó durante la apertura de la trigésima tercera asamblea anual de la EFC, celebrada en Copenhague. Al-Khelaifi dedicó parte de su intervención a destacar el regreso de los dos grandes clubes españoles que habían quedado alejados de la organización por su implicación en el proyecto de la Superliga. \"Estamos encantados de que el Real Madrid esté en proceso de regresar a la EFC\", anunció el dirigente catarí, que además quiso tener un reconocimiento personal hacia Florentino Pérez, al que calificó como su \"querido amigo\". 🚨 Nasser Al-Khelaifi: &quot;I would like to thank Real Madrid president Florentino Pérez for believing that the future of European football must be built on unity and collective interests. We are pleased that they are in the process of returning to the family.&quot; pic.twitter.com/6ik2HeLdWt &mdash; Madrid Zone (@theMadridZone) September 29, 2026 \\n \\n\\n\"}\"> \"Me gustaría dar las gracias al presidente del Real Madrid CF, Florentino Pérez , por creer que el futuro del fútbol europeo debe construirse sobre la base de la unidad y los intereses colectivos; y nos complace que estén a punto de reincorporarse a la familia de los Clubes de Fútbol Europeos\", añadió. El mensaje viene a confirmar el significativo cambio de parecer respecto a la situación vivida durante los últimos años. El Real Madrid fue, junto al Barcelona, uno de los principales impulsores de la Superliga en 2021 y posteriormente se convirtió en el único de los grandes clubes fundadores que mantuvo públicamente su respaldo al proyecto. Un acercamiento después de la Superliga El proceso de reconciliación comenzó a tomar forma después del acuerdo alcanzado en febrero entre UEFA, la EFC y el Real Madrid para resolver las disputas legales relacionadas con la Superliga. El FC Barcelona comunicó posteriormente su desvinculación formal del proyecto , dejando al conjunto madridista como principal defensor de la iniciativa. Ahora, la presencia de representantes vinculados a A22 Sports Management , empresa promotora de la Superliga , en el entorno de la asamblea de Copenhague contrasta con el acercamiento institucional protagonizado por el club blanco. A22 , en cualquier caso, mantiene abiertas sus acciones legales contra UEFA y reclama tanto una compensación por daños y perjuicios como el reconocimiento de la competición . El anuncio de la Superliga, realizado en abril de 2021 con el respaldo inicial de doce clubes , provocó uno de los mayores enfrentamientos institucionales de la historia reciente del fútbol europeo. Con el paso del tiempo, la mayoría de los participantes abandonaron el proyecto. También hubo bienvenida para Laporta Al-Khelaifi también quiso destacar la presencia de Joan Laporta en la asamblea y celebrar el regreso del Barcelona al entorno de la EFC. \"Me gustaría dar las gracias al presidente del FC Barcelona, Joan Laporta, por su confianza en la EFC: bienvenido de nuevo a la familia\", afirmó. El dirigente del PSG situó así a Madrid y Barcelona dentro de un mismo proceso de normalización de sus relaciones con el organismo que representa a los clubes europeos. El mensaje de unidad de Al-Khelaifi El presidente de la EFC aprovechó además su intervención para reclamar una mayor unidad entre las diferentes instituciones del fútbol. \"Es realmente triste ver la situación actual. En lugar de mejorar nuestro deporte, estamos perdiendo el tiempo lidiando con problemas y dificultades\" , apuntó. \"El fútbol funciona cuando nos escuchamos unos a otros. Cuando somos transparentes entre nosotros. Pero, sobre todo, cuando somos honestos. Y sean cuales sean nuestras diferencias, el fútbol es más grande y más importante que cualquiera de nosotros\", concluyó. El siguiente paso será formalizar el retorno del Real Madrid a una organización de la que se apartó durante el conflicto de la Superliga. Para Florentino Pérez, el movimiento supone recuperar un espacio de interlocución directa con el resto de grandes clubes europeos y abre una nueva etapa en sus relaciones con el fútbol continental, dejando definitivamente atrás su obsesión por la Superliga, una idea en la que nunca ha dejado de creer pero y que será su gran espina clavada.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-09-30T12:21:13+00:00"
         }
       ]
     },
@@ -359,46 +359,53 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Top 10 most memorable F1 moments at Sepang",
+          "link": "https://www.formula1.com/en/latest/article/top-10-most-memorable-f1-moments-at-sepang.73nVgZL0iFg7kIddL1UDjc",
+          "desc": "Formula 1 returns to the Sepang Circuit this weekend, almost 10 years after the Malaysian track last played host to a Grand Prix.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
+        },
+        {
           "title": "Why there’s still hope for Russell in the 2026 title race",
           "link": "https://www.formula1.com/en/latest/article/why-theres-still-hope-for-russell-as-he-tries-to-chase-down-team-mate-antonelli-in-the-title-race.61kGTLGO0gcOuFRzwdu3XZ",
           "desc": "George Russell cut Kimi Antonelli’s championship lead from 81 points to 66 at the Azerbaijan Grand Prix, bringing him back into the title race conversation after he had ruled himself out of it. Can the Briton build on that swing at the Bahrain Grand Prix and beyond, and become a genuine contender once more? F1.com runs through the factors working in his favour…",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T14:30:03.683117+00:00"
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
         },
         {
           "title": "TREMAYNE: Why I hope Ocon’s F1 story isn’t over yet",
           "link": "https://www.formula1.com/en/latest/article/why-i-hope-esteban-ocons-f1-story-isnt-over-yet.2OWdSc3ChECdEaBS4BgeoY",
           "desc": "\"I always had the impression that, were he to have found himself in a wholly competitive car on a regular basis, he would have flourished into a consistent front-runner.\"",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T14:30:03.683117+00:00"
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
         },
         {
           "title": "Facts, stats and trivia ahead of the 2026 Bahrain GP",
           "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-bahrain-grand-prix-in-malaysia.7q5fTKLLQ5TrEcsNerl406",
           "desc": "As F1 heads to Sepang for the Bahrain Grand Prix in Malaysia, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T14:30:03.683117+00:00"
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
         },
         {
           "title": "Hadjar explains what makes Verstappen such a tough driver",
           "link": "https://www.formula1.com/en/latest/article/hadjar-explains-what-makes-verstappen-such-a-tough-driver-to-go-up-against-at-red-bull.5j46teJrwzzeAJs25Umkne",
           "desc": "Isack Hadjar's sophomore season in Formula 1 has been something of a rollercoaster having been brought into Red Bull alongside Max Verstappen, occupying a spot which many have failed to keep over the years.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T14:30:03.683117+00:00"
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
         },
         {
           "title": "How to stream the 2026 Bahrain Grand Prix on F1 TV Premium",
           "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-bahrain-grand-prix-in-malaysia-on-f1-tv-premium.7EMjlFUOKGObNSbsefTYGN",
           "desc": "Here is all the information you need to follow the Bahrain Grand Prix weekend live on F1 TV.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T14:30:03.683117+00:00"
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
         },
         {
           "title": "Mercedes reveal special livery for Bahrain GP in Malaysia",
           "link": "https://www.formula1.com/en/latest/article/gallery-mercedes-reveal-special-livery-for-bahrain-grand-prix-in-malaysia.5rOQab3eO0NktK8AJNG9p7",
           "desc": "The Mercedes W17 will carry a special design as Formula 1 returns to Malaysia for the Bahrain Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-09-30T14:30:03.683117+00:00"
+          "fecha": "2026-09-30T15:00:05.136536+00:00"
         },
         {
           "title": "Carlos Sainz y la gran bofetada de su carrera: “Veníamos de cuatro años estupendos, habíamos hecho un buen trabajo. Nunca me habría esperado dejar Ferrari\"",
@@ -518,13 +525,6 @@
           "desc": "\"Si no creyera que aún puedo ganar un Mundial, no renovaría\"",
           "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-09-30T05:43:43+02:00"
-        },
-        {
-          "title": "Fernando Alonso explica por qué ha renovado con Aston Martin: \"No necesito seguir un año más por amor al arte\"",
-          "link": "https://www.marca.com/motor/formula1/2026/09/30/fernando-alonso-confiesa-dudas-motivaciones-renovar-aston-martin-seguir-formula-1.html",
-          "desc": "\"Si no creyera que aún puedo ganar un Mundial, no renovaría\"",
-          "source": "https://www.marca.com/rss/motor.xml",
-          "fecha": "2026-09-30T05:43:43+02:00"
         }
       ]
     },
@@ -532,6 +532,34 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Nvidia y AMD presionan a Trump para frenar nuevas restricciones de chips a China",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlM3bU5ETmNwRDJYTmQ5Y0E4akZocEhfTXIzS2ZEUC1idXJIanhQZklLYnVRbjJnUklDS0p5cS0wbHJwWG9xYmJza0lBQXN0UnRGTGNTeW91NzJpd3ZfZTVhdHU3RDd2Z3g5WlJvZW1XcmItT1RXZVQ1Q3ZiMnpwTm8zRGwyb3ROb1Vwa29RcXg5YXJYMnhHUDQzMnJfQlJDOGpoeGdXb29PdlpSbG1JR0lOeGFabC1BYUNqX3l4OA?oc=5",
+          "desc": "Nvidia y AMD presionan a Trump para frenar nuevas restricciones de chips a China diariobitcoin.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:53:50+00:00"
+        },
+        {
+          "title": "Nvidia acaba de enviarle esta señal a Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmI1cmdYU0pZM0VMU3JuTDNmbTYwRHpNd08tUHVjRWVzMWZMOU40WndKXzhQQVByclVpU0FjSzV6U1ZRODl2RG1SVjhpQkZOcEJKOEhyaUdwb2hibFlRUVdkLUxQRUtaNC1DRnNhamc4bERFcnVrM3ZLNzFDa28?oc=5",
+          "desc": "Nvidia acaba de enviarle esta señal a Wall Street Bitfinanzas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:44:52+00:00"
+        },
+        {
+          "title": "Silent Hill: Townfall escucha las quejas y hará menos frustrantes sus secciones de sigilo",
+          "link": "https://vandal.elespanol.com/noticia/2026273026/silent-hill-townfall-escucha-las-quejas-y-hara-menos-frustrantes-sus-secciones-de-sigilo/",
+          "desc": "Screen Burn prepara ajustes para uno de los enemigos más problemáticos de Silent Hill: Townfall tras las críticas recibidas por sus secciones de sigilo. Silent Hill: Townfall se puso a la venta hace apenas unos días en PS5 y PC , y Screen Burn Interactive ya está trabajando en solucionar algunas de las principales quejas de los jugadores. El estudio ha confirmado que prepara cambios de equilibrio para las secciones protagonizadas por el Peso, uno de los enemigos más peligrosos del juego. Precisamente, el sigilo fue uno de los aspectos que más criticamos en nuestro análisis de Silent Hill: Townfall , donde señalamos que estas secuencias terminaban siendo uno de los puntos más flojos de la aventura. Ahora sus responsables han reconocido los problemas con uno de los encuentros que más frustración está provocando entre los jugadores. Screen Burn ha escuchado las críticas a el Peso \"Os hemos escuchado\" respecto a los problemas con el Peso, ha explicado Screen Burn, que asegura que los ajustes de equilibrio para estos encuentros llegarán lo antes posible . Por ahora no se han detallado exactamente los cambios ni cuándo estará disponible esta actualización. Vídeo: El Peso aparece en dos momentos importantes de Silent Hill: Townfall , uno aproximadamente a mitad de la aventura y otro cerca de su tramo final . Se trata de una criatura que normalmente no puede ser eliminada y mata al protagonista instantáneamente si consigue atraparlo, obligándonos a recurrir al sigilo. Las quejas se centran especialmente en el comportamiento de su inteligencia artificial . No siempre resulta evidente qué acciones llaman la atención de la criatura y, en determinadas situaciones, puede permanecer cerca del escondite del jugador durante demasiado tiempo , convirtiendo estos encuentros en secuencias frustrantes de prueba y error. Por si fuera poco, aparece en dos momentos en los que tienes que completar un puzle. El anuncio de estos cambios coincide con la llegada de la actualización 1.3.1 para PC , disponible en Steam y Epic Games Store. El parche está centrado en el rendimiento y reduce los tirones relacionados con la compilación de PSO, aunque Screen Burn asegura que seguirá trabajando en nuevas mejoras para el juego. Silent Hill: Townfall está disponible desde el 24 de septiembre en PS5 y PC. Desarrollado por Screen Burn Interactive y coeditado por Konami y Annapurna Interactive , apuesta por una perspectiva en primera persona y una estructura bastante diferente a la de anteriores entregas de la saga .",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-09-30T14:42:00+00:00"
+        },
+        {
+          "title": "Nvidia RTX 5070 Ti: Llevan la memoria GDDR7 hasta unos impresionantes 39 Gbps",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXo3endLRWs4TnhGaHRiMjliUVlNUEVRZEd1UlVBOVhHREowVi1DVFpIVTZqU2FlVWl0d3U5aDAyYTJYNExoUW9OUTZmV01uRlJaZ3RMeFdlSk1pUlU2T0RQQnVfSDBjQVpxelh0T2lDSWNOR1ZhMDY4NnJfdFA2SFJUUlB2NXBpalZfM0E1OEpGTWdNbFl2VdIBngFBVV95cUxPVTF3N1daVDd1UlVVYV83SFNBN1hWb2sxdEJ1SlRJWkRCdjlYa1pzU3pIRVhfY1BqMjFqOWsyV1JxOV9OR242bU9wTDJrclliQlFCam45SnoxdEtPY3NEemdTS1o0X2c1UGRRdTJSY0szX25nRjBLQ2JyalRaVFRSTDNiekgzRUpVYl92VkpiblNoNXNnVTByQmhGWjBCUQ?oc=5",
+          "desc": "Nvidia RTX 5070 Ti: Llevan la memoria GDDR7 hasta unos impresionantes 39 Gbps Profesional Review",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:16:28+00:00"
+        },
         {
           "title": "García Plaza valora a Del Nido Carrasco, admite sus ganas de derbi y aclara los objetivos: \"Todo el mundo que ha construido este Sevilla tiene su parte de culpa\"",
           "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/garcia-plaza-valora-del-nido-carrasco-admite-sus-ganas-derbi-aclara-los-objetivos-todo-mundo-que-construido-este-sevilla-tiene-parte-culpa-20260930-547614.html",
@@ -559,6 +587,13 @@
           "desc": "Meta's Muse AI agent has been accused of ignoring user permissions and accessing forbidden personal user data on an iPhone and Mac, including iMessages.",
           "source": "https://www.tomshardware.com/feeds.xml",
           "fecha": "2026-09-30T14:00:00+00:00"
+        },
+        {
+          "title": "CoreWeave ejecutará la CPU NVIDIA Vera en bare metal a escala de rack",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2Zrb1FObDRZZncxV0s0c2dhTUdNUzQ0WDhYcDRueEt6NDhyRnFpbERFNWxqMDVuZkc4UXZZczVnVHJvS09fbjY0QlRGM1oyd3VDVlg5U0pydEQwTnN4MU9GVjJxTU5sWW03ZDNEZmN6UHNadXMtS2VlV2FGR2VpbnhWT001dU1QU0E?oc=5",
+          "desc": "CoreWeave ejecutará la CPU NVIDIA Vera en bare metal a escala de rack Unite.AI",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T13:58:50+00:00"
         },
         {
           "title": "Acciones de Cerebras caen mientras Nvidia impulsa tier \"Ultrafast\" de OpenAI",
@@ -605,7 +640,7 @@
         {
           "title": "DeepSeek presenta software de chips de IA junto a Huawei que busca sustituir a Nvidia",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0hLTEZnV3lXamVZR2NJZjJSUmNaM19zcEVYSmtKaDFqSHZSZTdSOXhJRTlUYVRvYzZzR0JNWlRMOU1XMGVtZ0IweElERHlPZFd1bDRTYUl6blBEQXZSQU5lXzBsNC1mdzEwWWlfYkJGNWtGdjJJckVYRWpHaktpNm9BejFUWkpHSkN2UXRReXdmUC1MdWpDWmRQQnJHdUdXZHRIUk9TYWR1MnNtTGJCTnA5d0FRNkIzUjczdFNaTHdnWDJ0UUdN0gHbAUFVX3lxTFA0aWJPXzZrWm9xVXFnSmVtbWVCRkNJelFVd2thYURWNmhKX2V2d193RnhTd2RSbi1pTmNUUG9TN2NlQXVaU0xTUDdNTTJKcE5aemZkUGs3RXJGMzk0OXFjSE9hMU9zY0UtVjR3VEtZeHJNV0ZEeThCbzBUcGI5RG9nM3pBTlkxeHRhM2x5enlhbFBETjRTdS12MUFHcDEwR0ZnVU9WbnRwRzZOU3FMNW4tYzNKME5lMTJFdlphSW1sVVdSaTE4SFNCTlBCRDZqekFrUHpMN2J6WGxHWQ?oc=5",
-          "desc": "DeepSeek presenta software de chips de IA junto a Huawei que busca sustituir a Nvidia bloomberglinea.com",
+          "desc": "DeepSeek presenta software de chips de IA junto a Huawei que busca sustituir a Nvidia Bloomberg Línea",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T13:21:06+00:00"
         },
@@ -664,41 +699,6 @@
           "desc": "Samsung es uno de los fabricantes que históricamente más ha apostado por el segmento de las tablets Android. Ahora la compañía reafirma su postura con la presentación de la nueva Galaxy Tab S12, una nueva generación de sus tablets que sigue haciendo gala de un diseño tremendamente fino pero resistente, buena batería y, como en […] Seguir leyendo: Samsung presenta las tablets más interesantes para la IA: así son las Galaxy Tab S12 Ultra y Galaxy Tab S12+",
           "source": "https://hipertextual.com/feed",
           "fecha": "2026-09-30T12:51:13+00:00"
-        },
-        {
-          "title": "'Ted Lasso' aborda la muerte de uno de sus personajes clave con una tierna despedida de Anthony Head",
-          "link": "https://www.20minutos.es/cinemania/series/ted-lasso-muerte-personajes-clave-despedida-anthony-head_7043147_0.html",
-          "desc": "La temporada 4 de la serie de Apple TV ha tenido que prescindir del personaje que interpretaba el querido actor británico, que falleció el pasado mes de junio a los 72 años.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-09-30T14:34:10+02:00"
-        },
-        {
-          "title": "Mercedes Vitoria y sus proveedores se alían para ganar flexibilidad con ayuda del Gobierno vasco",
-          "link": "https://www.eldiario.es/motor/sector_y_mercado/mercedes-vitoria-proveedores-alian-ganar-flexibilidad-ayuda-gobierno-vasco_1_13550500.html",
-          "desc": "El proyecto contempla una inversión público-privada inicial de 181 millones y tiene como objetivo mejorar la capacidad tecnológica y de adaptación productiva con la llegada del nuevo modelo eléctrico VLE El Barómetro Movilidad+Auto desvela las tendencias del sector en un encuentro en Barcelona La fábrica de Mercedes-Benz de Vitoria y once de sus proveedores vascos, nueve de ellos pymes, se han aliado para transformar los procesos productivos y ganar flexibilidad ante los cambios tecnológicos y de demanda que afronta la automoción. El proyecto, impulsado por el Gobierno vasco dentro de su Plan de Industria-Euskadi 2030, contempla una inversión público-privada inicial de 181 millones de euros entre 2026 y 2028, de los que alrededor de 61 millones se dedicarán a investigación, desarrollo e innovación tecnológica. El lehendakari, Imanol Pradales, y el consejero de Industria, Transición Energética y Sostenibilidad, Mikel Jauregi, han presentado este miércoles en la planta de Mercedes-Benz de Vitoria-Gasteiz el Proyecto Transformador 'Fabricación Flexible de la nueva Automoción', una iniciativa con la que Euskadi pretende en un laboratorio de vanguardia de sistemas de fabricación capaces de adaptarse rápidamente a las nuevas arquitecturas de vehículos y a la evolución del mercado en pleno proceso de electrificación. La iniciativa llega en un momento especialmente relevante para la planta vitoriana, que este año ha iniciado la producción del nuevo Mercedes-Benz VLE , el modelo eléctrico que sustituye al EQV y que incorpora nuevas funciones electrónicas, tecnologías avanzadas y sistemas de seguridad. La factoría tiene además por delante nuevos lanzamientos y deberá compatibilizar la fabricación de vehículos de combustión y eléctricos, aumentando la capacidad de sus líneas para responder a diferentes escenarios de demanda. Mejora de la competitividad La flexibilidad se convierte así en uno de los principales activos industriales del proyecto. El director de Mercedes-Benz Vitoria, Bernd Krottmayer, ha señalado que la compañía invierte en la planta “porque queremos asegurar que nuestra planta siga siendo una de las más competitivas del grupo Mercedes-Benz”. Para ello, ha considerado “clave” disponer de instalaciones y procesos flexibles que permitan adaptarse con mayor rapidez a los cambios del mercado. Según ha explicado Krottmayer, la iniciativa permitirá flexibilizar las líneas de producción para fabricar diferentes tipos de vehículos en una misma planta. Mercedes-Benz aportará 20 millones de euros de los 181 millones previstos, mientras que el resto procederá de la inversión del conjunto del proyecto y del apoyo público. La transformación no se limitará a la fábrica. Mercedes-Benz Vitoria liderará un consorcio en el que participan 11 empresas vascas, nueve de ellas pymes, además de agentes de la Red Vasca de Ciencia, Tecnología e Innovación, con Tecnalia al frente, el clúster de automoción ACICAE y la unidad de I+D BAM. El objetivo es combinar las capacidades industriales y tecnológicas existentes en Euskadi para desarrollar procesos y soluciones que puedan aplicarse a la fabricación de la próxima generación de vehículos. Entre las compañías participantes figura MB Sistemas, del grupo Mondragón. Su consejero delegado, Borja García, ha explicado que su contribución al proyecto se centrará en aprovechar mediante inteligencia artificial el gran volumen de datos que se generan durante los procesos de fabricación. La fábrica del futuro El nuevo sistema productivo busca, por tanto, que la fábrica pueda responder con mayor agilidad a los cambios de producto y de tecnología. Los nuevos VLE incorporan el 100% de las piezas de nuevo diseño y suponen, según el Gobierno vasco, un salto tecnológico inédito hasta ahora en Euskadi para el segmento de furgonetas de tamaño medio. El desarrollo de procesos más adaptables pretende reforzar la capacidad de la planta para asumir la evolución de la gama y contribuir a consolidar su carga de trabajo futura. Durante la presentación, Pradales ha situado este proyecto dentro de una estrategia más amplia para reforzar la industria vasca. “La carrera por hacer realidad la fábrica del futuro ya está en marcha y Euskadi tiene que luchar por estar entre los mejores”, ha afirmado. El lehendakari ha defendido la colaboración entre empresas, Administración y centros tecnológicos para afrontar las transformaciones digital y energética y ha reclamado “más centros de decisión, empresas de mayor tamaño, mayor intensidad tecnológica y una industria descarbonizada que no pierda competitividad”. Pradales también ha señalado que Europa debe adoptar “las decisiones adecuadas para proteger su mercado y su industria”, en un contexto de creciente competencia internacional y de transformación de las cadenas industriales. El diputado general de Álava, Ramiro González, ha destacado por su parte el peso de Mercedes en la economía del territorio después de siete décadas de actividad. Según ha señalado, el impacto de la compañía trasciende la propia factoría y alcanza unos 40.000 empleos directos e indirectos. González ha defendido que inversiones como la anunciada permiten avanzar hacia un modelo de fabricación “cada vez más flexible” y preparado para responder a la evolución tecnológica y de la demanda, manteniendo además una perspectiva de “neutralidad tecnológica”. La iniciativa de Mercedes-Benz Vitoria es uno de los 25 Proyectos Transformadores incluidos actualmente en el Plan de Industria-Euskadi 2030. De ellos, 18 ya se han puesto en marcha: 11 están liderados por el sector público y siete por empresas privadas. Estos siete proyectos privados movilizan más de 860 millones de euros de inversión inicial, de los que 429 millones corresponden a I+D y desarrollo tecnológico, y prevén crear más de 3.850 empleos y arrastrar a otras 171 empresas, en su mayoría pymes, del tejido industrial vasco.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-09-30T12:29:44+00:00"
-        },
-        {
-          "title": "NVIDIA Vera: rendimiento, consumo y temperatura con y sin SMT",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHo3RDEyUGZWUGotMTE1RjhOZVhDU2pKWjZDOGJNdVdJbndQLXE0Uk1DZFRsUG5Kdl9LNVpDTXV2eEQxUU92dkZydWhwNFg0N1pDakZsOXhheGFuckFNVS11UVcwT2RZN3ZXVm1POXFZSWJkX1ZNTk84eGxiaks4YXpYWFdNWHdWN2J6WUNFWW1WWUhHU2M4Qw?oc=5",
-          "desc": "NVIDIA Vera: rendimiento, consumo y temperatura con y sin SMT El Chapuzas Informático",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T12:22:45+00:00"
-        },
-        {
-          "title": "Windows 11 Assisted Setup: más bloatware para tu PC porque… ¿Por qué no?",
-          "link": "https://www.muycomputer.com/2026/09/30/windows-11-assisted-setup-mas-bloatware-para-tu-pc-porque-por-que-no/",
-          "desc": "Microsoft está probando una nueva función con la que pretende «mejorar» la instalación de Windows 11. Se llama «Assisted Setup», y de momento solo está disponible en el canal experimental para los insiders, lo que significa que todavía no está decidido si se convertirá o no en una función definitiva de dicho sistema operativo. ¿Y […] La entrada Windows 11 Assisted Setup: más bloatware para tu PC porque… ¿Por qué no? se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-09-30T12:22:34+00:00"
-        },
-        {
-          "title": "The state of agentic AI in chip design tools in 2026",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
-          "desc": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-09-30T12:20:00+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "La 'estafa de los lingotes' deja 89 millones desaparecidos y miles de víctimas en toda Italia",
+          "link": "https://www.elmundo.es/economia/2026/09/30/6abd1ea8e85ece900e8b458a.html",
+          "desc": "Sólo en Trentino-Alto Adigio, 296 ahorradores perdieron más de cuatro millones de euros tras invertir sus pensiones y los ahorros de toda una vida Leer",
+          "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+          "fecha": "2026-09-30T16:37:39+02:00"
+        },
         {
           "title": "Telefónica simplifica sus negocios en España y suprime el consejo de Movistar Plus+",
           "link": "https://www.elmundo.es/economia/empresas/2026/09/30/6abd0ce421efa0d87f8b4578.html",
@@ -756,7 +763,7 @@
           "fecha": "2026-09-30T11:59:35+00:00"
         },
         {
-          "title": "El euríbor cierra septiembre en el 3,24% y encarece las hipotecas 1.260 euros al año",
+          "title": "El euríbor cierra septiembre en el 3,24% y encarece las hipotecas una media de 1.260 euros al año",
           "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/euribor-cierra-septiembre-maximos-dos-anos_7043191_0.html",
           "desc": "El índice de referencia del mercado hipotecario alcanza máximos de dos años tras romper la barrera del 3% a la espera de que el BCE mantenga las subidas de tipos.",
           "source": "https://www.20minutos.es/rss/",
@@ -866,13 +873,6 @@
           "desc": "Andy Burnham asegura que examinará antes de que termine el año las \"opciones\" de la relación a largo plazo con la Unión y que una posibilidad es reintegrarse \"plenamente\" en ella en la próxima década Burnham promete una nueva relación con la UE: “El Brexit nos ha hecho más daño que bien” Diez años después del Brexit, el séptimo primer ministro desde entonces considera la vuelta del Reino Unido a la Unión Europea. Andy Burnham asegura que el debate está abierto y está dispuesto a defender esa opción si es la que tiene más apoyo. En los próximos meses, el laborista examinará la relación “a largo plazo” de su país con la UE después del “daño” que ha hecho el Brexit, según anunció este martes en el congreso anual del Partido Laborista . En una entrevista con la radio de la BBC este miércoles aclaró que una de las opciones es la petición de la adhesión completa a la Unión, y que no puede dejar “en el aire” el debate que ya está en la opinión pública ni dejar otra década de declive. Su prioridad, según dijo, será “buscar consenso”. Las opciones que examinará en los próximos meses son mantener la relación actual, que considera ha perjudicado a la economía y la política migratoria; volver al mercado único o solo a la unión aduanera; o reintegrarse “plenamente” en la UE. Espera presentar opciones al país alrededor de la cumbre entre la UE y el Reino Unido que espera se celebre antes de que termine el año. La próxima década Como alcalde de Manchester, Burnham defendió explícitamente que quería ver al Reino Unido de vuelta en la UE, pero como primer ministro ha sido hasta ahora más cauto. En la entrevista con la BBC, dijo que “no necesariamente” el Reino Unido tiene que volver a la UE “ahora”, pero sí necesita decidir su camino vistas las circunstancias actuales y el efecto del Brexit en la última década. “No es suficiente dejar esta cuestión ahí colgando. Lo que estoy diciendo es que es debemos dejar claro dónde queremos que vaya el Reino Unido en la próxima década”, dijo el primer ministro. “El país no puede permitirse otra década como la que hemos tenido, marcada por la deriva y la división. Lo tengo claro y lo digo sin rodeos: el Brexit ha causado más daño que bien y creo que alrededor del 60% de la población está de acuerdo con esta afirmación. Así que la pregunta es: ¿qué hacemos al respecto? Estoy siendo honesto a la hora de afrontar esta realidad y ofrecer a la gente distintas opciones que puedan analizar y sobre las que puedan formarse su propia opinión”. Burnham promete transparencia en este debate que ha sido durante años tabú en la política británica por la experiencia agónica de la negociación del acuerdo de salida de la UE y la división de la población. Pero, según se han ido desplegando los efectos económicos y políticos, la opinión pública ha avanzado más rápido que sus partidos. La opinión pública La mayoría de la población cree que el Brexit fue un error y está a favor de volver a la Unión Europea. Pero el Partido Laborista no se ha atrevido a proponerlo como objetivo a pesar de las voces a favor del regreso también dentro del laborismo, desde el alcalde de Londres al exprimer ministro Tony Blair . Los más explícitos en su deseo de volver a la UE han sido hasta ahora los liberaldemócratas, los verdes y los nacionalistas escoceses y galeses. Los laboristas temen reabrir las heridas del Brexit que dividieron a su propio partido y alimentar a la minoría más antieuropea que apoya a la ultraderecha de Reform, el partido de Nigel Farage. Pero incluso el 51% de los votantes de Farage creen que la relación del Reino Unido con la UE es ahora demasiado distante, según una encuesta recién publicada de Politico . “Tenemos que ser sinceros. El Brexit no nos ha dado el control”, dijo Burnham en el congreso del Partido Laborista en Liverpool el martes. El primer ministro destacó la década de bajo crecimiento, la inestabilidad política desde 2016 y la limitación de las políticas migratorias por “la pérdida de la colaboración” con los antiguos socios europeos: “El Brexit nos ha hecho más daño que bien”. El Reino Unido ha perdido entre el 6% y el 8% de su PIB por estar fuera de la Unión Europea, según el informe más completo sobre el impacto económico del Brexit , publicado en noviembre de 2025 y que describe el declive de la inversión, el empleo y la productividad. La caída en el comercio para el Reino Unido por las nuevas barreras tras el Brexit ha sido uno de los efectos críticos y más inmediatos. La política industrial debatida ahora en Bruselas de “ made in Europe ” para priorizar la fabricación dentro de la Unión Europea puede agravar la posición británica.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-09-30T07:25:58+00:00"
-        },
-        {
-          "title": "El Gobierno aprueba una cuenta de ahorro con beneficios fiscales para fomentar la inversión en Bolsa europea",
-          "link": "https://elpais.com/economia/2026-09-30/el-gobierno-aprueba-una-cuenta-de-ahorro-con-beneficios-fiscales-para-fomentar-la-inversion-en-bolsa-europea.html",
-          "desc": "El nuevo mecanismo permitirá mover la cartera sin tributar y disfrutará de exenciones fiscales si se mantiene cinco años. Economía duplica hasta 10.000 euros la aportación máxima a los seguros de ahorro, que no tributan en la renta",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-09-30T06:38:24+00:00"
         }
       ]
     },
@@ -880,6 +880,34 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Nvidia y AMD presionan a Trump para frenar nuevas restricciones de chips a China",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlM3bU5ETmNwRDJYTmQ5Y0E4akZocEhfTXIzS2ZEUC1idXJIanhQZklLYnVRbjJnUklDS0p5cS0wbHJwWG9xYmJza0lBQXN0UnRGTGNTeW91NzJpd3ZfZTVhdHU3RDd2Z3g5WlJvZW1XcmItT1RXZVQ1Q3ZiMnpwTm8zRGwyb3ROb1Vwa29RcXg5YXJYMnhHUDQzMnJfQlJDOGpoeGdXb29PdlpSbG1JR0lOeGFabC1BYUNqX3l4OA?oc=5",
+          "desc": "Nvidia y AMD presionan a Trump para frenar nuevas restricciones de chips a China diariobitcoin.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:53:50+00:00"
+        },
+        {
+          "title": "Nvidia acaba de enviarle esta señal a Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmI1cmdYU0pZM0VMU3JuTDNmbTYwRHpNd08tUHVjRWVzMWZMOU40WndKXzhQQVByclVpU0FjSzV6U1ZRODl2RG1SVjhpQkZOcEJKOEhyaUdwb2hibFlRUVdkLUxQRUtaNC1DRnNhamc4bERFcnVrM3ZLNzFDa28?oc=5",
+          "desc": "Nvidia acaba de enviarle esta señal a Wall Street Bitfinanzas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:44:52+00:00"
+        },
+        {
+          "title": "Nvidia RTX 5070 Ti: Llevan la memoria GDDR7 hasta unos impresionantes 39 Gbps",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXo3endLRWs4TnhGaHRiMjliUVlNUEVRZEd1UlVBOVhHREowVi1DVFpIVTZqU2FlVWl0d3U5aDAyYTJYNExoUW9OUTZmV01uRlJaZ3RMeFdlSk1pUlU2T0RQQnVfSDBjQVpxelh0T2lDSWNOR1ZhMDY4NnJfdFA2SFJUUlB2NXBpalZfM0E1OEpGTWdNbFl2VdIBngFBVV95cUxPVTF3N1daVDd1UlVVYV83SFNBN1hWb2sxdEJ1SlRJWkRCdjlYa1pzU3pIRVhfY1BqMjFqOWsyV1JxOV9OR242bU9wTDJrclliQlFCam45SnoxdEtPY3NEemdTS1o0X2c1UGRRdTJSY0szX25nRjBLQ2JyalRaVFRSTDNiekgzRUpVYl92VkpiblNoNXNnVTByQmhGWjBCUQ?oc=5",
+          "desc": "Nvidia RTX 5070 Ti: Llevan la memoria GDDR7 hasta unos impresionantes 39 Gbps Profesional Review",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:16:28+00:00"
+        },
+        {
+          "title": "CoreWeave ejecutará la CPU NVIDIA Vera en bare metal a escala de rack",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa2Zrb1FObDRZZncxV0s0c2dhTUdNUzQ0WDhYcDRueEt6NDhyRnFpbERFNWxqMDVuZkc4UXZZczVnVHJvS09fbjY0QlRGM1oyd3VDVlg5U0pydEQwTnN4MU9GVjJxTU5sWW03ZDNEZmN6UHNadXMtS2VlV2FGR2VpbnhWT001dU1QU0E?oc=5",
+          "desc": "CoreWeave ejecutará la CPU NVIDIA Vera en bare metal a escala de rack Unite.AI",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T13:58:50+00:00"
+        },
         {
           "title": "Acciones de Cerebras caen mientras Nvidia impulsa tier \"Ultrafast\" de OpenAI",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejJxd2Q4dm9ZVjh6MGh5Q05pQ0Y2QTJVN3JYcTQ5OUdaZVFTNjlBUGlfeEhPYXZEb1NydkZYVnhoR1lqMjlJVzZadmpVbm1OQ0pDQnY4YjhtcnFDQXc4bTZVdk5oUmxQRGl5SmtCamRUTkx6OGVIUDBYbTRPTEF0alZrNDlmVG51WFFUV3FVRDlZU0JoQmJsN21xdkY1N2ZMT241YjI0NHZCVldjSjVMVzBXTmxsb3h6MTdiV3RGeVZqNzNlcmNtOXR3?oc=5",
@@ -911,7 +939,7 @@
         {
           "title": "DeepSeek presenta software de chips de IA junto a Huawei que busca sustituir a Nvidia",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0hLTEZnV3lXamVZR2NJZjJSUmNaM19zcEVYSmtKaDFqSHZSZTdSOXhJRTlUYVRvYzZzR0JNWlRMOU1XMGVtZ0IweElERHlPZFd1bDRTYUl6blBEQXZSQU5lXzBsNC1mdzEwWWlfYkJGNWtGdjJJckVYRWpHaktpNm9BejFUWkpHSkN2UXRReXdmUC1MdWpDWmRQQnJHdUdXZHRIUk9TYWR1MnNtTGJCTnA5d0FRNkIzUjczdFNaTHdnWDJ0UUdN0gHbAUFVX3lxTFA0aWJPXzZrWm9xVXFnSmVtbWVCRkNJelFVd2thYURWNmhKX2V2d193RnhTd2RSbi1pTmNUUG9TN2NlQXVaU0xTUDdNTTJKcE5aemZkUGs3RXJGMzk0OXFjSE9hMU9zY0UtVjR3VEtZeHJNV0ZEeThCbzBUcGI5RG9nM3pBTlkxeHRhM2x5enlhbFBETjRTdS12MUFHcDEwR0ZnVU9WbnRwRzZOU3FMNW4tYzNKME5lMTJFdlphSW1sVVdSaTE4SFNCTlBCRDZqekFrUHpMN2J6WGxHWQ?oc=5",
-          "desc": "DeepSeek presenta software de chips de IA junto a Huawei que busca sustituir a Nvidia bloomberglinea.com",
+          "desc": "DeepSeek presenta software de chips de IA junto a Huawei que busca sustituir a Nvidia Bloomberg Línea",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T13:21:06+00:00"
         },
@@ -974,7 +1002,7 @@
         {
           "title": "Nvidia habría explorado seguros para préstamos con chips de IA",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEpxNVBVNncyMmRGWHpJYU5sOUpON0Z2clVOTThqVkJHSHNjSDE2V0lPb2IwTUptTWNfbFJzZTc1QVZMdG5HWHVfcy0xNHhnWnpVenBPUEVPUFlOa2xWU1dPWnFnTDJiNHRibUdhblgtQzZoX2NRNUlFMFZGdU1rdEx0LVBnc0FocFoycmhPcHZKUQ?oc=5",
-          "desc": "Nvidia habría explorado seguros para préstamos con chips de IA neoteo.com",
+          "desc": "Nvidia habría explorado seguros para préstamos con chips de IA NeoTeo",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T10:27:28+00:00"
         },
@@ -986,6 +1014,13 @@
           "fecha": "2026-09-30T10:13:36+00:00"
         },
         {
+          "title": "Meta, Google, X, OpenAI, Anthropic y Nvidia firman acuerdo de seguridad por IA",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVBjWDZ1RnRmTVNsMlV4YVYtLWJVcGdFTmMyREMyLW8tbTA1TlBORGQ3aFVmSDkzN1BORE1kR3RYVWdJVElySElzbWw2LVJHclp2NUZ5OWJ0cDA5VkhrQ2xiNTFJbHFPR001dFE0VHFfM2NKdG05LXJKVDRRVlI1MjZNaVlzMWN6WGNwXzlsZ1hxRHkxeXphY29iSHlicWlEZkVWazhBTHp3ajN6bnEzWEowOTZkR3V1X3A4WThiMEVxaGtKQUZn?oc=5",
+          "desc": "Meta, Google, X, OpenAI, Anthropic y Nvidia firman acuerdo de seguridad por IA notichile",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T10:04:40+00:00"
+        },
+        {
           "title": "Former EVGA employee recounts company’s degrading relationship with Nvidia before 2022 blow-up",
           "link": "https://www.tomshardware.com/pc-components/gpus/former-evga-employee-recounts-companys-degrading-relationship-with-nvidia-before-2022-blow-up-founders-editions-pricing-mandates-and-forward-looking-tech-all-led-to-friction",
           "desc": "In a personal blog, former EVGA product manager Brendon Ray Hedrick shared how the first Nvidia Founders Edition GPUs alarmed the company and how pricing pressure and risky forward-looking tech ultimately led to the end of the two companies' storied partnership.",
@@ -995,7 +1030,7 @@
         {
           "title": "Nvidia lanza una plataforma contra agentes de IA rebeldes y defiende la destilación",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDAzLW9Hd3pkUDhsam4yMFpLck9pUnU2eURXMjdjWV96RHc2d0w4VzhaZ3o1LTZyMmprY1VIbVZUcTVmYXJSWUFYWHJTY3FxR1RlS3ZMZWFPYXp6cENMWTMyTzdRRDU4aE9sOVdhUkF0aXZWejlZbUlNaUcyTy1XVjhiYUU5YjBvSG9XVy1keFdYSkNtMU5MX2dEQ19vVF9MUmlrVVBsa1pxWnBKbjA5OWV1cFU5d0l1TkVlZ2p3VEw0UQ?oc=5",
-          "desc": "Nvidia lanza una plataforma contra agentes de IA rebeldes y defiende la destilación Mobile World Live",
+          "desc": "Nvidia lanza una plataforma contra agentes de IA rebeldes y defiende la destilación mobileworldlive.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T09:00:37+00:00"
         },
@@ -1012,41 +1047,6 @@
           "desc": "The Witcher 3 - Remastered añade NVIDIA Compatibilidad con DLSS 4.5 Root-Nation.com",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T07:46:10+00:00"
-        },
-        {
-          "title": "DeepSeek y Huawei lanzan un conjunto de herramientas de inteligencia artificial para competir con Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekRqTGd6My1xWWcyLXZ1S1lJLW1haWtOcVNJQkJkMzg4LUYwckIteE9VMlJTcTQyZkU2d2QwRTFibU43Nmx2YnVoQUg1RDhhZy1SdUd1TmhnYUdKSjI1VGNoNFljRE1JLTByd0gtWUw1dVJrQnI0aGw0VDE3TUVQOWl5VWNTWkxNNUVWYWhJOXJIbnFPVHRTNDRmRG1ORUgtVUI5WUlSSUJDOWtPMjRoblJ0MnhNTnNEcS1DUUtSOU9KaWhUUko5NjJpa1dvRl9FUHdTUXZlbnAzRHRlSzkzOEJoQkswNUI1UjY4cA?oc=5",
-          "desc": "DeepSeek y Huawei lanzan un conjunto de herramientas de inteligencia artificial para competir con Nvidia MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T07:37:24+00:00"
-        },
-        {
-          "title": "Micron vuelve a verse envuelta en una disputa de patentes: Netlist busca la prohibición de importación a EE. UU. de memorias que involucran productos de Nvidia, Google y Broadcom",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMHhBcFpDZ0ZwNGwwOXpfdHE5NWl0M1BWdjJXRkZyc216UkxUOTR3QXEzRmlYVmx3YVVmQ2E3LUp6X1VVeGdpX3hOalVPTERXOWtlNFYwQzhzekhCVUFFMHJKeFhHVTZmSHotNmRSLU5sTjIzSng3Q3JNcUhCN2dvcHZzejFZOFFQQlBQLUkwaWV0cE1YYmpEQ2hibkNBT2VMc05KYm5kMWVkcDZQQy1UZ2o0Yzg4MDJESFNxckl3YXVjcGNSMmVON2NxalQ2LVJWTFllbktMMTJ6aFFlekVEemwxa0g?oc=5",
-          "desc": "Micron vuelve a verse envuelta en una disputa de patentes: Netlist busca la prohibición de importación a EE. UU. de memorias que involucran productos de Nvidia, Google y Broadcom TradingKey",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T07:30:01+00:00"
-        },
-        {
-          "title": "Cathie Wood compra Nvidia y vende 110 millones en acciones de AMD",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZng4RC1RNnNFQk90R2U0VzZybHdPaW9SOURkbjZwLXFfcXVIVzh4S2lRSGFuMGsyOGplcm92Z3B4N19mZmk0aGl4c2xENnV6OTh5RFVsRXpQbHJtTUxldTRtbUl3blRVMjNsLXd5NUduVHcwTE1tSWxkelhBRWZoOVJsYzRpd3ZKZ0JHclBzblVDazBw?oc=5",
-          "desc": "Cathie Wood compra Nvidia y vende 110 millones en acciones de AMD Benzinga España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T07:28:26+00:00"
-        },
-        {
-          "title": "Roban dos camiones de Nvidia pensando que habían capturado un tesoro de chips para IA, pero estaban llenos de arena",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbTd1dzFoTlVTLXE2NzgyMVZLU0tHZkM0NU96bkRmWkhhWnFQRUxDd3JWYTBmRk9CWFdhRkp3NnN5UzdjZ0lsaDljUzlPaUpnQ2RuNFY0MzIxU2szQTJpVTg5Q21lU21ON3owdUxINFZPel9TNVUyTHdGMVh0NVBlbUpWN2lIdmpJ0gGIAUFVX3lxTFA0RWRIUEZ5b3RRbURQeGdVbl9fWmdNYi1xOWVlMjVBVzhCVlBjaTU3dVA4RTdvcm5Eak9tdnB5VWlHdUxHN2RuTjQwSlpjVUp2aHFRY2xpZ0YwU2lXRU1nZ2JyN3F2STVVX2ZKNFhUR01XVVFQZ2haQy1zV182ajhSaFJ5dGJ0VzQ?oc=5",
-          "desc": "Roban dos camiones de Nvidia pensando que habían capturado un tesoro de chips para IA, pero estaban llenos de arena El Mundo",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T07:17:26+00:00"
-        },
-        {
-          "title": "Datos clave: La demanda de IA de NVIDIA (NVDA), las aprobaciones en China y la plataforma OpenShell",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YY0tLQTFEYTZ5VF9iZldXSmM1UVVKYmdrVFJodkl0bngxOUQyTUw4WGQ4REl2TXBZdDZYQkdGTDNzYU41MlluLU44ZWZpQXNVT2VCWUFEbjhsMVZUejJwRkYtWkRvcWFhUUxzbw?oc=5",
-          "desc": "Datos clave: La demanda de IA de NVIDIA (NVDA), las aprobaciones en China y la plataforma OpenShell TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T07:00:00+00:00"
         }
       ]
     },
@@ -1081,6 +1081,13 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "Nvidia y AMD presionan a Trump para frenar nuevas restricciones de chips a China",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlM3bU5ETmNwRDJYTmQ5Y0E4akZocEhfTXIzS2ZEUC1idXJIanhQZklLYnVRbjJnUklDS0p5cS0wbHJwWG9xYmJza0lBQXN0UnRGTGNTeW91NzJpd3ZfZTVhdHU3RDd2Z3g5WlJvZW1XcmItT1RXZVQ1Q3ZiMnpwTm8zRGwyb3ROb1Vwa29RcXg5YXJYMnhHUDQzMnJfQlJDOGpoeGdXb29PdlpSbG1JR0lOeGFabC1BYUNqX3l4OA?oc=5",
+          "desc": "Nvidia y AMD presionan a Trump para frenar nuevas restricciones de chips a China diariobitcoin.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-09-30T14:53:50+00:00"
+        },
         {
           "title": "AMD Ross: la IA agentiva llega al diseño y desarrollo de sistemas embebidos",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbm1mZjJIUllKWHRaSm1BY0xwZVFsV2tXeEc3c2kzV0tiTFJfNDRXTVVHY2hiWFVpRVVmNXQzTUFpakZNRGFDRnJDQ0dpeDhBMXY4ZkNiRzBoRE5veTFOX3p2aEFxLTJiWDZRS3hWdGRZcm9ZS2xtUk9lSXlvWFp1aDJxZFdtMkJlWHp3UGtSdzRtSm5zU0pwdXV0YVNKbExydFJ2RUlFUlVBZjBKUjFlVzl2VEFyVWc?oc=5",
@@ -1161,7 +1168,7 @@
         {
           "title": "AMD PerfOpt apunta a acelerar la IA local en Linux 7.4, con resultados distintos según el equipo",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFpLQjB0aGJTcjdFWElVUG4xc3p5aHZGWDVyQ3AwLVdQelYtQW9IS1MwTlROMElTR09lRVdCaHVTUzRqbV9pc04yM2NVVHA0bUFWZEhMTDZTdHc5MHpVbkVueHhpbmlONEk4ZGdxNWp3a2g0TVpMS09XQ21kdTkwM1g2cHZnWC03RU1yRV9IeGRLSzN6WjQ2TElVZXdRTXZEMnJ1aDVlajJ2Yjk4ZnpHMXRHOGNWOTd0UWxrcA?oc=5",
-          "desc": "AMD PerfOpt apunta a acelerar la IA local en Linux 7.4, con resultados distintos según el equipo neoteo.com",
+          "desc": "AMD PerfOpt apunta a acelerar la IA local en Linux 7.4, con resultados distintos según el equipo NeoTeo",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T09:04:00+00:00"
         },
@@ -1203,7 +1210,7 @@
         {
           "title": "AMD acuerda adquirir World Labs por 8.200 millones de dólares",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWd5SVhCTHFXXy1CeXlVTjh2d2xIRjZuY1Q3NHF5enA0cldXd0lfaEJkd08wbXR5ZVNrQ1FsbWxyYzB4Sm1wTF9mT09paXJkcFVmRThhZkxlRnRWTndwZzRBdV9ENkdlaFpmUGxLNC1Nd3gtbHo2RjdmTXJ2MHZ0a2djYVNObnoyVDl6b0NhUQ?oc=5",
-          "desc": "AMD acuerda adquirir World Labs por 8.200 millones de dólares neoteo.com",
+          "desc": "AMD acuerda adquirir World Labs por 8.200 millones de dólares NeoTeo",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T07:27:28+00:00"
         },
@@ -1217,14 +1224,14 @@
         {
           "title": "AMD pacta adquirir World Labs, firma de IA espacial",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0ZsZ09kcmhwS0NsSm5HRDI0dUcwRW1GcUFXNUNnSzh3OTY1VDhSbS02N1dSUXhjZElUY2tiTmJteVZCR05zWEIyXzE5TnpHV1IwZUxxc0NmZFJFT0FndzVyRUYtcUMwZWp5czF5ZUFNcnZaMmhxM2FsX1lXNlI0ZzJSTVBBWjRPbWhFcmlPRlZuczREQ2tvaw?oc=5",
-          "desc": "AMD pacta adquirir World Labs, firma de IA espacial neoteo.com",
+          "desc": "AMD pacta adquirir World Labs, firma de IA espacial NeoTeo",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T05:22:28+00:00"
         },
         {
           "title": "AMD ya tiene lista su gama EPYC 9006 Venice con 31 procesadores Zen 6 desde los 700 dólares",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGR6NTVnaXZEemIxSTFpZjBnLTFDUGtJUnJiVi1EbUYyODc3Nm9MNXFjZzBWdDhxc0xsTkdIZzY0NTB4RmFOQkxwb0poWWhTbUMwTFR2VHJxc01jYzhCWGlOcWVFZmE4UkR1RHhpUHAtcnNTWjJHNHZ6OG5CdXNucHFxQjBqUVh2M28wbmczMXdZSFVYT0txRHZjV28xT1ZOajhxMEhsbHZwNjJ2czJoWjBnMFQwX2hLcEFrNDBSUGo0TEdvV0duVUtyakdYNkNY?oc=5",
-          "desc": "AMD ya tiene lista su gama EPYC 9006 Venice con 31 procesadores Zen 6 desde los 700 dólares geeknetic.es",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVEF2Ri1PaTZ4VDdaYU90V2lXQ3VVR3ozUnUyWTJiNHcxenpOYmtKZnp6b0E4R2QwQjFsTkRZbzBYRDgxd1N3TnNSeDRrbmRaeEY2YWYtZExjWVhmQUJqal8zRWFYYkVkQjJLdnl6OTFDSVBFZkI5YjA0YS1NZy1HcUs1U001ckZmcjBVVDRVYkFleUZ3clJURjdEenhRNGVaTVhZMWREVlA4MmFxNmg5MlkyelQ3dVNYRUVFMWszV0laMDYtOGxoLV8zb2YwMkloX0lCWEpWaw?oc=5",
+          "desc": "AMD ya tiene lista su gama EPYC 9006 Venice con 31 procesadores Zen 6 desde los 700 dólares Geeknetic",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T05:15:24+00:00"
         },
@@ -1241,13 +1248,6 @@
           "desc": "AMD lleva la IA agéntica a las PCs profesionales America Sistemas",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-09-30T04:48:19+00:00"
-        },
-        {
-          "title": "La gama de 31 chips Zen 6 EPYC 9006 de AMD abarca de 8 a 256 núcleos",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRktCelg0TmZaU09lNmw4NTRtMlJTTjBDdV9qUF9rWGx0MlpucU14Q1A3RjFqNDRMTUtwYW1GRWtHSEV5VUVQT3V2U19qdlJzeFZrVnhNTENPQ25LSlkzUFJRTG1IdjdKSmk1UU5ZUnlrWTdfaC1qTXpsb0dyN3RnT0FndWUwdFJCRGE2azhoblNRbVJSa2FjbTZocFp0SkpOQ0tCUU81LVBtbTY2dGxCNkZOaw?oc=5",
-          "desc": "La gama de 31 chips Zen 6 EPYC 9006 de AMD abarca de 8 a 256 núcleos Notebookcheck.org",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-09-30T00:33:00+00:00"
         }
       ]
     }
