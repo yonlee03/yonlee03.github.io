@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T21:30:01.368922+00:00",
+  "generado": "2026-10-07T15:22:15.422402+00:00",
   "fuente": "laliga.com (oficial)",
   "jornada": 8,
   "jornada_nombre": "Jornada 8",
@@ -104,7 +104,9 @@
       "estado": "pre",
       "detalle": "",
       "canal": [
-        "Movistar LALIGA"
+        "Movistar LALIGA",
+        "Movistar Plus+",
+        "Orange Fútbol 1"
       ],
       "local": {
         "equipo": "Real Madrid",
