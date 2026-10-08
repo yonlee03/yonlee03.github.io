@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T16:00:13.948424+00:00",
+  "generado": "2026-10-08T16:30:05.472630+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,34 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "AVANZA LA SEMANA CON LA VISTA PUES EN LA VISITA AL LEVANTE UD",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzhIamZYczZlY2JpVXAtbktKbi1mNjdqcTl3MXZlZzBtaVhvdmgycjlNeEoyQW5sdTlBSEdib1J3N0N3TlJhOFFPLUV5cVM0T3pXVzJFVUJqVl9fU0w4UU5mVVRZSTlSQ19QTEJxSkdJcmNYNnRaZWF2UmVQX0p2cUV1WDE?oc=5",
+          "desc": "AVANZA LA SEMANA CON LA VISTA PUES EN LA VISITA AL LEVANTE UD Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T16:02:17+00:00"
+        },
+        {
+          "title": "APOYO DE LA FUNDACIÓN 1890 A LA CARRERA CONTRA LA ESCLEROSIS MÚLTIPLE",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdC0tTzByOEdWR1VzYy16UE9QT1p1QmhPT0wwY29PX0FjZFNBeDl3UzBNcklwWUFqLXZYVEUzWFhDdktsZy05eGhGcnR3RlRpUDdYQVg0ajNoNnIxT3pYWlBWanVKWmNRV2FyZVQ4M05NdVlubWx4QWRIejR6eVh4NlNFUmYtY1dCMk1ndGdFd1NDN3hodjlBWnRzUXh0M3MwN2pfUnk1LXpHcVE0WllqaU1n?oc=5",
+          "desc": "APOYO DE LA FUNDACIÓN 1890 A LA CARRERA CONTRA LA ESCLEROSIS MÚLTIPLE Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T16:02:17+00:00"
+        },
+        {
+          "title": "Lucien Agoumé explica por qué rechazó ofertas en verano para seguir en el Sevilla: \"Era mucho dinero, pero cada uno elige las cosas por las que juega al fútbol\"",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUFmdjRMdzNRalRGWll2emRhcy1PcG9IWllzb0RSV0F5V1FIV255X1J0WTdxNnJ0UTVuVjFFZTlFT3pBZ2NZWWlCTlJQUkZ4anZTWEFya1QwNDcwSTBTc2tCMkJiY0JvbXN4VHhETlIwdTd0YzZNRjhYeHVDTEJPR0dpVGpiZjhWYVAwNWhZVDBoLUtsRTJTX0hKanZwT014YXNpVlE4WUtCcEIy0gGyAUFVX3lxTFB4NDZBVnVfaWp3WW9EUlFPQS1jczRkOXBmeVpNbWNoR090SEZIdjdzQU8zdjJjSllJajhrYjFQX3RnLW8yWTBnZmdpa2tJY1h4aHBlelhBdTBOdHl2cV9IMHNrN0pEd0M2elc5QmZWbzYtcUctSDdlQnJ6Q1dHRDVrRHExRkpPMVo4MVV3ZHZOTzM2ME80VWJ2YlBqUms4WG1rTU52VDM3X2hOSVhXVlF3RHc?oc=5",
+          "desc": "Lucien Agoumé explica por qué rechazó ofertas en verano para seguir en el Sevilla: \"Era mucho dinero, pero cada uno elige las cosas por las que juega al fútbol\" El Correo de Andalucía",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T16:02:10+00:00"
+        },
+        {
+          "title": "SEVILLA FC: ENTREVISTA A ALEJANDRO ACEJO \"¿EL DESCENSO? TE FASTIDIA, PERO APORTÉ\"",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JT0Y5MUFrNG1taFhxZUlReFhQdThPdDVxTGJoaGR2TlktemNpbnNhZjhjNGh6ZmNJcE1YdE8wSEJUZw?oc=5",
+          "desc": "SEVILLA FC: ENTREVISTA A ALEJANDRO ACEJO \"¿EL DESCENSO? TE FASTIDIA, PERO APORTÉ\" YouTube",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T16:00:12+00:00"
+        },
         {
           "title": "Otro Agoume para un nuevo Sevilla: la increíble llamada de Fofana, ofertas de \"mucho dinero\" y la relación con la afición",
           "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/otro-agoume-para-nuevo-sevilla-llamada-sorpresa-fofana-las-ofertas-que-maneja-relacion-con-aficion-20261008-548166.html",
@@ -109,11 +137,11 @@
           "fecha": "2026-10-08T10:47:26+00:00"
         },
         {
-          "title": "AVANZA LA SEMANA CON LA VISTA PUES EN LA VISITA AL LEVANTE UD",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzhIamZYczZlY2JpVXAtbktKbi1mNjdqcTl3MXZlZzBtaVhvdmgycjlNeEoyQW5sdTlBSEdib1J3N0N3TlJhOFFPLUV5cVM0T3pXVzJFVUJqVl9fU0w4UU5mVVRZSTlSQ19QTEJxSkdJcmNYNnRaZWF2UmVQX0p2cUV1WDE?oc=5",
-          "desc": "AVANZA LA SEMANA CON LA VISTA PUES EN LA VISITA AL LEVANTE UD Sevilla FC",
+          "title": "Ndukwe prepara con el equipo el encuentro ante el Sevilla FC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWJyRDJxSHJSOXpOcjdPVy1IQ0FxLVU2ZlpRSnRaMjBROXZJeWluaU0xb2h3R2lDXzNLVl9OUWhmc0FSb3JpY3RyN1hrNk1WdUs0VDZjcXFnYm9wVU5pbFkwd2VpWEYwTUZNYTRQRWpTMThsWGR6NVphSHVDZDc5c1VjS1V3ZzhNZ3hYWDdIbS0wQ1BwRjhmcHdWZw?oc=5",
+          "desc": "Ndukwe prepara con el equipo el encuentro ante el Sevilla FC Levante UD | Web Oficial",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T10:06:05+00:00"
+          "fecha": "2026-10-08T10:14:38+00:00"
         },
         {
           "title": "Cambio de estrategia del Sevilla con Fábio Cardoso para rebajar la tensión con vistas a enero: \"El solo quiere seguir trabajando\"",
@@ -149,34 +177,6 @@
           "desc": "PARTIDOS DE CANTERA (7-11 DE OCTUBRE) Sevilla FC",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T05:56:04+00:00"
-        },
-        {
-          "title": "Kochorashvili vuelve donde comenzó todo en busca de un sitio en el Sevilla",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSU9lWGp6U1dzY2ZaS1NXc2NPaEF0ZWcyaThXVjVxNUNVTTI1TmNLOGFGaDNkRXdJZDFELUFzc1lqcHM5ZG4ySHFSSUlSYlZOWmdWcTgteG1LVUljRlBoR2FoVXJBQjM3OUJaTkZicjRkTjhya0ZXX0NpLUlLRUc1ODNWREtPZ3hnUzVYUWVFWWM0Z2JxUC0zTmlMa2FGS1ZkcFJrRlZYWF9VZHc?oc=5",
-          "desc": "Kochorashvili vuelve donde comenzó todo en busca de un sitio en el Sevilla Diario de Sevilla",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T04:30:06+00:00"
-        },
-        {
-          "title": "El Sevilla Fútbol Club no olvida a Dani Jarque",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXdrZGl5QzBrVXB5N19fRzRBLWZMVFhYc3QxcWFKLXZFTlB2SUc2MnVibUk3X2RDMzd4emNkYTAzaEhCN2FRc28xbi1jREhna3VZNjBJUkJUczdzbUhqeFdRdGJ4Qkp6b1BUanRYWFFsRmxNaGxMVEFDMnV0Y2JoRmQ1QQ?oc=5",
-          "desc": "El Sevilla Fútbol Club no olvida a Dani Jarque Pericos.es",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T04:00:00+00:00"
-        },
-        {
-          "title": "Sevilla FC",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQam1JWmlRZHktZ2c3eWZUWmV3TEFjVDQzY20yM3dqeUZ6MlJKdHBTQjNObGRmSWNWcFR0Ni1ZcThINmRORG9RTEhXaDNYOXVfLWdDYWhoeWdMWXF6WUlWNlU4eVRoWnZjTzZmOTN2Y215WEtqcFU1QUpSLXhpeldLa01JS1EyQlhpRkZ4ajlBWlQ?oc=5",
-          "desc": "Sevilla FC Transfermarkt",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T02:13:42+00:00"
-        },
-        {
-          "title": "El Güímar apelará para no jugar a puerta cerrada y avisa al Sevilla: \"El 29 de octubre, en Tasagaya\"",
-          "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/guimar-apelara-para-jugar-puerta-cerrada-avisa-sevilla-octubre-tasagaya-20261007-548127.html",
-          "desc": "El presidente del club tinerfeño denuncia que en Madrid sufrieron ellos el lanzamiento de piedras \"y nada sucedió\", al tiempo que anuncia la presentación de un recurso antes de este jueves para evitar lo que califica de situación de indefensión: \"No estamos en igualdad de condiciones\" El presidente del Atlético Unión Güímar , uno de los dos posibles rivales del Sevilla FC el próximo jueves 29 de octubre a las 21:00 horas en la primera eliminatoria de la Copa del Rey , no está conforme con el fallo en la noche del martes del Juez Único de Competiciones No Profesionales de la RFEF tras los incidentes que propiciaron el aplazamiento el domingo del choque de vuelta de la ronda previa ante el Sporting Hortaleza . Y es que el ente federativo decretó que el choque no podía darse por ganado a ninguno, sino que debe disputarse el próximo domingo 11-O a las 13:00 hora peninsular en un campo neutral ( El Peñón en el Puerto de la Cruz ) y a puerta cerrada. 🚨 Lo sucedido en Güímar es INADMISIBLE. 🪨 El Sporting Hortaleza fue recibido con piedras contra su autobús y, según denunció, incluso con personas portando armas blancas. 🥤 Ya en el campo hubo lanzamiento de botellas y enfrentamientos entre ambas expediciones. ❌ El… &mdash; Mr. Asubío (@MrAsubio) October 4, 2026 \\n \\n\\n\",\"proveedor\":4}\"> \"No están siendo justos con nosotros. En Madrid (1-0 para los locales) sufrimos nosotros el lanzamiento de piedras a nuestro banquillo y dentro del campo, y nada sucedió . El delegado de la Real Federación de Fútbol de Madrid vio los proyectiles y nada pasó. Pero en Güímar sucedieron cosas fuera del campo y sí hemos tenido esta repercusión . No se nos mide con la misma vara\", denuncia en 'Radio Marca' Javier Favarel , que avisa de que ejercerán sus derechos: \"Vamos a apelar la resolución, porque no se está teniendo en cuenta el acta del árbitro. Presentaremos los recursos y veremos si somos escuchados o se nos hace caso omiso\". Ver esta publicación en Instagram \"> Y es que, a juicio del directivo tinerfeño, se encuentran en situación de indefensión : \"No estamos en igualdad de condiciones, porque vamos a jugar fuera de nuestro campo, y a puerta cerrada, cuando la ida se jugó con público\". La propia resolución de la RFEF establece que contra la misma \"cabe interponer recurso ante el Comité Nacional de Segunda Instancia en el improrrogable plazo de 48 horas desde su notificación\", lo que supone hacerlo antes del jueves por la noche. Por la inminencia del choque, se entiende que el nuevo peldaño de la justicia deportiva fallaría como muy tarde el viernes, 48 horas antes de la cita fijada en el Puerto de la Cruz . El Sevilla conocerá el domingo a su rival del 29 de octubre: la vuelta del Güímar-Hortaleza, a puerta cerrada Sin suerte para Sevilla y Betis en el sorteo de Copa del Rey Sin traslado en busca de una mayor taquilla Cuestionado Javier Favarel sobre la posibilidad de medirse con el Sevilla FC el próximo jueves 29 de octubre , prefiere no lanzar las campanas al vuelo, aunque tiene claro que no habría nuevo exilio : \"Ya de antes era ilusionante jugar la Copa , así que imagínate ahora que sabemos que podemos jugar contra el Sevilla . Pero lo que queremos es hacer las cosas bien; hay que ganar la eliminatoria y demostrar que estamos capacitados para hacerlo. Si lo logramos, queremos jugar en Tasagaya , en nuestro campo (con aforo para 1.500 personas sentadas), que es lo que marcaría la diferencia , a nivel también social y cultural por los niños que van a ver a un equipo de Primera aquí\". Ver esta publicación en Instagram \">",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-07T22:05:45+00:00"
         }
       ]
     },
@@ -184,6 +184,62 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Madelman, ex Mister Olympia: \"Luis de la Fuente nos recuerda una verdad que mucha gente olvida\"",
+          "link": "https://www.estadiodeportivo.com/futbol/seleccion-espanola/madelman-mister-olympia-luis-fuente-nos-recuerda-una-verdad-que-mucha-gente-olvida-20261008-548173.html",
+          "desc": "El seleccionador español tiene un físico envidiable a sus 65 años, el cual es analizado por un culturista profesional José María Mete Bueriberi, conocido como Madelman , es uno de los grandes referentes del culturismo en España. Nacido en Guinea Ecuatorial en 1989 y afincado en España desde los 4 años, ha competido a nivel internacional durante varios años en las categorías Classic Physique y Men's 212 LB. Ahora, Madelman suma millones de seguidores en redes sociales y es una de las voces más autorizadas para hablar de culturismo en nuestro país. En sus redes no solo comparte su preparación para los distintos campeonatos, también habla de distintos temas relacionados con el mundo del deporte y, más concretamente, el fitness, aunque en más de una ocasión ha mostrado su afición por el fútbol. En este sentido, hace no mucho publicó un vídeo en el que analizaba el físico de Luis de la Fuente. El seleccionador español tiene un estado de forma envidiable a sus 65 años, de ahí que Madelman haya querido resaltarlo. Luis de la Fuente, entrenador de la Selección Española: \"No somos quejicas y no ponemos excusas. Es el formato que hay\" De la Fuente se rinde a su selección tras la remontada ante Croacia: \"Nunca bajan los brazos\" \"Cuando ves imágenes antiguas y las comparas con las actuales, da la sensación de que hoy transmite una imagen mucho más fuerte, más saludable y con mayor vitalidad. Esto demuestra algo que muchos consideran imposible. Muchos llegan a los 40, 50 o 60 años pensando 'ya es tarde' y que su cuerpo ya no puede cambiar, pero la realidad es otra\", comienza diciendo el culturista. \"El cuerpo sigue respondiendo al entrenamiento de fuerza durante toda la vida; cada kilo de masa muscular que se construye es salud, es mejorar tu vida cuando tengas 70 u 80 años. La masa muscular no es un lujo, es un seguro de vida. El peor error es pensar que ya no merece la pena cuidarse\", añade. @madelman_ 45 Vs 65 años. Luis De La Fuente ♬ sonido original - MADELMAN \",\"proveedor\":11}\"> Madelman concluye su vídeo con un mensaje para las personas que piensen en dar un giro a su vida y pasar a llevar una rutina más saludable. \"Cada entrenamiento, cada comida, cada pequeño hábito suma. Imagínate dentro de diez años. Tienes dos opciones: depender cada vez más de los demás o tener fuerza y tener un cuerpo que sigue respondiendo. La transformación de Luis de la Fuente nos recuerda una verdad que mucha gente olvida: nunca es tarde para construir un físico más fuerte\", finaliza. La rutina de Luis de la Fuente El seleccionador campeón del mundo no esconde que le gusta entrenar y que es muy importante para un estilo de vida saludable. \"Para mí el deporte es una forma de vida. Me han educado así y sé que sin deporte no podría vivir... Es mi momento de relax. Hay veces que pienso en el trabajo y otras veces no pienso en nada\", ha contado en varias ocasiones. Eso sí, De la Fuente ha dicho en repetidas ocasiones que la constancia es fundamental. \"Lo más importante es tener la disciplina de hacerlo todos los días del año. No fallo nunca\", ha asegurado el riojano. En cuanto a su rutina, Luis de la Fuente tiene una rutina de ejercicios semanal. \"Empiezo por pecho, espalda; al día siguiente brazo y lo voy repitiendo\", explica el seleccionador.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-08T16:27:17+00:00"
+        },
+        {
+          "title": "F1 GP de Singapur 2026 | Horarios, canal y dónde ver en TV el Gran Premio de Fórmula 1",
+          "link": "https://www.estadiodeportivo.com/motor/formula-1/singapur-2026-horarios-canal-donde-ver-gran-premio-formula-20261008-548176.html",
+          "desc": "El circuito urbano de Marina Bay acoge la 17ª prueba del Mundial de F1, a la que Fernando Alonso llega tras su mejor carrera Marina Bay es siempre una cita muy especial, que a muchos pilotos no le gusta, pero que, para el espectador resulta espectacular. Un circuito urbano, donde se corre de noche y que cuenta con muchas curvas siempre es emocionante. Para pilotos como Fernando Alonso es un plus que les permite sacar lo mejor de sí mismos . El asturiano ha logrado allí algunas de sus mejores actuaciones y tras acabar octavo el pasado domingo señaló que Aston Martin puede ir, incluso, mejor en Singapur. Lo positivo para Aston Martin es que vienen de hacer su mejor gran premio cuando menos margen tienen para variar cosas, ya que no sólo hay cuatro días desde el final del primero y el inicio del segundo, sino que en Singapur no van a tener más que los primeros libres para probar cosas, ya que es uno de los seis circuitos que cuentan con prueba al Sprint y, por tanto, no habrá más libres y ya se entrará en la Clasificación de esta modalidad en la segunda cita del viernes. En cuanto a esta 17ª cita del campeonato del mundo de F1, aparte de lo que pueda hacer Alonso y de ver en que situación están los Williams de Carlos Sainz esta semana, la atención estará puesta en lo que pase en cabeza y en si Verstappen y los Ferrari pueden seguir presionando a un Antonelli que no se deja intimidar. Not your usual taxi service 🚕 Throwing back to when Fernando Alonso picked up a stranded Mark Webber at the end of the 2013 Singapore Grand Prix 👀 #F1 #SingaporeGP pic.twitter.com/R1BBMwCvQV &mdash; Formula 1 (@F1) October 7, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Marina Bay es una pista urbana de 4.927 metros, con 19 curvas, prácticamente sin escapatorias, ni margen de error, por lo que es complicado adelantar y en la que los Safety Cars suelen alterar el caos en el que a veces se convierten las carreras . En ella, la calificación siempre es de vital importancia y esta vez hay dos. Horarios del GP de Singapur de F1 2026 La Fórmula 1 continúa en Singapur y debido a la gran diferencia horaria entre España y este país asiático, los aficionados a la Fórmula 1 tendrán que reservar las primeras horas del día para ver la acción en pista este fin de semana. Además, al haber carrera al sprint, la acción comienza muy pronto . - Entrenamientos libres 1: Viernes 9 de octubre a las 10:30 horas - Clasificación sprint: Viernes 9 de octubre a las 14:30 horas - Carrera sprint: Sábado 10 de octubre a las 11:00 horas - Clasificación (Q1, Q2 y Q3): Sábado 10 de octubre a las 15:00 horas - Carrera: Domingo 11 de octubre a las 14:00 horas Dónde ver el GP de Singapur de F1 2026 El Gran Premio de Singapur de Fórmula 1 se podrá ver tanto en la plataforma de DAZN F1 como en Movistar Plus+. Cabe recordar que ambos requieren suscripción, en Movistar hay que tener contratada su televisión además del paquete Motor. En el caso de DAZN, es necesario tener contratado el paquete total o el esencial de la plataforma. Por otra parte, podrás seguir el Gran Premio de Singapur 2026 mediante ESTADIO DEPORTIVO, donde encontrarás todas las noticias, crónicas y un seguimiento exhaustivo de la categoría reina del automovilismo, con directos incluidos de la clasificación del sábado y la carrera del domingo.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-08T16:14:00+00:00"
+        },
+        {
+          "title": "Un 'tres en uno' de Vane Sotelo acerca a España a la Eurocopa de 2027",
+          "link": "https://www.marca.com/futbol/futbol-sala/2026/10/08/tres-vane-sotelo-acerca-espana-eurocopa-2027.html",
+          "desc": "Tras su victoria ante Italia, lo conseguirá esta noche si Eslovenia no gana a Francia y, si no, las de Clàudia Pons deberán vencer el sábado a las anfitrionas (17:30)",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-10-08T18:04:55+02:00"
+        },
+        {
+          "title": "Lucien Agoumé explica por qué rechazó ofertas en verano para seguir en el Sevilla: \"Era mucho dinero, pero cada uno elige las cosas por las que juega al fútbol\"",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUFmdjRMdzNRalRGWll2emRhcy1PcG9IWllzb0RSV0F5V1FIV255X1J0WTdxNnJ0UTVuVjFFZTlFT3pBZ2NZWWlCTlJQUkZ4anZTWEFya1QwNDcwSTBTc2tCMkJiY0JvbXN4VHhETlIwdTd0YzZNRjhYeHVDTEJPR0dpVGpiZjhWYVAwNWhZVDBoLUtsRTJTX0hKanZwT014YXNpVlE4WUtCcEIy0gGyAUFVX3lxTFB4NDZBVnVfaWp3WW9EUlFPQS1jczRkOXBmeVpNbWNoR090SEZIdjdzQU8zdjJjSllJajhrYjFQX3RnLW8yWTBnZmdpa2tJY1h4aHBlelhBdTBOdHl2cV9IMHNrN0pEd0M2elc5QmZWbzYtcUctSDdlQnJ6Q1dHRDVrRHExRkpPMVo4MVV3ZHZOTzM2ME80VWJ2YlBqUms4WG1rTU52VDM3X2hOSVhXVlF3RHc?oc=5",
+          "desc": "Lucien Agoumé explica por qué rechazó ofertas en verano para seguir en el Sevilla: \"Era mucho dinero, pero cada uno elige las cosas por las que juega al fútbol\" El Correo de Andalucía",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T16:02:10+00:00"
+        },
+        {
+          "title": "Horarios de los Libres 1 y 2 del GP de Singapur y dónde ver en TV los entrenamientos de Alonso y Sainz",
+          "link": "https://www.marca.com/motor/formula1/gp-singapur/2026/10/08/horarios-libres-1-2-gp-singapur-donde-ver-tv-entrenamientos-alonso-sainz.html",
+          "desc": "Marina Bay puede empezar a decidir el Mundial",
+          "source": "https://www.marca.com/rss/motor.xml",
+          "fecha": "2026-10-08T18:01:26+02:00"
+        },
+        {
+          "title": "El Real Madrid se mantiene en la Comisión Delegada de LaLiga; Atlético y Eibar continúan en las vicepresidencias",
+          "link": "https://www.marca.com/futbol/primera-division/2026/10/08/real-madrid-mantiene-comision-delegada-laliga-atletico-eibar-continuan-vicepresidencias.html",
+          "desc": "Todavía no está en vigor porque se mantiene abierta la fase de impugnación",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-10-08T18:01:06+02:00"
+        },
+        {
+          "title": "Martín y Márquez se baten en Indonesia por liderar el Mundial de MotoGP: previa, horario y dónde ver por TV el GP de Indonesia",
+          "link": "https://www.eldiario.es/spin/deportes/martin-marquez-baten-indonesia-liderar-mundial-motogp-previa-horario-ver-tv-gp-indonesia-pm_1_13572937.html",
+          "desc": "\"En un campeonato manda el que va más rápido, el que tiene más velocidad y si tienes velocidad serás el más listo, el más estratega y el que mejor gestione la situación\", aseguró Márquez antes del inicio del Gran Premio. El tenis tiene nuevo rey: Zverev acabará el año como número uno tras la baja de Sinner hasta 2027 La gira asiática de MotoGP sigue sin descanso tras un fin de semana de lo más emocionante en Japón que deja un Mundial más apretado que nunca entre sus dos principales candidatos, con un líder Jorge Martín con tan solo 2 puntos de ventaja ante Marc Márquez. Pero muy diferente serán las cosas en Indonesia, en el circuito de Mandalika, uno de los que peor se le han dado a Marc Márquez históricamente, donde la moto de Martín podría tener un punto más respecto a su competidor. Un Márquez que llega reforzado de Motegi después de un doblete histórico que le supuso 37 puntos y volver a entrar de lleno en la lucha por el liderato del Mundial. Por eso se centra en el presente en Indonesia: “Prefiero no pensar en el pasado con este circuito, porque la relación no es la mejor. Pero la mentalidad de este año es diferente. Puede ayudar más o menos, pero no se gana ni se pierde el campeonato en Mandalika. Es verdad que cuantos más puntos cojas mucho mejor, así que intentaremos estar lo más cerca posible de los primeros, pero de entrada no descartamos nada”, aseguró en la previa. A su vez, se mantiene cauto en cuanto al Mundial y sus opciones: “Pero en un campeonato manda el que va más rápido, el que tiene más velocidad y si tienes velocidad serás el más listo, el más estratega y el que mejor gestione la situación. Sin velocidad no puedes, así que nos centramos en sacar la mejor velocidad de nuestro conjunto”, añadió. Por su parte, Jorge Martín afronta con otro sentido el Gran Premio en Indonesia, como líder con tan solo 2 puntos, pero cada vez más optimista ante sus opciones y el reto que supone: “Lo importante es llegar con opciones hasta el final. Estar ya en la pelea es bestial y, seguramente, mejorando mucho para plantar cara a Marc”, dijo el piloto de Aprilia en la previa con DAZN. Para el madrileño, los neumáticos serán la clave del fin de semana en Mandalika, y en ese sentido asegura tener un plan: “Viendo el año pasado las gomas son una parte importante. Este compuesto es difícil hacerlo trabajar, nos centraremos en eso”, concluyó. El Mundial de MotoGP, sin embargo, no se limita solo a Martín y Márquez, pues el catalán todavía sigue contando con Bezzechi en la lucha. El italiano, por otro lado, es consciente de sus limitaciones en este sentido: “Está claro que estamos un poco lejos de Jorge y de Marc, pero me gustaría poder luchar con ellos. Creo que, en este momento, estamos ante el mejor Martín y el mejor Márquez de toda la temporada, contando hasta Japón. Ambos están en forma. Yo tengo que intentar mejorar, llegar a ser yo también el mejor Bezzecchi. Espero dar un pequeño paso adelante”, declaró. Horarios del GP de Indonesia de MotoGP *Viernes 9 de octubre: FP1: 4:45 horas Practice: 9:00 horas *Sábado 10 de octubre: FP2: 4:10 horas Q1: 4:50 horas Q2: 5:15 horas Sprint (13 vueltas): 9:00 horas *Domingo 11 de octubre: Warm up: 4:40 horas Carrera: (27 vueltas): 9:00 horas *horarios peninsulares en España Dónde ver por TV la carrera de Indonesia de MotoGP Todo lo que suceda en el fin de semana del Gran Premio de Indonesia en MotoGP, así como también lo que pase en las categorías de Moto 2 y Moto 3, se podrá ver en televisión y en streaming como es habitual en la plataforma DAZN, que tiene los derechos del campeonato en España.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-10-08T16:00:54+00:00"
+        },
+        {
+          "title": "El plan B de ERC para las elecciones generales por si Rufián da la espantada",
+          "link": "https://www.eldiario.es/catalunya/plan-b-erc-elecciones-generales-si-rufian-da-espantada_1_13573245.html",
+          "desc": "Jordi Albert, actual diputado en el Parlament, recoge avales de su territorial para convertirse en el candidato por Barcelona y emerge como posible cabeza de lista si Rufián lo rechaza Junqueras avala a Rufián de cara al 29N: “Seguro que será el candidato de ERC” Mientras Gabriel Rufián deshoja la margarita y da largas a la propuesta de su formación de acudir como cabeza de lista a las elecciones generales, en el partido comienza a emerger un plan B. Tal y como ha avanzado El Periódico y ha confirmado este diario de fuentes de la propia Esquerra, el actual portavoz en el Parlament Jordi Albert está recogiendo avales para que su territorial lo avale como candidato al Congreso. Eso lo colocaría en los puestos de salida, si Rufián acaba encabezando la lista, pero también lo convertiría en la opción B si el dirigente en Madrid da la espantada. “El candidato de la dirección de ERC continúa siendo Rufián”, subrayan fuentes de la cúpula republicana, que aseguran que es normal que sus militantes recojan avales para acudir a las territoriales, ya que en ERC una parte de las listas emerge directamente de las asambleas. Sin embargo, no pasa desapercibido que Jordi Albert es un político de total confianza para Oriol Junqueras y que ya había sonado antes como posible relevo de Rufián. El diptuado en el Congreso anunció que pondría “un mínimo de condiciones” para renovar su candidatura al Congreso. Según explican fuentes conocedoras, Rufián habría enviado unas reclamaciones a la dirección de su partido que le permitirían “estar cómodo”. Entre ellas, el diputado quiere poder elegir a algunos de sus compañeros de listas y tener más peso en la dirección estratégica de la formación. Mientras que el partido espera para conocer la decisión de Rufián, muchos de sus compañeros en Madrid están anunciando que no optarán a la reelección. Los diputados Jordi Salvador y Pilar Vallugera han anunciado en los últimos días que no repetirán en las listas de ERC en el Congreso. Ambos mantenían una tormentosa relación con Rufián y, mientras que en su despedida Salvador habló de una “profunda decepción personal”, Vallugera se fue con una larga lista de agradecimientos entre la que no citó al líder del grupo. A ellos se suma la portavoz de ERC en Senado, Sara Bailac, que ha anunciado que no optará a la reelección como senadora por Lleida tras dos legislaturas en Madrid.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-10-08T15:59:02+00:00"
+        },
         {
           "title": "Cambio drástico para Julián Álvarez: el Atlético de Madrid, satisfecho con su última decisión",
           "link": "https://www.estadiodeportivo.com/futbol/atletico-madrid/cambio-drastico-para-julian-alvarez-atletico-madrid-satisfecho-con-ultima-decision-20261008-548171.html",
@@ -241,7 +297,7 @@
           "fecha": "2026-10-08T15:19:31+00:00"
         },
         {
-          "title": "Ganar la Champions y la Eurocopa alejan a Carvajal del Getafe",
+          "title": "Ganar la Champions y la Eurocopa aleja a Carvajal del Getafe",
           "link": "https://www.marca.com/futbol/getafe/2026/10/08/criterios-laliga-alejan-carvajal-getafe.html",
           "desc": "El Comité de Valoración de LaLiga tasa al futbolista según una serie de aspectos",
           "source": "https://www.marca.com/rss/portada.xml",
@@ -295,62 +351,6 @@
           "desc": "El delantero no esconde la apuesta por Europa en vísperas de volver a la Liga ante el Rayo",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-10-08T16:34:55+02:00"
-        },
-        {
-          "title": "Exigen una indemnización a Meta por el suicidio de una exmoderadora que trabajaba en Barcelona",
-          "link": "https://www.20minutos.es/cataluna/barcelona/familia-una-exmoderadora-meta-que-trabajaba-barcelona-reclamara-una-indemnizacion-compania-por-su-suicidio_7046659_0.html",
-          "desc": "La chica estaba a punto de adherirse a una macrodemanda colectiva contra la tecnológica.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-10-08T16:33:56+02:00"
-        },
-        {
-          "title": "La familia de una exmoderadora de contenidos de Meta reclamará una indemnización tras su suicidio",
-          "link": "https://elpais.com/espana/catalunya/2026-10-08/la-familia-de-una-exmoderadora-de-contenidos-de-meta-reclamara-una-indemnizacion-tras-su-suicidio.html",
-          "desc": "La acusación considera que la muerte se debió al estrés postraumático que tenía la mujer, que había trabajado en las oficinas de Barcelona",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-10-08T14:33:49+00:00"
-        },
-        {
-          "title": "Beñat San José, técnico del Rayo Vallecano, sobre su duelo ante el Athletic Club: \"Yo crecí como jugador y entrenador en la cantera de la Real Sociedad\"",
-          "link": "https://www.estadiodeportivo.com/futbol/rayo-vallecano/benat-san-jose-tecnico-del-rayo-vallecano-sobre-duelo-ante-athletic-club-creci-como-jugador-entrenador-cantera-real-sociedad-20261008-548164.html",
-          "desc": "El entrenador del cuadro rayista no escondió que recibir al Athletic en Vallecas es especial. \"Sin duda\". Sobre su primer encuentro oficial en casa afirmó: \"Estoy entusiasmado de volver a Vallecas\" El Rayo Vallecano de Beñat San José pondrá a prueba el próximo sábado la consistencia de un Athletic Club que llega con las bajas de Sancet y de Nico Williams , dos de sus jugadores más importantes. Para Beñat San José no será un partido más ya que el actual técnico del Rayo Vallecano tiene dos alicientes. En primer lugar es el primer partido oficial de los rayistas en casa después del exilio en Butarque . Después, Beñat San José formó parte de la cantera de la Real Sociedad y también se formó en la cantera donostiarra como entrenador. Este mismo jueves, el propio Beñat San José confirmó que la visita del Athletic Club a Vallecas tendrá un doble componente emocional aunque lejos de incentivar que el encuentro aumente de temperatura, se mostró feliz porque a los equipos vascos les vaya bien y además confesó tenerle cariño: \"Sí, sí, sí, es un partido especial para mí, sí, sin duda. Obviamente, por ser vasco, es un partido especial, no lo voy a negar. Yo, como vasco, siempre he tenido cariño a todos los equipos vascos. Los equipos vascos han jugado también en Europa, por ejemplo, a lo largo de los años, y he sido una persona que siempre ha deseado lo mejor a los equipos vascos, sobre todo también cuando juegan en copas internacionales. Y, bueno, a partir de ahí, no te voy a decir que no\". El 'derbi' de Beñat San JoséBe ante el Athletic Club con pasado en la Real Sociedad Beñat San José reconoció que hay un componente especial al enfrentarse al Athletic Club por los derbis que vivió cuando jugaba en las categorías inferiores de la Real Sociedad : \"También la cercanía, a lo largo de un poquito de mi vida, de los derbis. Yo crecí como jugador y como entrenador en la cantera de la Real Sociedad , entonces muchos derbis, muchas de esas cosas, pues obviamente no voy a negar que están ahí, que son de mucha competitividad, pero también de un cariño. Y, bueno, eso por un lado en el tema más personal, pero sin pasar de ahí\". Beñat San José elogia a Íñigo Pérez Álvaro García, jugador del Rayo Vallecano: \"Tengo varios pisos en Rota y en Utrera, pero prefiero los alquileres anuales porque son más fáciles de gestionar\" Además San José elogió al Athletic Club como entidad y valoró positivamente el trabajo de Edin Terzic : \"Como club, es un club espectacular, con una identidad única en el mundo, que tiene grandes jugadores y que ahora mismo tiene un entrenador nuevo, es verdad, pero es sorprendente y es de subrayar la velocidad con la que se ha adaptado al equipo y el equipo a él. Creo que es un equipo muy intenso, un equipo que tiene una estructura y una idea de salir con balón muy completa, porque se asocian muy bien, tienen muy buen pie, pero tienen a su vez una velocidad importante y un cambio de ritmo y un virtuosismo en la última línea importante\". #[media;blockquote;[proveedor:0;text:%22Yo%2C%20particularmente%20y%20personalmente%2C%20estoy%20entusiasmado%20de%20volver%20a%20Vallecas%22]] La vuelta a Vallecas del Rayo Vallecano Beñat San José tampoco escatimó a la hora de expresar lo que supone tanto para él como para el equipo el hecho de volver a Vallecas: \"Bueno, para empezar, tenemos una ilusión increíble. Yo, particularmente y personalmente, estoy entusiasmado de volver a Vallecas , de tener mi primer partido oficial. Y, bueno, la afición de Vallecas es una afición que empuja muchísimo y que pone muy difíciles las cosas a los rivales, obviamente en el buen sentido. Yo creo que, tanto para el equipo como para la afición, va a ser un reto potente, porque nosotros obviamente tenemos un rival muy potente enfrente, que es el Athletic Club , uno de los grandes e históricos de esta Liga\". Por último, dejó claro el técnico del Rayo que su nexo de unión con la directiva rayista es David Cobeño , director deportivo de los madrileños: \"En el club no nos encontramos tampoco. Yo, la verdad, en el club, sobre todo con el que hablo es con el director deportivo, con David Cobeño . Hablamos diariamente del equipo, de él estar todos los días. Ese es mi nexo y es el que tiene que ser. Si a veces nos encontramos, lo veo, pero poco más. En el sentido de que, al final, yo soy entrenador, yo no soy un gestor directivo del club para nada\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-08T14:19:41+00:00"
-        },
-        {
-          "title": "Mourinho y la lentitud del 'caso City': \"Tendremos que tener suerte de seguir aquí cuando llegue la sentencia\"",
-          "link": "https://www.marca.com/futbol/real-madrid/2026/10/08/mourinho-lentitud-caso-city-tendremos-suerte-seguir-aqui-llegue-sentencia.html",
-          "desc": "El entrenador del Real Madrid repasa en una entrevista la situación judicial del club inglés, sus habituales polémicas arbitrales y su regreso al banquillo blanco",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T15:55:33+02:00"
-        },
-        {
-          "title": "\"Llego al hotel, veo la lista de habitaciones: hay diez analistas, diez de redes sociales... ¿Hacen falta todos?\"",
-          "link": "https://www.marca.com/futbol/real-madrid/2026/10/08/mourinho-lentitud-caso-city-tendremos-suerte-seguir-aqui-llegue-sentencia.html",
-          "desc": "El entrenador del Real Madrid repasa en una entrevista la situación judicial del club inglés, sus habituales polémicas arbitrales y su regreso al banquillo blanco",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-10-08T15:55:33+02:00"
-        },
-        {
-          "title": "El Barça presume de precisión",
-          "link": "https://www.marca.com/futbol/barcelona/2026/10/08/barca-presume-precision.html",
-          "desc": "Cuatro azulgranas entre los siete jugadores con un porcentaje mayor de acierto en el pase",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T15:42:48+02:00"
-        },
-        {
-          "title": "Fernando Alonso desmiente lo del Dakar pero Aston Martin le abre la puerta: \"Es bueno para el automovilismo que los pilotos hagan eso\"",
-          "link": "https://www.estadiodeportivo.com/motor/formula-1/fernando-alonso-desmiente-del-dakar-pero-aston-martin-abre-puerta-bueno-para-automovilismo-que-los-pilotos-hagan-eso-20261008-548163.html",
-          "desc": "El asturiano se ha mostrado molesto en la previa del Gran Premio de Singapur con la información que ha corrido como la pólvora esta semana sobre su participación en la próxima edición del Dakar Un rumor hoy día se puede hacer noticia en cuanto tantos medios de comunicación decidan darle voz. Porque corre como la pólvora en redes sociales y todos lo dan por hecho. Hace unos días, la web SoyMotor.com, anunciaba que Fernando Alonso estaba muy cerca de oficializar su participación en la próxima edición del Rally Dakar y que lo haría sobre las ruedas de un coche disfrazado de Aston Martin. Sin embargo, en la rueda de prensa previa al Gran Premio de Singapur, el propio piloto español se ha encargado de desmentir todas estas informaciones, asegurando que \"no es compatible\" con sus labores en la Fórmula 1. \"Sí, he leído esos rumores, pero no creo que sea físicamente posible. No creo que sean compatibles las exigencias de Fórmula 1 con el Dakar\", explicó Alonso. El nuevo apodo que ha recibido Fernando Alonso en la parrilla de Fórmula 1 a sus 45 años El bicampeón del mundo, que ya ha demostrado su interés por disciplinas diferentes a la Fórmula 1 en el pasado, como demuestran con apariciones en el WEC, las 500 Millas de Indianápolis o el mismo Rally Dakar, recordó que afrontar un nuevo desafío al máximo nivel requiere mucho más que simplemente ponerse al volante de otro vehículo. Al ser preguntado por otras alternativas, como correr en GT3 como está haciendo en los últimos meses su amigo Max Verstappen, Alonso también lo descartó. \"No, GT3 no. Se necesita de una buena preparación\", dijo antes de añadir: \"Cada uno de estos retos, porque se han hecho en el pasado, la gente puede pensar que son fáciles, pero requieren de mucha preparación, determinación y suerte para tener éxito\". Fernando Alonso, bicampeón del mundo en Fórmula 1, monta el circuito de sus sueños: \"He elegido el sector uno de Suzuka, el dos de Spa y el tres de Barcelona\" No obstante , Alonso dejó abierta la puerta a volver a enfrentarse a una nueva aventura deportiva en el futuro, aunque insistió en que no será algo que llegue fruto de especulaciones o filtraciones. \"Cuando me enfrente al siguiente reto, lo anunciaré yo, no será un rumor, y seré yo mismo quien lo comunique. Y lo haré porque creo que estaré suficientemente preparado y porque habrá un riesgo que será el correcto\", concluyó el asturiano. Aston Martin le da vía libre a Fernando Alonso Y aunque el asturiano ha dicho que no es compatible, Mike Krack , director en pista de Aston Martin y quien también ha sido preguntado al respecto antes de las palabras de Alonso, apoyó los planes de Alonso fuera de la F1. \"Lo he leído. Personalmente, tengo que decir que tuvimos a Robert haciendo rallyes , Kimi haciendo rallyes, Max con los GT3, Lance también con GT3. Personalmente, me gusta eso. Creo que es bueno para el automovilismo en general que los pilotos hagan eso\". \"Ahora, qué pasa, no puedo decir nada en el caso de Fernando para el año que viene, pero en general creo que es algo muy bueno. Y también muestra qué enfoque de competición o qué pilotos son. Con el calendario de listas que tenemos, quieren hacer otras cosas. Creo que para Max fueron siete fines de semana seguidos de carreras con lo de GT3. Muestra qué pilotos son y me pegan a la TV también, es algo bueno\", finalizó.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-08T13:06:06+00:00"
-        },
-        {
-          "title": "Van Persie (43 años), el gol a España en Brasil 2014 y su pelea con los centrales: \"Carles Puyol fue el defensa más difícil al que me enfrenté\"",
-          "link": "https://www.estadiodeportivo.com/futbol/van-persie-estrella-que-escapo-monchi-carles-puyol-fue-defensa-mas-dificil-que-enfrente-20261008-548134.html",
-          "desc": "El exdelantero de Arsenal, Manchester United y Feyenoord, ahora entrenador, atiende a ESTADIO Deportivo en una distendida conversación en la que explica su actual momento, sin banquillo y volcado en el ciclismo, al tiempo que hace repaso de su carrera: \"Si tuviera que elegir mi gol favorito, probablemente diría contra España en 2014\" Robin van Persie es uno de esos futbolistas que dejaron una imagen imborrable en el fútbol europeo. Su cabezazo ante España en el Mundial de 2014 forma parte de la memoria de los grandes torneos. Como futbolista, su carrera le llevó a jugar en clubes como Arsenal, Manchester United y Feyenoord. Pero antes de convertirse en una estrella mundial, su nombre estuvo muy cerca de fichar por el Sevilla FC, en 2004, de la mano de Monchi. Una historia que tanto el de San Fernando como el propio Van Persie han explicado en alguna ocasión. \"Con Van Persie estaba todo cerrado, esperándolo en una habitación para que subiera y justo antes de montarse en el ascensor lo llamó a Wenger\", ha llegado a comentar reiteradas veces el de San Fernando, mientras que el propio Van Persie dijo en el pasado: \"El Sevilla fue una de las opciones que tenía para fichar. Me sentí muy halagado por este interés, a pesar de que finalmente tomé la difícil decisión de ir al Arsenal\". Ahora, en cambio, prefiere no referirse a ello, dejando claro que es una anécdota del pasado que ya no merece la pena recordar más. Ahora, Van Persie, ya retirado como futbolista y habiendo iniciado una carrera como entrenador que le ha llevado por los banquillos del Heerenveen y el Feyenoord, se encuentra sin equipo. Momento que aprovecha para \"disfrutar de esta nueva etapa\" de su vida, \"pasando más tiempo\" con su familia y siguiendo \"muy vinculado al fútbol\". Pero el balón no lo es todo ya en la vida de Van Persie, como él mismo deja claro durante su conversación con ESTADIO Deportivo : \"Exploro diferentes cosas fuera del fútbol\". La nueva vida de Van Persie \"Creo que sigo estando muy vinculado al fútbol, pero de una manera diferente\" , comenta el neerlandés en su entrevista con ESTADIO Deportivo , donde explica que \"siempre\" ha \"sido una persona curiosa\" que le gusta \"probar cosas nuevas\", \"viajar\" y mantenerse activo. \"Simplemente, tener más tiempo para disfrutar de la vida\", cuenta el exfutbolista, quien reconoce que después de tantos años pensando en entrenamientos y partidos, resulta agradable descubrir una vida diferente: \"El fútbol fue una parte enorme de mi vida durante muchos años, así que es agradable descubrir cómo es la vida cuando no estás pensando en el próximo entrenamiento o en el próximo partido\". Van Persie: \"El fútbol fue una parte enorme de mi vida durante muchos años, así que es agradable descubrir cómo es la vida cuando no estás pensando en el próximo entrenamiento o en el próximo partido\" \"> Tras colgar las botas, el ciclismo es una de esas nuevas vías que Van Persie ha encontrado para mantenerse activo , habiéndose convertido también en imagen de una conocida marca de bicicletas. Una relación con las dos ruedas que es cada vez más estrecha, aunque no al nivel de poder sustituir al fútbol en su vida: \"No diría que estoy intentando sustituir el fútbol por otro deporte. El fútbol siempre será el fútbol para mí. Pero sí disfruto manteniéndome activo, y el ciclismo es algo con lo que siempre he tenido conexión\". El ciclismo como una forma de desconectar \"Cuando juegas profesionalmente, el deporte es tu trabajo, así que siempre existe cierto nivel de presión asociado \", explica el exdelantero, quien después de tantos años en el fútbol profesional, el ciclismo le permite acercarse al deporte desde una perspectiva completamente distinta: \"El ciclismo es diferente. Simplemente puedes subirte a la bicicleta y montar sin pensar en el rendimiento o en el resultado . Puedes ir a algún sitio, explorar una nueva ruta o simplemente disfrutar del aire libre\", señala un Van Persie que deja claro su visión del futbolista tras la retirada: \"Para mí no se trata de llenar un vacío. Se trata de encontrar diferentes maneras de mantenerme activo y disfrutar del aire libre\". Van Persie y el gol contra España en el Mundial 2014 Pese a que durante su carrera marcó algunos goles memorables, hay uno que continúa ocupando un lugar especial en su memoria: el cabezazo ante España en el Mundial de Brasil 2014. \"Si tuviera que elegir mi favorito, probablemente diría el gol contra España en 2014\", indica el que fuera internacional con Países Bajos. Un auténtico golazo de cabeza que pueden recordar en el vídeo que viene a continuación y que Van Persie explica así: \"No solo por el gol en sí, sino por el momento, el rival, el Mundial y lo que aquel partido significaba para Países Bajos\". \"> \"Hay varios de los que estoy muy orgulloso. Pero creo que el gol contra España es probablemente el que reúne todo: la técnica, el momento y la situación\" , vuelve a recordar Van Persie, quien más de una década después no se ha olvidado de ese tanto: \"Recuerdo la sensación por encima de todo. Cuando llegó el balón, simplemente reaccioné. Realmente no tuve tiempo para pensar en ello. Cuando vi que el balón entraba y la reacción del equipo y de los aficionados, fue una sensación increíble. A veces, en el fútbol, hay momentos en los que todo sucede de manera natural. Aquel fue uno de esos momentos\". Puyol y Terry, los defensas que más le exigieron Al margen de su tanto ante España, Van Persie también repasa en la conversación con ESTADIO Deportivo a algunos de los futbolistas que marcaron su carrera. Entre los jugadores que considera más infravalorados aparece Dirk Kuyt, \"un jugador al que siempre tuve mucho respeto. Para Van Persie, su compatriota no siempre recibió el reconocimiento que merecía: \"A veces la gente se centraba en su capacidad técnica, pero lo que más destacaba en él era su mentalidad, su capacidad de trabajo y todo lo que aportaba al equipo. Era el tipo de jugador que cualquier equipo necesita. Siempre sabías exactamente lo que ibas a obtener de él\". \"A Dirk Kuyt siempre le tuve mucho respeto.&nbsp;A veces la gente se centraba en su capacidad técnica, pero lo que más destacaba en él era su mentalidad, su capacidad de trabajo y todo lo que aportaba al equipo. Era el tipo de jugador que cualquier equipo necesita\" \"> Preguntado sobre los defensas que más difícil se lo pusieron, el que brillara con la elástica de clubes como Arsenal, Manchester United o Feyenoord, lo tiene claro: Carles Puyol y John Terry. \"Me enfrenté a muchos defensas muy fuertes, pero Carles Puyol y John Terry fueron de los más difíciles\", explica Van Persie, quien sobre Terry, destaca especialmente su competitividad y su inteligencia defensiva: \"Era extremadamente competitivo, muy inteligente defensivamente y nunca te lo ponía fácil\". Pero también existía respeto entre los defensas y los delanteros, comenta: \"Al mismo tiempo, existía mucho respeto entre los jugadores. Siempre sabías que contra alguien como él tenías que estar al máximo de tu nivel\". El Emirates y defender a Países Bajos y su partido más especial Van Persie también recuerda con ESTADIO Deportivo los grandes ambientes que vivió durante su carrera. El Emirates Stadium aparece entre sus escenarios favoritos. \"El ambiente del Emirates era increíble, especialmente en las grandes noches europeas\", rememora, al mismo tiempo que guarda especial cariño de la atmósfera que suponía defender a su país: \"También recuerdo jugar con Países Bajos y sentir esa conexión con los aficionados neerlandeses. Cuando juegas para tu país hay algo muy emocional\". Para Van Persie, un gran ambiente no depende únicamente de los decibelios en la grada: \"Los mejores ambientes no siempre tienen que ver con lo ruidoso que sea el estadio. A veces se trata de la sensación de que todo el estadio está completamente conectado con lo que está ocurriendo sobre el terreno de juego\". Su partido más especial, ante España en Brasil 2014 Si Van Persie recuerda su gol ante España en Brasil 2014 como el mejor de su carrera, también recuerda ese encuentro como el más especial de su trayectoria como futbolista. \"El partido contra España en el Mundial de 2014 siempre será muy especial para mí. Jugábamos contra el equipo que había ganado el Mundial anterior, así que había mucho respeto hacia ellos\", explica el neerlandés, quien recuerda la victoria con su gol como algo inolvidable: \"Ganamos el partido de la manera en que lo hicimos y marcar aquel gol hizo que fuera una noche inolvidable\". La confesión sevillista de Van Persie y su pronóstico para la semifinal La rivalidad con Antony, su opinión de Pellegrini o el fichaje frustrado por el Sevilla: Van Persie responde antes del Betis - Feyenoord Al margen de ese partido, también guarda otros gratos recuerdos Van Persie: \"También tengo muchos recuerdos muy especiales del fútbol de clubes. Es difícil elegir solo uno porque cada partido importante tiene su propia historia\". El Van Persie más personal: \"Hay mucho más en la vida que el fútbol\" Tras una larga y exitosa carrera como futbolista profesional, Van Persie mira ahora la vida con otra perspectiva, a pesar de que también ha comenzado una nueva etapa en los banquillos, aunque ahora mismo se encuentra sin equipo: \"La familia es muy importante para mí. El fútbol fue una parte enorme de mi vida durante muchos años, pero hay mucho más en la vida que el fútbol. \"Disfruto de las cosas sencillas: pasar tiempo con mi familia, estar al aire libre, viajar, mantener una buena conversación. No siempre necesitas algo grande o emocionante. A medida que te haces mayor, creo que aprecias más esos momentos sencillos\". \"Lo que todavía me encanta del fútbol&nbsp;es lo impredecible que es\" \"> \"El fútbol ha formado parte de mi vida desde que tengo memoria. Me ha dado muchísimas experiencias, amistades y recuerdos\", explica el exfutbolista, quien sigue disfrutando del balón desde otra perspectiva: \"Lo que todavía me encanta es lo impredecible que es. Puedes preparar un partido durante toda una semana, pero entonces sucede algo en un segundo que nadie esperaba. Eso es lo que hace que el fútbol sea tan bonito. No se trata únicamente del resultado. Se trata de la emoción, de las personas y de esos momentos que permanecen contigo\". Como espectador, Van Persie sigue disfrutando con los grandes torneos. \"Cuando ya no estás jugando, puedes ver el fútbol de una manera ligeramente diferente . Te fijas en cosas distintas y puedes apreciar la calidad sin tener esa presión sobre ti\", explica el neerlandés, quien ahora, como técnico, ve el fútbol de otra forma: \"Como he jugado y ahora también estoy involucrado en los banquillos, naturalmente me fijo en el aspecto táctico\". \"Como he jugado y ahora también estoy involucrado en los banquillos, naturalmente me fijo en el aspecto táctico\" \"> Pero no todo se reduce a los sistemas y tácticas: \"Al mismo tiempo, sigo disfrutando viendo a los jugadores individualmente y observando lo que son capaces de crear. Puedes analizar el fútbol todo lo que quieras, pero al final el fútbol sigue tratando sobre las personas, y esa emoción es lo que hace que este deporte sea especial\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-08T13:03:33+00:00"
         }
       ]
     },
@@ -363,49 +363,70 @@
           "link": "https://www.formula1.com/en/latest/article/why-splitting-car-specifications-is-a-no-brainer-for-mercedes-at-the-singapore-grand-prix.44OonD5CF8Eg4yQ2w5REwh",
           "desc": "Mercedes has committed to an unusual strategy for the Singapore Grand Prix, as it will field its two W17s with completely different aero packages over what will already be a hectic and complicated Sprint weekend.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "fecha": "2026-10-08T16:30:05.472630+00:00"
         },
         {
           "title": "Ferrari drivers 'here to attack' in Singapore GP",
           "link": "https://www.formula1.com/en/latest/article/were-here-to-attack-hamilton-and-leclerc-preview-ferraris-chances-in-singapore-gp.6nzWl7doxY9SlrpgTm5hNH",
           "desc": "Lewis Hamilton insists that he and Ferrari team mate Charles Leclerc are \"here to attack\" during the Singapore Grand Prix this weekend.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "fecha": "2026-10-08T16:30:05.472630+00:00"
         },
         {
           "title": "Verstappen evaluates chances of long-awaited Singapore win",
           "link": "https://www.formula1.com/en/latest/article/there-are-no-guarantees-verstappen-evaluates-chances-of-long-awaited-singapore-win.32IJkWTcOpZXZObCiSlHA6",
           "desc": "A few days after clinching his first victory of the season, Max Verstappen has shared his expectations for the Singapore Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "fecha": "2026-10-08T16:30:05.472630+00:00"
         },
         {
           "title": "Mercedes will 'find an answer' to unlocking upgrades – Antonelli",
           "link": "https://www.formula1.com/en/latest/article/antonelli-explains-how-mercedes-will-find-an-answer-to-unlocking-upgrades-in-singapore.6wh8R3l6YtmHaT4J5M6W8T",
           "desc": "Mercedes are targeting a return to victory at the Singapore Grand Prix as they continue to extract performance from their latest upgrade package.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "fecha": "2026-10-08T16:30:05.472630+00:00"
         },
         {
           "title": "Norris ‘hopeful’ recent car issue will be cured in Singapore",
           "link": "https://www.formula1.com/en/latest/article/norris-hopeful-recent-straight-line-speed-issue-will-be-cured-in-singapore-as-he-admits-mclaren-need-to-do-a-better-job.7GhQrU0cCJGpY9v8lxyTkp",
           "desc": "Lando Norris has offered an honest assessment of McLaren’s last two race weekends, stating that he and the team have “underperformed” and “need to do a better job” moving forward.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "fecha": "2026-10-08T16:30:05.472630+00:00"
         },
         {
           "title": "Verstappen answers your questions in our exclusive Q&A",
           "link": "https://www.formula1.com/en/latest/article/standout-races-favourite-hobbies-life-goals-and-more-max-verstappen-answers-your-questions-in-our-exclusive-reader-q-and-a.leLmjaR58k3DUJCjt231Q",
           "desc": "This weekend, Max Verstappen will celebrate his 250th Grand Prix on the streets of Singapore, bringing another milestone in the Dutchman’s trophy-filled F1 career that began just over a decade ago.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "fecha": "2026-10-08T16:30:05.472630+00:00"
         },
         {
-          "title": "Why Aston Martin expect another strong weekend in Singapore",
-          "link": "https://www.formula1.com/en/latest/article/why-aston-martin-are-confident-of-another-strong-weekend-in-singapore.7lryQSYovPK8XGtBv7uIBV",
-          "desc": "After an impressive performance by Fernando Alonso at the Bahrain Grand Prix, Aston Martin believe they can build on the momentum in Singapore.",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T16:00:13.948424+00:00"
+          "title": "F1 GP de Singapur 2026 | Horarios, canal y dónde ver en TV el Gran Premio de Fórmula 1",
+          "link": "https://www.estadiodeportivo.com/motor/formula-1/singapur-2026-horarios-canal-donde-ver-gran-premio-formula-20261008-548176.html",
+          "desc": "El circuito urbano de Marina Bay acoge la 17ª prueba del Mundial de F1, a la que Fernando Alonso llega tras su mejor carrera Marina Bay es siempre una cita muy especial, que a muchos pilotos no le gusta, pero que, para el espectador resulta espectacular. Un circuito urbano, donde se corre de noche y que cuenta con muchas curvas siempre es emocionante. Para pilotos como Fernando Alonso es un plus que les permite sacar lo mejor de sí mismos . El asturiano ha logrado allí algunas de sus mejores actuaciones y tras acabar octavo el pasado domingo señaló que Aston Martin puede ir, incluso, mejor en Singapur. Lo positivo para Aston Martin es que vienen de hacer su mejor gran premio cuando menos margen tienen para variar cosas, ya que no sólo hay cuatro días desde el final del primero y el inicio del segundo, sino que en Singapur no van a tener más que los primeros libres para probar cosas, ya que es uno de los seis circuitos que cuentan con prueba al Sprint y, por tanto, no habrá más libres y ya se entrará en la Clasificación de esta modalidad en la segunda cita del viernes. En cuanto a esta 17ª cita del campeonato del mundo de F1, aparte de lo que pueda hacer Alonso y de ver en que situación están los Williams de Carlos Sainz esta semana, la atención estará puesta en lo que pase en cabeza y en si Verstappen y los Ferrari pueden seguir presionando a un Antonelli que no se deja intimidar. Not your usual taxi service 🚕 Throwing back to when Fernando Alonso picked up a stranded Mark Webber at the end of the 2013 Singapore Grand Prix 👀 #F1 #SingaporeGP pic.twitter.com/R1BBMwCvQV &mdash; Formula 1 (@F1) October 7, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Marina Bay es una pista urbana de 4.927 metros, con 19 curvas, prácticamente sin escapatorias, ni margen de error, por lo que es complicado adelantar y en la que los Safety Cars suelen alterar el caos en el que a veces se convierten las carreras . En ella, la calificación siempre es de vital importancia y esta vez hay dos. Horarios del GP de Singapur de F1 2026 La Fórmula 1 continúa en Singapur y debido a la gran diferencia horaria entre España y este país asiático, los aficionados a la Fórmula 1 tendrán que reservar las primeras horas del día para ver la acción en pista este fin de semana. Además, al haber carrera al sprint, la acción comienza muy pronto . - Entrenamientos libres 1: Viernes 9 de octubre a las 10:30 horas - Clasificación sprint: Viernes 9 de octubre a las 14:30 horas - Carrera sprint: Sábado 10 de octubre a las 11:00 horas - Clasificación (Q1, Q2 y Q3): Sábado 10 de octubre a las 15:00 horas - Carrera: Domingo 11 de octubre a las 14:00 horas Dónde ver el GP de Singapur de F1 2026 El Gran Premio de Singapur de Fórmula 1 se podrá ver tanto en la plataforma de DAZN F1 como en Movistar Plus+. Cabe recordar que ambos requieren suscripción, en Movistar hay que tener contratada su televisión además del paquete Motor. En el caso de DAZN, es necesario tener contratado el paquete total o el esencial de la plataforma. Por otra parte, podrás seguir el Gran Premio de Singapur 2026 mediante ESTADIO DEPORTIVO, donde encontrarás todas las noticias, crónicas y un seguimiento exhaustivo de la categoría reina del automovilismo, con directos incluidos de la clasificación del sábado y la carrera del domingo.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-08T16:14:00+00:00"
+        },
+        {
+          "title": "Alonso y lo que menos le gusta de las carreras nocturnas",
+          "link": "https://www.marca.com/motor/formula1/gp-singapur/2026/10/08/alonso-le-gusta-carreras-nocturnas.html",
+          "desc": "No le importa correr de noche, \"porque no hay mucha diferencia\", pero hay algo imbatible en las diurnas a su juicio",
+          "source": "https://www.marca.com/rss/motor.xml",
+          "fecha": "2026-10-08T18:11:38+02:00"
+        },
+        {
+          "title": "Horarios de los Libres 1 y 2 del GP de Singapur y dónde ver en TV los entrenamientos de Alonso y Sainz",
+          "link": "https://www.marca.com/motor/formula1/gp-singapur/2026/10/08/horarios-libres-1-2-gp-singapur-donde-ver-tv-entrenamientos-alonso-sainz.html",
+          "desc": "Marina Bay puede empezar a decidir el Mundial",
+          "source": "https://www.marca.com/rss/motor.xml",
+          "fecha": "2026-10-08T18:01:26+02:00"
+        },
+        {
+          "title": "Martín y Márquez se baten en Indonesia por liderar el Mundial de MotoGP: previa, horario y dónde ver por TV el GP de Indonesia",
+          "link": "https://www.eldiario.es/spin/deportes/martin-marquez-baten-indonesia-liderar-mundial-motogp-previa-horario-ver-tv-gp-indonesia-pm_1_13572937.html",
+          "desc": "\"En un campeonato manda el que va más rápido, el que tiene más velocidad y si tienes velocidad serás el más listo, el más estratega y el que mejor gestione la situación\", aseguró Márquez antes del inicio del Gran Premio. El tenis tiene nuevo rey: Zverev acabará el año como número uno tras la baja de Sinner hasta 2027 La gira asiática de MotoGP sigue sin descanso tras un fin de semana de lo más emocionante en Japón que deja un Mundial más apretado que nunca entre sus dos principales candidatos, con un líder Jorge Martín con tan solo 2 puntos de ventaja ante Marc Márquez. Pero muy diferente serán las cosas en Indonesia, en el circuito de Mandalika, uno de los que peor se le han dado a Marc Márquez históricamente, donde la moto de Martín podría tener un punto más respecto a su competidor. Un Márquez que llega reforzado de Motegi después de un doblete histórico que le supuso 37 puntos y volver a entrar de lleno en la lucha por el liderato del Mundial. Por eso se centra en el presente en Indonesia: “Prefiero no pensar en el pasado con este circuito, porque la relación no es la mejor. Pero la mentalidad de este año es diferente. Puede ayudar más o menos, pero no se gana ni se pierde el campeonato en Mandalika. Es verdad que cuantos más puntos cojas mucho mejor, así que intentaremos estar lo más cerca posible de los primeros, pero de entrada no descartamos nada”, aseguró en la previa. A su vez, se mantiene cauto en cuanto al Mundial y sus opciones: “Pero en un campeonato manda el que va más rápido, el que tiene más velocidad y si tienes velocidad serás el más listo, el más estratega y el que mejor gestione la situación. Sin velocidad no puedes, así que nos centramos en sacar la mejor velocidad de nuestro conjunto”, añadió. Por su parte, Jorge Martín afronta con otro sentido el Gran Premio en Indonesia, como líder con tan solo 2 puntos, pero cada vez más optimista ante sus opciones y el reto que supone: “Lo importante es llegar con opciones hasta el final. Estar ya en la pelea es bestial y, seguramente, mejorando mucho para plantar cara a Marc”, dijo el piloto de Aprilia en la previa con DAZN. Para el madrileño, los neumáticos serán la clave del fin de semana en Mandalika, y en ese sentido asegura tener un plan: “Viendo el año pasado las gomas son una parte importante. Este compuesto es difícil hacerlo trabajar, nos centraremos en eso”, concluyó. El Mundial de MotoGP, sin embargo, no se limita solo a Martín y Márquez, pues el catalán todavía sigue contando con Bezzechi en la lucha. El italiano, por otro lado, es consciente de sus limitaciones en este sentido: “Está claro que estamos un poco lejos de Jorge y de Marc, pero me gustaría poder luchar con ellos. Creo que, en este momento, estamos ante el mejor Martín y el mejor Márquez de toda la temporada, contando hasta Japón. Ambos están en forma. Yo tengo que intentar mejorar, llegar a ser yo también el mejor Bezzecchi. Espero dar un pequeño paso adelante”, declaró. Horarios del GP de Indonesia de MotoGP *Viernes 9 de octubre: FP1: 4:45 horas Practice: 9:00 horas *Sábado 10 de octubre: FP2: 4:10 horas Q1: 4:50 horas Q2: 5:15 horas Sprint (13 vueltas): 9:00 horas *Domingo 11 de octubre: Warm up: 4:40 horas Carrera: (27 vueltas): 9:00 horas *horarios peninsulares en España Dónde ver por TV la carrera de Indonesia de MotoGP Todo lo que suceda en el fin de semana del Gran Premio de Indonesia en MotoGP, así como también lo que pase en las categorías de Moto 2 y Moto 3, se podrá ver en televisión y en streaming como es habitual en la plataforma DAZN, que tiene los derechos del campeonato en España.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-10-08T16:00:54+00:00"
         },
         {
           "title": "Los pilotos españoles cargan contra el nuevo formato de MotoGP: \"Es un estrés, acabaremos reventados\"",
@@ -420,13 +441,6 @@
           "desc": "El asturiano se ha mostrado molesto en la previa del Gran Premio de Singapur con la información que ha corrido como la pólvora esta semana sobre su participación en la próxima edición del Dakar Un rumor hoy día se puede hacer noticia en cuanto tantos medios de comunicación decidan darle voz. Porque corre como la pólvora en redes sociales y todos lo dan por hecho. Hace unos días, la web SoyMotor.com, anunciaba que Fernando Alonso estaba muy cerca de oficializar su participación en la próxima edición del Rally Dakar y que lo haría sobre las ruedas de un coche disfrazado de Aston Martin. Sin embargo, en la rueda de prensa previa al Gran Premio de Singapur, el propio piloto español se ha encargado de desmentir todas estas informaciones, asegurando que \"no es compatible\" con sus labores en la Fórmula 1. \"Sí, he leído esos rumores, pero no creo que sea físicamente posible. No creo que sean compatibles las exigencias de Fórmula 1 con el Dakar\", explicó Alonso. El nuevo apodo que ha recibido Fernando Alonso en la parrilla de Fórmula 1 a sus 45 años El bicampeón del mundo, que ya ha demostrado su interés por disciplinas diferentes a la Fórmula 1 en el pasado, como demuestran con apariciones en el WEC, las 500 Millas de Indianápolis o el mismo Rally Dakar, recordó que afrontar un nuevo desafío al máximo nivel requiere mucho más que simplemente ponerse al volante de otro vehículo. Al ser preguntado por otras alternativas, como correr en GT3 como está haciendo en los últimos meses su amigo Max Verstappen, Alonso también lo descartó. \"No, GT3 no. Se necesita de una buena preparación\", dijo antes de añadir: \"Cada uno de estos retos, porque se han hecho en el pasado, la gente puede pensar que son fáciles, pero requieren de mucha preparación, determinación y suerte para tener éxito\". Fernando Alonso, bicampeón del mundo en Fórmula 1, monta el circuito de sus sueños: \"He elegido el sector uno de Suzuka, el dos de Spa y el tres de Barcelona\" No obstante , Alonso dejó abierta la puerta a volver a enfrentarse a una nueva aventura deportiva en el futuro, aunque insistió en que no será algo que llegue fruto de especulaciones o filtraciones. \"Cuando me enfrente al siguiente reto, lo anunciaré yo, no será un rumor, y seré yo mismo quien lo comunique. Y lo haré porque creo que estaré suficientemente preparado y porque habrá un riesgo que será el correcto\", concluyó el asturiano. Aston Martin le da vía libre a Fernando Alonso Y aunque el asturiano ha dicho que no es compatible, Mike Krack , director en pista de Aston Martin y quien también ha sido preguntado al respecto antes de las palabras de Alonso, apoyó los planes de Alonso fuera de la F1. \"Lo he leído. Personalmente, tengo que decir que tuvimos a Robert haciendo rallyes , Kimi haciendo rallyes, Max con los GT3, Lance también con GT3. Personalmente, me gusta eso. Creo que es bueno para el automovilismo en general que los pilotos hagan eso\". \"Ahora, qué pasa, no puedo decir nada en el caso de Fernando para el año que viene, pero en general creo que es algo muy bueno. Y también muestra qué enfoque de competición o qué pilotos son. Con el calendario de listas que tenemos, quieren hacer otras cosas. Creo que para Max fueron siete fines de semana seguidos de carreras con lo de GT3. Muestra qué pilotos son y me pegan a la TV también, es algo bueno\", finalizó.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-08T13:06:06+00:00"
-        },
-        {
-          "title": "Polémica con el refrigerador personal en el infierno de Singapur",
-          "link": "https://www.marca.com/motor/formula1/gp-singapur/2026/10/08/polemica-sobre-refrigerador-personal-williams-mejorado.html",
-          "desc": "Carlos Sainz se alegra de su equipos si haya perfeccionado el chaleco hidráulico, al que otros equipos no le han dedicado dinero para ahorrar",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-10-08T14:42:24+02:00"
         },
         {
           "title": "La polémica sobre el refrigerador personal que Williams sí ha mejorado",
@@ -478,13 +492,6 @@
           "fecha": "2026-10-08T12:30:17+02:00"
         },
         {
-          "title": "Alonso niega que vaya a correr el Dakar: \"No creo que sea compatible con la F1, se necesita una preparación\"",
-          "link": "https://www.20minutos.es/deportes/deportes_motor/formula-1/fernando-alonso-niega-que-vaya-correr-dakar-no-creo-que-sea-compatible-con-f1-se-necesita-una-buena-preparacion_7046485_0.html",
-          "desc": "El piloto español asegura que será él quien anuncie su propio reto.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-10-08T12:26:44+02:00"
-        },
-        {
           "title": "Marc Márquez llega al circuito de sus pesadillas: \"No descarto nada, cada uno lo afronta como quiere\"",
           "link": "https://www.estadiodeportivo.com/motor/motogp/marc-marquez-llega-circuito-sus-pesadillas-descarto-nada-cada-uno-afronta-como-quiere-20261008-548151.html",
           "desc": "El calendario de la categoría reina afronta una de sus últimas siete citas y este fin de semana se detiene en el escenario en el que el de Cervera fue arrollado el año pasado por Marco Bezzecchi. Y en anteriores ocasiones también corrió la misma suerte El español Marc Márquez (Ducati Desmosedici GP26), segundo en la clasificación del Mundial de MotoGP a sólo dos puntos de su compatriota Jorge Martín (Aprilia), ha dicho no descartar \"nada\" a la hora de afrontar el Gran Premio de Indonesia de MotoGP. Un certamen que le va a hacer recordar su última pesadilla y un escenario que siempre le ha traído por la calle de la amargura. \"Cada uno lo afronta como quiere\", ha recalcado el catalán en la previa de esta cita, subrayando al mismo tiempo que \"este fin de semana no descarto nada de entrada, pero nos tiene que costar un poquito más, por estilo de circuito, de moto, de pilotaje\". Si bien insistió en que lo que quiere es \"estar lo más cerca posible de los 37 puntos\", que suman la victoria en la carrera sprint y la larga del domingo, pues aunque puede sonar \"muy ambicioso\", porque en Mandalika no ha acabado ninguna carrera, quiere \"intentar estar lo más cerca posible\" y que luego se verá si son 20, 30 o 10 puntos. El vigente campeón de MotoGP reiteró que espera que sean \"los máximos posibles para seguir en la lucha por el Mundial\". La maldición de Marc Márquez en Indonesia Y es que este certamen nunca le ha traído algo bueno al catalán. La primera vez que este trazado albergó un gran premio de MotoGP fue en 2022 y aquel fin de semana Márquez, que todavía corría con Honda, sufrió una durísima caída, lesionándose su castigado hombro derecho. Marc Márquez, derrotado en Indonesia antes de tiempo Aquella caída hizo que volviera sufrir un episodio de diplopía, el problema de la doble visión que ya había sufrido en anteriores ocasiones. En 2023 la carrera de Indonesia terminó para Márquez en la séptima vuelta, mejorando su actuación en la sprint, en la que no pasó del primer giro. En 2024, ya con Gresini, la carrera le duró once giros pese a que acabó tercero el sábado en la sprint. Y en 2025, con Ducati, el ilerdense llegaba sin presión después de haberse proclamado campeón del mundo en Japón. Pero la Aprilia de Marco Bezzecchi se lo llevó por delante y volvió a caer con el hombro derecho, lo que le obligó a pasar de nuevo por el quirófano y despedir de esta guisa su dorada temporada. Marc Márquez se pronuncia sobre el cambio de formato de MotoGP En lo que se refiere al nuevo formato para 2027 se quejó de que los pilotos han tenido \"poca información sobre ello\", pero dijo que tampoco puede hablar porque estaba \"más pendiente de mi campeonato que de otras cosas\". Reconoció que será \"más riesgo en pista, más tiempo de intensidad, más tiempo de adrenalina, más tiempo de desgaste mental\". \"Evidentemente, es lo que hay y te tienes que adaptar a ello\", reseñó el nueve veces campeón del mundo, quien dice que habrá que sacar el \"ciento por ciento\" de esos fines de semana y que \"en un futuro\" se verá cuál será el \"desgaste\" de esas veintidós carreras con ese formato. Los cambios del formato de MotoGP El Mundial de MotoGP estrenará en 2027 una sesión de clasificación exclusiva para la carrera sprint, que se disputará los viernes y fijará la parrilla de salida de la prueba corta del sábado, según anunció este miércoles la Comisión del Gran Premio de la Federación Internacional (FIM). Hasta la actual temporada, una misma clasificación decidía las parrillas del sprint y de la carrera del domingo. Para hacer hueco a la nueva sesión, se reduce el tiempo de la segunda sesión de entrenamientos: los libres 1 (FP1) mantienen 45 minutos, los libres 2 (FP2) pasan a 30 minutos y se crea una clasificación del sprint de 15 minutos, en la que participarán todos los pilotos. Marc Márquez monta en cólera por el uso de su doble en el Gran Premio de Japón: \"Estamos aquí para luchar por un campeonato, no para karts y cachondeos\" El sábado arrancará con sesión FP3 de 20 minutos, seguida de la clasificación que se dividirá en dos tandas de 15 minutos. Todos los pilotos disputarán la Q1 y los doce más rápidos pasarán a la Q2, donde se decidirán la 'pole' y las cuatro primeras filas de la parrilla del domingo. El domingo desaparecerá el calentamiento de 10 minutos, que será sustituido por la apertura de talleres de la misma duración antes del Gran Premio. Durante ese tiempo los pilotos podrán dar varias vueltas de reconocimiento al circuito antes de formar en parrilla",
@@ -518,13 +525,6 @@
           "desc": "\"Fie primero en libres 1 y cuatro en libres 2 y no teníamos ni el primer ni el cuarto mejor coche\", apuntaba el jefe de operaciones de Aston",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-10-08T09:45:07+02:00"
-        },
-        {
-          "title": "Así ven los pilotos el nuevo formato de MotoGP",
-          "link": "https://www.marca.com/motor/motogp/gp-indonesia/2026/10/08/asi-ven-pilotos-nuevo-formato-aceptas-te-vas-me-gusta.html",
-          "desc": "La mayoría quiere mantener el 'warm up'",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-10-08T09:38:55+02:00"
         }
       ]
     },
@@ -532,6 +532,48 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Apple anuncia su evento ‘Welcome home’: ¿Nuevos dispositivos para el hogar inteligente a la vista?",
+          "link": "https://hipertextual.com/apple/apple-evento-welcome-home-octubre-2026/",
+          "desc": "Tal y como se rumoreaba, dentro de muy pocos días tendremos un nuevo evento de Apple. La firma de Cupertino acaba de lanzar las invitaciones para Welcome home, una presentación especial en la que se espera la introducción del rumoreado hub inteligente, además de actualizaciones para el Apple TV y el HomePod mini. La estrella […] Seguir leyendo: Apple anuncia su evento ‘Welcome home’: ¿Nuevos dispositivos para el hogar inteligente a la vista?",
+          "source": "https://hipertextual.com/feed",
+          "fecha": "2026-10-08T16:22:27+00:00"
+        },
+        {
+          "title": "Los jugadores de PS5 siguen apostando por el formato físico y las ventas de juegos como Lobezno lo demostrarían",
+          "link": "https://vandal.elespanol.com/noticia/2026281033/los-jugadores-de-ps5-siguen-apostando-por-el-formato-fisico-y-las-ventas-de-juegos-como-lobezno-lo-demostrarian/",
+          "desc": "The Game Business ha publicado los datos de ventas de juegos de PS5 del mes de septiembre y confirmarían que el formato físico sigue siendo muy popular. Según informan desde The Game Business partiendo de los datos registrados por Ampere Analysis , Marvel Lobezno , el nuevo juego de Insomniac Game estrenado en exclusiva para PlayStation 5 , habría vendido especialmente bien en su versión en formato físico, lo que contradeciría las declaraciones de Sony sobre la deriva del mercado hacia lo digital con la que ha intentado justificar el fin de los discos en PlayStation que se llevará a cabo en 2028. Los jugadores siguen apostando por el formato físico en PS5 Siendo más concretos, el 35 % de las ventas mundiales del juego habrían sido en su edición física , una cifra que en el caso de Europa asciende hasta el 51 % . Eso sí, el dato varía de un país a otro, como bien demuestra el hecho de que dos tercios de sus ventas en Reino Unido fueron digitales, mientras que en Francia es justo al revés. En otro orden de cosas, cabe señalar que Marvel Lobezno habría sido el segundo juego mejor vendido de PS5 en el mes de septiembre y se estima que sus ventas fueron aproximadamente de 2,16 millones . El único título que logró superarlo fue EA Sports FC 27 . Si tenéis interés en saber cómo funcionaron otro juegos populares de septiembre en sus ediciones en formato físico para PS5, os informamos de que Silent Hill: Townfall habría vendido el 45 % de sus copias en físico , The Blood of the Dawnwalker llegaría al 36 % y Onimusha: Way of the Sword se quedaría en un 30 % , cifras que dejarían claro que sigue habiendo mucho interés por parte de los jugadores en tener sus títulos favoritos con caja y disco.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-10-08T16:09:00+00:00"
+        },
+        {
+          "title": "SEVILLA FC: ENTREVISTA A ALEJANDRO ACEJO \"¿EL DESCENSO? TE FASTIDIA, PERO APORTÉ\"",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JT0Y5MUFrNG1taFhxZUlReFhQdThPdDVxTGJoaGR2TlktemNpbnNhZjhjNGh6ZmNJcE1YdE8wSEJUZw?oc=5",
+          "desc": "SEVILLA FC: ENTREVISTA A ALEJANDRO ACEJO \"¿EL DESCENSO? TE FASTIDIA, PERO APORTÉ\" YouTube",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T16:00:12+00:00"
+        },
+        {
+          "title": "Esta empresa española vende el patinete eléctrico más barato: 159 euros y 20 km de batería",
+          "link": "https://www.20minutos.es/ofertas-descuentos/comprar-patinete-homologado-dgt-bongo-d20e-connected_7046324_0.html",
+          "desc": "Homologado por la DGT, un precio que hay que mirar dos veces, app propia y hasta 20 km de autonomía.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-08T18:00:00+02:00"
+        },
+        {
+          "title": "Westcol recibe un golpe de un robot de 90.000 euros en pleno directo y le rompe el set",
+          "link": "https://www.marca.com/co/2026/10/08/westcol-recibe-golpe-robot-90-000-euros-pleno-directo-le-rompe-set.html",
+          "desc": "Compró un robot de 90.000 euros para su evento y termina recibiendo un golpe en la cabeza en directo: la insólita escena de Westcol",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-10-08T17:58:34+02:00"
+        },
+        {
+          "title": "Nvidia sacude la carrera de la IA: 1.000 millones para dominar la superinteligencia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTRsdS0yRXpMdkNLeXlpRHJ1MmZ6cVVRRHNpQ3lWZ2EzaEFIbWNVWEZndU9GbWVidTVMOVJzdC1ZTC15UlpNZEtNaXljaU5OdGxBbUh0TnI4emYyS3JDSzZ5SjZWYkZXR0wzLTV0U0pTQi1RWWxKeTkybEdXeFh5STlBQXFFcFNoR3diVWNjeThGQmswTHo2QW4tckoyUlBTOWg3b1JfRnBlbW5CMXMyMm5CMTU5Vkx1Rk9fbjRuMHllVmItYllVUEtxRDVtQdIB0wFBVV95cUxOb1ZhOG5ZSkFxbHRZZmE3TUd1YnNQd2dTNUtUZklxMzZMLTV4TFhmZEhlSC1uQV95d3dMX25aWGtVUG4zTjk5b3F6OGx6a0hxWVVvblNYMkR2dVdMUnhQRzRqcWxvMmpiZ1ViOFF5emYzOUs1aXc2RTMtZEJZZWFqbFhSbHR1QUtZbUpMdkZONWVjeWxrNkc1eGU2dHdlcGhERkFhdnlNbXhBcHBFb2dTMzFnb0o1WG9IampkLUhYOWRnOXRKQ3dJYXN4bDV0anNxa0Y0?oc=5",
+          "desc": "Nvidia sacude la carrera de la IA: 1.000 millones para dominar la superinteligencia Negocios.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T15:53:36+00:00"
+        },
         {
           "title": "Finland orders Google to stop work on two AI data centers over alleged deforestation",
           "link": "https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance",
@@ -582,18 +624,18 @@
           "fecha": "2026-10-08T15:05:13+00:00"
         },
         {
-          "title": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXBHajZiVEtGTzVURUNhY0RjMXgtM3U2bWx6VURQYW41YlM4Zkl4a1RUbTZuOGFIMC0wSG5CeXdQOEw0VDI1dWExYTJab2laSHJrTGZtdEFMdUJycTJsQ3RNUnRWM1RpNUU3WXY1M1dPNHRwMTZhN1ZiYWZCM3FYWnZydDVxamg3RnU1bW9QZTlNV01uWGg0Z3N2dnNBX1lTcXR4eHRKUmZ5LWV6TEl1MGplU28zdUVSRlNZcA?oc=5",
-          "desc": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia Comercio TV",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T15:02:00+00:00"
-        },
-        {
           "title": "Trump realiza 517 operaciones en agosto: compra bonos de Meta y SpaceX, vende AMD y Nvidia",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVThobGlKNWdpMW9RUHd1czVONnFMaE9lY3FfbW1DSEZPMmx1a0MxT0k0LWRucnB1d2N0bnJ6RUVlNGJRLVJKQTN4RmU2aUo0djFnVDczQWowblhwZV9lVkdRbHhsQy1xeVc1WTh0b1NydUV4TVVsSlBTbVpXLXhsSldyaUt1Yk5hT0NvYjN6UXdDVnBaQUZ4ZHA0OHpKTjJIbG9TZTY4SEJxc3hSQXg4dmhual9rLWJiT1hOTUZfRzlLU1puZkxiY3U1c2RScnhWLUlkdlRsVVU4dw?oc=5",
           "desc": "Trump realiza 517 operaciones en agosto: compra bonos de Meta y SpaceX, vende AMD y Nvidia TradingKey",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T14:59:28+00:00"
+        },
+        {
+          "title": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFZlempzZkFxMnRLRGNBQWI2SVVHZ281Ym9SZnduVGdydEE4Z0RvZ2FIdFNnVGdtMlNFUmhjaW9iN2paVTVyNkRNWGtEWUNTNjRQdHlrd3dwNUtobG4yQktoVHg5aTFINnVxNDJlVGhUTHlZb2Y3RHJFMFpNc3lmYUkwY0Y3aGNjbUhYMXZ1SVpULTZ1UHZIUHFTaW5jbGxBX05xcA?oc=5",
+          "desc": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia Yahoo Finanzas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T14:58:00+00:00"
         },
         {
           "title": "El nuevo vídeo de Nintendo Switch Sports Resort nos cuenta todo lo que hay que saber sobre él antes de su estreno",
@@ -657,48 +699,6 @@
           "desc": "La acusación considera que la muerte se debió al estrés postraumático que tenía la mujer, que había trabajado en las oficinas de Barcelona",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-10-08T14:33:49+00:00"
-        },
-        {
-          "title": "Marvel Cosmic Invasion recibirá su gran DLC de pago el 10 de noviembre con el Doctor Muerte como protagonista",
-          "link": "https://vandal.elespanol.com/noticia/2026281025/marvel-cosmic-invasion-recibira-su-gran-dlc-de-pago-el-10-de-noviembre-con-el-doctor-muerte-como-protagonista/",
-          "desc": "Tribute Games y Dotemu lanzarán un nuevo DLC de pago para Marvel Cosmic Invasion con dos personajes jugables y un nuevo modo. Tribute Games ha anunciado que Marvel Cosmic Invasion recibirá The Siege of Castle Doom , su próximo contenido descargable de pago, el 10 de noviembre . Gracias a él, podremos disfrutar de dos personajes jugables completamente nuevos y de un nuevo modo de juego que promete ampliar la vida útil de este aclamado beat 'em up . Dos nuevos personajes y un misterioso modo Empezando por los personajes que se suman al plantel tenemos tanto a la Mujer Invisibles como al mismísimo Doctor Muerte . Susan Storm apunta a ser un personaje especialmente útil si nos gusta pelear a media y larga distancia gracias a sus poderes, aunque a nivel defensivo tampoco se quedará atrás gracias al escudo de energía que puede levantar a su alrededor. En cambio, Victor Von Doom arrasará el campo de batalla gracias a la tecnología de su armadura y a sus potentes habilidades ocultas. En lo que respecta al nuevo modo de juego, solo se sabe que se llamará The Siege of Castle Doom y que tal y como su propio nombre indica, estará centrado en el Doctor Muerte , aunque el estudio todavía no ha detallado en qué consistirá. A cambio, podéis ver a continuación un nuevo tráiler con la Mujer Invisible y Muerte en acción mostrando sus habilidades de combate. Marvel Cosmic Invasion está disponible en PS5, Xbox Series X/S, Switch 2, PS4, Switch y PC a través de Steam. Si queréis saber más sobre este beat 'em up de corte clásico, os animamos a que le echéis un vistazo al análisis que le dedicamos en Vandal .",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-10-08T14:16:00+00:00"
-        },
-        {
-          "title": "La española Securitize ‘tokenizará’ las acciones de 12 gigantes de Wall Street, entre ellos Apple y Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmJFTjh3cE5KTUxvNTNuUFcyaEo1VTFIQWNzNGFzQ0VYSEhJTFRmNmVXR1diY3Nma08yNmttM283WWlzaktueGgwV0U1X0lIRklfZWJlcDZaay1DX0hGMXYzcmJGdFJ5eks0YXJzZG5zRERXUENXTnlubDZaeU1JSGdrVEM0dGllSVIyUEpYSTV3N2xMNUlZNzZJdnBsbVdOR3NuNjVPM3J4M0M0YnlCYmRGdFBzT2dNdHViTEFBTkRfcFJH0gHEAUFVX3lxTFBlVzV6blQwWDR6LXp3S2ZXbDAyM1Y2LW9LNnVONUZqVlNIVHZsNlJ0Nnp2a2NwME9EMXY0T19ySWh1RXVEUmFxLXpON2JldjhLWU8xMGppcGF6blJjal9nSVZQWDJ3UlJiQm5STkhwRHFCNk5zcWFsQkZoS3F4STVpdGFuanpuLTBYSUl2WnhWN3NNQzR5M0M5S1VRR3NRN1J3MGhNd19uNXVHWnJDZFV5S3BPZmJSZktNdjRrTmFsWnBEeUk?oc=5",
-          "desc": "La española Securitize ‘tokenizará’ las acciones de 12 gigantes de Wall Street, entre ellos Apple y Nvidia El Periódico",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T14:07:31+00:00"
-        },
-        {
-          "title": "Ucrania quiere robots humanoides por 10.000 dólares para asumir algunos de los trabajos más peligrosos del frente",
-          "link": "https://www.eldiario.es/spin/ucrania-quiere-robots-humanoides-10-000-dolares-asumir-trabajos-peligrosos-frente-pm_1_13570142.html",
-          "desc": "Robótica militar - Mykhailo Fedorov impulsa un programa militar para desarrollar máquinas económicas capaces de asumir misiones peligrosas, reducir las bajas humanas y operar junto a sistemas aéreos no tripulados Una guerra puede mandar al frente a hombres que ni siquiera querían estar allí , y convertir el regreso a casa en una posibilidad, no en una certeza. En Ucrania , esa vieja factura humana se cruza ahora con una apuesta tecnológica bastante menos cinematográfica de lo que su nombre sugiere. Mykhailo Fedorov quiere que ciertas tareas capaces de costar una vida pasen a máquinas con forma aproximadamente humana. La prioridad está bastante clara. Si un robot puede ocupar un lugar donde un soldado corre el riesgo de ser detectado y atacado por un dron en cuestión de minutos, la intención es enviar la máquina. Fedorov presentó Army of Robots en Leópolis Fedorov, exministro ucraniano de Defensa y político de 35 años vinculado al desarrollo tecnológico, presentó a finales de septiembre la iniciativa Army of Robots en la conferencia IT Arena de Leópolis. El proyecto pretende reunir a ingenieros, empresas emergentes, inversores y unidades militares para acelerar sistemas terrestres destinados al frente . Su ambición final es sustituir parte del trabajo de la infantería con máquinas, especialmente allí donde la exposición humana resulta más peligrosa. El planteamiento se aleja de los humanoides avanzados exhibidos por compañías estadounidenses y chinas. Fedorov propone modelos más baratos, fabricables a gran escala y diseñados para unas pocas tareas militares. Entre ellas figuran recargar una ametralladora, cambiar baterías de sensores y lanzar drones. Forbes Ukraine r ecogió además una previsión muy agresiva para el calendario: el primer prototipo humanoide podría aparecer aproximadamente un mes después de la entrevista del 30 de septiembre . El precio será uno de los grandes obstáculos para esa escala. Los modelos actuales rondan entre 40.000 y 70.000 dólares por unidad, según Fedorov, mientras que el objetivo para un despliegue masivo se sitúa entre 10.000 y 20.000 dólares . La demanda potencial alcanzaría decenas de miles de máquinas. Su equipo ya estudia una empresa con un producto mínimo viable que, a juicio del exministro, podría ampliar la producción. Los vehículos robóticos superaron las 25.000 misiones en agosto Ucrania cuenta con experiencia previa en sistemas terrestres no tripulados . Solo en agosto, sus fuerzas registraron más de 25.000 misiones logísticas y de evacuación mediante plataformas robóticas terrestres, 3,3 veces la cifra de enero, según el Ministerio de Defensa ucraniano. Esos equipos transportan munición, evacuan heridos, trabajan con minas y participan en ataques, aunque la mayoría siguen siendo vehículos robustos controlados a distancia por operadores humanos. El salto técnico hacia máquinas con rasgos humanoides añade dificultades porque un sistema terrestre debe atravesar barro, escombros y trincheras, cargar material y continuar trabajando bajo guerra electrónica o comunicaciones dañadas. Un diseño con dos piernas incorpora además el problema del equilibrio, porque una caída puede obligar a un soldado a salir a recuperarlo. Por eso Fedorov prefiere hablar de robots humanoides en sentido funcional antes que de androides sofisticados. La estrategia reproduce parte del camino seguido por Ucrania con los drones. Fedorov busca que numerosos fabricantes desarrollen propuestas, que los militares las prueben con rapidez y que los diseños que funcionen puedan fabricarse a mayor escala. El Ministerio de Defensa indicó en junio que el 95% de los drones adquiridos mediante su agencia de compras militares procedían de fabricantes nacionales. El país produce más de seis millones al año de distintas clases. Fedorov pretende realizar ataques robotizados en seis meses Fedorov ha fijado metas que muestran hasta dónde quiere llevar el proyecto. Según Ukrainska Pravda , planteó un plazo de seis meses para que un robot humanoide mate a un soldado ruso y otro de 12 meses para que robots y drones ejecuten juntos una operación sin que la infantería asuma sus fases más peligrosas. La urgencia responde a una desventaja que él formula en términos humanos: Ucrania combate a un adversario mayor y necesita reducir la exposición de sus soldados en un campo de batalla saturado de drones . Esos plazos empujan el proyecto hacia una cuestión más difícil que fabricar deprisa. Los sistemas terrestres ucranianos continúan mayoritariamente bajo control humano, aunque Army of Robots incluye inteligencia artificial y plataformas autónomas. En agosto, Naciones Unidas y el Comité Internacional de la Cruz Roja renovaron su petición de normas para armas capaces de seleccionar y atacar objetivos sin intervención humana posterior. El plan afronta así dos presiones: apartar a los soldados de la exposición letal y decidir cuánto criterio de combate puede pasar a las máquinas .",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-10-08T14:00:19+00:00"
-        },
-        {
-          "title": "Software could be the easiest fix for hyperscalers' AI power squeeze, researchers say",
-          "link": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030",
-          "desc": "The industry is spending billions on more efficient chips, cooling, and grid connections. But what about making computers do less work – or doing it at a better time?",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-10-08T14:00:00+00:00"
-        },
-        {
-          "title": "Ace Combat 8 confirma el buen estado de la saga: vuela en las ventas de Japón, dejando atrás a sus competidores",
-          "link": "https://vandal.elespanol.com/noticia/2026281023/ace-combat-8-confirma-el-buen-estado-de-la-saga-vuela-en-las-ventas-de-japon-dejando-atras-a-sus-competidores/",
-          "desc": "Ace Combat 8: Wings of Theve logra un buen estreno en Japón, seguido muy de lejos por otros títulos como el remaster de Dynasty Warriors 3. La publicación Famitsu acaba de publicar el listado de ventas semanales en Japón, correspondiente a los juegos que se han vendido desde el pasado 28 de septiembre hasta el 4 de octubre . Se trata de datos que nos sirven para comprobar cómo se ha comportado este mercado en el ámbito físico (así como consolas). Esta semana volvemos a tener un claro triunfador, y se trata de Ace Combat 8: Wings of Theve , que en su debut en las tiendas niponas consigue vender 63.013 copias , un muy buen resultado y que demuestra la buena acogida de la saga de Bandai Namco en este territorio. Ace Combat domina en los juegos en formato físico más vendidos en Japón El resto del listado de ventas en Japón también tiene bastante interés. En la segunda posición encontramos a Dynasty Warriors 3: Complete Edition Remastered , que logra más de 20.000 copias si contamos sus versiones para PlayStation 5 y Nintendo Switch 2. En tercera posición tenemos a Rhythm Paradise Groove , que ya ha acumulado más de un millón de unidades desde su lanzamiento. A continuación os mostramos el listado completo, con otras novedades interesantes en el TOP, como es el caso de Minecraft Dungeons II : [PS5] Ace Combat 8: Wings of Theve (Bandai Namco)  63,013 (novedad) [PS5] Dynasty Warriors 3: Complete Ed. (Koei Tecmo)  18,724 (novedad) [NSW] Rhythm Heaven Groove (Nintendo)  15,894 (1,065,816) [SW2] Fire Emblem: Fortunes Weave (Nintendo)  12,787 (166,646) [SW2] Minecraft Dungeons II (Microsoft)  12,093 (novedad) [SW2] Dynasty Warriors 3: Complete Ed. (Koei Tecmo)  11,684 (novedad) [SW2] Derby Stallion 2 (GAME ADDICT)  7,819 (37,155) [SW2] Xenoblade Chronicles 2  NS2 Ed. (Nintendo)  5,780 (novedad) [SW2] Splatoon Raiders (Nintendo)  5,403 (676,605) [NSW] Tomodachi Life: Living the Dream (Nintendo)  5,318 (1,623,422) Consolas más vendidas en Japón En lo referente a las consolas más vendidas en tiendas japonesas, encontramos un panorama muy similar al de anteriores semanas, con el dominio de Nintendo Switch 2 : Switch 2  26,200 (6,386,553) PlayStation 5 Digital Edition  12,210 (1,458,522) Switch (OLED Model)  3,461 (9,641,926) Switch Lite  3,255 (7,039,626) Switch  988 (20,312,994) PlayStation 5 Pro  456 (370,654) Xbox Series X Digital Edition  353 (34,162) Xbox Series X  225 (329,211) PlayStation 5  102 (5,920,435) Xbox Series S  34 (343,074)",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-10-08T13:53:00+00:00"
-        },
-        {
-          "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
-          "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike",
-          "desc": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-10-08T13:46:56+00:00"
         }
       ]
     },
@@ -706,6 +706,13 @@
       "nombre": "Economía",
       "icono": "📈",
       "items": [
+        {
+          "title": "Adiós al anonimato: el Gobierno hace obligatorio identificarse para sacar dinero en criptocajeros",
+          "link": "https://elpais.com/economia/2026-10-08/adios-al-anonimato-el-gobierno-hace-obligatorio-identificarse-para-sacar-dinero-en-criptocajeros.html",
+          "desc": "El ministerio de Economía aprueba un decreto de medidas extraordinarias para prevenir el blanqueo de capitales",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-10-08T16:11:58+00:00"
+        },
         {
           "title": "El precio del petróleo sube más del 5% y añade más presión a deuda y Bolsas",
           "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
@@ -756,7 +763,7 @@
           "fecha": "2026-10-08T14:16:00+00:00"
         },
         {
-          "title": "El BCE evita anticipar pistas sobre futuros movimientos y justifica su última subida de tipos: \"Es una decisión sólida en un amplío abanico de escenarios\"",
+          "title": "El BCE evita anticipar pistas sobre futuros movimientos y justifica su última subida de tipos: \"Es una decisión sólida en un amplio abanico de escenarios\"",
           "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/actas-bce-evitan-adelantar-movimientos_7046614_0.html",
           "desc": "El organismo advierte de que la tensión en Oriente Próximo seguirá presionando al alza los precios y que la energía todavía no recoge el impacto del conflicto.",
           "source": "https://www.20minutos.es/rss/",
@@ -866,13 +873,6 @@
           "desc": "Un mes después de su apertura, Faro Santander reúne cinco siglos de arte, tecnología, educación y participación en un edificio que quiere volver a “colocar Cantabria como un territorio cultural de referencia global”",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-10-08T09:05:47+00:00"
-        },
-        {
-          "title": "Bizum cumple 10 años: ya se hacen 40 pagos por segundo en España y se han transferido 310.000 millones de euros",
-          "link": "https://www.eldiario.es/economia/bizum-cumple-10-anos-40-pagos-segundo-espana-han-transferido-310-000-millones-euros_1_13571317.html",
-          "desc": "Siete de cada 10 adultos ya realizan 'bizums', el sistema de pago respaldado por la banca española, que tiene por delante el reto de dar el salto a escala europea Bizum, del móvil al datáfono: da el salto a las tiendas físicas y el pago medio entre particulares ya alcanza los 55 euros Bizum, el sistema de pequeñas transferencias inmediatas , cumple 10 años. “La idea era sencilla, permitir que dos personas se compartieran dinero con el móvil”, ha explicado Fernando Rodríguez, director general adjunto de Expansión Internacional de Bizum, en el acto de celebración de estos 10 años. El sistema, en un primer momento, estaba pensado para “pagos entre familiares o amigos, cosas pequeñas y cotidianas” y nació como “un proyecto colectivo del sistema financiero español”, para que las empresas no fueran por libre y no “compitieran de forma aislada”. Bizum ahora suma 32,5 millones de usuarios, ha apuntado Rodríguez. “Se hacen 40 bizums por segundo, debería ser una palabra aceptada por la RAE”, ha apuntado. Un servicio de pago que se calcula que ya usa el 70% de la población adulta de España. “El punto de inflexión fue 2017, cuando se lanzaron las donaciones”. Desde entonces, se han realizado más de 4,3 millones de pagos de este tipo, con el COVID, la dana o el volcán de la Palma. En ese repasado temporal, en noviembre de 2019, comenzó el pago en comercio electrónico, y hoy es la segunda opción más utilizada. En 2023, se sumaron las tres entidades financieras andorranas; y, en 2025, comenzó la interoperabilidad con Italia, Portugal y Grecia. Hace unos días se anunció la sede en Madrid del sistema que dará servicio a 13 países europeos y el 70% de la población . Acelerar en tiendas físicas y dar el salto a Europa Desde hace meses, el objetivo es acelerar las operaciones de pago con Bizum en las tiendas físicas , un paso que se está dando de forma progresiva. Actualmente, Bizum calcula que 21 millones de personas ya tienen habilitado el pago presencial en establecimientos físicos. “Es un proyecto sectorial respaldado por el Banco de España por ser catalizador para buscar soluciones para empresas y ciudadanos”, ha asegurado Alberto Ríos, director general de Relaciones Institucionales, Transparencia y Conducta del Banco de España. “Es un proyecto colaborativo, que ha requerido confianza, estándares compartidos y una visión común. 'Hazme un bizum', se ha convertido en una expresión cotidiana”, ha resumido. Por su parte, Pablo Sánchez-Blanco, director general del Tesoro y Política Financiera del Ministerio de Economía, Comercio y Empresa, también ha valorado la realidad de que “hacer un bizum” se haya convertido en una expresión usada en el día a día. “Estamos en cabeza de Europa en pagos digitales, pero tenemos desafíos que afrontar, como la interoperabilidad europea, porque dos de cada tres pagos utilizan tecnología que no es europea”, ha explicado. De ahí, la necesidad de acelerar el euro digital y garantizar que, en ese crecimiento, se garantiza un sistema de pagos seguro. Y los bancos compiten por tener el Bizum de sus clientes. “El bizum ha barrido al cash y ha aumentado las interacciones con el banco y eso nos permite saber nuestros puntos fuertes y débiles, ser más conscientes de qué es bueno en la experiencia y qué no lo es, porque el banco se ha convertido en un proveedor de soluciones, en una solución que compartimos con todos los bancos”, ha explicado Roberto Pagán, Consumer Payments Head de BBVA y consejero de Bizum, “pero es el cliente el que elige con quién hacerlo. Competimos porque el Bizum lo tengan con nosotros, es como competíamos antes por tener la nómina”.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-10-08T08:52:58+00:00"
         }
       ]
     },
@@ -880,6 +880,13 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Nvidia sacude la carrera de la IA: 1.000 millones para dominar la superinteligencia",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTRsdS0yRXpMdkNLeXlpRHJ1MmZ6cVVRRHNpQ3lWZ2EzaEFIbWNVWEZndU9GbWVidTVMOVJzdC1ZTC15UlpNZEtNaXljaU5OdGxBbUh0TnI4emYyS3JDSzZ5SjZWYkZXR0wzLTV0U0pTQi1RWWxKeTkybEdXeFh5STlBQXFFcFNoR3diVWNjeThGQmswTHo2QW4tckoyUlBTOWg3b1JfRnBlbW5CMXMyMm5CMTU5Vkx1Rk9fbjRuMHllVmItYllVUEtxRDVtQdIB0wFBVV95cUxOb1ZhOG5ZSkFxbHRZZmE3TUd1YnNQd2dTNUtUZklxMzZMLTV4TFhmZEhlSC1uQV95d3dMX25aWGtVUG4zTjk5b3F6OGx6a0hxWVVvblNYMkR2dVdMUnhQRzRqcWxvMmpiZ1ViOFF5emYzOUs1aXc2RTMtZEJZZWFqbFhSbHR1QUtZbUpMdkZONWVjeWxrNkc1eGU2dHdlcGhERkFhdnlNbXhBcHBFb2dTMzFnb0o1WG9IampkLUhYOWRnOXRKQ3dJYXN4bDV0anNxa0Y0?oc=5",
+          "desc": "Nvidia sacude la carrera de la IA: 1.000 millones para dominar la superinteligencia Negocios.com",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T15:53:36+00:00"
+        },
         {
           "title": "Trump declara operaciones con acciones de Nvidia antes de condecorar a Jensen Huang",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ1AxRmdObHBxb3ZabXc5X2RLYzlkSll0WWZnSjhpSE43c3BwTm84LWlMYnFicUtDZlZfSDNBSkFNWjdQRk93MnJvYXc0emlpWWUzZWNPVnd2aEFncWhpWkNJRkN2bERjUTQxWmlHMFlVZ2lwLXloVk4zUDMycF9iUkZrT3F0TG03ampOV3NtWEZVSWxMWHBnRHBlaXNnUVF0MkRNNHd6NEtQNmE2VTRmdlNNblJ3WEVjdzN3VEJ1NG1TYmVsVk9BRUZoSm1TdElfams4aXln?oc=5",
@@ -895,18 +902,18 @@
           "fecha": "2026-10-08T15:05:13+00:00"
         },
         {
-          "title": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXBHajZiVEtGTzVURUNhY0RjMXgtM3U2bWx6VURQYW41YlM4Zkl4a1RUbTZuOGFIMC0wSG5CeXdQOEw0VDI1dWExYTJab2laSHJrTGZtdEFMdUJycTJsQ3RNUnRWM1RpNUU3WXY1M1dPNHRwMTZhN1ZiYWZCM3FYWnZydDVxamg3RnU1bW9QZTlNV01uWGg0Z3N2dnNBX1lTcXR4eHRKUmZ5LWV6TEl1MGplU28zdUVSRlNZcA?oc=5",
-          "desc": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia Comercio TV",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T15:02:00+00:00"
-        },
-        {
           "title": "Trump realiza 517 operaciones en agosto: compra bonos de Meta y SpaceX, vende AMD y Nvidia",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVThobGlKNWdpMW9RUHd1czVONnFMaE9lY3FfbW1DSEZPMmx1a0MxT0k0LWRucnB1d2N0bnJ6RUVlNGJRLVJKQTN4RmU2aUo0djFnVDczQWowblhwZV9lVkdRbHhsQy1xeVc1WTh0b1NydUV4TVVsSlBTbVpXLXhsSldyaUt1Yk5hT0NvYjN6UXdDVnBaQUZ4ZHA0OHpKTjJIbG9TZTY4SEJxc3hSQXg4dmhual9rLWJiT1hOTUZfRzlLU1puZkxiY3U1c2RScnhWLUlkdlRsVVU4dw?oc=5",
           "desc": "Trump realiza 517 operaciones en agosto: compra bonos de Meta y SpaceX, vende AMD y Nvidia TradingKey",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T14:59:28+00:00"
+        },
+        {
+          "title": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFZlempzZkFxMnRLRGNBQWI2SVVHZ281Ym9SZnduVGdydEE4Z0RvZ2FIdFNnVGdtMlNFUmhjaW9iN2paVTVyNkRNWGtEWUNTNjRQdHlrd3dwNUtobG4yQktoVHg5aTFINnVxNDJlVGhUTHlZb2Y3RHJFMFpNc3lmYUkwY0Y3aGNjbUhYMXZ1SVpULTZ1UHZIUHFTaW5jbGxBX05xcA?oc=5",
+          "desc": "Microsoft desafía el mercado de computadoras con Surface Laptop Ultra de $2,599 y tecnología Nvidia Yahoo Finanzas",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T14:58:00+00:00"
         },
         {
           "title": "Nvidia compromete 1.000 millones USD en cinco años para impulsar la ciencia en Estados Unidos",
@@ -1040,13 +1047,6 @@
           "desc": "SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.",
           "source": "https://www.tomshardware.com/feeds.xml",
           "fecha": "2026-10-08T11:00:00+00:00"
-        },
-        {
-          "title": "Former Groq engineers sue board over $20 billion Nvidia deal",
-          "link": "https://www.tomshardware.com/tech-industry/semiconductors/former-groq-engineers-sue-board-over-usd20-billion-nvidia-deal-saying-it-handed-nvidia-the-lpu-and-the-team-that-built-it-plaintiffs-allege-the-board-kept-billions-from-other-shareholders",
-          "desc": "Two former Groq engineers sued Groq’s board in Delaware over the Nvidia licensing deal behind the Groq 3 LPU.",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-10-08T11:00:00+00:00"
         }
       ]
     },
@@ -1173,6 +1173,13 @@
           "fecha": "2026-10-08T08:19:32+00:00"
         },
         {
+          "title": "Nvidia y AMD impulsan un trimestre de TSMC de $46.7B: ¿cuánto recorrido queda en la acción?",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zZ2xUbndFNm1IdDhmU0hNM0c4SmNDemt1Zl9ZMjVKZFFURUVuQU9PbTI4ZGtncmNNaGphZkltYzJwaU1MZ0kwby1idnVzckQ5RUduOXRoeE50OGFZVjhfaG9QYW1Jdw?oc=5",
+          "desc": "Nvidia y AMD impulsan un trimestre de TSMC de $46.7B: ¿cuánto recorrido queda en la acción? TradingView",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T07:43:07+00:00"
+        },
+        {
           "title": "AMD llevará su tecnología de escalado FSR 4.1 a sus APUs presentes en consolas y portátiles antes de terminar el 2026",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX2pQWEhDejFhUEZTNHhBdDNxc0RiMUhxVjlDcTB0T3Fway1HTDQ0d0hMSV9YY3c1VHd3SWVMMm1TRzFUR3lnR3hrRnY1VU44OEpMaGJJUFc3ZGVJS0FsdkJKLWczT3AwWGFSeE1rSFNpVTdNZ1lzN2FKcFNoQkN4THJPMF9DWlFHRmtzRVNvTUd0RkRDNklNanZ2Y0R3TTVOdDZlX3R6LW5PakhOX3lseUFlMEF3NTZDdkZ6bnA5ZjdNaWs0cGNsMUh6VWZnZWRMb3Y5V1F2UEs1Q1Y1Q0Y2TGVibWhrdEp6VUVBSlZDRmlzUQ?oc=5",
           "desc": "AMD llevará su tecnología de escalado FSR 4.1 a sus APUs presentes en consolas y portátiles antes de terminar el 2026 Geeknetic",
@@ -1185,6 +1192,13 @@
           "desc": "AMD llevará la IA de FSR 4 a consolas portátiles antes de que acabe 2026 HardZone",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T05:55:15+00:00"
+        },
+        {
+          "title": "HPE acelera la innovación en IA empresarial con servidores de próxima generación de AMD",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0xkRnFScFF0NXNNUTZiaWRQcGJvdnB4bWJGR0p4cVNTNGhjbm0tWWhvd1ZkTjRzRWtWWTV0Qk5HZVNVVTZOYWUxeE1Bd1ZRdXU4bTJXdmd3WUlwdU5nRy1NaHQxT1BtX01xNW5pWF9Ua2k4RTBKTmlvdnkwR3psdFF2U2JtX0czOVJRQXFjYXJQZHNhWk5tWjZWczhDVHlqdHpXb1FHMjRsMWhnUDRzenNDeVNqcERRX3c?oc=5",
+          "desc": "HPE acelera la innovación en IA empresarial con servidores de próxima generación de AMD Boletin.mx",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T05:47:05+00:00"
         },
         {
           "title": "¡Buenas noticias! AMD anuncia una gran mejora para los PC consolizados portátiles",
@@ -1227,20 +1241,6 @@
           "desc": "David Vernet propuso un governor dinámico de AMD P-State para juegos NeoTeo",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-07T19:46:57+00:00"
-        },
-        {
-          "title": "AMD mantiene abiertas las conversaciones con Samsung por memoria y fabricación de chips",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHZJT3hueEsybW5lVE9PdF9qam41dkxySjY4VXd1SkNHcXhqZXo2MmJIdTAtVmg2Z1M1ckJQbE9LSGJuUTYxVEd5ckZjcWhrUWVoM0pkeEJwRHhiX3hxY3VUcm9xODFvTU9VVTZrQ0VucE9rYjZXbWVpM3VOVTlRVTlrY25YOGdEZFZyY3d5cVBvOXpnbUk3QzZnZWcyblB3cVVmb1ByM016S21EMEZUMHVmMzVNV2ducENHZGxOMXFvcDllWkYzbWtWMk8?oc=5",
-          "desc": "AMD mantiene abiertas las conversaciones con Samsung por memoria y fabricación de chips DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-07T18:23:09+00:00"
-        },
-        {
-          "title": "AMD muestra el Ryzen AI Max+ PRO 495 ejecutando modelos locales de hasta 320.000 millones de parámetros",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRVZ4SUgxM3RBcF93M2RqZVJHVGZKaFVQUEN5WmdodTU5U01qcFE2WnJkT1E2bi1QSlppQmd4NFZqb0o4b0IzRVpKSGQ3WTRzSk9lbi00SHk1czJwZV9MV1A5M05vLWdsVldKOG02UWdWOVJvbUZvVXNyZFhpMzR0eVhFMjRDTmR1VDNEdjhHNXNtWVZad09udTVUbWhNRGJiUDgwTENBTUtXQlBTMjlrbVpLX21WbWZRM3hfTHVMcEpMMkU1RjB1T1VnWGJ3eGp5Z0hSc0pXdnhGWlJUVUhvYVhBeXI?oc=5",
-          "desc": "AMD muestra el Ryzen AI Max+ PRO 495 ejecutando modelos locales de hasta 320.000 millones de parámetros Geeknetic",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-07T17:06:33+00:00"
         }
       ]
     }
