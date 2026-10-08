@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T13:30:06.559356+00:00",
+  "generado": "2026-10-08T14:00:07.333622+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -23,6 +23,13 @@
           "desc": "Agoumé: \"Fofana me llamó para decirme que había firmado por el Sevilla y no me lo creía\" MARCA",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T12:41:43+00:00"
+        },
+        {
+          "title": "Pin Up México convierte en recompensa la caída inicial del Sevilla FC para los hinchas latinoamericanos",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTTJlQUhGM0hqXzZ6SnNHcm9XeENvYXRGTWdBeGU5VWhZMEttX0t4NHdNaC1zS2J2TGJPTFNlc3E4M3Q1LVFiMTNxOGtJb3VoUThEMVJjQnFIZmdlUldrWlBTejlVaGVFdXhCNlAtT2Rmc25xeTE5dW5zYWRld1BCbFM4TzMzaENpMmFJWFVjSVFycUdnOW0yUnAyRlE?oc=5",
+          "desc": "Pin Up México convierte en recompensa la caída inicial del Sevilla FC para los hinchas latinoamericanos Yahoo",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:30:00+00:00"
         },
         {
           "title": "David Silva no elige ni a Lamine Yamal ni a Mbappé para el Balón de Oro: \"No se le valora lo suficiente\"",
@@ -170,13 +177,6 @@
           "desc": "El club blanquirrojo implementará de forma inmediata una tecnología basada en la Inteligencia Artificial Explicable que ha desarrollado la UCAM para anticipar factores de riesgo y ayudar a los cuerpos médico y técnico a tomar decisiones en la compleja y ardua tarea de la prevención de lesiones El Sevilla FC y la 'spin-off' de la Universidad Católica de Murcia denominada InjuryPRO - XAI Solutions ' han alcanzado un acuerdo de colaboración para que la entidad blanquirroja implemente esta herramienta basada en la Inteligencia Artifical Explicable en pos de uno de las grandes retos del fútbol profesional: la prevención de lesiones. Una alianza de la que se beneficiarán ambas partes: de un lado, el club apuesta por la innovación para combatir una lacra que cuesta sufrimiento y dinero ( que se lo digan a Marcao Teixeira o al ya desvinculado Tanguy Nianzou ), mientras que la UCAM e IPS se aseguran un entorno profesional de primer nivel para avanzar en la validación y adaptación de la aplicación. Así funciona IPS, la app que podría revolucionar el mundo del fútbol InjuryPRO utiliza la XAI para identificar patrones asociados al riesgo de lesión, con una alta capacidad predictiva , y aportar al staff información útil para anticiparse en la toma de decisiones . El reto es también económico: las lesiones pueden generar un impacto de hasta 180 millones de euros por temporada en LaLiga . El pacto conecta dos ámbitos cada vez más próximos: la investigación científica y la capacidad de las entidades deportivas de generar grandes volúmenes de datos sobre sus jugadores. De esta forma, la citada herramienta se aplica en el entorno de rendimiento del club y convertirá su información en conocimiento aún más útil. La compañía nace de la investigación desarrollada en el Centro de Investigación en Alto Rendimiento Deportivo de la UCAM (CIARD-UCAM) , dirigido por el catedrático en Ciencias del Deporte Pedro Emilio Alcaraz , y de la colaboración tecnológica con AyGLOO , especializada en inteligencia artificial. Su plataforma integra información procedente de sensores GPS , cargas de entrenamiento, historial de lesiones, percepción subjetiva del esfuerzo , indicadores de bienestar , fuerza y otros biomarcadores para identificar patrones relacionados con un aumento del riesgo de lesión. Los resultados piloto sitúan su capacidad predictiva por encima del 90% . \"Su mejora principal está, sin embargo, en que no se limita a generar una alerta , sino que InjuryPRO emplea Inteligencia Artificial Explicable ( XAI ) para mostrar qué factores están influyendo en cada predicción y analizar cómo determinados cambios podrían modificar el riesgo estimado. El objetivo no es sustituir el criterio de médicos, jefes de rendimiento, preparadores físicos o entrenadores, sino proporcionarles una nueva capa de información para decidir: el modelo informa, el staff decide\", sentencia en su comunicado la propia impulsora del acuerdo, la Universidad Católica de Murcia . El impacto millonario como clave La dimensión económica de las lesiones está ampliamente documentada en el fútbol profesional. En España , un estudio realizado sobre los 20 conjuntos de Primera división durante la temporada 18/19 contabilizó 270 lesiones musculares de miembro inferior y 964 partidos perdidos , estimando un coste salarial medio de 365.811 euros mensuales por club. El mismo trabajo puso de manifiesto la dimensión competitiva del problema, al relacionar una mayor disponibilidad de jugadores y una menor carga de lesiones con mejores resultados deportivos. Otras estimaciones reflejan que el coste de todas las lesiones puede alcanzar los 265 millones de euros por temporada en la Premier League y los 180 millones en LaLiga , con un impacto aproximado de 9 millones de euros por club en la competición española. Parte médico de Marcao: qué tipo de lesión sufre y periodo aproximado de baja El eterno calvario de Nianzou y el quirófano para Joan Jordán Una sinergia bienvenida en Nervión En este sentido, José María Cruz Gallardo , responsable de Innovación Deportiva del Sevilla FC , destaca la importancia de establecer alianzas para mantener un proceso constante de mejora: \"Siempre hemos tenido claro, desde el área de Innovación y desde la estructura de dirección del club, que tenemos que apoyarnos en otras empresas y en universidades , que son los centros de conocimiento, para seguir en un proceso de actualización permanente de todos los avances que nos puedan ayudar a ir creciendo. En este caso confluye todo; y la universidad tiene nombre y apellidos, que es la UCAM , con la que desarrollamos muchísimos proyectos muy exitosos y que tiene un prestigio internacional, específicamente, en todas las ramas del deporte\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-07T18:08:20+00:00"
-        },
-        {
-          "title": "El Sevilla FC e InjuryPRO se alían para prevenir lesiones mediante inteligencia artificial",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNVW9kR3AtaUk4TEZRcFNSYll4WHRGeldwX3REMW1QcUc5MENuYnR2V0JWM3d0SUlVZDdqVXZvWlp5ZER4WUFaX3Q5dTBWdkZnaDREM014SXp3cGRSOUVsWUtzX1k5Tmo1NVluR2w5RzhuWDlZZThYRWtPQTgwV09Wc2ZNN3U2cGVUczZrZ1BaVU1ERkdJUlBVaGlpZF9QZFRzUTk5M3ozWE1URnlUQTU3b05uaEMyd2ZIOGlqR2IybTVTdmJNRDJGUFdpOEhjekxRWm8yVjRybmRLVUFPVUFYaGJuclVsUm5nNW8tT0ZsMmVydmQxR2JtUVZqMjRDdGJwSGhTa1Rsd3pHT3o1VC10M0tJdzJkdjBhWER4RXJXOW81UF9MemNDemo5MVd6bnBZTTM5TmMzeWJfZzTSAcACQVVfeXFMT2lXS3I0UXRaT01vN3NYMGtFaFBBWHNBQWU3RndNLVVLbG1QeWJWMzBSal9ORFlJWWJIa3JYaHp0Tno1SnRYbHdxbldic1VYejdqQkJ3eGw1TW5aZEJadUxod1k2OWp4UUlZM240V194bjAtaU9vdmJwcHpJVWdURzhyakJRLUlCdDJNWmwxRFdWVDNTTGFDdkN1OGhKckFya25odjdOcDRqVTFjQi1fTlEwajItRHlEUFJkeWVraXdQT2dUTl9yUXIzS0pWWGRaU1RlR20xVlNBVExoNXNYR1FkY19xeHhOMTE1bFMzRVpVWEJQRkhtYUJlX0NaTUVsSk5MbmNXRjM2SGZlNzZTYUpLZ0xSVi13RjIwQ0pNUWc2cDMweHN5blNoY0VhYWZTbjdJZEpXT29hVS1lLXdJWXI?oc=5",
-          "desc": "El Sevilla FC e InjuryPRO se alían para prevenir lesiones mediante inteligencia artificial COPE",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-07T18:08:17+00:00"
         }
       ]
     },
@@ -184,6 +184,20 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "Mourinho y la lentitud del 'caso City': \"Tendremos que tener suerte de seguir aquí cuando llegue la sentencia\"",
+          "link": "https://www.marca.com/futbol/real-madrid/2026/10/08/mourinho-lentitud-caso-city-tendremos-suerte-seguir-aqui-llegue-sentencia.html",
+          "desc": "El entrenador del Real Madrid repasa en una entrevista la situación judicial del club inglés, sus habituales polémicas arbitrales y su regreso al banquillo blanco",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-10-08T15:55:33+02:00"
+        },
+        {
+          "title": "El Barça presume de precisión",
+          "link": "https://www.marca.com/futbol/barcelona/2026/10/08/barca-presume-precision.html",
+          "desc": "Cuatro azulgranas entre los siete jugadores con un porcentaje mayor de acierto en el pase",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-10-08T15:42:48+02:00"
+        },
         {
           "title": "Fernando Alonso desmiente lo del Dakar pero Aston Martin le abre la puerta: \"Es bueno para el automovilismo que los pilotos hagan eso\"",
           "link": "https://www.estadiodeportivo.com/motor/formula-1/fernando-alonso-desmiente-del-dakar-pero-aston-martin-abre-puerta-bueno-para-automovilismo-que-los-pilotos-hagan-eso-20261008-548163.html",
@@ -337,20 +351,6 @@
           "desc": "El calendario de la categoría reina afronta una de sus últimas siete citas y este fin de semana se detiene en el escenario en el que el de Cervera fue arrollado el año pasado por Marco Bezzecchi. Y en anteriores ocasiones también corrió la misma suerte El español Marc Márquez (Ducati Desmosedici GP26), segundo en la clasificación del Mundial de MotoGP a sólo dos puntos de su compatriota Jorge Martín (Aprilia), ha dicho no descartar \"nada\" a la hora de afrontar el Gran Premio de Indonesia de MotoGP. Un certamen que le va a hacer recordar su última pesadilla y un escenario que siempre le ha traído por la calle de la amargura. \"Cada uno lo afronta como quiere\", ha recalcado el catalán en la previa de esta cita, subrayando al mismo tiempo que \"este fin de semana no descarto nada de entrada, pero nos tiene que costar un poquito más, por estilo de circuito, de moto, de pilotaje\". Si bien insistió en que lo que quiere es \"estar lo más cerca posible de los 37 puntos\", que suman la victoria en la carrera sprint y la larga del domingo, pues aunque puede sonar \"muy ambicioso\", porque en Mandalika no ha acabado ninguna carrera, quiere \"intentar estar lo más cerca posible\" y que luego se verá si son 20, 30 o 10 puntos. El vigente campeón de MotoGP reiteró que espera que sean \"los máximos posibles para seguir en la lucha por el Mundial\". La maldición de Marc Márquez en Indonesia Y es que este certamen nunca le ha traído algo bueno al catalán. La primera vez que este trazado albergó un gran premio de MotoGP fue en 2022 y aquel fin de semana Márquez, que todavía corría con Honda, sufrió una durísima caída, lesionándose su castigado hombro derecho. Marc Márquez, derrotado en Indonesia antes de tiempo Aquella caída hizo que volviera sufrir un episodio de diplopía, el problema de la doble visión que ya había sufrido en anteriores ocasiones. En 2023 la carrera de Indonesia terminó para Márquez en la séptima vuelta, mejorando su actuación en la sprint, en la que no pasó del primer giro. En 2024, ya con Gresini, la carrera le duró once giros pese a que acabó tercero el sábado en la sprint. Y en 2025, con Ducati, el ilerdense llegaba sin presión después de haberse proclamado campeón del mundo en Japón. Pero la Aprilia de Marco Bezzecchi se lo llevó por delante y volvió a caer con el hombro derecho, lo que le obligó a pasar de nuevo por el quirófano y despedir de esta guisa su dorada temporada. Marc Márquez se pronuncia sobre el cambio de formato de MotoGP En lo que se refiere al nuevo formato para 2027 se quejó de que los pilotos han tenido \"poca información sobre ello\", pero dijo que tampoco puede hablar porque estaba \"más pendiente de mi campeonato que de otras cosas\". Reconoció que será \"más riesgo en pista, más tiempo de intensidad, más tiempo de adrenalina, más tiempo de desgaste mental\". \"Evidentemente, es lo que hay y te tienes que adaptar a ello\", reseñó el nueve veces campeón del mundo, quien dice que habrá que sacar el \"ciento por ciento\" de esos fines de semana y que \"en un futuro\" se verá cuál será el \"desgaste\" de esas veintidós carreras con ese formato. Los cambios del formato de MotoGP El Mundial de MotoGP estrenará en 2027 una sesión de clasificación exclusiva para la carrera sprint, que se disputará los viernes y fijará la parrilla de salida de la prueba corta del sábado, según anunció este miércoles la Comisión del Gran Premio de la Federación Internacional (FIM). Hasta la actual temporada, una misma clasificación decidía las parrillas del sprint y de la carrera del domingo. Para hacer hueco a la nueva sesión, se reduce el tiempo de la segunda sesión de entrenamientos: los libres 1 (FP1) mantienen 45 minutos, los libres 2 (FP2) pasan a 30 minutos y se crea una clasificación del sprint de 15 minutos, en la que participarán todos los pilotos. Marc Márquez monta en cólera por el uso de su doble en el Gran Premio de Japón: \"Estamos aquí para luchar por un campeonato, no para karts y cachondeos\" El sábado arrancará con sesión FP3 de 20 minutos, seguida de la clasificación que se dividirá en dos tandas de 15 minutos. Todos los pilotos disputarán la Q1 y los doce más rápidos pasarán a la Q2, donde se decidirán la 'pole' y las cuatro primeras filas de la parrilla del domingo. El domingo desaparecerá el calentamiento de 10 minutos, que será sustituido por la apertura de talleres de la misma duración antes del Gran Premio. Durante ese tiempo los pilotos podrán dar varias vueltas de reconocimiento al circuito antes de formar en parrilla",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-08T10:25:44+00:00"
-        },
-        {
-          "title": "Giay, el 2 para la Argentina post Messi que se le 'escapó' al Atlético",
-          "link": "https://www.marca.com/futbol/atletico/2026/10/08/giay-2-argentina-post-messi-le-escapo-atletico.html",
-          "desc": "Andrea Berta llegó a ofrecer cinco kilos antes de que el Palmeiras se llevara por ocho al que ya es considerado como el mejor lateral de Sudamérica",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T12:19:45+02:00"
-        },
-        {
-          "title": "Primera sesión 'al completo' del Barcelona",
-          "link": "https://www.marca.com/futbol/barcelona/2026/10/08/primera-sesion-completo-barcelona.html",
-          "desc": "Todos los internacionales están de vuelta, pero Raphinha sigue al margen",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T12:02:09+02:00"
         }
       ]
     },
@@ -359,32 +359,39 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Norris ‘hopeful’ recent car issue will be cured in Singapore",
+          "link": "https://www.formula1.com/en/latest/article/norris-hopeful-recent-straight-line-speed-issue-will-be-cured-in-singapore-as-he-admits-mclaren-need-to-do-a-better-job.7GhQrU0cCJGpY9v8lxyTkp",
+          "desc": "Lando Norris has offered an honest assessment of McLaren’s last two race weekends, stating that he and the team have “underperformed” and “need to do a better job” moving forward.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-10-08T14:00:07.333622+00:00"
+        },
+        {
+          "title": "Verstappen answers your questions in our exclusive Q&A",
+          "link": "https://www.formula1.com/en/latest/article/standout-races-favourite-hobbies-life-goals-and-more-max-verstappen-answers-your-questions-in-our-exclusive-reader-q-and-a.leLmjaR58k3DUJCjt231Q",
+          "desc": "This weekend, Max Verstappen will celebrate his 250th Grand Prix on the streets of Singapore, bringing another milestone in the Dutchman’s trophy-filled F1 career that began just over a decade ago.",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-10-08T14:00:07.333622+00:00"
+        },
+        {
           "title": "Why Aston Martin expect another strong weekend in Singapore",
           "link": "https://www.formula1.com/en/latest/article/why-aston-martin-are-confident-of-another-strong-weekend-in-singapore.7lryQSYovPK8XGtBv7uIBV",
           "desc": "After an impressive performance by Fernando Alonso at the Bahrain Grand Prix, Aston Martin believe they can build on the momentum in Singapore.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T13:30:06.559356+00:00"
+          "fecha": "2026-10-08T14:00:07.333622+00:00"
         },
         {
           "title": "How Albon navigates the realities of life on the road in F1",
           "link": "https://www.formula1.com/en/latest/article/exclusive-i-pretty-much-live-in-a-suitcase-how-albon-navigates-the-realities-of-life-on-the-road-in-f1.4rnoUwsRmfbNbScJF25NZF",
           "desc": "Williams driver Alex Albon reveals how he manages jet lag, life out of a suitcase and finding routine while travelling the world with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T13:30:06.559356+00:00"
+          "fecha": "2026-10-08T14:00:07.333622+00:00"
         },
         {
           "title": "Facts, stats and trivia ahead of the 2026 Singapore GP",
           "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-singapore-grand-prix.2yF5JZuQTWUoUmbDH4niHv",
           "desc": "As F1 heads to the Marina Bay Street Circuit for the Singapore Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T13:30:06.559356+00:00"
-        },
-        {
-          "title": "Vowles reveals how he told drivers about Williams problems",
-          "link": "https://www.formula1.com/en/latest/article/were-in-trouble-here-vowles-reveals-how-he-told-sainz-and-albon-of-problems-facing-williams-in-2026.1VI39x5GE7zaJY5aUMjQuk",
-          "desc": "James Vowles has revealed how he told Carlos Sainz and Alex Albon that Williams would face problems under the new-for-2026 Formula 1 regulations, and how their responses meant he was \"knocked off my feet\".",
-          "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T13:30:06.559356+00:00"
+          "fecha": "2026-10-08T14:00:07.333622+00:00"
         },
         {
           "title": "Fernando Alonso desmiente lo del Dakar pero Aston Martin le abre la puerta: \"Es bueno para el automovilismo que los pilotos hagan eso\"",
@@ -450,7 +457,7 @@
           "fecha": "2026-10-08T10:25:44+00:00"
         },
         {
-          "title": "Muere Margaret Hamilton, la mujer que creó el software que permitió al ser humano llegar a la Luna",
+          "title": "Muere Margaret Hamilton, la mujer que creó el software que permitió al ser humano aterrizar en la Luna",
           "link": "https://www.20minutos.es/tecnologia/actualidad/muere-margaret-hamilton-creadora-software-nasa-llegada-luna_7046483_0.html",
           "desc": "Margaret Hamilton, pionera de la informática y responsable del software de las misiones Apolo de la NASA, ha fallecido a los 90 años.",
           "source": "https://www.20minutos.es/rss/",
@@ -518,13 +525,6 @@
           "desc": "El octavo puesto del español en Sepang ha permitido recoger muchos datos que podrían ser claves para el futuro de Aston Martin este mismo año El octavo puesto de Fernando Alonso ha roto los esquemas en la F1 y hasta en su propio equipo. Cierto que los Aston Martin, tras los malos resultados de Monza y Bakú, esperaban una mejoría en el circuito de Sepang, donde la potencia de los motores no lo es todo. Y también es real que tanto Alonso como Stroll pudieron demostrar esos avances desde el primer día y acabaron bien clasificados en la Q2. Pero de ahí al octavo puesto final... es una locura. El monoplaza verde respondió mejor de lo esperado con Fernando Alonso al volante y eso sorprendió en la propia escudería . Pero es que, además, también fue más manejable que en carreras precedentes y a los que sorprendió con eso fue a los ingenieros de Honda . 'Magic Alonso', pese a los muchos años que lleva en el gran circo y a los que lleva trabajando con los ingenieros de Aston Martin y con Honda -con quien coincidió en McLaren-, sigue sorprendiendo. \"Sí, nos sorprendió\", admitía el jefe de pista de Aston Martin, Mike Krack, en SoyMotor, donde reconocía que no se esperaban ese resultado. \"También nos sorprendió nuestro rendimiento y el de otros en algunas áreas... Eso es algo que necesitamos entender, pero sabemos lo que hemos cambiado en nuestro coche en los últimos fines de semana y cuánto nos aporta cada cosa\", afirmaba el luxemburgués, que veía como muy positivo lo logrado por Fernando Alonso, ya que les permitiría valorar lo que han avanzado con las mejoras introducidas. El piloto ovetense aseguró tras el Gran Premio de Bahrein -aunque se corrió en Malasia- que si allí habían sido competitivos, a priori, en Singapur, este fin de semana, deberían ir aún mejor en un circuito urbano que se adapta más a las virtudes de su coche. Pedro de la Rosa intuyó lo de Fernando Alonso en Sepang: \"Cuando llegamos a un circuito donde nadie se lo conoce, él siempre marca esa diferencia\" Su jefe, en cambio, se lo toma con cautela. \"Creo que tenemos un cierto entendimiento. Pero no diría que tenemos una forma clara de saber dónde estamos en comparación al resto de equipos. Porque, como ya dije la semana pasada, siempre es una comparación relativa . (...) Creo que necesitamos entender si la mejora de rendimiento viene de otros, de nosotros o si probablemente sea el caso de ambas cosas juntas\", añadía Krack. En Honda, entusiasmados con lo que hizo Alonso Pese a sus palabras de mesura, no podía esconder la satisfacción por el resultado. Como tampoco lo ha hecho Honda en la previa del GP de Singapur 2026. Shintaro Orihara, ingeniero jefe de la marca japonesa, ha admitido que lo que consiguió Alonso puede ser más importante de cara al futuro de lo que muchos piensan. El piloto español le sacó todo el jugo a su coche y dio muchos datos a los ingenieros de la fábrica nipona. \" En Malasia descubrimos algunos aspectos interesantes adicionales, especialmente al rodar en condiciones de lluvia y con mucha energía disponible . El funcionamiento del motor allí era diferente al de otros circuitos\", reconoce el ingeniero japonés, que no sólo valora todo lo que pudo sacar Alonso forzando al máximo a Aston Martin, sino los datos que dio en cuanto a manejabilidad. El nuevo apodo que ha recibido Fernando Alonso en la parrilla de Fórmula 1 a sus 45 años \"El fin de semana pasado nos permitió recopilar buenos datos y obtener aprendizajes que podremos aplicar de cara al próximo Gran Premio en lo que respecta a la manejabilidad. Estamos deseando afrontar el desafío que tenemos por delante\", señala sobre un fin de semana y un circuito que, al ser urbano, será clave tener un coche que vaya bien en este aspecto. \"Singapur es un circuito urbano, lo que significa que vuelve a ser un trazado complicado en términos de manejabilidad. Los muros están muy cerca y prácticamente no hay escapatorias. Es fundamental dar a los pilotos la confianza necesaria para llevar el coche al límite\", advierte Shintaro Orihara.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-07T20:06:15+00:00"
-        },
-        {
-          "title": "Jaguar sí apuesta por los eléctricos de lujo: lanza el Type 01 desde 153.000 euros",
-          "link": "https://www.eldiario.es/motor/novedades/jaguar-si-apuesta-electricos-lujo-lanza-type-01-153-000-euros_1_13570320.html",
-          "desc": "La marca controlada por el grupo indio Tata se desmarca de otros fabricantes de lujo y del desinterés por los eléctricos de Trump con un modelo rompedor muy pensado para el mercado de EEUU El sorpasso de los coches electrificados sobre los de combustión ya tiene fecha: 2030 Jaguar mantiene su apuesta por el coche eléctrico de lujo mientras otros fabricantes del segmento están retrasando sus planes de electrificación. La marca británica, propiedad del grupo indio Tata Motors y encuadrada en Jaguar Land Rover, ha presentado en Nueva York el nuevo Type 01, un GT eléctrico de cuatro puertas que llegará al mercado en 2027 con un precio de partida de 130.000 libras, unos 153.000 euros al cambio actual. El lanzamiento supone un paso decisivo en la transformación de Jaguar, que se convertirá en la única marca completamente eléctrica de la cartera de JLR, frente a la estrategia más flexible que el grupo aplicará a Range Rover, Defender y Discovery, que mantendrán una combinación de tecnologías de combustión, híbridas y eléctricas. El Type 01 es, según JLR, el Jaguar más avanzado técnicamente, potente y aerodinámico desarrollado hasta la fecha. Construido sobre una arquitectura eléctrica específica de la marca, la JEA, incorpora una batería utilizable de 118 kWh y un sistema eléctrico de 850 voltios. La autonomía estimada por el ciclo EPA alcanza los 644 kilómetros, mientras que en carretera puede recorrer hasta 515 kilómetros. La capacidad de carga también pretende ser uno de sus argumentos. Con un cargador de corriente continua de hasta 350 kW, el Type 01 puede recuperar hasta 321 kilómetros de autonomía en 13 minutos. En su configuración más potente desarrolla hasta 1.030 CV y 1.365 Nm de par, con una aceleración de 0 a 100 km/h en 3,2 segundos. El nuevo modelo recoge además algunos de los rasgos que han definido la nueva imagen de Jaguar desde que la compañía mostró en 2024 el prototipo Type 00. Su larga silueta, el capó ultralargo y la ausencia de luneta trasera buscan reinterpretar en clave eléctrica la tradición deportiva de la marca, con referencias al mítico E-Type de los años sesenta. Una apuesta por Estados Unidos La elección de Nueva York para presentar el Type 01 no es casual. Norteamérica se ha convertido en uno de los mercados prioritarios para el crecimiento de JLR, especialmente en un momento en el que la compañía pretende captar a una nueva generación de compradores de vehículos de lujo. El movimiento adquiere especial relevancia en Estados Unidos, donde la demanda de eléctricos ha evolucionado a un ritmo diferente al europeo y donde la política de la Administración Trump ha reducido el apoyo público a este tipo de vehículos. Jaguar, sin embargo, mantiene el rumbo y pretende situarse en el extremo más exclusivo del mercado eléctrico. La estrategia contrasta con la de varios rivales. Ferrari ha recibido críticas tras presentar su primer eléctrico , mientras que Bentley ha optado por situar su primer modelo de baterías en la parte más baja de su gama. Lamborghini ha descartado lanzar un eléctrico antes del final de la década y McLaren ha señalado que no tiene planes de abandonar los motores de combustión ante la falta de interés de sus clientes. Fabricado en Reino Unido El Type 01 será diseñado, desarrollado y fabricado en Reino Unido. Su producción comenzará en 2027 en la planta de Solihull, mientras que las unidades de propulsión eléctrica y las baterías se fabricarán en Wolverhampton y los paneles de carrocería prensados procederán de Halewood, en Merseyside. JLR asegura que los trabajos de adaptación de las líneas de producción se encuentran ya en una fase avanzada. Casi 9.000 empleados de Solihull han recibido formación para fabricar vehículos eléctricos y otros 1.500 trabajadores de las operaciones de JLR en West Midlands han sido capacitados para las nuevas tecnologías. La compañía ha invertido ya 11.500 millones de libras de los entre 15.000 y 18.000 millones previstos en su programa de inversión quinquenal anunciado en 2024. La mayor parte de ese desembolso se ha destinado al Reino Unido. “El Type 01 marca el inicio de una nueva y emocionante era para Jaguar”, ha señalado PB Balaji, consejero delegado de JLR. El directivo defiende que el modelo combina “la herencia británica, una creatividad audaz, tecnología de vanguardia e ingeniería innovadora” con el objetivo de atraer a una nueva generación de clientes.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-10-07T18:01:04+00:00"
         }
       ]
     },
@@ -533,6 +533,34 @@
       "icono": "💻",
       "items": [
         {
+          "title": "Ace Combat 8 confirma el buen estado de la saga: vuela en las ventas de Japón, dejando atrás a sus competidores",
+          "link": "https://vandal.elespanol.com/noticia/2026281023/ace-combat-8-confirma-el-buen-estado-de-la-saga-vuela-en-las-ventas-de-japon-dejando-atras-a-sus-competidores/",
+          "desc": "Ace Combat 8: Wings of Theve logra un buen estreno en Japón, seguido muy de lejos por otros títulos como el remaster de Dynasty Warriors 3. La publicación Famitsu acaba de publicar el listado de ventas semanales en Japón, correspondiente a los juegos que se han vendido desde el pasado 28 de septiembre hasta el 4 de octubre . Se trata de datos que nos sirven para comprobar cómo se ha comportado este mercado en el ámbito físico (así como consolas). Esta semana volvemos a tener un claro triunfador, y se trata de Ace Combat 8: Wings of Theve , que en su debut en las tiendas niponas consigue vender 63.013 copias , un muy buen resultado y que demuestra la buena acogida de la saga de Bandai Namco en este territorio. Ace Combat domina en los juegos en formato físico más vendidos en Japón El resto del listado de ventas en Japón también tiene bastante interés. En la segunda posición encontramos a Dynasty Warriors 3: Complete Edition Remastered , que logra más de 20.000 copias si contamos sus versiones para PlayStation 5 y Nintendo Switch 2. En tercera posición tenemos a Rhythm Paradise Groove , que ya ha acumulado más de un millón de unidades desde su lanzamiento. A continuación os mostramos el listado completo, con otras novedades interesantes en el TOP, como es el caso de Minecraft Dungeons II : [PS5] Ace Combat 8: Wings of Theve (Bandai Namco)  63,013 (novedad) [PS5] Dynasty Warriors 3: Complete Ed. (Koei Tecmo)  18,724 (novedad) [NSW] Rhythm Heaven Groove (Nintendo)  15,894 (1,065,816) [SW2] Fire Emblem: Fortunes Weave (Nintendo)  12,787 (166,646) [SW2] Minecraft Dungeons II (Microsoft)  12,093 (novedad) [SW2] Dynasty Warriors 3: Complete Ed. (Koei Tecmo)  11,684 (novedad) [SW2] Derby Stallion 2 (GAME ADDICT)  7,819 (37,155) [SW2] Xenoblade Chronicles 2  NS2 Ed. (Nintendo)  5,780 (novedad) [SW2] Splatoon Raiders (Nintendo)  5,403 (676,605) [NSW] Tomodachi Life: Living the Dream (Nintendo)  5,318 (1,623,422) Consolas más vendidas en Japón En lo referente a las consolas más vendidas en tiendas japonesas, encontramos un panorama muy similar al de anteriores semanas, con el dominio de Nintendo Switch 2 : Switch 2  26,200 (6,386,553) PlayStation 5 Digital Edition  12,210 (1,458,522) Switch (OLED Model)  3,461 (9,641,926) Switch Lite  3,255 (7,039,626) Switch  988 (20,312,994) PlayStation 5 Pro  456 (370,654) Xbox Series X Digital Edition  353 (34,162) Xbox Series X  225 (329,211) PlayStation 5  102 (5,920,435) Xbox Series S  34 (343,074)",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-10-08T13:53:00+00:00"
+        },
+        {
+          "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
+          "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike",
+          "desc": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-10-08T13:46:56+00:00"
+        },
+        {
+          "title": "Securitize lanza acciones de Apple, Nvidia y Tesla en Solana, planea llevarlas a NYSE",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVVKSTVWVWt6ZU9hR2Vzd3hLdkJqdk00YTFrcUZKNFhsS0F0UEtEOFZjdVdjLWhkTWRfOWp5b0hjc0J3ZmgxOURWaHEzLXZJaVJfV0hDaG1SLWNiNXdJR05qUWFXeUdFdzdyYjV2alBpNFdyMjRvMm1SZTdhMzZzak9Idk9OYnhYX0pDWGkwckFEQ0JWOEtkOFF0ZlNGUk9DN1F5elV3aEJSYURCYTVSOGpZTnZ4a1JaOEwwb1hRM1hsbnFrRm1qZHJ2Y0lkM0JUZFk5SnRTd2FadFlTZG1v?oc=5",
+          "desc": "Securitize lanza acciones de Apple, Nvidia y Tesla en Solana, planea llevarlas a NYSE DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T13:34:43+00:00"
+        },
+        {
+          "title": "Minecraft tendrá actualización gratis para Switch 2, pero solamente para aquellos que lo compraron en digital",
+          "link": "https://vandal.elespanol.com/noticia/2026281022/minecraft-tendra-actualizacion-gratis-para-switch-2-pero-solamente-para-aquellos-que-lo-compraron-en-digital/",
+          "desc": "Minecraft para Nintendo Switch se actualizará gratis y por tiempo limitado a la edición de Switch 2, pero solo si lo compraste en digital. La versión de Minecraft para Nintendo Switch 2 está en camino . Llegará el próximo 27 de octubre y se acaba de comunicar que las reservas ya están abiertas , tanto en versión física como digital. Se trata de una edición que incluye la característica gráficos vibrantes , con una mejora visual oficial en que los amaneceres son más bonitos, hay reflejos en el agua y los bosques se sombrean, entre otras posibilidades. También se incluye un pack popurrí de Super Mario , con 15 pistas y 40 aspectos de jugador. Minecraft gratis en Switch 2 si ya tenías la versión para Switch (solo en digital) La mayor noticia sobre esta nueva versión de Minecraft para Nintendo Switch 2 es que aquellos que poseyeran el juego para para la primera Nintendo Switch no tendrán que hacer ningún desembolso adicional para actualizarse . Podrán jugar a esta edición en su Switch 2, siempre y cuando adquirieran el juego en formato digital . Esta oferta de actualización gratuita estará disponible hasta finales de enero de 2027 , o también pasarte a las ediciones Deluxe Collection o Ultimate Collection con un descuento. Si quieres llevar a cabo esta actualización, detallan que solo será posible a través de la eShop . La mala noticia para los poseedores de la edición física de Minecraft para Nintendo Switch, es que esta promoción no se les aplica . No obstante, permaneceremos atentos por si se produce alguna actualización y así conocer si finalmente se permite a los usuarios de copias físicas acceder de forma gratuita a la actualización para jugar a esta versión en Switch 2.",
+          "source": "https://vandal.elespanol.com/rss",
+          "fecha": "2026-10-08T13:21:00+00:00"
+        },
+        {
           "title": "Upscale AI conecta chips rivales con una red respaldada por Nvidia",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGxjd0FEaml5cVp6TDNVV2c5SHBxS0hscFU0cEQ3elRmQmlNZlZhdlFDSzhXNmVJSFR6TjQ0TjlhU2tQcTNtb0Q3bFFFbF81a0s3N1JuVlEtOGNBTzdmQm9uREppT05IR2FsTTZGVFprbGxlTTNkdVZWN3dEdlVZQ3pnNEtIN3FORkZ1RWxXY293bk8zSllqWGFRWTd3SDF2Yks0YWNIZnRoOW9aaWlZbzNQMlY1RjZJ?oc=5",
           "desc": "Upscale AI conecta chips rivales con una red respaldada por Nvidia DiarioBitcoin",
@@ -540,11 +568,39 @@
           "fecha": "2026-10-08T13:19:05+00:00"
         },
         {
+          "title": "Muerte al clásico .com: Google, OpenAI y Meta quieren que las webs terminen en .agent, .agi...",
+          "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/nuevos-dominios-ia-grandes-tecnologicas-internet_7046605_0.html",
+          "desc": "Google, Meta, OpenAI y otras grandes tecnológicas compiten por hacerse con nuevas terminaciones de internet relacionadas con la inteligencia artificial. Detrás de las 1.615 solicitudes recibidas por ICANN hay una batalla millonaria por controlar las direcciones web del futuro.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-08T15:17:14+02:00"
+        },
+        {
           "title": "Amazon acaba de presentar tres tablets Android con Alexa+ integrada y una pantalla increíble a un precio genial",
           "link": "https://hipertextual.com/tecnologia/amazon-acaba-de-presentar-tres-tablets-android-con-alexa-integrada-y-una-pantalla-increible-a-un-precio-genial/",
           "desc": "Amazon lleva unos cuantos días de novedades. No solo con nuevos (y renovados) Kindle, también el nuevo Fire TV. Pero no son los únicos dispositivos que ha presentado la compañía. Por sorpresa, Amazon ha presentado las nuevas Alexa Tablets. Vuelve a una de las categorías de productos que parecían olvidadas y lo hace con una […] Seguir leyendo: Amazon acaba de presentar tres tablets Android con Alexa+ integrada y una pantalla increíble a un precio genial",
           "source": "https://hipertextual.com/feed",
           "fecha": "2026-10-08T13:17:06+00:00"
+        },
+        {
+          "title": "Amazon presenta sus nuevas Alexa Tablets: vienen con la versión 'superlista' del asistente y Google Play",
+          "link": "https://www.20minutos.es/tecnologia/moviles-dispositivos/amazon-cambia-rumbo-tablets-tres-modelos-nuevos-incorporan-alexa-google-play_7046518_0.html",
+          "desc": "Las tres novedosas Amazon Alexa Tablets ya están disponibles para reservar, aunque empezarán a enviarse a los compradores el 19 de octubre.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-08T15:05:00+02:00"
+        },
+        {
+          "title": "WhatsApp prepara un cambio importante: una pestaña con tus contactos para ver quién se conecta",
+          "link": "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-prepara-cambio-importante-nueva-pestana-contactos-ver-quien-conectado_7046412_0.html",
+          "desc": "La pestaña \"Contactos\" solo mostrará la información que un contacto ha permitido que otros vean.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-08T15:01:18+02:00"
+        },
+        {
+          "title": "Google lanza una IA que permite crear videojuegos solo con describirlos: así funciona Playground",
+          "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/google-lanza-ia-permite-crear-videojuegos-solo-describirlos-asi-funciona-playground_7046426_0.html",
+          "desc": "Playground es una plataforma de juegos que permite crear, jugar y compartir juegos personalizados.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-08T15:01:18+02:00"
         },
         {
           "title": "Naoki Hamaguchi, director de 'Final Fantasy VII Remake': 'Revelation sorprenderá a quienes conocen la historia original'",
@@ -643,62 +699,6 @@
           "desc": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de fabricantes rivales MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T12:02:08+00:00"
-        },
-        {
-          "title": "MSI Prestige N16 Flip AI+: Un gran avance de la arquitectura NVIDIA RTX Spark con 128 GB de RAM unificada.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGZELVpYWDRGQ1JYY0QyMEplWWxqY3QzNl9odjlMR1JRU2YtT1BPWGNDd29SOFFRNmpTcEVnTUxsREI5dk42MDJTUEI4ME8xY015N0V2QW5tY1Zvb3VReDlzckppT0EzRFJWdHZwLTJwYnpETDlDem1QQVQ2ZGVMVnFNcGZEWXpQa0xlSlduLUFEX2hIY1lpakhhYnV6YTlmS25PQm5mczVBY2xkZmEyRy13?oc=5",
-          "desc": "MSI Prestige N16 Flip AI+: Un gran avance de la arquitectura NVIDIA RTX Spark con 128 GB de RAM unificada. Vietnam.vn",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T12:00:42+00:00"
-        },
-        {
-          "title": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de proveedores de la competencia",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUVzcmJnNV9TZzVDM2F0al9lYW5VRXYxUlFjX1ZiblR1dllLeUVIYVkxVVl0MDdtaElBYW1DTXl4dVZzbnQ1cEJlOGJmS2VXMm5BMnc2emt3LXMtNnQ3X1liZVFQMVJYU0xDN0VEeDZ2VXowRlk4?oc=5",
-          "desc": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de proveedores de la competencia TradingView",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T12:00:41+00:00"
-        },
-        {
-          "title": "Nvidia lanza Halos for Robotics: el sistema de seguridad para robots",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFRldEQzNjFlc0d6Vzg1cnJZUFB4NWFkcFl3Rk5IUnZTbzFnZW8xNVlRQmZXeS13dW9VaUNrcEpqcTBJb0tlQVJyanpKQUxaMFM1dVR6RWVHUU9XUElISmFjbmhrTi1nWE9uV242a09KT21TRWpPZUhScUFrU3dBdm13Ml9fV3AzTE5ueHQteUlwTkNBYmlaZl9fZVVBWUE?oc=5",
-          "desc": "Nvidia lanza Halos for Robotics: el sistema de seguridad para robots El Ecosistema Startup",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T11:52:09+00:00"
-        },
-        {
-          "title": "Skydance ficha a Bobby Kotick, exdirector ejecutivo de Activision Blizzard, tras la fusión de Paramount y Warner",
-          "link": "https://vandal.elespanol.com/noticia/2026281019/skydance-ficha-a-bobby-kotick-exdirector-ejecutivo-de-activision-blizzard-tras-la-fusion-de-paramount-y-warner/",
-          "desc": "Skydance valora la experiencia de Bobby Kotick al frente de Activision Blizzard y lo ficha para la junta directiva de esta fusión entre Warner Bros. y Paramount. La fusión de Paramount y Warner Bros. ha creado un nuevo gigante en cine, televisión y juegos , Skydance . Uno de los fichajes en la junta directiva será Bobby Kotick , quien fue director ejecutivo de Activision Blizzard hasta su adquisición por parte de Microsoft . Aunque tras la marcha de Kotick surgieron voces que criticaron su papel en Activision , Skydance confía en su experiencia con la desarrolladora de Call of Duty para influir en el futuro de la compañía . También Tony Blair, exprimer ministro de Reino Unido, forma parte de la junta. En Skydance valoran positivamente su liderazgo al frente de Activision Blizzard \"Bobby lideró una compañía global de entretenimiento a lo largo de tres décadas de crecimiento sostenido y aporta una perspectiva valiosa sobre la creación de licencias duraderas y la conexión con los fans\", según David Ellison, director ejecutivo de Skydance. Ellison también destaca la trayectoria del directivo, sus \"audaces\" decisiones estratégicas y la \"asignación disciplinada del capital\", habilidades que interesan a Skydance. Aunque Kotick no se dedicará específicamente de las decisiones sobre videojuegos , parece lógico que su voz sea escuchada con más atención en cualquier estrategia para los estudios de la compañía, que ahora abarca a Rocksteady Studios , NetherRealm Studios , TT Games , Avalanche Software . Entre los juegos anunciados más importantes de Skydance encontramos Hogwarts Legacy 2 , el rumoreado Injustice 3 o Marvel 1943: Rise of Hydra .",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-10-08T11:48:00+00:00"
-        },
-        {
-          "title": "¿PlayStation tira la toalla con la realidad virtual? Sony vende más de 40 patentes a Meta",
-          "link": "https://vandal.elespanol.com/noticia/2026281018/playstation-tira-la-toalla-con-la-realidad-virtual-sony-vende-mas-de-40-patentes-a-meta/",
-          "desc": "Sony ha transferido 43 patentes relacionadas con la realidad virtual a Meta, en una operación que abarca más de 400 patentes y que plantea dudas sobre el futuro de PlayStation VR2 y sus posibles sucesores. El futuro de PlayStation VR2 y de la realidad virtual en las consolas de Sony vuelve a estar en entredicho. Se ha descubierto que la compañía japonesa ha vendido a Meta , propietaria de las gafas Quest, 43 patentes relacionadas con tecnologías de realidad virtual , aumentada y mixta, una operación que podría indicar que Sony está reduciendo sus ambiciones en este mercado. Según los registros de la Oficina de Patentes y Marcas de Estados Unidos (USPTO), las 43 patentes se transfirieron entre junio y septiembre de 2026 . Sin embargo, el acuerdo entre Sony y Meta es mucho más amplio, ya que contempla el traspaso de un total de 419 patentes en todo el mundo , de las cuales 180 corresponden a Estados Unidos y otras 239 a Japón, China, Corea, Europa y otros territorios. El acuerdo se remonta a diciembre de 2025. ¿Qué futuro le espera a PlayStation VR? Las patentes transferidas incluyen tecnologías relacionadas con visores de realidad virtual, sistemas de visualización y gafas de realidad aumentada , desarrolladas por Sony entre 2010 y 2022. Aunque la operación afecta a patentes de Sony Group y no supone una confirmación del abandono de PlayStation VR, plantea interrogantes sobre los planes de la compañía para futuros dispositivos. La situación de PlayStation VR2 tampoco invita al optimismo. Las gafas se lanzaron en febrero de 2023 como una importante evolución tecnológica respecto al primer modelo, pero el apoyo de los estudios de Sony ha sido bastante limitado . De hecho, la compañía únicamente ha publicado dos juegos originales para el dispositivo, como son Horizon Call of the Mountain y Firewall Ultra . A esto se suman las dificultades comerciales derivadas de su elevado precio inicial, la ausencia de retrocompatibilidad con los juegos de las primeras PlayStation VR y un catálogo que ha dependido en buena medida de estudios externos . En 2024, Sony redujo considerablemente el precio del dispositivo y lanzó un adaptador para utilizar PlayStation VR2 en PC, ampliando sus posibilidades más allá de PS5. Pese a todo, Sony no ha anunciado el abandono de PlayStation VR2 ni ha confirmado que renuncie a desarrollar nuevos visores. De hecho, en octubre de 2024, Eric Lempel, responsable de marketing global de Sony Interactive Entertainment, aseguró que la realidad virtual seguía siendo importante para la compañía, aunque reconocía que todavía era un negocio que no había alcanzado todo su potencial.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-10-08T11:44:00+00:00"
-        },
-        {
-          "title": "Microsoft afirma que su nueva laptop de USD $2.600 con chip Nvidia supera a los MacBook",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR1FIWVdHaV9xd20xMldRQXpiVkYxTk82N3ByOFVsNG5lOXdzNEo4UW52a1ZzcWstRWlPUTUtY0txM3JUMW1VZXpFY0ZDdUhrZnh5UjM3ZkFnUGdHRDRaZmhLODFGdmJlelNULXJzZHR5aUFPQklLWi0yc0pBYzhSeEhhV2Q5bGVUUF9IWE5NRGVkRWo2bHlRdlFmVlUyWEVIbEFxZkdVUVByRWhzRmVLSGFDcHJPa0E1R0thajN5eXJCdjRJZGMw?oc=5",
-          "desc": "Microsoft afirma que su nueva laptop de USD $2.600 con chip Nvidia supera a los MacBook DiarioBitcoin",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T11:39:01+00:00"
-        },
-        {
-          "title": "Huawei no da abasto: sus Ascend superan a Nvidia en China, pero apenas habrá exportaciones",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHJ4alFwaVplMXdoYWNRdmRid2Y2S2lsNUh5R1ZLZ2xyZHZmaE1FRDVTZmc2UUJFOS1LQnZ0Z3czZjhaVWVHOFh1T3JWaW9aWnNHRjB5YjNUODJYVUVEUHRqZVo1MFg1dGxidGdVNmpoUE5pZXJwNjFKUEhWY201XzR5c3pOcTJwUFF0Ulc1QjduQQ?oc=5",
-          "desc": "Huawei no da abasto: sus Ascend superan a Nvidia en China, pero apenas habrá exportaciones Hardware Premium",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T11:30:00+00:00"
-        },
-        {
-          "title": "Mar Lucas insinúa que una infidelidad sería el motivo de su ruptura con Marc Lench",
-          "link": "https://www.20minutos.es/gente/mar-lucas-insinua-que-una-infidelidad-seria-motivo-su-ruptura-con-marc-lench_7046519_0.html",
-          "desc": "La cantante ha publicado un vídeo en TikTok con un mensaje que ha llamado la atención de sus seguidores.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-10-08T13:19:49+02:00"
         }
       ]
     },
@@ -712,6 +712,13 @@
           "desc": "La emoción del Cross Itálica ya se acerca y se siguen dando pasos para poder vivir una jornada más que especial, con las inscripciones ya abiertas y distintas cuestiones relacionadas con las mismas Hay pruebas que se viven mucho antes de que se dé la salida. En el caso del Cross Internacional de Itálica, las semanas previas también forman parte de la cita: los corredores preparan su participación, los aficionados organizan su visita y la organización trabaja para que todo esté listo. Santiponce volverá a reunirlos los próximos 7 y 8 de noviembre, con el conjunto arqueológico como escenario de un fin de semana dedicado al atletismo. Buena parte de su atractivo está precisamente ahí. Quienes se acerquen podrán seguir las carreras en un lugar donde los restos de la antigua ciudad romana acompañan el recorrido. A ello se suma la posibilidad de ver competir a grandes atletas y de participar en una prueba que también reserva espacio para los corredores populares. De hecho, ya se conoce uno de los grandes nombres que protagonizarán el cartel de este año, y esa es Nadia Battocletti. La atleta italiana será uno de los grandes atractivos de una edición que se prevé especial. Ver esta publicación en Instagram \"> La Diputación de Sevilla continúa preparando esta nueva edición, de la que ya se van conociendo distintos detalles. Ahora, con noviembre cada vez más cerca, la atención vuelve a una cita que reúne deporte, historia y público en un mismo lugar. Todos los que lo deseen ya pueden inscribirse Tal y como se informó en ESTADIO Deportivo, las inscripciones ya han comenzado. Desde el 1 de octubre hasta el 30 de octubre a las 12:00, todos aquellos que lo deseen podrán inscribirse para poder participar en una de las pruebas más especiales del calendario deportivo sevillano, siempre que queden plazas disponibles. De hecho, ya se han completado las plazas del cross popular largo mixto nocturno y de la promoción conjunta de cross corto y largo. También pueden realizar ya la correspondiente inscripción aquellos que quieran participar como voluntarios en esta prueba, terminando también el día 30 de octubre. Este mismo día también se abrirá el plazo para la inscripción en las jornadas técnicas, un día que suele ser de gran utilidad para los amantes de esta disciplina. Este terminará el 4 de noviembre a las doce de la mañana. Los costes de inscripción Las inscripciones conllevan la cuota correspondiente únicamente para las pruebas populares y de relevos, mientras que el resto son gratuitas. El límite de 1.000 participantes para cada prueba se aplica solo a la categoría popular. La inscripción en un cross popular, ya sea corto o largo nocturno, tiene un coste de seis euros. Esta incluye una \"Bolsa de la Carrera\", un obsequio por la inscripción. La inscripción en la prueba cross popular relevo mixto estará abierta a equipos conformados por cuatro personas, dos mujeres y dos hombres, teniendo una cuota de inscripción de 20 euros (con derecho a una \"Bolsa de la Carrera\" por participante). Además, en todas las categorías de pitufos a sub 20, cuya inscripción es gratuita, todos los participantes que completen el recorrido recibirán un obsequio.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-08T13:24:56+00:00"
+        },
+        {
+          "title": "Yolanda Díaz mete prisa a sus expertos para subir el salario mínimo al menos lo mismo que la inflación",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/yolanda-diaz-mete-prisa-sus-expertos-para-subir-salario-minimo-menos-mismo-que-inflacion_7046609_0.html",
+          "desc": "Da de plazo hasta comienzos de noviembre a su comité asesor para que plantee una propuesta de subida. Asegura que tendrá en cuenta para definir a subida cómo afecta la subida de precios a los hogares más pobres.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-08T15:18:26+02:00"
         },
         {
           "title": "El 87% de los españoles dice estar preocupado por la vivienda y el 76% aboga por que el Estado intervenga el mercado, según un estudio del CIS de junio que el Ministerio pide publicar ahora",
@@ -866,13 +873,6 @@
           "desc": "El canario y campeón del mundo vuelve al fútbol tres años después de colgar las botas en la Real Sociedad por culpa de una lesión, pero lo hace para sólo un partido. Eso sí, será un encuentro de liga y por lo tanto reconoce que deberá emplearse a fondo El mismo día en que se ha anunciado la retirada del delantero Pedro Rodríguez, uno de los pocos jugadores de la selección española de fútbol que ganó el Mundial de 2010 que aún seguía en activo, otra de las estrellas de aquel equipo ha oficializado su regreso a los estadios: David Silva. El histórico capitán del Manchester City, que se jubiló de la competición en 2023 en la Real Sociedad tras una lesión de rodilla, ha anunciado a sus 40 años que ficha por el Supreme Sha Tin, equipo de la Premier League de Hong Kong. \"Estoy muy contento de unirme al Supreme Sha Tin en esta experiencia , con muchas ganas de ir a Hong Kong, de disfrutar de la cultura de la gente y de la gastronomía en Sha Tin\", asegura el jugador grancanario, en un vídeo publicado en su Instagram. El club hongkonés confirma en la misma red social el fichaje de David Silva, que precisa que se ha producido después de que el jugador haya superado unas pruebas médicas. \"¡Locura absoluta!\", remarca el Supreme Sha Tin, dirigiéndose a sus aficionados, a los que promete que pronto anunciará más detalles sobre la incorporación del jugador español. David Silva regresa del retiro y anuncia su fichaje por un club de Hong Kong: \"Con muchas ganas\" Sin embargo, la noticia trae algo de trampa, porque ha fichado sólo para un partido. Y cuando lo ha aclarado han sido muchos los que se han llevado las manos a la cabeza en redes sociales se ha comenzado a generar una corriente de 'haters' señalando que el canario debe estar muy mal económicamente para aceptar propuestas como estas. Pues bien, en El Partidazo de Cadena Cope , ha hablado de todo ello sin tapujos. Se lo toma con humor y está muy motivado ante este nuevo reto. Cuando el periodista Juanma Castaño le habla de que le ha sorprendido su regreso tres años después, Silva se ríe también : \"Yo también he quedado sorprendido, han puesto que he firmado para toda la temporada y sólo es para un partido. Y me han dado la tarde con tantos mensajes\". Sobre el reto en sí, reconoce que es un acuerdo profesional y, por lo tanto, deberá rendir bien. Además, el escenario le motiva muchísimo: \"Es un poco más serio porque es en la liga, no es un partido de leyenda como los que hacemos ya los viejitos. Cuando me lo propusieron me gustó la idea porque es una liga en Hong Kong, que es un lugar que me gusta bastante, he ido un par de veces este año porque tengo un amigo allí y me gusta mucho. Y competir por un partido y hacerlo bien me ilusiona\". Ver esta publicación en Instagram \"> Por último, ha respondido alto y claro para todos aquellos que han comenzado la campaña de desprestigio en redes sociales: \"Algunos se ha preocupado por el tema económico. No se preocupen tanto. Me lo ha mandado mi hermano y algunos amigos míos. Te ríes porque ves a la gente con el gatillo preparado ahí... Pero bueno que no se preocupen que gracias a mi padre y a mi asesor durante veinte años hemos invertido bien\".",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-08T06:09:10+00:00"
-        },
-        {
-          "title": "Lepas completa su gama electrificada con los nuevos L6 y L4",
-          "link": "https://www.eldiario.es/motor/novedades/lepas-completa-gama-electrificada-nuevos-l6-l4_1_13561314.html",
-          "desc": "Tras estrenarse en España con el L8, Lepas sumará a principios de año los L6 y L4 para articular una familia de tres SUV, eléctricos o híbridos enchufables, entre 4,42 y 4,68 metros Lepas ampliará durante los primeros meses de 2027 la gama con la que acaba de iniciar su actividad en España. Tras el lanzamiento del L8, un SUV híbrido enchufable de 4,68 metros de longitud, la nueva marca del grupo Chery incorporará dos modelos de menor tamaño, los L6 y L4, que estarán disponibles tanto en versión 100% eléctrica como híbrida enchufable. Con ellos, la firma cubrirá prácticamente todo el segmento C, desde su zona más próxima a los SUV grandes hasta los formatos compactos de orientación más urbana. El primero en incorporarse será el Lepas L6, previsto para comienzos de año, mientras que el L4 llegará al mercado español al final del primer trimestre. Ambos compartirán con el L8 la voluntad de situarse en ese espacio que la propia compañía denomina mainstream plus , es decir, el mercado generalista con una atención especial al diseño, los materiales y el equipamiento, pero sin reivindicar para sí la etiqueta premium . El L6 se situará en el escalón intermedio de la familia. Con 4,57 metros de largo, queda apenas 11 centímetros por debajo del L8, aunque su distancia entre ejes se reduce de 2,80 a 2,70 metros. Por dimensiones continúa siendo un SUV del segmento C de tamaño generoso, pensado para combinar un uso cotidiano con viajes en los que el espacio y la autonomía adquieran mayor importancia. El L6, durante su presentación estática en Madrid. En su versión eléctrica, el L6 utiliza un motor de 217 CV y una batería LFP de 65 kWh que anuncia 450 kilómetros de autonomía en ciclo WLTP, mientras que el paso de 0 a 100 km/h requiere 7,9 segundos. Para la recarga admite hasta 120 kW en corriente continua, potencia con la que la batería puede pasar del 30 al 80% aproximadamente en 22 minutos. A esta capacidad se añade una función V2L de 3,3 kW, que permite utilizar la energía almacenada en la batería para alimentar dispositivos eléctricos externos. Es una solución cada vez más frecuente entre los eléctricos de origen asiático y que puede resultar útil tanto en actividades de ocio como en determinados usos profesionales. Lepas ha puesto además el acento en la adaptación del L6 a los gustos europeos. El equipo de desarrollo de chasis de la marca en el continente ha realizado una puesta a punto específica de suspensión, dirección y frenada. El modelo incorpora dirección asistida eléctrica y un sistema Bosch IBP 2.0 que integra funciones de frenado y recuperación de energía y busca ofrecer un tacto más natural del pedal. Estéticamente, el L6 continúa el lenguaje que Lepas denomina Leopard Aesthetics , también presente en el L8. Las superficies son limpias, los grupos ópticos estrechos y el perfil intenta trasladar a la carrocería algunas referencias al movimiento del leopardo que inspira el nombre de la marca de Wuhu, todo dentro del tono de sobriedad que se ha elegido para distinguirse de tantas otras firmas chinas que han aterrizado recientemente en España. El interior repite igualmente algunos de estos rasgos. La pantalla central de 13,2 pulgadas adopta una disposición vertical y se combina con un cuadro digital de 8,88“. El sistema multimedia utiliza un procesador Qualcomm Snapdragon 8155 y dispone de asistente por voz para controlar diferentes funciones sin recurrir a la pantalla. La habitabilidad vuelve a ser uno de los argumentos del modelo gracias al suelo plano de las plazas posteriores y a su amplia batalla. El maletero ofrece 410 litros de capacidad, que pueden ampliarse hasta 1.334 litros abatiendo la segunda fila, y cuenta con otros 99 litros de almacenamiento bajo el piso. Entre el equipamiento disponible figuran elementos como el techo panorámico, la climatización de dos zonas, el volante calefactado o un cargador inalámbrico refrigerado de 50 W para teléfonos móviles. Tres cuartos trasero del más pequeño de los SUV de Lepas. El más callejero Por debajo de este modelo se situará el Lepas L4, que mide 4,42 metros de longitud pero tiene la peculiaridad de ofrecer la misma distancia entre ejes que su hermano inmediatamente mayor, 2,70 metros. Por tamaño, será el vehículo más claramente orientado al uso urbano de los tres, aunque seguirá jugando dentro del segmento C. Su versión eléctrica comparte buena parte del planteamiento técnico del L6. Utiliza igualmente una batería LFP de 65 kWh y anuncia hasta 450 kilómetros de autonomía WLTP, aunque el motor eleva ligeramente la potencia hasta los 218 CV. El par máximo se mantiene en 275 Nm y la aceleración de 0 a 100 km/h vuelve a cifrarse en 7,9 segundos. La velocidad máxima es de 170 km/h. Tampoco hay diferencias en la recarga rápida, que alcanza un máximo de 120 kW y permite recuperar del 30 al 80% de la batería en unos 22 minutos. Puesto de conducción y plazas delanteras del Lepas L4. El diseño interior presenta una configuración muy similar a la del L6, con instrumentación digital de 8,8 pulgadas y pantalla vertical de 13,2 gobernada por el mismo procesador Snapdragon 8155. Dispone igualmente de asistente por voz y cargador inalámbrico refrigerado de 50 W. Donde el L4 intenta sacar partido a sus dimensiones es en la versatilidad. El maletero ofrece 458 litros, una cifra superior incluso a la del L6, y aumenta hasta 1.284 litros cuando se abaten los asientos posteriores. A ello se añaden 34 espacios portaobjetos repartidos por el habitáculo y un compartimento adicional bajo el capó delantero, una ventaja derivada de su arquitectura eléctrica. Exteriormente mantiene la misma identidad familiar, con frontal cerrado, faros estilizados y una carrocería de líneas fluidas. También contará con configuraciones bitono y llantas específicas, elementos con los que Lepas pretende dotar al modelo más pequeño de una personalidad algo más marcada sin alejarse de la discreción que tiene por bandera. Aunque los primeros datos difundidos se concentran en las variantes eléctricas, tanto el L6 como el L4 dispondrán también de versiones híbridas enchufables. La oferta de Lepas debe entenderse, por tanto, como una gama electrificada y no exclusivamente eléctrica. Estas variantes PHEV serán compartidas con la del L8, que por ahora se comercializa únicamente con este sistema de propulsión en una configuración que desarrolla 279 CV.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-10-08T05:55:22+00:00"
         }
       ]
     },
@@ -880,6 +880,20 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
+          "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike",
+          "desc": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-10-08T13:46:56+00:00"
+        },
+        {
+          "title": "Securitize lanza acciones de Apple, Nvidia y Tesla en Solana, planea llevarlas a NYSE",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVVKSTVWVWt6ZU9hR2Vzd3hLdkJqdk00YTFrcUZKNFhsS0F0UEtEOFZjdVdjLWhkTWRfOWp5b0hjc0J3ZmgxOURWaHEzLXZJaVJfV0hDaG1SLWNiNXdJR05qUWFXeUdFdzdyYjV2alBpNFdyMjRvMm1SZTdhMzZzak9Idk9OYnhYX0pDWGkwckFEQ0JWOEtkOFF0ZlNGUk9DN1F5elV3aEJSYURCYTVSOGpZTnZ4a1JaOEwwb1hRM1hsbnFrRm1qZHJ2Y0lkM0JUZFk5SnRTd2FadFlTZG1v?oc=5",
+          "desc": "Securitize lanza acciones de Apple, Nvidia y Tesla en Solana, planea llevarlas a NYSE DiarioBitcoin",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T13:34:43+00:00"
+        },
         {
           "title": "Upscale AI conecta chips rivales con una red respaldada por Nvidia",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGxjd0FEaml5cVp6TDNVV2c5SHBxS0hscFU0cEQ3elRmQmlNZlZhdlFDSzhXNmVJSFR6TjQ0TjlhU2tQcTNtb0Q3bFFFbF81a0s3N1JuVlEtOGNBTzdmQm9uREppT05IR2FsTTZGVFprbGxlTTNkdVZWN3dEdlVZQ3pnNEtIN3FORkZ1RWxXY293bk8zSllqWGFRWTd3SDF2Yks0YWNIZnRoOW9aaWlZbzNQMlY1RjZJ?oc=5",
@@ -1033,20 +1047,6 @@
           "desc": "Microsoft presentó nuevos equipos Surface con Nvidia y un Windows 11 preparado para agentes Connecta B2B",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T10:00:38+00:00"
-        },
-        {
-          "title": "ASUS presenta sus computadoras para IA local, ProArt RTX Spark",
-          "link": "https://www.muycomputer.com/2026/10/08/asus-presenta-sus-computadoras-para-ia-local-proart-rtx-spark/",
-          "desc": "ASUS ha presentado dos ordenadores portátiles y un Mini PC con NVIDIA RTX Spark, diseñados para profesionales de sectores creativos, así como para desarrolladores que trabajan con IA y creadores de flujos de trabajo. Son los portátiles ProArt P16 y P14 y el mini PC ProArt GR1X mini. Los tres cuentan con memoria unificada de […] La entrada ASUS presenta sus computadoras para IA local, ProArt RTX Spark se publicó primero en MuyComputer .",
-          "source": "https://www.muycomputer.com/feed",
-          "fecha": "2026-10-08T09:56:56+00:00"
-        },
-        {
-          "title": "NVIDIA presenta DGX Station, el primer superordenador de IA de sobremesa con Windows: \"NVIDIA se fundó gracias a Windows, sin ellos no existiría GeForce\"",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOeU9WODFfemhDLTdFekZfOUVaaFdqX28xQXZURmk2bHJSemZlb3cyTGpmemQtQm9pSWUxUF9wSEF3cS02Ry1pYXp2bkNxWkhnR09EY3lDbC1ORENsMXg5S3luRzBLdmtSOVBTdU00U19UT3JyTGxrTGhpUFFxUGdRTUpQMHdVN2hXSXl2R2dRSDA4RXdlc3dkdHN5ai1xY0ZxQks0amlwZ2tiVUt4RE8yUFIwUEdva3hqZkpTM0g5UGRSd2I0YTNUbXUteXNfczZNcEJKdmExem5XV3ZKYjhSTEYtczdkN0lUWkM0SzFOcE5aZ1k3a2wyNFdGdXFadXBjdnZGbUZxaE5CbWlTdmdWd1BTeWFYZm9UakVqNFRxZW5Zd2dU?oc=5",
-          "desc": "NVIDIA presenta DGX Station, el primer superordenador de IA de sobremesa con Windows: \"NVIDIA se fundó gracias a Windows, sin ellos no existiría GeForce\" Computer Hoy",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T09:46:31+00:00"
         }
       ]
     },
