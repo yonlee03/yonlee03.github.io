@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-08T12:00:09.692521+00:00",
+  "generado": "2026-10-08T12:30:06.841769+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -10,6 +10,27 @@
       "nombre": "Sevilla FC",
       "icono": "🔴⚪",
       "items": [
+        {
+          "title": "David Silva no elige ni a Lamine Yamal ni a Mbappé para el Balón de Oro: \"No se le valora lo suficiente\"",
+          "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/david-silva-elige-lamine-yamal-mbappe-para-balon-oro-valora-suficiente-20261008-548158.html",
+          "desc": "El jugador español, del que recientemente se conoció que volverá al fútbol para disputar un encuentro en Hong Kong el próximo 7 de noviembre, eligió a Fabián Ruiz, el jugador del PSG y de la selección española. \"Lo admiro mucho, y ha hecho un trabajo asombroso con discreción\", declaró sobre el jugador nacido en Los Palacios y con pasado en la cantera del Real Betis El Balón de Oro 2026 ya está a menos de 20 días de conocer a su nuevo dueño. En una carrera en la que sobre el papel Lamine Yamal y Mbappé parecen partir como favoritos y con la votación ya cerrado, no faltan en estos días los diferentes protagonistas que elijan a su ganador para el galardón que se entregará el próximo 26 de octubre. El último en mojarse ha sido David Silva , leyenda del Valencia, el Manchester City y campeón del mundo con España quien mostró su predilección sobre el que debe ser el ganador. David Silva saltó este pasado miércoles a la parrilla de información deportiva al conocerse que tras retirarse, volvía al fútbol a sus 40 años pero solo para jugar un partido puntual en Hong Kong . David Silva pasa de Lamine Yamal y Mbappé para quedarse con Fabián Ruiz para el Balón de Oro David Silva sabe lo que es el ser un jugador que no luce por sus goles y que hace un trabajo más en la sombra como puede ser el de Fabián Ruiz. El jugador nacido en Los Palacios ha sumado dos Champions League consecutiva con el PSG y eso, según el canario David Silva , es uno de los méritos que Fabián tiene para hacerse con el Balón de Oro el próximo 26 de octubre: \"Pero bueno, si tuviera que dárselo a alguien, sería a Fabián , porque ha ganado el mayor número de títulos en los dos últimos años\". Silva, 40 años, aclara su regreso al fútbol tras la polémica generada con su economía: \"Gracias a mi padre y a mi asesor, hemos invertido bien\" Monchi y la coartada de Navas para opinar libremente del Balón de Oro: \"Jesús dijo que Fabián y no he leído a ningún sevillista quejándose\" David Silva destacó la importancia de Fabián Ruiz dentro del sistema del PSG de Luis Enrique y también para la selección española de Luis de la Fuente : \"Ha sido un jugador importante para el Paris Saint-Germain y luego para la selección\". Cerró David Silva la candidatura a favor de Fabián Ruiz hablando de la falta de valoración que ha tenido el jugador criado en la cantera del Real Betis sin saber muy bien porqué de esta situación: \"No se le valora lo suficiente, no sé por qué, porque es un jugador espectacular. Lo admiro mucho, y ha hecho un trabajo asombroso con discreción\". Además, sobre otro de los españoles nominados como es el caso de Rodri , David Silva aclaró que no lo mencionó porque ya lo ganó: \" Rodri ya lo ganó; de no ser así, también lo habría mencionado\". Silva aclaró que bajo su criterio, lo más importante es el trabajo colectivo, ya que sin él, no se puede optar al Balón de Oro : \"Para mí, el trabajo colectivo es lo más importante, porque sin él no se puede ganar\". El revolucionario fichaje de David Silva en Hong Kong David Silva también quiso aclarar que su llegada a Hong Kong es solo para un encuentro que se disputará el próximo 7 de noviembre y que no se debe a ningún tipo de problema económico como se llegó a especular este pasado miércoles: \"Lo han puesto en la noticia como que he fichado para toda la temporada, y no, al final voy a jugar un partido\". \"David Silva estará pronto en Hong Kong para instalarse, unirse a los entrenamientos del equipo\" \"> En el video compartido por el Supreme Sha Tin, equipo por el que ficha David Silva , informaron que el canario estará pronto en Hong Kong para entrenarse junto al resto del grupo: \"David Silva estará pronto en Hong Kong para instalarse, unirse a los entrenamientos del equipo y alcanzar su mejor forma física antes de su debut en el terreno de juego\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-08T12:23:26+00:00"
+        },
+        {
+          "title": "Agoumé explica la oferta que rechazó en verano: \"Era mucho dinero, pero mi idea siempre fue seguir en el Sevilla\"",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3NINkpHRFd5MnhXQ3R4MURzdXh6RHM5dV9sS0dmOUJuc01CcjJnVWZ3WlZMLWNYUGNkWHJnMHAxSUJEWTFnWXduM09ma0dsSWs3ZEd5S2wzeXRJdDhRdFRNWWktTXhUaHVnYlE0MG4zSmlERHM1eDlVNlBaZGx4Vm5GOE9uczFSZ3RiQl9RWkNTX3ZhREd1Q1JPYw?oc=5",
+          "desc": "Agoumé explica la oferta que rechazó en verano: \"Era mucho dinero, pero mi idea siempre fue seguir en el Sevilla\" Diario de Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:14:16+00:00"
+        },
+        {
+          "title": "Polémica con el posible rival del Sevilla FC en Copa del Rey: \"No estamos en igualdad de condiciones\"",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVVkZFRVRVBLRDNIX09LNFhPTlo1X013azdWUHBZcDZvbS1Udm5aZ0ppSlRCMHBiODhQT29yTU1jNm1JUTJhWExjRnpPUkExNlgzMzUzRUlDRzBHUHZDSkpOS3B0ZnE1eDA3ajRoem93clNuZHk4N2UxT2UzcHdKY0NfZ2FiNEFIWnhEMFhYS2l2dEQ2cFp5bTZndVctR04tcWZtUFZkTmJ2LXpvTUgwNVQ3SXRMb3FrWFZzTFZ5dmE5dDZzN1F3TjlR?oc=5",
+          "desc": "Polémica con el posible rival del Sevilla FC en Copa del Rey: \"No estamos en igualdad de condiciones\" Diario de Sevilla",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:10:47+00:00"
+        },
         {
           "title": "EL FEMENINO RECIBIRÁ AL REAL MADRID EL 1 DE NOVIEMBRE DESDE LAS 19.00 HORAS",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjR5Wks4djYwbjVCLWhVSDJSYWk2MncyM2VEVWhGZE9lTThrbnkzaF9tWWpuYWRieGs3UlNhMlgzWkFUYWdpbW1DckJIVzhzRFJvN2R0NFh1eVRkY2ZhMXpubkVvdEViazA0M01CUjBCRlM4Y3oxQ3JvY2lVc1JxeEE5cHlHUlFEZnN1Vw?oc=5",
@@ -131,10 +152,10 @@
         },
         {
           "title": "En Nervión se ponen las pilas para combatir una lacra que afecta en lo anímico y lo económico",
-          "link": "https://www.estadiodeportivo.com/futbol/sevilla-fc/nervion-ponen-las-pilas-para-combatir-una-lacra-que-afecta-animico-economico-20261007-548114.html",
-          "desc": "El club blanquirrojo implementará de forma inmediata una tecnología basada en la Inteligencia Artificial Explicable que ha desarrollado la UCAM para anticipar factores de riesgo y ayudar a los cuerpos médico y técnico a tomar decisiones en la compleja y ardua tarea de la prevención de lesiones El Sevilla FC y la 'spin-off' de la Universidad Católica de Murcia denominada InjuryPRO - XAI Solutions ' han alcanzado un acuerdo de colaboración para que la entidad blanquirroja implemente esta herramienta basada en la Inteligencia Artifical Explicable en pos de uno de las grandes retos del fútbol profesional: la prevención de lesiones. Una alianza de la que se beneficiarán ambas partes: de un lado, el club apuesta por la innovación para combatir una lacra que cuesta sufrimiento y dinero ( que se lo digan a Marcao Teixeira o al ya desvinculado Tanguy Nianzou ), mientras que la UCAM e IPS se aseguran un entorno profesional de primer nivel para avanzar en la validación y adaptación de la aplicación. Así funciona IPS, la app que podría revolucionar el mundo del fútbol InjuryPRO utiliza la XAI para identificar patrones asociados al riesgo de lesión, con una alta capacidad predictiva , y aportar al staff información útil para anticiparse en la toma de decisiones . El reto es también económico: las lesiones pueden generar un impacto de hasta 180 millones de euros por temporada en LaLiga . El pacto conecta dos ámbitos cada vez más próximos: la investigación científica y la capacidad de las entidades deportivas de generar grandes volúmenes de datos sobre sus jugadores. De esta forma, la citada herramienta se aplica en el entorno de rendimiento del club y convertirá su información en conocimiento aún más útil. La compañía nace de la investigación desarrollada en el Centro de Investigación en Alto Rendimiento Deportivo de la UCAM (CIARD-UCAM) , dirigido por el catedrático en Ciencias del Deporte Pedro Emilio Alcaraz , y de la colaboración tecnológica con AyGLOO , especializada en inteligencia artificial. Su plataforma integra información procedente de sensores GPS , cargas de entrenamiento, historial de lesiones, percepción subjetiva del esfuerzo , indicadores de bienestar , fuerza y otros biomarcadores para identificar patrones relacionados con un aumento del riesgo de lesión. Los resultados piloto sitúan su capacidad predictiva por encima del 90% . \"Su mejora principal está, sin embargo, en que no se limita a generar una alerta , sino que InjuryPRO emplea Inteligencia Artificial Explicable ( XAI ) para mostrar qué factores están influyendo en cada predicción y analizar cómo determinados cambios podrían modificar el riesgo estimado. El objetivo no es sustituir el criterio de médicos, jefes de rendimiento, preparadores físicos o entrenadores, sino proporcionarles una nueva capa de información para decidir: el modelo informa, el staff decide\", sentencia en su comunicado la propia impulsora del acuerdo, la Universidad Católica de Murcia . El impacto millonario como clave La dimensión económica de las lesiones está ampliamente documentada en el fútbol profesional. En España , un estudio realizado sobre los 20 conjuntos de Primera división durante la temporada 18/19 contabilizó 270 lesiones musculares de miembro inferior y 964 partidos perdidos , estimando un coste salarial medio de 365.811 euros mensuales por club. El mismo trabajo puso de manifiesto la dimensión competitiva del problema, al relacionar una mayor disponibilidad de jugadores y una menor carga de lesiones con mejores resultados deportivos. Otras estimaciones reflejan que el coste de todas las lesiones puede alcanzar los 265 millones de euros por temporada en la Premier League y los 180 millones en LaLiga , con un impacto aproximado de 9 millones de euros por club en la competición española. Parte médico de Marcao: qué tipo de lesión sufre y periodo aproximado de baja El eterno calvario de Nianzou y el quirófano para Joan Jordán Una sinergia bienvenida en Nervión En este sentido, José María Cruz Gallardo , responsable de Innovación Deportiva del Sevilla FC , destaca la importancia de establecer alianzas para mantener un proceso constante de mejora: \"Siempre hemos tenido claro, desde el área de Innovación y desde la estructura de dirección del club, que tenemos que apoyarnos en otras empresas y en universidades , que son los centros de conocimiento, para seguir en un proceso de actualización permanente de todos los avances que nos puedan ayudar a ir creciendo. En este caso confluye todo; y la universidad tiene nombre y apellidos, que es la UCAM , con la que desarrollamos muchísimos proyectos muy exitosos y que tiene un prestigio internacional, específicamente, en todas las ramas del deporte\".",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-07T18:08:20+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVVJnT2NIamZLSzk5bkN5YnZkOGJjcXZPZUVpM0FIQ2JibTJ1TU9VclVnY1k5czdlc2wyUEpVSXBLWHc4ZnpZaHRtWmcxMmhMOS1oRTlQNjdGcW5GUjl1eTNfNEdNb1d5bXg2OXh2ems0WUdkTHNyanR5X0p3UTR4dWYzWlQybFFqbWI2MllEdF9YNnVCM19jXzNTUFFMamtJbWZSVUQ3Y0pqekI2c1hqQzJvQUIzaU0wbW13VXpYWWxzRGk3M283UTBGZGRWRlhwWUF3ZE5haGVhS2pJUjRqdHJ3?oc=5",
+          "desc": "En Nervión se ponen las pilas para combatir una lacra que afecta en lo anímico y lo económico Estadio Deportivo",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-07T18:08:19+00:00"
         },
         {
           "title": "El Sevilla FC e InjuryPRO se alían para prevenir lesiones mediante inteligencia artificial",
@@ -156,27 +177,6 @@
           "desc": "El Sevilla FC apuesta por la tecnología de InjuryPro, spin-off de la UCAM, en la prevención de lesiones Murcia Actualidad",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-07T16:52:14+00:00"
-        },
-        {
-          "title": "Dieron ejemplo y sufrieron las consecuencias, pero se viene una doble amenaza en casa",
-          "link": "https://www.estadiodeportivo.com/futbol/betis/dieron-ejemplo-sufrieron-las-consecuencias-pero-viene-una-doble-amenaza-casa-20261007-548107.html",
-          "desc": "Antiviolencia, que propone una multa de 5.000 euros y la prohibición de acceso a recintos deportivos durante un año a un aficionado del Deportivo que increpó a los verdiblancos en Riazor, ha declarado de Alto Riesgo los dos próximos duelos de Champions League en La Cartuja Justo antes del parón y nada más volver del mismo, el Real Betis se ha convertido en protagonista indirecto de los dictámenes de la comisión permanente de la Comisión Estatal contra la Violencia, el Racismo, la Xenofobia y la Intolerancia en el Deporte . Indirecto por que sus aficionados lo sufrieron en carne propia en Riazor y vivirán la amenaza en los dos siguientes compromisos en el Estadio de La Cartuja en la Champions League ante el Oporto y el Feyenoord , a la sazón los primeros como local de la máxima competición continental, cuando se espera un doble desembarco masivo (más de 7.000 hinchas entre portugueses y neerlandeses). 𝕊𝕚𝕖𝕞𝕡𝕣𝕖 𝕗𝕚𝕖𝕝𝕖𝕤. pic.twitter.com/yIqOqrr8hs &mdash; Real Betis Balompié 🌴💚 (@RealBetis) October 3, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Un rival, señalado por molestar a los 600 béticos El citado organismo, dependiente del Ministerio de Educación, Formación Profesional y Deportes del Gobierno de España , ha propuesto en su última reunión una multa de 5.000 euros y la prohibición del acceso a los recintos deportivos por un periodo de 12 meses a un aficionado del RC Deportivo de La Coruña que \"se acercó al vallado de separación de hinchadas y, de modo violento , increpó a los aficionados del Real Betis , opuso resistencia activa y desobedeció a los policías presentes\", molestando por tanto a los alrededor de 600 verdiblancos desplazados a tierras gallegas para el partido de LaLiga del pasado domingo 20 de septiembre . Dispositivo especial de seguridad ante los 'Dragoes' Igualmente, aunque desde hace años Antiviolencia y la Subdelegación de Gobierno lo hacen siempre que hay un encuentro de clubes internacional en cualquiera de los tres estadios de la capital hispalense por los graves incidentes del pasado, se ha declarado, como el RC Deportivo-Real Betis lo fue también, de Alto Riesgo el estreno casero de los verdiblancos en la UCL , fijado para las nueve de la noche del próximo miércoles 14 de octubre contra el Oporto . Sus seguidores agotaron rápidamente las más de 3.000 entradas enviadas por la entidad hispalense y prometen llenar de blanquiazul las calles de Sevilla a comienzos de la semana que viene. Crece la 'marea verde' a Dortmund: polémica aparte, de cabeza al podio histórico El Betis recibe casi 4.000 entradas del Borussia Dortmund, la mayoría a precio de 'ganga' para una marea verdiblanca Episodios recientes que hacen recelar de los ultras de Rotterdam Al precio de 32 euros , los hinchas del Feyenoord se han hecho rápidamente con las 3.385 localidades disponibles para el duelo de la tercera jornada de la fase liga de la Champions , que se jugará a las 21:00 horas del próximo miércoles 21 de octubre en el Estadio de La Cartuja . En este caso, Antiviolencia también lo ha declarado de Alto Riesgo , especialmente tras los altercados y destrozos que provocó el pasado 29 de enero de 2026 el duelo entre estos dos mismos equipos, también en el recinto colindante con Santiponce , en ese caso correspondiente a la Europa League . Habrá un fuerte dispositivo de seguridad y se extremarán las precauciones para evitar incidentes entre aficiones.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-07T16:29:52+00:00"
-        },
-        {
-          "title": "EL DEBUT COPERO, A LA ESPERA DE CONOCER EL RIVAL, SERÁ EL JUEVES 29 A LAS 21.00 HORAS",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZndmaVVzdUMyRDl3YkNSZFNuLWs1TzM4X20tenVHY25nSGVkTFVzald0TFRweU4zSEdMMmdMVVhLX2c1LU52UGRSYXVsOHhTYnFvdzN5LVRBdXdKNGtpMkluSkhwWG1ReUxuOWFmNG9wWUxIRUZnamlLOFl0SkwzVHVNT1c3c2tidjdibg?oc=5",
-          "desc": "EL DEBUT COPERO, A LA ESPERA DE CONOCER EL RIVAL, SERÁ EL JUEVES 29 A LAS 21.00 HORAS Sevilla FC",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-07T16:16:50+00:00"
-        },
-        {
-          "title": "Josan, jugador del Elche, responde junto a su esposa tras ser detenido por presuntos malos tratos: \"Nos encontramos en un proceso de divorcio\"",
-          "link": "https://www.estadiodeportivo.com/futbol/elche/josan-jugador-del-elche-responde-junto-esposa-tras-ser-detenido-por-presuntos-malos-tratos-nos-encontramos-proceso-divorcio-20261007-548103.html",
-          "desc": "Tras ser detenido y pasar por dependencias policiales, el extremo fue puesto en libertad y ha dejado claro que \"no existe ningún procedimiento judicial abierto\", después de que su pareja retirase la denuncia El Elche ha vuelto a verse sacudido por un caso extradeportivo que afecta en esta ocasión a uno de sus grandes referentes en los últimos años, el capitán Josan Ferrández , que ha sido detenido por una denuncia de su pareja por presuntos malos tratos y puesto en libertad tras pasar la noche en el calabozo, según desveló el Diario Información . Nada tiene que ver su situación con la de Rafa Mir, que estando cedido en el conjunto franjiverde por el Sevilla FC quien fue condenado a ocho años y medio de prisión por un delito de agresión sexual y otro de lesiones , sentencia que el delantero murciano tiene recurrida. Aunque nunca es agradable que se produzcan este tipo de noticias, que tanto el futbolista como el club ilicitano han tratado de atajar. El Elche niega que haya habido denuncia: \"Está con normalidad\" Para ello, la entidad del Martínez Valero se ha dirigido a la prensa a través de un mensaje, no de un comunicado oficial, desmintiendo los hechos descritos por el citado medio. \"En relación con Josan, informaros de que no existe ningún procedimiento judicial abierto contra él por malos tratos ni consta ninguna denuncia en trámite por estos hechos. El futbolista se encuentra en casa y con normalidad”, apuntó. Josan, detenido por una denuncia de su pareja por presuntos malos tratos La denuncia de la pareja de Josan, con mensajes y fotografías La versión contraria, sin embargo, es que el extremo de 36 años, que pasó por la cantera del Elche y regresó para jugar en su primer equipo desde 2018, sí ha estado en las dependencias policiales de Orihuela. Es más, se ha informado de que en la denuncia presentad por su pareja, con la que tiene dos hijos en común, \"se han presentado diversas pruebas que han derivado en la detención, como mensajes vejatorios de WhatsApp o fotografías con imágenes de moratones supuestamente causados por los malos tratos denunciados”, como ha explicado el referido medio. Sin embargo, poco después de saltar la noticia se ha conocido que l a causa ha sido archivada al ser retirada la denuncia por la pareja de Josan, que incluso ha firmado un comunicado junto a su marido, difundido a través de Instagram, en el que ambos piden privacidad y coinciden en que no existe ningún “procedimiento judicial abierto”. El comunicado conjunto de Josan y Rosa Duarte \"Ante las informaciones que han trascendido en las últimas horas sobre nuestra situación personal, queremos manifestar conjuntamente que nos encontramos inmersos en un proceso de divorcio . ​Como ocurre en cualquier proceso de estas características, estamos atravesando momentos que no siempre son sencillos. No obstante, queremos dejar claro que mantenemos el respeto mutuo y nuestra voluntad de afrontar esta situación de la manera más respetuosa posible. ​En relación con las informaciones y especulaciones que se han generado, queremos señalar que, en este momento, no existe ningún procedimiento judicial abierto que afecte a Josan Fernández. ​Por respeto a nuestra situación personal y, especialmente a nuestro entorno más cercano, pedimos que cualquier cuestión relacionada con este proceso permanezca dentro de nuestra esfera privada. ​Nuestra voluntad es zanjar cualquier tipo de polémica y poder afrontar esta nueva etapa con respeto y normalidad . Agradecemos la comprensión y el respeto hacia nuestra privacidad\", señala la nota. pic.twitter.com/L0PiN2jWUI &mdash; Josan Ferrandez (@JosanFerrandez7) October 7, 2026 \\n \\n\\n\",\"proveedor\":4}\"> Sea como fuere, la información ha sacudido a la ciudad de Elche porque Josan no solo es un jugador emblemático de su equipo, siendo uno de los pocos supervivientes de Segunda B y de los futbolistas que más partidos oficiales han disputado en su historia (284). Además, fue pregonero de las últimas Fiestas de Agosto de la capital ilicitana, lo que demuestra lo arraigado que está en ella pese a ser natural de Crevillente.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-07T15:48:21+00:00"
         }
       ]
     },
@@ -184,6 +184,13 @@
       "nombre": "Fútbol",
       "icono": "⚽",
       "items": [
+        {
+          "title": "David Silva no elige ni a Lamine Yamal ni a Mbappé para el Balón de Oro: \"No se le valora lo suficiente\"",
+          "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/david-silva-elige-lamine-yamal-mbappe-para-balon-oro-valora-suficiente-20261008-548158.html",
+          "desc": "El jugador español, del que recientemente se conoció que volverá al fútbol para disputar un encuentro en Hong Kong el próximo 7 de noviembre, eligió a Fabián Ruiz, el jugador del PSG y de la selección española. \"Lo admiro mucho, y ha hecho un trabajo asombroso con discreción\", declaró sobre el jugador nacido en Los Palacios y con pasado en la cantera del Real Betis El Balón de Oro 2026 ya está a menos de 20 días de conocer a su nuevo dueño. En una carrera en la que sobre el papel Lamine Yamal y Mbappé parecen partir como favoritos y con la votación ya cerrado, no faltan en estos días los diferentes protagonistas que elijan a su ganador para el galardón que se entregará el próximo 26 de octubre. El último en mojarse ha sido David Silva , leyenda del Valencia, el Manchester City y campeón del mundo con España quien mostró su predilección sobre el que debe ser el ganador. David Silva saltó este pasado miércoles a la parrilla de información deportiva al conocerse que tras retirarse, volvía al fútbol a sus 40 años pero solo para jugar un partido puntual en Hong Kong . David Silva pasa de Lamine Yamal y Mbappé para quedarse con Fabián Ruiz para el Balón de Oro David Silva sabe lo que es el ser un jugador que no luce por sus goles y que hace un trabajo más en la sombra como puede ser el de Fabián Ruiz. El jugador nacido en Los Palacios ha sumado dos Champions League consecutiva con el PSG y eso, según el canario David Silva , es uno de los méritos que Fabián tiene para hacerse con el Balón de Oro el próximo 26 de octubre: \"Pero bueno, si tuviera que dárselo a alguien, sería a Fabián , porque ha ganado el mayor número de títulos en los dos últimos años\". Silva, 40 años, aclara su regreso al fútbol tras la polémica generada con su economía: \"Gracias a mi padre y a mi asesor, hemos invertido bien\" Monchi y la coartada de Navas para opinar libremente del Balón de Oro: \"Jesús dijo que Fabián y no he leído a ningún sevillista quejándose\" David Silva destacó la importancia de Fabián Ruiz dentro del sistema del PSG de Luis Enrique y también para la selección española de Luis de la Fuente : \"Ha sido un jugador importante para el Paris Saint-Germain y luego para la selección\". Cerró David Silva la candidatura a favor de Fabián Ruiz hablando de la falta de valoración que ha tenido el jugador criado en la cantera del Real Betis sin saber muy bien porqué de esta situación: \"No se le valora lo suficiente, no sé por qué, porque es un jugador espectacular. Lo admiro mucho, y ha hecho un trabajo asombroso con discreción\". Además, sobre otro de los españoles nominados como es el caso de Rodri , David Silva aclaró que no lo mencionó porque ya lo ganó: \" Rodri ya lo ganó; de no ser así, también lo habría mencionado\". Silva aclaró que bajo su criterio, lo más importante es el trabajo colectivo, ya que sin él, no se puede optar al Balón de Oro : \"Para mí, el trabajo colectivo es lo más importante, porque sin él no se puede ganar\". El revolucionario fichaje de David Silva en Hong Kong David Silva también quiso aclarar que su llegada a Hong Kong es solo para un encuentro que se disputará el próximo 7 de noviembre y que no se debe a ningún tipo de problema económico como se llegó a especular este pasado miércoles: \"Lo han puesto en la noticia como que he fichado para toda la temporada, y no, al final voy a jugar un partido\". \"David Silva estará pronto en Hong Kong para instalarse, unirse a los entrenamientos del equipo\" \"> En el video compartido por el Supreme Sha Tin, equipo por el que ficha David Silva , informaron que el canario estará pronto en Hong Kong para entrenarse junto al resto del grupo: \"David Silva estará pronto en Hong Kong para instalarse, unirse a los entrenamientos del equipo y alcanzar su mejor forma física antes de su debut en el terreno de juego\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-08T12:23:26+00:00"
+        },
         {
           "title": "EL FEMENINO RECIBIRÁ AL REAL MADRID EL 1 DE NOVIEMBRE DESDE LAS 19.00 HORAS",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjR5Wks4djYwbjVCLWhVSDJSYWk2MncyM2VEVWhGZE9lTThrbnkzaF9tWWpuYWRieGs3UlNhMlgzWkFUYWdpbW1DckJIVzhzRFJvN2R0NFh1eVRkY2ZhMXpubkVvdEViazA0M01CUjBCRlM4Y3oxQ3JvY2lVc1JxeEE5cHlHUlFEZnN1Vw?oc=5",
@@ -197,6 +204,13 @@
           "desc": "El entrenador ya cuenta con todos los internacionales aunque Bellingham, Trent y Cucurella han trabajado al margen",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-10-08T13:49:16+02:00"
+        },
+        {
+          "title": "Mario Suárez, el nuevo fichaje de Movistar Plus: \"Me encantaría comentar una Champions y que la gane el Atlético de Madrid\"",
+          "link": "https://www.marca.com/tiramillas/television/2026/10/08/mario-suarez-nuevo-fichaje-movistar-plus-me-encantaria-comentar-champions-gane-atletico-madrid.html",
+          "desc": "El exfutbolista confiesa su enorme ilusión por esta nueva etapa profesional",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-10-08T13:45:32+02:00"
         },
         {
           "title": "Malas noticias con Raphinha antes de recibir al Getafe",
@@ -337,20 +351,6 @@
           "desc": "El animal ha sido trasladado a las instalaciones de la Fundación para la Conservación y Recuperación de Animales Marítimos para que se recupere.",
           "source": "https://www.20minutos.es/rss/",
           "fecha": "2026-10-08T11:20:24+02:00"
-        },
-        {
-          "title": "El mes de la verdad",
-          "link": "https://www.marca.com/futbol/barcelona/2026/10/08/mes-verdad.html",
-          "desc": "El calendario se le complica al Barça en las próximas semanas",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T11:12:08+02:00"
-        },
-        {
-          "title": "Tchouaméni rompe su silencio: \"No me arrepiento\"",
-          "link": "https://www.marca.com/futbol/real-madrid/2026/10/08/tchouameni-rompe-silencio-me-arrepiento.html",
-          "desc": "El centrocampista galo se defiende reconociendo que asumió riesgos durante el pasado Mundial: \"asumí riesgos. Ese no era yo\"",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T11:09:44+02:00"
         }
       ]
     },
@@ -363,35 +363,35 @@
           "link": "https://www.formula1.com/en/latest/article/why-aston-martin-are-confident-of-another-strong-weekend-in-singapore.7lryQSYovPK8XGtBv7uIBV",
           "desc": "After an impressive performance by Fernando Alonso at the Bahrain Grand Prix, Aston Martin believe they can build on the momentum in Singapore.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T12:00:09.692521+00:00"
+          "fecha": "2026-10-08T12:30:06.841769+00:00"
         },
         {
           "title": "How Albon navigates the realities of life on the road in F1",
           "link": "https://www.formula1.com/en/latest/article/exclusive-i-pretty-much-live-in-a-suitcase-how-albon-navigates-the-realities-of-life-on-the-road-in-f1.4rnoUwsRmfbNbScJF25NZF",
           "desc": "Williams driver Alex Albon reveals how he manages jet lag, life out of a suitcase and finding routine while travelling the world with Formula 1.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T12:00:09.692521+00:00"
+          "fecha": "2026-10-08T12:30:06.841769+00:00"
         },
         {
           "title": "Facts, stats and trivia ahead of the 2026 Singapore GP",
           "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-singapore-grand-prix.2yF5JZuQTWUoUmbDH4niHv",
           "desc": "As F1 heads to the Marina Bay Street Circuit for the Singapore Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T12:00:09.692521+00:00"
+          "fecha": "2026-10-08T12:30:06.841769+00:00"
         },
         {
           "title": "Vowles reveals how he told drivers about Williams problems",
           "link": "https://www.formula1.com/en/latest/article/were-in-trouble-here-vowles-reveals-how-he-told-sainz-and-albon-of-problems-facing-williams-in-2026.1VI39x5GE7zaJY5aUMjQuk",
           "desc": "James Vowles has revealed how he told Carlos Sainz and Alex Albon that Williams would face problems under the new-for-2026 Formula 1 regulations, and how their responses meant he was \"knocked off my feet\".",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T12:00:09.692521+00:00"
+          "fecha": "2026-10-08T12:30:06.841769+00:00"
         },
         {
           "title": "How F1 drivers and strategists tackle the Singapore Grand Prix",
           "link": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-singapore-grand-prix.5hcVFIGmI8lG1LyPPzxvFR",
           "desc": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-08T12:00:09.692521+00:00"
+          "fecha": "2026-10-08T12:30:06.841769+00:00"
         },
         {
           "title": "Colapinto rebaja la tensión: \"Lo importante es aprender y evitar que se repita lo de la semana pasada\"",
@@ -450,7 +450,7 @@
           "fecha": "2026-10-08T12:19:27+02:00"
         },
         {
-          "title": "Los pilotos españoles cargan contra el nuevo formato de MotoGP: \"Vamos a terminar reventados\"",
+          "title": "Los pilotos españoles cargan contra el nuevo formato de MotoGP: \"Es un estrés, acabaremos reventados\"",
           "link": "https://www.20minutos.es/deportes/deportes_motor/motogp/los-pilotos-espanoles-cargan-contra-nuevo-formato-motogp-tanto-estres-es-muy-duro-vamos-terminar-reventados_7046371_0.html",
           "desc": "Pedro Acosta, Raúl Fernández, Marc Márquez y Jorge Martín se pronuncian sobre las novedades de cara a la temporada que viene.",
           "source": "https://www.20minutos.es/rss/",
@@ -532,6 +532,48 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Condenados en Sevilla por desnudar a varias jóvenes con inteligencia artificial con \"pretendida supremacía machista\"",
+          "link": "https://www.eldiario.es/sevilla/condenados-sevilla-desnudar-jovenes-inteligencia-artificial-pretendida-supremacia-machista_1_13572426.html",
+          "desc": "El juez aplica la agravante de género y les condena por tres delitos contra la integridad moral a un total de nueve meses de cárcel y la prohibición de acceder a redes sociales durante tres años y nueve meses El magistrado de la plaza número 15 de la Sección de lo Penal del Tribunal de Instancia de Sevilla ha dictado la primera sentencia condenatoria en Sevilla por el uso de una aplicación de inteligencia artificial (IA) para manipular imágenes de varias jóvenes y obtener, de este modo, imágenes que simulaban los cuerpos íntegramente desnudos de dichas mujeres. En una sentencia dictada el día 1 de octubre tras el acuerdo de conformidad alcanzado ese mismo día entre la Fiscalía de Criminalidad Informática de Sevilla, la acusación particular y las defensas, el juez condena a tres varones por tres delitos contra la integridad moral con la agravante de género, la atenuante cualificada de reparación del daño y la atenuante analógica de confesión, y les impone a cada uno de ellos un total de nueve meses de cárcel y la prohibición de acceder a las aplicaciones Telegram, WhatsApp, Instagram y Discord por tiempo total de tres años y nueve meses. En este sentido, el magistrado acuerda conceder a los tres encausados el beneficio de la suspensión del cumplimiento de la pena de prisión impuesta con la condición de que no cometan ningún delito en un plazo de dos años, la prohibición de acceder a las cuatro aplicaciones mencionadas durante el plazo de suspensión y la realización de un programa formativo en educación sexual. El juez toma esta decisión porque los acusados carecen de antecedentes penales, la pena no es superior a dos años de prisión y han abonado la responsabilidad civil, condicionando además la suspensión de la pena de cárcel a la prohibición de acceder a las aplicaciones mencionadas y a la realización de un programa formativo en educación sexual “dada la naturaleza de los hechos realizados en contra de las que fueran sus compañeras, buscando el anonimato que dan las redes sociales”. El juez considera probado que los tres condenados, “previamente concertados en el común designio con otra persona menor de edad, decidieron obtener imágenes de los perfiles de Instagram” de tres jóvenes que habían sido compañeras de colegio y cuyas publicaciones en la red social estaban configuradas como abiertas y accesibles al público en general. “Claro propósito de burla” De este modo, y según la sentencia, que ya es firme tras el acuerdo entre las partes, los tres acusados procedieron a manipular dichas imágenes con una aplicación de IA de Telegram “para obtener imágenes que simulaban, con gran realismo, los cuerpos íntegramente desnudos de las tres jóvenes”. El juez considera probado que tales archivos “fueron compartidos entre sí por los tres acusados y el menor de edad a través de la creación de un grupo específico de WhatsApp y de otro de Discord, realizando posteriormente una mayor difusión, más allá de los citados grupos y desconociéndose el alcance de las cadenas de reenvío”, lo que “permitió que una persona no identificada”, desde un perfil de Instagram, enviara sobre las 00,30 horas del día 10 de septiembre de 2023 al perfil de una de las jóvenes afectadas las imágenes manipuladas de las tres mujeres desnudas. Según recoge la sentencia, los acusados realizaron los actos anteriores “con un claro propósito de burla, siendo conscientes del riesgo que creaban para la dignidad de las jóvenes y de las altas probabilidades de menoscabarla, lo que les era indiferente, proyectando así una pretendida supremacía machista que cosifica a las mujeres, manteniendo estereotipos de conducta que relegan a la mujer al papel de mero instrumento de placer mediante la manipulación de sus imágenes para representarlas como desnudas”. Agravante de género Todo ello, según asevera el magistrado, “refleja un desprecio de género que va más allá del ataque contra su privacidad y dignidad”, todo lo cual le lleva a aplicar la agravante de género del artículo 22.4 del Código Penal. Asimismo, el juez aplica la atenuante cualificada de reparación del daño porque los tres acusados, “con el propósito de reparar íntegramente los perjuicios causados a las perjudicadas, han procedido a ingresar en la cuenta de depósitos y consignaciones del órgano judicial la totalidad de las cantidades fijadas en concepto de responsabilidad civil, satisfaciendo de forma completa los importes reclamados en concepto de daño moral”. El magistrado también aplica la atenuante analógica de confesión, ya que, “desde sus primeras declaraciones en sede policial, los acusados efectuaron un reconocimiento libre, expreso y veraz de los hechos que se les imputaban, manteniendo dicha admisión durante la tramitación del procedimiento y prestando una colaboración activa con la Administración de Justicia que ha contribuido al esclarecimiento de los hechos, evitando la práctica de diligencias innecesarias y favoreciendo una más ágil resolución de la causa”.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-10-08T12:17:57+00:00"
+        },
+        {
+          "title": "Samsung Electronics supera pruebas de calidad de Nvidia para chips de memoria HBM4E de nueva generación",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWkhyYXZFalZIZ0JnWGtMdHhnTFdTSTJIdTZKTjNNWEJRMm1VV0Itek5mYkFyRFJMaDRQQ3JUNHROb29ldVQwUU9oX1Q3bVJ6UWJINHNpdG9Hdzc3ZVZVLUFPX0JLTUpVaFpWSGg1NnBSck8zVEVmTnZlWGtrbWJHd3pZYzg1YTdyRTFHcUlhUWZ5VXp3dmgxLVY2TGdsWURLY211T3FsdFlSNDZBYWthN291akZHVGt2ZFpzcEFtZ2hiTjAxREpDeFhWYjRELVRBOXcwQmxxV3ZMYVBRUjJzQWhWN0ZrQVE3T0o2WURn?oc=5",
+          "desc": "Samsung Electronics supera pruebas de calidad de Nvidia para chips de memoria HBM4E de nueva generación Revista ADVFN",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:17:56+00:00"
+        },
+        {
+          "title": "ASUS lanza sus nuevos ProArt P14, P16 y GR1X con NVIDIA RTX Spark para IA local",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtZXhGNno2aHNKNEwzc3VUaWJKWTY4YUpHWE1acno1aTRuZ3NHbmtJczA2Vm04d3FfWTd4cm8xNFR6aklja1VTWXVseFpVQTlOWjRmY1UxbkRhUlJEWmdSTWRqbG9xUGszY3ZoZFVfbWQxbi1teEE?oc=5",
+          "desc": "ASUS lanza sus nuevos ProArt P14, P16 y GR1X con NVIDIA RTX Spark para IA local madboxpc",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:03:23+00:00"
+        },
+        {
+          "title": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de fabricantes rivales",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON1M1TUo2YW1ycUFNUzNsQmFzYWx4OHZIMXhoVzNCZi1fTlo3VElxczU3Q1lRSFlsSHBYSzdSdWl5YXUwWjNQd0ZDeUJ1UXBhVGZZMFZLSmRudmpBdE5tY0dpMldXVVEwS0tPRXRQN0FmZzJybE91eVZZdWZyWV9ZMDdUVndWUEJ2Wnd3eS1kN1dmV2JjdHFpWGMxRjZCRE9BbzJVeUxHOFNma1VNbUs0RTlab2g4ZWlYREl6SDZrejlkRDRnam5zQVVHME1xbGE3cE92c0ExRlZ5UzRGbjJFQVVBVWNTS3c?oc=5",
+          "desc": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de fabricantes rivales MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:02:08+00:00"
+        },
+        {
+          "title": "MSI Prestige N16 Flip AI+: Un gran avance de la arquitectura NVIDIA RTX Spark con 128 GB de RAM unificada.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGZELVpYWDRGQ1JYY0QyMEplWWxqY3QzNl9odjlMR1JRU2YtT1BPWGNDd29SOFFRNmpTcEVnTUxsREI5dk42MDJTUEI4ME8xY015N0V2QW5tY1Zvb3VReDlzckppT0EzRFJWdHZwLTJwYnpETDlDem1QQVQ2ZGVMVnFNcGZEWXpQa0xlSlduLUFEX2hIY1lpakhhYnV6YTlmS25PQm5mczVBY2xkZmEyRy13?oc=5",
+          "desc": "MSI Prestige N16 Flip AI+: Un gran avance de la arquitectura NVIDIA RTX Spark con 128 GB de RAM unificada. Vietnam.vn",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:00:42+00:00"
+        },
+        {
+          "title": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de proveedores de la competencia",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUVzcmJnNV9TZzVDM2F0al9lYW5VRXYxUlFjX1ZiblR1dllLeUVIYVkxVVl0MDdtaElBYW1DTXl4dVZzbnQ1cEJlOGJmS2VXMm5BMnc2emt3LXMtNnQ3X1liZVFQMVJYU0xDN0VEeDZ2VXowRlk4?oc=5",
+          "desc": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de proveedores de la competencia TradingView",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:00:41+00:00"
+        },
         {
           "title": "Skydance ficha a Bobby Kotick, exdirector ejecutivo de Activision Blizzard, tras la fusión de Paramount y Warner",
           "link": "https://vandal.elespanol.com/noticia/2026281019/skydance-ficha-a-bobby-kotick-exdirector-ejecutivo-de-activision-blizzard-tras-la-fusion-de-paramount-y-warner/",
@@ -657,48 +699,6 @@
           "desc": "NVIDIA y Microsoft anuncian una nueva generación de ordenadores con Windows equipados con RTX Spark, capaces de ejecutar potentes modelos de inteligencia artificial localmente y ofrecer un gran rendimiento en videojuegos. NVIDIA y Microsoft han presentado una nueva generación de ordenadores con Windows equipados con RTX Spark , una plataforma diseñada para ejecutar potentes modelos de inteligencia artificial directamente en el dispositivo , sin necesidad de recurrir constantemente a servidores externos. Jensen Huang, director ejecutivo de NVIDIA, y Satya Nadella, máximo responsable de Microsoft, han explicado durante un evento en San Francisco cómo esta tecnología transformará las posibilidades de los PC , tanto para trabajar como para jugar . Los primeros portátiles con NVIDIA RTX Spark se pondrán a la venta el 16 de octubre, con precios desde 2999 euros , y ya se pueden reservar. Estos equipos podrán contar con hasta 128 GB de memoria unificada y una potencia de cálculo de un petaflop para inteligencia artificial . Fabricantes como ASUS, Acer, Dell, HP, Lenovo, MSI, Gigabyte y Microsoft ofrecerán diferentes modelos, mientras que los ordenadores compactos de sobremesa llegarán en noviembre. Los nuevos PC también prometen un gran rendimiento en videojuegos RTX Spark utiliza una GPU NVIDIA Blackwell con hasta 6144 núcleos y un procesador NVIDIA Grace de hasta 20 núcleos . Esta arquitectura permitirá ejecutar grandes modelos de IA localmente , algo especialmente interesante para desarrolladores, profesionales y creadores de contenido, pero NVIDIA también ha destacado sus posibilidades para los videojuegos. Según la compañía, los ordenadores con RTX Spark podrán ejecutar juegos AAA a 1440p y más de 100 FPS , gracias a tecnologías como DLSS 5, Reflex y G-SYNC. También serán compatibles con trazado de rayos y otras características gráficas avanzadas. Microsoft ha utilizado Gears of War: E-Day como ejemplo de las capacidades de estos nuevos equipos, destacando su compatibilidad con trazado de rayos mediante DirectX, sombreado de tasa variable y DirectStorage. Además, será el primer juego que ampliará su compatibilidad con Advanced Shader Delivery , una tecnología que permite reducir de minutos a segundos la compilación inicial de sombreadores y ayuda a evitar tirones durante las partidas. La compañía también ha confirmado que Call of Duty llegará a los dispositivos RTX Spark en 2027, dentro de sus esfuerzos por ampliar el catálogo de videojuegos compatibles con Windows en procesadores Arm. Windows también prepara importantes novedades relacionadas con la IA Microsoft aprovechará esta nueva generación de ordenadores para introducir funciones de inteligencia artificial más avanzadas en Windows 11 . Entre ellas destaca la posibilidad de que Copilot utilice información almacenada localmente y realice tareas en nuestro nombre , como organizar archivos, diagnosticar problemas del equipo o ejecutar determinados procesos, siempre con nuestro permiso. También se ha anunciado la disponibilidad general de Microsoft Execution Containers (MXC), una tecnología que permitirá ejecutar agentes de IA en entornos aislados y controlar a qué archivos y recursos pueden acceder. Por último, ambas compañías han presentado NVIDIA DGX Station para Windows , un ordenador de sobremesa destinado a profesionales y empresas que ofrecerá hasta 748 GB de memoria y 20 petaflops de potencia para inteligencia artificial. Su objetivo será permitir la ejecución local de modelos de IA que hasta ahora necesitaban la infraestructura de grandes centros de datos.",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-10-08T10:35:00+00:00"
-        },
-        {
-          "title": "Los nuevos PC con RTX Spark prometen jugar a 1440p y más de 100 FPS, además de ejecutar potentes IA sin conexión",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVRBQ1Q3U2tQS0swX1NMUDBwVE1KZEtrZHlSdnBnSUhKRndQdjdHcmRlckl3WTBUTUdPb1UwTTJZZGhIVk9veUh1Sk9mazZpUTVnUHRYLUNtUW83eE9Qb05BbFlHdS1oTll2LWR0cHpFcVlwZ09JNWZHa3ZnTFpWYVBra2RsT01zX185cWw3dGloWnNXa0tDaUY4TGpKdGVnSzFOemdsdG1XejBQaF9NNTVkNE1ZeG5mU1ZNVUJiVjdULWhxMlVYNEJpbFBXUEtRb21mTHN5Ul9iZl96MW1wajEzV23SAeoBQVVfeXFMTlYwZkxTTkNuV3pYeUpUeWV4SU1IeG80WXgxZ2doTUx3dl9wUnVnbFhSM0IwWHQtRDNNQllpLTg3RmYyQzU1a24zTHJMRXRwNE5yNTM4b3V4N0NmYV9QV3l6TnBrX2hwRXBOQTg5YzMtRnlzZ0o1ejdpbi1Yd2luc3duM0RjYnd5TFB5WDFiZnBUX0N5RzB2QmJhQW9oNlZRanc0S3FKMkxlNEJNUUVqWjNNTUV1M1cyekdKNEtCd3loUU1hUlJXRlNCRHZEU2JJdVpfNjdySFI3STRZNlpzZzZTTU9MMVlvX0FR?oc=5",
-          "desc": "Los nuevos PC con RTX Spark prometen jugar a 1440p y más de 100 FPS, además de ejecutar potentes IA sin conexión Vandal",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T10:35:00+00:00"
-        },
-        {
-          "title": "Pellegrini recupera a casi todos sus efectivos pensando en Osasuna",
-          "link": "https://www.marca.com/futbol/betis/2026/10/08/pellegrini-recupera-todos-efectivos-pensando-osasuna.html",
-          "desc": "El meta de Las Palmas tuvo que pasar por el quirófano tras un choque fortuito con el delantero del Celta en el encuentro de la pasada jornada",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-08T12:28:40+02:00"
-        },
-        {
-          "title": "El gratuito 2XKO confirma sus dos nuevos y últimos luchadores: Samira y una sorpresa que no se había anunciado",
-          "link": "https://vandal.elespanol.com/noticia/2026281014/el-gratuito-2xko-confirma-sus-dos-nuevos-y-ultimos-luchadores-samira-y-una-sorpresa-que-no-se-habia-anunciado/",
-          "desc": "Riot Games dejará de actualizar el gratuito 2XKO pero este mismo mes tendremos dos nuevos luchadores: uno de ellos no había sido anunciado. 2XKO , el juego de lucha gratuito con personajes de League of Legends , dejará de recibir nuevo contenido muy pronto -aunque seguirá jugable-. Antes de poner punto final a sus actualizaciones veremos dos nuevos luchadores, Samira y Sett . Riot Games ha anunciado -y estrena nuevo tráiler- de estas dos incorporaciones a la plantilla, que estarán disponibles el 27 de octubre . Se conocía que Samira llegaría antes de la fecha límite, pero Sett no había sido anunciado; probablemente los desarrolladores se han dado prisa por terminar al personaje para tenerlo listo en esta actualización. Sett \"es una prominente figura en los emergentes círculos criminales jonios , que aseguró su posición al inicio de la guerra con Noxus\", describe Riot sobre el personaje. Por su parte, Samira \"se ganó la reputación de ser una temeraria con estilo capaz de llevar a cabo las misiones más peligrosas\". Los servidores quedarán abiertos y todavía se podrá jugar Este verano Riot comentó que el juego no había alcanzado el éxito esperado y por esa razón detenía las actualizaciones, además de hacer cambios en el modelo económico: todos los personajes pasarán a estar desbloqueados y numerosos objetos podrán conseguirse utilizando créditos obtenidos jugando. 2XKO está disponible en PlayStation 5, Xbox Series y PC . Aunque quizás no ha conseguido la comunidad que Riot esperaba, la noticia de esta actualización ha recibido numerosos comentarios de fans pidiendo que no se de carpetazo al juego de lucha porque todavía tiene potencial para crecer y demostrar sus virtudes.",
-          "source": "https://vandal.elespanol.com/rss",
-          "fecha": "2026-10-08T10:24:00+00:00"
-        },
-        {
-          "title": "Muere Margaret Hamilton, la mujer que creó el software que permitió al ser humano llegar a la Luna",
-          "link": "https://www.20minutos.es/tecnologia/actualidad/muere-margaret-hamilton-creadora-software-nasa-llegada-luna_7046483_0.html",
-          "desc": "Margaret Hamilton, pionera de la informática y responsable del software de las misiones Apolo de la NASA, ha fallecido a los 90 años.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-10-08T12:19:27+02:00"
-        },
-        {
-          "title": "Análisis de Nvidia, Apple, Microsoft, Alphabet, Amazon, SpaceX y Meta",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2JOWUtvSzdTaHVfWE1VQ3huU3hCeFA3c2tZcnZWcWM3TnVnMDVzVWlfb2pjdUlDSGlFWEE0dWNJUG1jS1JabGkybDI0ZjRvT0VCZ1R4Yjdnb1IxMHJjMnlKX0pPSnIxcGloRUIwV296T2txOFc2WWlSUk83ZFpOb09rTWtac2RFTmFEcXdtNWpPVUFGQkxhbXBJS01oZGFiNUE1YU9tZnhwV2Rf?oc=5",
-          "desc": "Análisis de Nvidia, Apple, Microsoft, Alphabet, Amazon, SpaceX y Meta Investing.com España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T10:19:00+00:00"
-        },
-        {
-          "title": "NVIDIA RTX Spark abre reservas con CPU Grace, GPU Blackwell y hasta 128 GB de memoria",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEhwREdrR3ZSLTNhbUM3SGlVOWZJWjdXMXNqYkJHWWpnSW9BaE9tbGVaRks1bW1sUHNlaGcxMnhIWUNYNmhURVlZcHI2RUk0ZUJRWXh6ZUkwZUhvMllDa3p6dUdXQjBYeHJ4dkluLWhwV2pzTXJSM3VDZTBjUHZqQWVGR05hQUE2UWNmOW9EMlR6d1djUEV5QmtEWTZwT3htVmVGLTlvRDZya3hsejVObUJrYUVXQlJpWkE?oc=5",
-          "desc": "NVIDIA RTX Spark abre reservas con CPU Grace, GPU Blackwell y hasta 128 GB de memoria Fanáticos del Hardware",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T10:09:10+00:00"
         }
       ]
     },
@@ -707,11 +707,25 @@
       "icono": "📈",
       "items": [
         {
+          "title": "David Silva no elige ni a Lamine Yamal ni a Mbappé para el Balón de Oro: \"No se le valora lo suficiente\"",
+          "link": "https://www.estadiodeportivo.com/futbol/futbol-internacional/david-silva-elige-lamine-yamal-mbappe-para-balon-oro-valora-suficiente-20261008-548158.html",
+          "desc": "El jugador español, del que recientemente se conoció que volverá al fútbol para disputar un encuentro en Hong Kong el próximo 7 de noviembre, eligió a Fabián Ruiz, el jugador del PSG y de la selección española. \"Lo admiro mucho, y ha hecho un trabajo asombroso con discreción\", declaró sobre el jugador nacido en Los Palacios y con pasado en la cantera del Real Betis El Balón de Oro 2026 ya está a menos de 20 días de conocer a su nuevo dueño. En una carrera en la que sobre el papel Lamine Yamal y Mbappé parecen partir como favoritos y con la votación ya cerrado, no faltan en estos días los diferentes protagonistas que elijan a su ganador para el galardón que se entregará el próximo 26 de octubre. El último en mojarse ha sido David Silva , leyenda del Valencia, el Manchester City y campeón del mundo con España quien mostró su predilección sobre el que debe ser el ganador. David Silva saltó este pasado miércoles a la parrilla de información deportiva al conocerse que tras retirarse, volvía al fútbol a sus 40 años pero solo para jugar un partido puntual en Hong Kong . David Silva pasa de Lamine Yamal y Mbappé para quedarse con Fabián Ruiz para el Balón de Oro David Silva sabe lo que es el ser un jugador que no luce por sus goles y que hace un trabajo más en la sombra como puede ser el de Fabián Ruiz. El jugador nacido en Los Palacios ha sumado dos Champions League consecutiva con el PSG y eso, según el canario David Silva , es uno de los méritos que Fabián tiene para hacerse con el Balón de Oro el próximo 26 de octubre: \"Pero bueno, si tuviera que dárselo a alguien, sería a Fabián , porque ha ganado el mayor número de títulos en los dos últimos años\". Silva, 40 años, aclara su regreso al fútbol tras la polémica generada con su economía: \"Gracias a mi padre y a mi asesor, hemos invertido bien\" Monchi y la coartada de Navas para opinar libremente del Balón de Oro: \"Jesús dijo que Fabián y no he leído a ningún sevillista quejándose\" David Silva destacó la importancia de Fabián Ruiz dentro del sistema del PSG de Luis Enrique y también para la selección española de Luis de la Fuente : \"Ha sido un jugador importante para el Paris Saint-Germain y luego para la selección\". Cerró David Silva la candidatura a favor de Fabián Ruiz hablando de la falta de valoración que ha tenido el jugador criado en la cantera del Real Betis sin saber muy bien porqué de esta situación: \"No se le valora lo suficiente, no sé por qué, porque es un jugador espectacular. Lo admiro mucho, y ha hecho un trabajo asombroso con discreción\". Además, sobre otro de los españoles nominados como es el caso de Rodri , David Silva aclaró que no lo mencionó porque ya lo ganó: \" Rodri ya lo ganó; de no ser así, también lo habría mencionado\". Silva aclaró que bajo su criterio, lo más importante es el trabajo colectivo, ya que sin él, no se puede optar al Balón de Oro : \"Para mí, el trabajo colectivo es lo más importante, porque sin él no se puede ganar\". El revolucionario fichaje de David Silva en Hong Kong David Silva también quiso aclarar que su llegada a Hong Kong es solo para un encuentro que se disputará el próximo 7 de noviembre y que no se debe a ningún tipo de problema económico como se llegó a especular este pasado miércoles: \"Lo han puesto en la noticia como que he fichado para toda la temporada, y no, al final voy a jugar un partido\". \"David Silva estará pronto en Hong Kong para instalarse, unirse a los entrenamientos del equipo\" \"> En el video compartido por el Supreme Sha Tin, equipo por el que ficha David Silva , informaron que el canario estará pronto en Hong Kong para entrenarse junto al resto del grupo: \"David Silva estará pronto en Hong Kong para instalarse, unirse a los entrenamientos del equipo y alcanzar su mejor forma física antes de su debut en el terreno de juego\".",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-08T12:23:26+00:00"
+        },
+        {
+          "title": "Un 13% de quienes comparten piso vive en la habitación con personas que no son su pareja",
+          "link": "https://www.eldiario.es/economia/13-comparten-piso-vive-habitacion-personas-no-son-pareja_1_13572222.html",
+          "desc": "Un 7,5% comparte piso con no familiares, dos de cada 10 españoles se han mudado por no poder pagar la vivienda y un 14% ha experimentado subidas por encima del IPC del alquiler, mientras que un 24% vive en pisos con calor o frío extremos Los españoles apoyan masivamente los decretos de vivienda: un 76% cree que hay que intervenir el mercado La situación de la vivienda en España exprime a los ciudadanos y preocupa a una mayoría. Según el CIS publicado este jueves , un 7,5% de españoles comparte piso con amigos o amigas u otras personas y, entre ellos, un 13% comparte su habitación con personas que no son su pareja. Un 66,3% cuenta con una habitación para ellos solos y un 14% la comparte con su pareja. Un 10% vive además con sus hijos o los de su pareja y un 5% comparte la habitación con otras personas de su familia. Un 8% lo comparte con personas que no son familiares. Aunque la situación de la vivienda perjudica a un 40% de los encuestados, preocupa bastante o muchoa un 85% de la ciudadanía. Un 37% de los encuestados tiene intención de trasladarse a una vivienda independiente para dejar de compartir o independizarse. Pero un 85% alegan no haber podido abandonar el piso compartido o la vivienda familiar porque los alquileres o el precio de compra son demasiado elevados. Un 77% explicita que no tiene dinero para pagar la entrada de la compra de una vivienda. Mientras son muchos los que descartan la compra o el alquiler por los elevados precios, muchos otros se han visto obligados a mudarse por no poder afrontar los costes. Así lo reconoce un 8% de los encuestados, que se han tenido que mudar por no poder pagar su vivienda. Son más, un 11,8%, quienes han tenido que volver con su familia o compartir piso por no poder pagarla. En total, un 19% de mudanzas forzosas por precios inasumibles. Un 14% se ha tenido que mudar lejos de su familia para poder pagar el alquiler o la hipoteca. Además, un 10% se han sentido discriminados por su edad a la hora de buscar vivienda y a un 6% les ha pasado lo mismo por su nacionalidad u origen étnico. Un 8% ha recibido presiones para abandonar la vivienda y a un 14% les han subido el alquiler por encima de la inflación. Un 24% de los encuestados dice haber vivido en los últimos años en una vivienda con frío o calor extremos y un 10% reconoce haber sufrido prácticas ilegales de inmobiliarias o empresas de alquiler, como pagos o penalizaciones abusivas. Un 32% de los españoles tiene perspectivas de heredar total o parcialmente una vivienda y un 18% espera poder comprarla, entre ellos un 36% solos y un 63% con su pareja o cualquier otra persona. Tan solo un 22% tiene planeado comprar una vivienda protegida, mientras que un 50% de los encuestados lo descarta porque no hay suficiente oferta y un 58% porque no cumple los requisitos. Entre las personas encuestadas, tan solo un 6% no paga nada por su vivienda. La franja mayoritaria gasta entre 700 y 1.000 euros por su hipoteca o alquiler, mientras que un 10% paga más, entre 1.000 y 2.000 euros. Un 12% paga entre 600 y 700 euros, un 13,7% dedica entre 500 y 600 y un 12,4% paga entre 400 y 500 euros. Un 10% se gasta entre 300 y 400 euros y un 8% menos de 300 euros. Si tenemos en cuenta que el salario mediano es de 2.000 euros brutos al mes, unos 1.600 euros netos, y que la recomendación es no dedicar más de un 35% a la vivienda, tan solo un 36% dedica menos de 500 euros al mes al pago de la vivienda.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-10-08T12:04:51+00:00"
+        },
+        {
           "title": "El 87% de los españoles dice estar preocupado por la vivienda y el 76% aboga por que el Estado intervenga el mercado, según un estudio del CIS de junio que el Ministerio pide publicar ahora",
           "link": "https://www.elmundo.es/espana/2026/10/08/6ac7715121efa039388b457b.html",
           "desc": "Bajar impuestos a la compra de la primera vivienda, dar garantías a los caseros frente a los posibles impagos y sacar al mercado suelo urbanizable, las tres medidas más apoyadas por la ciudadanía Leer",
           "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-          "fecha": "2026-10-08T13:39:26+02:00"
+          "fecha": "2026-10-08T13:55:14+02:00"
         },
         {
           "title": "Los españoles apoyan masivamente los decretos de vivienda: un 76% cree que hay que intervenir el mercado",
@@ -723,7 +737,7 @@
         {
           "title": "El precio del petróleo sube más del 5% y añade más presión a deuda y Bolsas",
           "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
-          "desc": "La subida de los rendimientos de los bonos y de los costes energéticos por los renovados riesgos geopolíticos aviva los temores del mercado. El Ibex pierde los 18.900 puntos y el ‘brent’ supera los 105 dólares",
+          "desc": "El ‘brent’ supera los 105 dólares y vuelve a tirar al alza de los tipos de la deuda. El Ibex pierde los 19.000 puntos, el nivel más bajo en cuatro meses",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-10-08T11:00:09+00:00"
         },
@@ -768,13 +782,6 @@
           "desc": "Un mes después de su apertura, Faro Santander reúne cinco siglos de arte, tecnología, educación y participación en un edificio que quiere volver a “colocar Cantabria como un territorio cultural de referencia global”",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-10-08T09:05:47+00:00"
-        },
-        {
-          "title": "Samsung supera pruebas de calidad de Nvidia para nuevo chip de memoria - Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JGLVNweWR5dzE5RnhDSFpKdGxac0ZFeDdtdVEzWlhLYnRDcVRIMmxsX0RzWGh3TXdGTHdDRXhhS1RZbEtiWS1OUTRSMXFUMGROVUkyeFg5T0E2SktHbGoxdzl5ajQ3QVhaUzhEa1hhUTdINmx2eFBFSE5WMHI1R1ZHWDJnNlljVzgzMnRHbFRqNENJRXBvUGdCdUFrazduZk5tM1h6LVVxV0EydEFmdGw5a0VQQV84QS1NcVF5akVJM19zMTRqaTRSNA?oc=5",
-          "desc": "Samsung supera pruebas de calidad de Nvidia para nuevo chip de memoria Investing.com México - Finanzas, Bolsa y Forex",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T08:54:07+00:00"
         },
         {
           "title": "Bizum cumple 10 años: ya se hacen 40 pagos por segundo en España y se han transferido 310.000 millones de euros",
@@ -840,13 +847,6 @@
           "fecha": "2026-10-08T05:55:22+00:00"
         },
         {
-          "title": "El frío toma el relevo de las lluvias: bajón de las temperaturas a partir de este jueves y hasta el fin de semana",
-          "link": "https://www.eldiario.es/sociedad/el-tiempo/frio-toma-relevo-lluvias-bajon-temperaturas-partir-jueves-semana-pm_1_13569463.html",
-          "desc": "El descenso de las máximas será generalizado y notable en el caso del Cantábrico oriental; también caerán las mínimas Lluvia y cenizas: la bomba en diferido de los incendios forestales Las lluvias intensas y torrenciales de los últimos días se esfumarán para dar paso al frío , que ganará terreno a partir de este jueves por la llegada desde el Atlántico de una masa de aire fría. Eso provocará un descenso de las temperaturas en todo el país, dejando un ambiente mucho más otoñal y acorde para la época del año, de acuerdo con la previsión de la Agencia Estatal de Meteorología (Aemet). El cambio se notará sobre todo hoy, con una jornada de “pleno otoño” y un acusado descenso térmico, apunta el portavoz de la agencia, Rubén del Campo, quien ha avanzado que este aire más frío favorecerá la aparición de las primeras nieves del otoño en cumbres de los Pirineos. Hasta el sábado, el ambiente frío será más intenso. De hecho, las temperaturas podrían quedar debajo de lo normal para la época, añade la Aemet a través de sus redes sociales. El domingo ese ambiente otoñal se resiente, porque volverán a subir los termómetros, sigue Del Campo. Estabilidad y máximas por debajo de 20 grados La influencia de un flujo húmedo del norte que dejará a primera hora de este jueves cielos nubosos o cubiertos con precipitaciones en el tercio norte peninsular y en Baleares. En el resto de la Península, se prevé un tiempo más estable , con intervalos nubosos en el resto de la mitad norte y poco nuboso en la sur, si bien con el desarrollo de nubes de evolución en la mitad sur podrían dejar algún chubasco aislado, más probables en el sudeste. En Canarias , el acercamiento de la vaguada, con bastante incertidumbre acerca de su posición, podría dejar un predominio de cielos nubosos con chubascos localmente moderados, sin descartar que alguno sea puntualmente fuerte, señala la Aemet en la previsión diaria que ofrece a través de su página web. Para este jueves, se espera un descenso de las temperaturas . En el caso de las máximas, bajarán en la mayor parte de la mitad nordeste peninsular y en Baleares, de forma notable en el Cantábrico oriental. Habrá ascensos en la vertiente atlántica sur y pocos cambios en el resto. Los termómetros se desplomarán por debajo de los 20 grados en muchas provincias: Ávila, Burgos, San Sebastián, León, Logroño, Lugo, Oviedo, Palencia, Pamplona, Salamanca, Santander, Segovia, Soria, Valladolid o Vitoria. En el caso de las mínimas , de acuerdo con la Aemet, descenderán de forma moderada en la mitad norte peninsular, donde se darán al final del día, e incluso notable en el nordeste, y de forma ligera en el resto. La agencia habla ya de las primeras heladas, débiles en zonas altas del Pirineo.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-10-08T04:30:08+00:00"
-        },
-        {
           "title": "Hay futuro",
           "link": "https://www.eldiario.es/opinion/tribuna-abierta/hay-futuro_129_13565697.html",
           "desc": "El PCE reivindica su proyecto comunista y rupturista y defiende que su función no es sostener gobiernos de manera acrítica, sino organizar y defender los intereses de los trabajadores. Este Congreso se presenta, por tanto, como una oportunidad para superar la lógica del mero mercado electoral y recuperar al PCE como actor político y organizativo central de un bloque liderado por la clase trabajadora En una semana, el marco político del país ha cambiado sustancialmente. El desahucio de Maricarmen fue la chispa que prendió el gas acumulado. Un estallido de movilización como hacía tiempo que no veíamos ha girado el sentido común de la política española. Pero ya era tarde: el Congreso tumbó los apresurados decretos y “la legislatura de la vivienda” ha estallado por la vivienda. Elecciones en noviembre. Mientras, el espacio a la izquierda del PSOE sigue en crisis. No es novedad, pero es especialmente problemática en un contexto de auge reaccionario, porque está comprometiendo seriamente la capacidad de dar una respuesta a la sociedad en un momento tan delicado. La coyuntura lo ha dejado al descubierto. En mayo, cuando se hablaba de adelanto electoral, cerró filas contra él y exigió al PSOE “arremangarse” para salvar la legislatura. Cinco meses después, la legislatura ha terminado y desde ese espacio se defiende el adelanto “para que la indignación de las calles se note en las urnas”. Lo que en mayo era irresponsable en octubre es oportunidad. Es lo que ocurre cuando la táctica es devorada por la coyuntura: se actúa de manera arbitraria, y así una organización deja de dirigir los acontecimientos para ser dirigida por ellos. El espacio sufre una acusada volatilidad resultado de una política de alianzas errática durante la última década. No es una crisis coyuntural, sino un patrón: cada ciclo electoral, este espacio se reconfigura alrededor de un liderazgo mediático nuevo, y se fragmenta en cuanto ese liderazgo se desgasta. Se construyen plataformas alrededor de una persona y se disuelven con ella, porque un proyecto político no puede sostenerse sobre individualidades ni sobre el tacticismo de cada cita electoral, como si la política funcionase por olimpiadas. Ése es el problema de fondo. Se construyen plataformas alrededor de una persona y se disuelven con ella, porque nunca fueron organizaciones con vida propia, sino artefactos diseñados para ganar una cita concreta. Una alianza no puede sostenerse solo en la necesidad electoral del momento: necesita principios estables. El debate no puede reducirse a un baile de nombres. La izquierda necesita un proyecto, no un famoso. Sin embargo, eso es prácticamente lo único que vemos. La falta de estabilidad lleva incluso a que las mismas fuerzas que convergen para las generales compiten entre sí en autonómicas y municipales, y la militancia ya no sabe ni cómo se presenta. Ahí fuera, los salarios son devorados por el coste de la vida, especialmente la vivienda, y la clase trabajadora que lo sufre se siente abandonada. Esa misma erosión material explica por qué la democracia ya no es por sí misma un dispositivo movilizador (para muestra, el último barómetro del CIS). No se genera adhesión a un sistema que no garantiza unas mínimas condiciones de vida. La ultraderecha conecta emocionalmente con esa clase trabajadora huérfana, no por su solvencia, sino como espejo de esas carencias y promesas incumplidas. Cuando la derecha más se afila, lo que menos necesitamos es una izquierda de punta roma. El fascismo no crece en el vacío, siempre viene de la mano del colapso de la socialdemocracia. Una parte de esa clase trabajadora busca alternativas aparentemente rupturistas con el statu quo , al que asocia a la izquierda que lo gestiona. Mucha gente nos ve como cómplices del desahucio de Mari Carmen porque ni los ‘datos matan relato’, ni, aunque lo hiciesen, los tenemos de nuestro lado. Lo que Nancy Fraser llamó “neoliberalismo progresista” repite hoy el mismo esquema que con Zapatero: algunos derechos sociales combinados con una política económica que mantiene intactas las dinámicas de explotación y acumulación. La diferencia es que “la izquierda a la izquierda del PSOE” reaccionó entonces con grandes movilizaciones y una huelga general, pero hoy, cautiva y desarmada, no ve más horizonte que el gobierno de Pedro Sánchez, mientras cada día más gente se pregunta para qué ha servido este gobierno y, sobre todo, qué hacemos en él. Porque el problema con el PSOE no es de valentía, sino de intereses de clase. Pero sí hay otro camino. El PTB emprendió en 2004 un proceso de reconstrucción denominado “Vuelta a las raíces”; en 2024 era la cuarta fuerza del país, con un lema nítido: Le choix de la rupture (“la opción de la ruptura”). En Austria, el Partido Comunista ha vuelto a ganar en Graz, la segunda ciudad del país, con una política centrada en el derecho a la vivienda. Ninguno de los dos se sostiene sobre un líder ni sobre una marca de usar y tirar, sino sobre organización, arraigo y trabajo material sostenido. Ahí hay futuro, porque hay partido. Y aquí es donde el Congreso del PCE deja de ser un asunto interno para convertirse en un hito político. Tras un siglo de trayectoria y aportaciones fundamentales a otros proyectos de la izquierda, el reto ahora es reconstruirlo como partido con identidad, organización y capacidad de intervención propias. No para competir electoralmente de forma inmediata, sino para ser la columna vertebral de un bloque contrahegemónico basado en nuestra fuerza social y organizativa, tejiendo alianzas desde una posición de lealtad, tanto hacia los socios como hacia nuestro propio proyecto político. Esta reconstrucción implica recuperar un papel político propio y reforzar el arraigo entre la clase trabajadora, frente a un modelo centrado exclusivamente en la representación institucional. La estrategia gobernista como único horizonte ha hecho aguas. El PCE reivindica su proyecto comunista y rupturista y defiende que su función no es sostener gobiernos de manera acrítica, sino organizar y defender los intereses de los trabajadores. Este Congreso se presenta, por tanto, como una oportunidad para superar la lógica del mero mercado electoral y recuperar al PCE como actor político y organizativo central de un bloque liderado por la clase trabajadora. Ahora toca girar hacia el conflicto: todo el poder a la huelga general. Si una acampada y la movilización social han cambiado el centro del debate y el sentido común, ¿qué no podrá una huelga general de masas?",
@@ -880,6 +880,41 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Samsung Electronics supera pruebas de calidad de Nvidia para chips de memoria HBM4E de nueva generación",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWkhyYXZFalZIZ0JnWGtMdHhnTFdTSTJIdTZKTjNNWEJRMm1VV0Itek5mYkFyRFJMaDRQQ3JUNHROb29ldVQwUU9oX1Q3bVJ6UWJINHNpdG9Hdzc3ZVZVLUFPX0JLTUpVaFpWSGg1NnBSck8zVEVmTnZlWGtrbWJHd3pZYzg1YTdyRTFHcUlhUWZ5VXp3dmgxLVY2TGdsWURLY211T3FsdFlSNDZBYWthN291akZHVGt2ZFpzcEFtZ2hiTjAxREpDeFhWYjRELVRBOXcwQmxxV3ZMYVBRUjJzQWhWN0ZrQVE3T0o2WURn?oc=5",
+          "desc": "Samsung Electronics supera pruebas de calidad de Nvidia para chips de memoria HBM4E de nueva generación Revista ADVFN",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:17:56+00:00"
+        },
+        {
+          "title": "ASUS lanza sus nuevos ProArt P14, P16 y GR1X con NVIDIA RTX Spark para IA local",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtZXhGNno2aHNKNEwzc3VUaWJKWTY4YUpHWE1acno1aTRuZ3NHbmtJczA2Vm04d3FfWTd4cm8xNFR6aklja1VTWXVseFpVQTlOWjRmY1UxbkRhUlJEWmdSTWRqbG9xUGszY3ZoZFVfbWQxbi1teEE?oc=5",
+          "desc": "ASUS lanza sus nuevos ProArt P14, P16 y GR1X con NVIDIA RTX Spark para IA local madboxpc",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:03:23+00:00"
+        },
+        {
+          "title": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de fabricantes rivales",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON1M1TUo2YW1ycUFNUzNsQmFzYWx4OHZIMXhoVzNCZi1fTlo3VElxczU3Q1lRSFlsSHBYSzdSdWl5YXUwWjNQd0ZDeUJ1UXBhVGZZMFZLSmRudmpBdE5tY0dpMldXVVEwS0tPRXRQN0FmZzJybE91eVZZdWZyWV9ZMDdUVndWUEJ2Wnd3eS1kN1dmV2JjdHFpWGMxRjZCRE9BbzJVeUxHOFNma1VNbUs0RTlab2g4ZWlYREl6SDZrejlkRDRnam5zQVVHME1xbGE3cE92c0ExRlZ5UzRGbjJFQVVBVWNTS3c?oc=5",
+          "desc": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de fabricantes rivales MarketScreener España",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:02:08+00:00"
+        },
+        {
+          "title": "MSI Prestige N16 Flip AI+: Un gran avance de la arquitectura NVIDIA RTX Spark con 128 GB de RAM unificada.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGZELVpYWDRGQ1JYY0QyMEplWWxqY3QzNl9odjlMR1JRU2YtT1BPWGNDd29SOFFRNmpTcEVnTUxsREI5dk42MDJTUEI4ME8xY015N0V2QW5tY1Zvb3VReDlzckppT0EzRFJWdHZwLTJwYnpETDlDem1QQVQ2ZGVMVnFNcGZEWXpQa0xlSlduLUFEX2hIY1lpakhhYnV6YTlmS25PQm5mczVBY2xkZmEyRy13?oc=5",
+          "desc": "MSI Prestige N16 Flip AI+: Un gran avance de la arquitectura NVIDIA RTX Spark con 128 GB de RAM unificada. Vietnam.vn",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:00:42+00:00"
+        },
+        {
+          "title": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de proveedores de la competencia",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUVzcmJnNV9TZzVDM2F0al9lYW5VRXYxUlFjX1ZiblR1dllLeUVIYVkxVVl0MDdtaElBYW1DTXl4dVZzbnQ1cEJlOGJmS2VXMm5BMnc2emt3LXMtNnQ3X1liZVFQMVJYU0xDN0VEeDZ2VXowRlk4?oc=5",
+          "desc": "Upscale AI, respaldada por Nvidia, lanza una plataforma para conectar chips de proveedores de la competencia TradingView",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:00:41+00:00"
+        },
         {
           "title": "Microsoft afirma que su nueva laptop de USD $2.600 con chip Nvidia supera a los MacBook",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR1FIWVdHaV9xd20xMldRQXpiVkYxTk82N3ByOFVsNG5lOXdzNEo4UW52a1ZzcWstRWlPUTUtY0txM3JUMW1VZXpFY0ZDdUhrZnh5UjM3ZkFnUGdHRDRaZmhLODFGdmJlelNULXJzZHR5aUFPQklLWi0yc0pBYzhSeEhhV2Q5bGVUUF9IWE5NRGVkRWo2bHlRdlFmVlUyWEVIbEFxZkdVUVByRWhzRmVLSGFDcHJPa0E1R0thajN5eXJCdjRJZGMw?oc=5",
@@ -993,13 +1028,6 @@
           "fecha": "2026-10-08T09:28:52+00:00"
         },
         {
-          "title": "Samsung supera pruebas de calidad de Nvidia para nuevo chip de memoria - Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JGLVNweWR5dzE5RnhDSFpKdGxac0ZFeDdtdVEzWlhLYnRDcVRIMmxsX0RzWGh3TXdGTHdDRXhhS1RZbEtiWS1OUTRSMXFUMGROVUkyeFg5T0E2SktHbGoxdzl5ajQ3QVhaUzhEa1hhUTdINmx2eFBFSE5WMHI1R1ZHWDJnNlljVzgzMnRHbFRqNENJRXBvUGdCdUFrazduZk5tM1h6LVVxV0EydEFmdGw5a0VQQV84QS1NcVF5akVJM19zMTRqaTRSNA?oc=5",
-          "desc": "Samsung supera pruebas de calidad de Nvidia para nuevo chip de memoria Investing.com México - Finanzas, Bolsa y Forex",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T08:54:07+00:00"
-        },
-        {
           "title": "Samsung supera las pruebas de calidad de Nvidia para su nuevo chip de memoria",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTBIeHpScGxZZHNZWVZBSjkta1ZLRHk1N0dJMm5VN3BJS0VHa2ZIUXh1M3NXZGk3LUJ5QlN1RVJob3FwbGpzLXhEazh6ckNBZzRIN25Lejl0bDAwTUdXanlBUWx6aHNQSTdjUV94MVJLZGdiaEpKQUtxOXhjN1lETlZTYmExSGExZm02OVU0Z0g2eTd3ZFhqSFpnR05pM3ZrRGRnek8tZGs4MzZ5dXFnZmZYeVVqZHBPRGZWdVl1aklkdE9KUU9uUWktWWdGUlRiclBDQQ?oc=5",
           "desc": "Samsung supera las pruebas de calidad de Nvidia para su nuevo chip de memoria Investing.com España",
@@ -1014,39 +1042,11 @@
           "fecha": "2026-10-08T08:39:33+00:00"
         },
         {
-          "title": "SpaceX busca 40.000 millones de dólares para comprar chips de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbm1HajhHRFdaYTZ0NVpzNm9SUmp5Z2pWNFc4VUFRZU1BdUE4UlE4NWtEdWNVTmVkek5jVDBnLVdfc21XblREUWhMeVJ3VnlGV0h5Sk1nbTBpV2d0X3hfZjJwbm5LNmU0Wm5UOVZXU2tMVlJubGVLdW1vRE12aDZEX2RCeXh2bHhhSUFoYXQxX2FSdDJqdFJvUWNJUV9Td9IBowFBVV95cUxQbkczNUU2YWhra296UnlCX1BDWnZwSnQtTFFVcXJhSTZGdFppZmo4MEVOVXZDOFI0ZzFRcUFmeGdWOFpDYk8tY3lhOUFDbkxIclByWE1xckhIUkYyV25VRm50bUZrNUg4cGF5dHR2TFF1M3NkRS1WM3RsZ3hmY0VaZk8yNU9TeFI0NmRoUmxkNVNsNUJRcDhFSU9ucTBEeFdOa3o0?oc=5",
-          "desc": "SpaceX busca 40.000 millones de dólares para comprar chips de Nvidia La Vanguardia",
+          "title": "Microsoft presenta el Surface Laptop Ultra con chip Nvidia RTX Spark",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWS1LSllmX0xKelFudzEwOTVkRTVBZjRVZ1NaN3R5Z29rR2lJUk10RlpVMHlFUzVzV0pQVnZIQldwR21tRjdvbFU3ZHlhRFRRYlpyazdnZnRtWnJ0M3dzME9taERDREhzbkpGMkx2RVdYQ1JRMlVueGdnaDVMbkdyLThiV1ZhWUFJVEJRR1dJWHhZSDFiazhqYmNLTFRCNS03ajR0eVppRXVIbVN3T0xHQ2lXMXBrcDFLSmJFLVdvai0?oc=5",
+          "desc": "Microsoft presenta el Surface Laptop Ultra con chip Nvidia RTX Spark El Nacional.cat",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T07:21:43+00:00"
-        },
-        {
-          "title": "Microsoft quiere llevar la IA del centro de datos a tu PC, pero aprovecharla te costará 6.000 dólares",
-          "link": "https://www.20minutos.es/tecnologia/moviles-dispositivos/microsoft-quiere-llevar-ia-centro-datos-pc-aprovecharla-maximo-costara-6000-dolares_7046335_0.html",
-          "desc": "Dicho portátil está equipado con una GPU Nvidia RTX Spark, un sistema térmico avanzado que ofrece hasta 128 GB de memoria unificada y un rendimiento de 1 petaflip de IA FP4.",
-          "source": "https://www.20minutos.es/rss/",
-          "fecha": "2026-10-08T08:30:38+02:00"
-        },
-        {
-          "title": "NVIDIA RTX Spark llega a Windows para ejecutar agentes de IA en tu PC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12TnJvTlRyeU5SMjFCb1lHdHlqVllia1RsV2hQc3RkT2dUQmVMS0JHYy1pR01LTmNVZjB6YXVZNHRPMHFiRmQ2VnhpbkdzLW9xRVpuM01EM2MzVWhTZ0VoejZxQjF2TndJNkhYYV9FMHRzakFZUnNvVg?oc=5",
-          "desc": "NVIDIA RTX Spark llega a Windows para ejecutar agentes de IA en tu PC OneDigital",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T06:30:15+00:00"
-        },
-        {
-          "title": "Los portátiles con NVIDIA RTX Spark serán compatibles con cientos de juegos desde su lanzamiento",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUlpKSUN1QS1IaU4wcTljb1RWMkxIenM5UHJIRE1uZ3c2bXNJbkxOZDlCZG1zTE5hZGotZlBvaDZNSW1rY0xuUW1WT3dzdHctM0ZYZXJ5dmxXTHhwdzRaV1p0bzlWRGI0a2Z6NmpvcVhKclBhM3RoR2NBbGpLOUdXMWJ3Um00LXZlTGxvQ2o2VS1GMmNhbHpSTHB2aTA1RE85WUdYLXl2N1NEdjNEZUFONHE4d3pvbExybUpSNkp2UU1UbWpwanMzX0g5YkpoYXFmZVBUMHpWTQ?oc=5",
-          "desc": "Los portátiles con NVIDIA RTX Spark serán compatibles con cientos de juegos desde su lanzamiento Geeknetic",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T05:44:38+00:00"
-        },
-        {
-          "title": "SpaceX dispara su riesgo crediticio tras buscar US$40.000 millones para chips de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWxMWldLZzFuMlJhdi1UVXhHeHhhelFGaHdiUHI4Uk1NbUhrT0x1LUpfNHJQWFNzMWl2N0dkUkRMM3UtdW9TbFFobzRERGM4ZGV4V2dnNXQ5QXNKVEtLV2YzbXlUbEJkcUI0eWs3Q19FN2hNQ1FfN1pISFk5dWpUWFFwU21HdVR2Y2tQNkhGdXk0bVZ3NXBhMEpPUDlSLTVCQXhyUm5ZMTVaOGVrbFgzNEFkQVVaTzBha1NrZzBfUHJ6c19f0gHYAUFVX3lxTE4xYmtsVE1mWllKb0RSNlFkY0FjckJRSEZpS0xTNHVzc0ljV19pNmpJYU8wVnRsOHFsUlFLcFBxSTB1NEN1eFlsWEhyanlYcUlGOTg4RVZ4TEpWUXYya04ySjRudEdMZzlzeDdsRTN3ekxFWG5UU19YcEVqUFVVeVhJeXI5dExZYkc3X29BWENNdmdKeWFIN2FfUVYxY1FLcGNiVXR4Uk42YU1KWG9JX0RzR2k2SnFqY1pPSzFrbFRLc0FSTzZIdTE4WmEzU2VLem9PY3RuQmRRWQ?oc=5",
-          "desc": "SpaceX dispara su riesgo crediticio tras buscar US$40.000 millones para chips de Nvidia Bloomberg Línea",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T05:31:47+00:00"
+          "fecha": "2026-10-08T08:30:00+00:00"
         }
       ]
     },
@@ -1074,6 +1074,20 @@
       "nombre": "AMD",
       "icono": "🖥️",
       "items": [
+        {
+          "title": "AMD IBS Memory Profiler para Zen 6: características técnicas",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbi1uUDZaWTZtaDBoRUJaeWlVU2hvS3lKenlJaUJlSEJHUWJhNEx0Y3lYNHlvYThwSEJiNXdDeTZqcHlWYnVEUklVaHdENzRRYXZmZENGMVJzVC0yZDdQY243NWtOdkZ5TnhDX0tGNXhjM3ZVZnpMYmNTODNuR1AzOUxB?oc=5",
+          "desc": "AMD IBS Memory Profiler para Zen 6: características técnicas El Chapuzas Informático",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T12:21:36+00:00"
+        },
+        {
+          "title": "AMD's EPYC Verano AI host CPU will reportedly use a special SB1 socket",
+          "link": "https://www.tomshardware.com/pc-components/cpus/amds-epyc-verano-ai-host-cpu-will-reportedly-use-a-special-sb1-socket-zen-6-chip-pairs-72-cores-with-a-24-channel-lpddr5x-memory-subsystem",
+          "desc": "Dynatron quietly unveils air cooler for AMD's EPYC 'Verano' CPUs aimed at AI servers.",
+          "source": "https://www.tomshardware.com/feeds.xml",
+          "fecha": "2026-10-08T12:00:00+00:00"
+        },
         {
           "title": "AMD confirma que FSR 4 llegará a las APU a finales de 2026",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHgzMTF6b1dWZzJtMHpvSVVfNkc4Um9IWjFLVnlZU0tFc3hZS1JKeU5jUDQyNGEzalZoWXdZNXhCeWduY21ZVVZVZVR3bVFKODB3VHp6TzBFN0xtMlU0amJkbjVnQTlWRG5vUjRwSWx0LU0xbzEyMVl1Z2x4bmFoNmRlUF9CbGlYUUFVRVpNZWkxWE9fWkE?oc=5",
@@ -1103,6 +1117,13 @@
           "fecha": "2026-10-08T10:45:35+00:00"
         },
         {
+          "title": "AMD y Samsung exploran la fabricación por contrato",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemhYWEl0ZEs2dFRnbXplTVhTQlR0UTZpY2RZWks0M29NX2hRRFJYNVo0QzFpUC1ITC10Mk1OVC1tdDRMUC1aQnBycGlHVVFvMFpQQUFvTHRUcVdpcGhpUkZMak1qRDFWbER3TGZVNzBjQ3lUTERCdlV2MzFDVlh3Nk1DNE10WnlFR2c5Vm5kNklmVUEtRGxDUERnRjUyRThPS2FnVTdUNA?oc=5",
+          "desc": "AMD y Samsung exploran la fabricación por contrato NeoTeo",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-08T09:33:04+00:00"
+        },
+        {
           "title": "Pronóstico de las acciones de AMD: Citi eleva su precio objetivo a $800 ya que las expectativas de expansión del mercado de CPU podrían respaldar continuas ganancias en la acción",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVW9jVTV5UjRfQlB3U0tYNWQ1OHNldzNUR19ud3k2Wkt1Y2lySVBUVnh3c0w1VXo5Tmo0YmsxTGxreVVIdHhBVVlDMlE4aTAybFB0QUN6WmRXbF82czhGanJ1RVV5Z05HeWFJT01sTFY1blRnNEcxdktJOXBxUnVTM0VrSVZNWHF2MU9mOEstVmgzeC1rYWc3X3c3LWUzU0ZEeXlXdVc2NkhtVE1MQTlTZWU0Uk5mNTk2SHk3WHpObWRIWVZK?oc=5",
           "desc": "Pronóstico de las acciones de AMD: Citi eleva su precio objetivo a $800 ya que las expectativas de expansión del mercado de CPU podrían respaldar continuas ganancias en la acción TradingKey",
@@ -1129,13 +1150,6 @@
           "desc": "AMD está preparando FSR 4 para PC portátiles. Root-Nation.com Root-Nation.com",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-08T08:19:32+00:00"
-        },
-        {
-          "title": "AMD y Samsung exploran la fabricación por contrato",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemhYWEl0ZEs2dFRnbXplTVhTQlR0UTZpY2RZWks0M29NX2hRRFJYNVo0QzFpUC1ITC10Mk1OVC1tdDRMUC1aQnBycGlHVVFvMFpQQUFvTHRUcVdpcGhpUkZMak1qRDFWbER3TGZVNzBjQ3lUTERCdlV2MzFDVlh3Nk1DNE10WnlFR2c5Vm5kNklmVUEtRGxDUERnRjUyRThPS2FnVTdUNA?oc=5",
-          "desc": "AMD y Samsung exploran la fabricación por contrato NeoTeo",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-08T06:48:25+00:00"
         },
         {
           "title": "AMD llevará su tecnología de escalado FSR 4.1 a sus APUs presentes en consolas y portátiles antes de terminar el 2026",
@@ -1227,20 +1241,6 @@
           "desc": "HPE lanza cuatro nuevos servidores con tecnología AMD como parte de su gama ProLiant Gen13 Data Center Dynamics",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-07T15:30:24+00:00"
-        },
-        {
-          "title": "Minisforum ESP4B lleva el chipset AMD B850 a una tarjeta PCIe con cuatro ranuras M.2",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGoyTVEyM1dLQlc3V3JPUGI0bk9KTFNLSUJxZzVhWTc1VE50ckNqYUYydWVoUUc2OE5SOVg5QVdfMmsxMjlRaV9GdThOWnZ6R295bzhJWnAyNi1lVVhkeWpmREYwdUVDTm9VdzQwbUdiMF9kYWdMNHJVZlJycl9xc3hVNmo3WlRYcGREeU80UlpYeXdrd1MwZHQ4Q0VZSmp3ZHhzODhwVU11OWtzd1JzUVd1QTFrdzRTRVE?oc=5",
-          "desc": "Minisforum ESP4B lleva el chipset AMD B850 a una tarjeta PCIe con cuatro ranuras M.2 Fanáticos del Hardware",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-07T14:28:55+00:00"
-        },
-        {
-          "title": "Citi Raises AMD Price Target to $800 on Meta AI Demand",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXNJZ3VlWjZjWFVtTVE2R0xYRVcxNURUNXgta05lSGJCd0RzN3ExRGpKbTRKZzMzOVZYT2toS2JKLU5TRnVVV0Y3MkdIQnJKbW9kMlZJeWxjb3VBQm5KVkV3c3I4MFdSM1RxSy1ETEhEVlBzNEEzZ1dlYXhYd1lySGJBOWZZd2tkSjZj?oc=5",
-          "desc": "Citi Raises AMD Price Target to $800 on Meta AI Demand TIKR.com",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-07T13:32:53+00:00"
         }
       ]
     }
