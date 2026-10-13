@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T13:30:08.799156+00:00",
+  "generado": "2026-10-13T14:00:05.864299+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -15,7 +15,7 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXR3V2F0M3BLRWFxLW10blBGZ0c0TmZ2TDYtNlg5TDQzVVBvQlB0RFR0OEpnNXlLRzF6ZTYwcEhlVHJvb0xjeDR6OTByY1ZGNGJXUjYyeUkxZTVYOXkwRl9mQndydGM0Ukg4WVNheG5vZUdsNndTRUMtVEZrOHNBUjRhZ1QyYTA4YWJIc3o3WFA3OW42U284MGg2Q2hCZ9IBowFBVV95cUxOck5EU25vSV9pWnNQUWs0VnlEVFJIajZ2Y2d0cVQ1Y042dnd0N244QUhiaERfYk1aeGphSVk3WEc5ZHJ6U01iV052ZzRnaVM4TTJsa1BRMVlKV0tYbTFTVHRwcHhNZWZzbFFZOTdQV2diRVN0RXVnMHU5QzFqYW8xcWN0YUVJVUVfWnZfSEdMQy1EWkNuUk9SeVhKM0dfTFFhVnNR?oc=5",
           "desc": "Directo | La rueda de prensa de Luís Castro tras el Levante UD - Sevilla FC Superdeporte",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T13:26:29+00:00"
+          "fecha": "2026-10-13T13:56:31+00:00"
         },
         {
           "title": "El peaje por perder el control",
@@ -158,13 +158,6 @@
           "fecha": "2026-10-13T06:05:31+00:00"
         },
         {
-          "title": "Lesión de Miguel Sierra: qué le ha pasado al jugador del Sevilla FC y cuánto tiempo podría estar de baja",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMjFPY25XVGp4V2xsM0M4TW50cWktY3pvazk2TS11ZnVwbTBpLWFrRkRNMnFNZGtXWVNkbFFWdlJqRkZvZTFwTE84WThOb09oeW9ZU2NaQmk0Y1hTeDNGcl9SVW54YnRrclktLThoX05TdWNuOWRDbzMySzRGT0E4UTlPdmJVTDNQZFFFSHZSRHlaazg0eEQ2MGkwZnhYbGlVM3dQT1hoQjc4WEszazBtNTZGS2dUM21sajJ4Uk45NmR6R2twbUdlcGcwMWN2QTFOZGl6OXdkZ0FtcWxIdTFtYkpyMktUUEU?oc=5",
-          "desc": "Lesión de Miguel Sierra: qué le ha pasado al jugador del Sevilla FC y cuánto tiempo podría estar de baja El Pespunte",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T05:27:40+00:00"
-        },
-        {
           "title": "LUIS GARCÍA: \"CUANDO HACES UN PARTIDO FUERA CON TANTAS OCASIONES, HAY QUE MATARLO\"",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTko2NHVGTmpaN2tWeXFTM0sxVjhFdW1qUXRZM2d2cmIzc2Q1S0pLeUZSRkNtOFc1ODhjY3ZHTk1YTGgxVjVHYlI5VzRwVGFUejh4LUNWa1ZUV3dHZ3NvS05XNFN3M2dtdEMtZG1LbnE0YUpXaVpZbHRSQnNHOC04Zlp2LVJWNTRJVlpzcHNZWnFCZFlJd1Y2WG90UlY4S1dtam1zNTRzTFBuQi1NVjNVZw?oc=5",
           "desc": "LUIS GARCÍA: \"CUANDO HACES UN PARTIDO FUERA CON TANTAS OCASIONES, HAY QUE MATARLO\" Sevilla FC",
@@ -177,6 +170,13 @@
           "desc": "RESUMEN | Levante UD 3-3 Sevilla FC Levante UD | Web Oficial",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-12T23:20:37+00:00"
+        },
+        {
+          "title": "Rueda de prensa de Luís Castro tras el encuentro Levante UD-Sevilla FC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU25xWkVjWF9pWlhGeVlDYU43blIzdENSUDZVdU0zU1l3bHdQUS0yOEZtRldQNlVPUXlFS01nRk9UV2RJeUFkczhBdUhxRzM3TlR4NXhzTTllSU5pcHhEYmdoZW4xekJZTkt3QWYxY2Z1NVNEWFFpUU0yeTQ0dmFyMmVZTk40RHg3OFJPUHAzOGdhTDF5MXBISGJFbFZlNUctbDNLSzRMVkg?oc=5",
+          "desc": "Rueda de prensa de Luís Castro tras el encuentro Levante UD-Sevilla FC Levante UD | Web Oficial",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-12T23:15:36+00:00"
         }
       ]
     },
@@ -185,10 +185,31 @@
       "icono": "⚽",
       "items": [
         {
+          "title": "El 'Capitán América' vuelve a la Asobal",
+          "link": "https://www.marca.com/balonmano/2026/10/13/capitan-america-vuelve-asobal.html",
+          "desc": "El estadounidense Drew Dolin, que jugó dos temporadas en el Ademar León, ficha por el Atlético Valladolid",
+          "source": "https://www.marca.com/rss/portada.xml",
+          "fecha": "2026-10-13T15:55:35+02:00"
+        },
+        {
+          "title": "Tardozzi: \"No es verdad que Márquez se ha hecho la Ducati a su medida; eso son habladurías de bar\"",
+          "link": "https://www.estadiodeportivo.com/motor/motogp/ducati-cara-por-marc-marquez-despues-las-acusaciones-interesadas-favoritismo-hacia-20261012-548469.html",
+          "desc": "El team manager de Ducati Lenovo, David Tardozzi, dejaba claro que lo que se habla sobre la moto de Marc Márquez no es cierto Marc Márquez salió con la moral por las nubes del circuito de Mandalika después de haber podido mantener la distancia con la que llegó el viernes en un lugar donde nunca había ganado y donde las Aprilia eran claramente superiores. El piloto de Ducati Lenovo ganó el Sprint del sábado contra pronóstico y aunque acabó sexto el domingo, vio cómo su gran rival en la lucha por el campeonato, Jorge Martín, sólo era tercero , lo que le permitía recuperar los puntos perdidos el sábado y el liderato del Mundial de MotoGP, pero no sacar la ventaja con la que habría contado antes de este gran premio. Eran tan superiores las Aprilia al resto que las cuatro primeras motos en meta el domingo fueron las de esa marca. El mayor de los hermanos Márquez, una vez más, fue el mejor de Ducati y está en sus manos salvar el año de la marca italiana. Con los dos equipos de Aprilia liderando el campeonato, sólo el triunfo del de Cervera en el Mundial de Pilotos evitaría el descalabro. Marc Márquez saca más de 100 puntos a Di Giannantonio, que es la segunda Ducati, en sexta posición. Y casi 200 a su compañero de equipo, un Pecco Bagnaia que en Lombok volvió a decir adiós antes de tiempo y suma decepción tan decepción. En Italia critican a Marc Márquez y a Ducati Hay tal diferencia entre Marc Márquez y Pecco Bagnaia que en Italia ya han empezado a acusar a Ducati de estar preparando la moto para el español, en detrimento del resto, ante la necesidad de sumar el título en el último año de esta reglamentación. Amenaza de sanción para Marc Márquez Ante esto, ha tenido que salir al paso el team manager de Ducati Lenovo, un Davide Tardozzi, que es defensor acérrimo de Marc Márquez, pero que también defiende a rajatabla las normas de Ducati de darles a todos los pilotos las mismas armas . \" Estoy totalmente en contra de quienes afirman que Marc Márquez ha orientado el desarrollo de la moto a su medida. No es cierto en absoluto . He visto lo que se ha aportado, lo que han decidido los demás pilotos, así que no es en absoluto cierto que Márquez se haya hecho la moto a su medida. Eso son habladurías de bar\", señalaba molesto en Moto.it el italiano. Tardozzi confirma la igualdad en Ducati Tardozzi dejaba claro que se ha tratado a todos por igual. \"Quien participa en el desarrollo de la moto sabe perfectamente qué se ha hecho para él y qué hemos intentado hacer para los demás. Por ejemplo, para Pecco Bagnaia, aunque al final no haya salido bien\", reconoce en referencia a los esfuerzos por adaptar la moto de Bagnaia lo más posible a su forma de pilotar. \"Siempre hemos tenido la posibilidad y la capacidad de desarrollar la moto para cada piloto. Es decir, no es que si la moto le va bien a Márquez, ahora sea la misma para todos. Por ejemplo, Pecco tiene un carenado diferente al de Marc y durante mucho tiempo ha utilizado una aerodinámica distinta en el basculante. Cada uno de nuestros pilotos oficiales, incluidos Diggia y Álex, tiene la posibilidad de elegir los componentes que prefiere. Nosotros no hacemos la moto para Marc Márquez, no es así\", añade Davide Tardozzi, tratando así de zanjar el tema. ¿De verdad tiene motivos Marc Márquez para estar contento? Aunque molesto con esas habladurías, Tardozzi sí estaba contento con el resultado de Indonesia . \"Si nos fijamos únicamente en el resultado, para nosotros es un éxito. El verdadero problema sigue siendo que Aprilia ha demostrado ser superior, aunque esperábamos que lo fuera un poco menos\", admite. \" Los próximos circuitos nos darán más información, especialmente Phillip Island, donde hay curvas muy rápidas que, en mi opinión, pueden favorecer a Aprilia cuando la moto alcanza su máximo ángulo de inclinación. Ya veremos . Si conseguimos defendernos allí, creo que el Mundial será manejable. Todavía quedan 185 puntos en juego y estamos a solo dos puntos\", avisa sobre lo que puede dar de sí el gran premio de la próxima semana.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-13T13:40:31+00:00"
+        },
+        {
           "title": "La 'première' de Chavarría enamora a una leyenda de la Premier: \"¡Parece un verdadero jugador de fútbol!\"",
           "link": "https://www.marca.com/futbol/premier-league/2026/10/13/premiere-chavarria-enamora-leyenda-premier-parece-verdadero-jugador-futbol.html",
           "desc": "El ex del Rayo repartió ante el Bournemouth su primera asistencia con el Chelsea",
           "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-10-13T15:17:01+02:00"
+        },
+        {
+          "title": "Chavarría ya enamora: \"¡Parece un verdadero jugador de fútbol!\"<br>",
+          "link": "https://www.marca.com/futbol/premier-league/2026/10/13/premiere-chavarria-enamora-leyenda-premier-parece-verdadero-jugador-futbol.html",
+          "desc": "El ex del Rayo repartió ante el Bournemouth su primera asistencia con el Chelsea",
+          "source": "https://www.marca.com/rss/portada.xml",
           "fecha": "2026-10-13T15:17:01+02:00"
         },
         {
@@ -255,9 +276,9 @@
           "fecha": "2026-10-13T14:12:56+02:00"
         },
         {
-          "title": "Rufián pide que ERC y Comuns \"se entiendan\" y su partido replica que se presentarán con sus siglas",
+          "title": "Rufián pide que ERC y Comuns \"se entiendan\" y su partido replica que se presentará con sus siglas",
           "link": "https://www.eldiario.es/catalunya/rufian-pide-erc-comuns-entiendan-partido-replica-presentaran-siglas_1_13581810.html",
-          "desc": "El candidato de ERC insiste en una fórmula de unidad que vaya más allá de Podemos después de que ambos cerrasen el pasado fin de semana un acuerdo que dificulta las candidaturas únicas del conjunto de la izquierda fuera de Catalunya El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse Gabriel Rufián no ha tenido suficiente con el acuerdo alcanzado entre su partido y Podemos el pasado fin de semana e insiste en buscar más fórmulas de unidad. Este marte se ha referido específicamente a los Comuns para reclamar a su formación que “hable, escuche y se entienda” con ellos para “desbloquear la situación”. Una petición a la que su propio partido ha respondido de inmediato con la mano tendida para hablar con los de Ada Colau pero con una línea roja clara: ERC se presentará en Catalunya con sus propias siglas y programa. Es decir, cualquier fórmula de unidad, según los republicanos, pasaría por que los Comuns aceptasen ir bajo la marca de Esquerra. Esto no entra en los planes del partido de Colau, que este mismo martes ha asegurado que el modelo pactado entre ERC y Podemos por el que los morados se presentaran en Catalunya dentro de las listas de los republicanos, no es replicable para los Comuns. El diputado Gerardo Pisarello ha sostenido que la línea roja de su formación es que los republicanos respeten su “singularidad”. “Ninguna fuerza se va a diluir sin más”, ha dicho, en un mensaje muy similar al lanzado por ERC. Por su parte, los republicanos han celebrado este martes el acuerdo con la formación de Irene Montero anunciado en los últimos días, en una rueda de prensa en la que, por primera vez, han respondido preguntas sobre la entente alcanzada. “Podemos ha entendido que el mejor muro contra la extrema derecha es ERC”, han proclamado. Según ha indicado el portavoz de Esquerra, Isaac Albert, la fórmula electoral supone que ERC se presente con su propia marca, listas y programa, tal y como se habían comprometido y, además, hacerlo en colaboración con un Podemos que ha aceptado no presentarse en Catalunya. “Podemos contribuirá a las listas de ERC y Gabriel Rufián e Irene Montero compartirán actos en Barcelona y Madrid”, ha asegurado Albert, que ha recordado que no habrá una coalición, por lo que, pese a que incluirán a miembros del partido morado en sus candidaturas, todos los diputados que acaben elegidos responderán ante ERC y no ante ninguna otra formación. Fuentes de los republicanos detalla, sin embargo, que los puestos reservados para los candidatos propuestos por Podemos no son exactamente de salida, ya que irían en las listas de Barcelona y Tarragona por detrás de los puestos que tienen actualmente, es decir, por detrás del 5 en la primera provincia y del 2 en la segunda. Eso significa que ERC debería mejorar de forma importante sus resultados respecto a 2023 para que candidatos morados obtengan actas en Catalunya. El representante de ERC no ha querido opinar respecto a si su acuerdo con Podemos ha dificultadoo la integración de esa formación en el Frente Amplio. Como tampoco se ha querido referir a la aparente contradicción sobre la idea de una candidatura uniendo todas las izquierdas con el resultado final, en el que solo hay un acuerdo bilateral entre dos formaciones, una de ellas –Podemos– extraparlamentaria en Catalunya.",
+          "desc": "El candidato de ERC insiste en una fórmula de unidad que vaya más allá de Podemos después de que ambos cerrasen el pasado fin de semana un acuerdo que dificulta las candidaturas únicas del conjunto de la izquierda fuera de Catalunya El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse Gabriel Rufián no ha tenido suficiente con el acuerdo alcanzado entre su partido y Podemos el pasado fin de semana e insiste en buscar más fórmulas de unidad. Este martes se ha referido específicamente a los Comuns para reclamar a su formación que “hable, escuche y se entienda” con ellos para “desbloquear la situación”. Una petición a la que su propio partido ha respondido de inmediato con la mano tendida para hablar con los de Ada Colau pero con una línea roja clara: ERC se presentará en Catalunya con sus propias siglas y programa. Es decir, cualquier fórmula de unidad, según los republicanos, pasaría por que los Comuns aceptasen ir bajo la marca de Esquerra. Esto no entra en los planes del partido de Colau, que este mismo martes ha asegurado que el modelo pactado entre ERC y Podemos por el que los morados se presentaran en Catalunya dentro de las listas de los republicanos, no es replicable para los Comuns. El diputado Gerardo Pisarello ha sostenido que la línea roja de su formación es que los republicanos respeten su “singularidad”. “Ninguna fuerza se va a diluir sin más”, ha dicho, en un mensaje muy similar al lanzado por ERC. Por su parte, los republicanos han celebrado este martes el acuerdo con la formación de Irene Montero anunciado en los últimos días, en una rueda de prensa en la que, por primera vez, han respondido preguntas sobre la entente alcanzada. “Podemos ha entendido que el mejor muro contra la extrema derecha es ERC”, han proclamado. Según ha indicado el portavoz de Esquerra, Isaac Albert, la fórmula electoral supone que ERC se presente con su propia marca, listas y programa, tal y como se habían comprometido y, además, hacerlo en colaboración con un Podemos que ha aceptado no presentarse en Catalunya. “Podemos contribuirá a las listas de ERC y Gabriel Rufián e Irene Montero compartirán actos en Barcelona y Madrid”, ha asegurado Albert, que ha recordado que no habrá una coalición, por lo que, pese a que incluirán a miembros del partido morado en sus candidaturas, todos los diputados que acaben elegidos responderán ante ERC y no ante ninguna otra formación. Fuentes de los republicanos detalla, sin embargo, que los puestos reservados para los candidatos propuestos por Podemos no son exactamente de salida, ya que irían en las listas de Barcelona y Tarragona por detrás de los puestos que tienen actualmente, es decir, por detrás del 5 en la primera provincia y del 2 en la segunda. Eso significa que ERC debería mejorar de forma importante sus resultados respecto a 2023 para que candidatos morados obtengan actas en Catalunya. El representante de ERC no ha querido opinar respecto a si su acuerdo con Podemos ha dificultado la integración de esa formación en el Frente Amplio. Como tampoco se ha querido referir a la aparente contradicción sobre la idea de una candidatura uniendo todas las izquierdas con el resultado final, en el que solo hay un acuerdo bilateral entre dos formaciones, una de ellas –Podemos– extraparlamentaria en Catalunya.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-10-13T12:09:28+00:00"
         },
@@ -330,27 +351,6 @@
           "desc": "Investigadores de más de 30 países exigen desconectar de Internet a los sistemas capaces de ciberatacar objetivos y la reación de un organismo internacional que monitorice los fallos de seguridad OpenAI detectó los ciberataques de su IA pero decidió no apagarla para no retrasar sus planes comerciales Más de 400 investigadores en inteligencia artificial y ciberseguridad de una treintena de países han publicado este martes una carta abierta en la que reclaman “cambios inmediatos en las prácticas de desarrollo y despliegue de IA” para evitar que ponga en peligro la seguridad mundial. La misiva hace especial hincapié en que las multinacionales y laboratorios que desarrollan los modelos de frontera, especialmente aquellos denominados “agentes” , están cometiendo una “negligencia irresponsable” con sus “prácticas estándar de ciberseguridad”. La carta , firmada por especialistas de universidades y centros de investigación de todo el mundo y que sigue sumando ratificaciones, plantea tres exigencias a los gobiernos y las empresas tecnológicas. Entre ellas, destaca la petición de desconectar de Internet a los modelos de IA con capacidad de lanzar ciberataques, así como aislarlos en “sistemas de contención de alta seguridad”. Esta exigencia llega después de la salida a la luz de que empleados de OpenAI avisaron a la dirección de la empresa de que sus agentes estaban teniendo comportamientos peligrosos, pese a lo que la dirección de la empresa decidió no frenar los experimentos para no retrasar sus planes comerciales. Alertas que llegaron semanas antes del ciberataque masivo contra Hugging Face —una plataforma de desarrollo de IA que 1.200 agentes de OpenAI hackearon, intentando cumplir las tareas que les había encomendado la compañía— o contra webs oficiales del gobierno australiano . Anthropic, Google y Meta también han revelado incidentes similares. “Varias organizaciones han revelado fallos de seguridad de gran repercusión: sus modelos de IA eludieron entornos insuficientemente aislados para comprometer los sistemas de organizaciones externas”, recuerda la carta. “Sin cambios inmediatos en las prácticas de desarrollo e implementación de la IA, estos incidentes seguirán ocurriendo, y los futuros serán mucho más perjudiciales para nuestra infraestructura crítica expuesta”. Por ello, los firmantes, entre los que se encuentra la investigadora española Carmela Troncoso (directora científica del Instituto Max Planck para la Seguridad y la Privacidad, con sede en Alemania), solicitan la creación de un organismo internacional encargado de fijar los protocolos de seguridad necesarios para investigar IA avanzada. Esa entidad también debería ser “tener la obligación de registrar y hacer un seguimiento de los fallos de contención”, opinan los científicos. “Para aprender de los errores futuros —en los que no se logra el equilibrio adecuado y ocurren incidentes— necesitamos un mayor intercambio de información y transparencia sobre las fallas de contención en el futuro”, justifican. Opacidad Una capacidad que se relaciona directamente con su tercera petición: “Para garantizar que la investigación sobre seguridad y contención de la IA pueda aprender de los errores, los incidentes de seguridad relacionados con fallos de contención deben notificarse al organismo correspondiente y, posteriormente, hacerse públicos”. La carta destaca que la “transparencia es necesaria tanto para el aprendizaje como para la rendición de cuentas”. La crítica contra la opacidad en la que operan las multinacionales y laboratorios en el desarrollo de IA de frontera está cada vez más presente en la comunidad científica internacional. El panel de 40 expertos independientes creado por la ONU ya situó la “asimetría de información entre las empresas y la sociedad” como uno de los grandes problemas estructurales de esta tecnología . En su informe, los especialistas avisaron de que esta falta de transparencia evita que los gobiernos y los ciudadanos puedan evaluar correctamente sus riesgos.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-10-13T11:27:06+00:00"
-        },
-        {
-          "title": "Netflix adquiere los derechos audiovisuales en España del Mundial de 2030",
-          "link": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html",
-          "desc": "La plataforma ofrecerá la cobertura íntegra de los 104 partidos del torneo, incluyendo un encuentro gratuito por jornada y un acuerdo con una cadena en abierto para los encuentros de la selección española, las semifinales y la final",
-          "source": "https://www.marca.com/rss/futbol.xml",
-          "fecha": "2026-10-13T13:21:53+02:00"
-        },
-        {
-          "title": "¡Netflix se queda el Mundial de España!",
-          "link": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html",
-          "desc": "La plataforma ofrecerá la cobertura íntegra de los 104 partidos del torneo, incluyendo un encuentro gratuito por jornada y un acuerdo con una cadena en abierto para los encuentros de la selección española, las semifinales y la final",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-10-13T13:21:53+02:00"
-        },
-        {
-          "title": "Netflix adquiere los derechos exclusivos para España y Andorra del Mundial de fútbol 2030",
-          "link": "https://elpais.com/television/2026-10-13/netflix-adquiere-los-derechos-exclusivos-para-espana-y-andorra-del-mundial-de-futbol-2030.html",
-          "desc": "La plataforma, en un movimiento inédito, ofrecerá en directo los 104 partidos de la competición. Otra cadena nacional podrá dar también un paquete de encuentros, entre ellos, los de España",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-10-13T11:12:33+00:00"
         }
       ]
     },
@@ -359,53 +359,67 @@
       "icono": "🏎️",
       "items": [
         {
+          "title": "Who impressed our Power Rankings judges in Singapore?",
+          "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-singapore-grand-prix.5QlX11s0CnF9CNnoa0H2O2",
+          "desc": "Max Verstappen was in a class of his own in Singapore last weekend, as he finally claimed victory at the Marina Bay Street Circuit. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below...",
+          "source": "https://www.formula1.com/en/latest/all.xml",
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
+        },
+        {
           "title": "Everything we know about F1’s all-new race in Rwanda",
           "link": "https://www.formula1.com/en/latest/article/everything-we-know-about-f1s-all-new-race-in-rwanda.3Mde3s9FqIOTbkzKs0Puwo",
           "desc": "Formula 1 is heading back to Africa after agreeing a 10-year deal to race in Rwanda in the early 2030s. To get you up to speed, here’s what we know...",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
         },
         {
           "title": "F1 returns to Africa with 10-year deal to race in Rwanda",
           "link": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES",
           "desc": "Formula 1 has announced a landmark 10-year agreement to bring the sport back to the African continent, with the Formula 1 African Grand Prix, presented by Visit Rwanda, set to join the calendar in the early 2030s.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
         },
         {
           "title": "When is the earliest Antonelli could win the title?",
           "link": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy",
           "desc": "As Kimi Antonelli continues to lead the standings, F1.com looks at the permutations for when the Mercedes driver could mathematically win the World Championship.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
         },
         {
           "title": "Mekies hails ‘outstanding’ Verstappen in Red Bull resurgence",
           "link": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY",
           "desc": "Laurent Mekies has identified the important role Max Verstappen has played in Red Bull's 2026 turnaround.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
         },
         {
           "title": "How Norris' radio offer supported Stella's team-first ethos",
           "link": "https://www.formula1.com/en/latest/article/how-norris-radio-offer-confirmed-that-stellas-team-interest-message-has-worked.7hsFO5Pn6GVkid4c8BYMYN",
           "desc": "After clashing with his team mate in the Singapore Sprint, Lando Norris put effort into proving that he could prioritise McLaren's interests.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
         },
         {
           "title": "Vote for Your Heineken® F1 Season Ticket Winner",
           "link": "https://www.formula1.com/en/latest/article/vote-for-your-heineken-r-f1-season-ticket-winner.6pVzBqxOb38IOC4E71ZQLl",
           "desc": "",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
         },
         {
           "title": "Wolff wary of Red Bull's growing threat to Mercedes",
           "link": "https://www.formula1.com/en/latest/article/its-full-on-wolff-wary-of-growing-red-bull-threat-to-mercedes.6maHMRSn0IJZPbu3GkUVzX",
           "desc": "Toto Wolff admits he is wary of the growing threat that Red Bull could pose to Mercedes, after Max Verstappen claimed a dominant victory in the Singapore Grand Prix.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T13:30:08.799156+00:00"
+          "fecha": "2026-10-13T14:00:05.864299+00:00"
+        },
+        {
+          "title": "Tardozzi: \"No es verdad que Márquez se ha hecho la Ducati a su medida; eso son habladurías de bar\"",
+          "link": "https://www.estadiodeportivo.com/motor/motogp/ducati-cara-por-marc-marquez-despues-las-acusaciones-interesadas-favoritismo-hacia-20261012-548469.html",
+          "desc": "El team manager de Ducati Lenovo, David Tardozzi, dejaba claro que lo que se habla sobre la moto de Marc Márquez no es cierto Marc Márquez salió con la moral por las nubes del circuito de Mandalika después de haber podido mantener la distancia con la que llegó el viernes en un lugar donde nunca había ganado y donde las Aprilia eran claramente superiores. El piloto de Ducati Lenovo ganó el Sprint del sábado contra pronóstico y aunque acabó sexto el domingo, vio cómo su gran rival en la lucha por el campeonato, Jorge Martín, sólo era tercero , lo que le permitía recuperar los puntos perdidos el sábado y el liderato del Mundial de MotoGP, pero no sacar la ventaja con la que habría contado antes de este gran premio. Eran tan superiores las Aprilia al resto que las cuatro primeras motos en meta el domingo fueron las de esa marca. El mayor de los hermanos Márquez, una vez más, fue el mejor de Ducati y está en sus manos salvar el año de la marca italiana. Con los dos equipos de Aprilia liderando el campeonato, sólo el triunfo del de Cervera en el Mundial de Pilotos evitaría el descalabro. Marc Márquez saca más de 100 puntos a Di Giannantonio, que es la segunda Ducati, en sexta posición. Y casi 200 a su compañero de equipo, un Pecco Bagnaia que en Lombok volvió a decir adiós antes de tiempo y suma decepción tan decepción. En Italia critican a Marc Márquez y a Ducati Hay tal diferencia entre Marc Márquez y Pecco Bagnaia que en Italia ya han empezado a acusar a Ducati de estar preparando la moto para el español, en detrimento del resto, ante la necesidad de sumar el título en el último año de esta reglamentación. Amenaza de sanción para Marc Márquez Ante esto, ha tenido que salir al paso el team manager de Ducati Lenovo, un Davide Tardozzi, que es defensor acérrimo de Marc Márquez, pero que también defiende a rajatabla las normas de Ducati de darles a todos los pilotos las mismas armas . \" Estoy totalmente en contra de quienes afirman que Marc Márquez ha orientado el desarrollo de la moto a su medida. No es cierto en absoluto . He visto lo que se ha aportado, lo que han decidido los demás pilotos, así que no es en absoluto cierto que Márquez se haya hecho la moto a su medida. Eso son habladurías de bar\", señalaba molesto en Moto.it el italiano. Tardozzi confirma la igualdad en Ducati Tardozzi dejaba claro que se ha tratado a todos por igual. \"Quien participa en el desarrollo de la moto sabe perfectamente qué se ha hecho para él y qué hemos intentado hacer para los demás. Por ejemplo, para Pecco Bagnaia, aunque al final no haya salido bien\", reconoce en referencia a los esfuerzos por adaptar la moto de Bagnaia lo más posible a su forma de pilotar. \"Siempre hemos tenido la posibilidad y la capacidad de desarrollar la moto para cada piloto. Es decir, no es que si la moto le va bien a Márquez, ahora sea la misma para todos. Por ejemplo, Pecco tiene un carenado diferente al de Marc y durante mucho tiempo ha utilizado una aerodinámica distinta en el basculante. Cada uno de nuestros pilotos oficiales, incluidos Diggia y Álex, tiene la posibilidad de elegir los componentes que prefiere. Nosotros no hacemos la moto para Marc Márquez, no es así\", añade Davide Tardozzi, tratando así de zanjar el tema. ¿De verdad tiene motivos Marc Márquez para estar contento? Aunque molesto con esas habladurías, Tardozzi sí estaba contento con el resultado de Indonesia . \"Si nos fijamos únicamente en el resultado, para nosotros es un éxito. El verdadero problema sigue siendo que Aprilia ha demostrado ser superior, aunque esperábamos que lo fuera un poco menos\", admite. \" Los próximos circuitos nos darán más información, especialmente Phillip Island, donde hay curvas muy rápidas que, en mi opinión, pueden favorecer a Aprilia cuando la moto alcanza su máximo ángulo de inclinación. Ya veremos . Si conseguimos defendernos allí, creo que el Mundial será manejable. Todavía quedan 185 puntos en juego y estamos a solo dos puntos\", avisa sobre lo que puede dar de sí el gran premio de la próxima semana.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-13T13:40:31+00:00"
         },
         {
           "title": "Lujo sobre lujo: el truco de Kim Kardashian para aumentar el valor de un bolso de 73.000 euros",
@@ -511,20 +525,6 @@
           "desc": "Kimi Antonelli tiene el título 'a tiro', pero le ha surgido una amenaza inesperada",
           "source": "https://www.marca.com/rss/motor.xml",
           "fecha": "2026-10-13T06:15:00+02:00"
-        },
-        {
-          "title": "Aston Martin pierde el norte",
-          "link": "https://www.marca.com/motor/formula1/gp-singapur/2026/10/13/aston-martin-pierde-norte.html",
-          "desc": "El que consideraban como el mejor fin de semana del final de campaña se cerró sin ningún botín, más problemas en el motor Honda que Alonso destacó y la necesidad de encontrar respuestas",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-10-13T06:07:03+02:00"
-        },
-        {
-          "title": "El automóvil europeo contraataca a China con eléctricos cargados de diseño, tecnología y nostalgia",
-          "link": "https://www.eldiario.es/motor/sector_y_mercado/automovil-europeo-contraataca-china-electricos-cargados-diseno-tecnologia-nostalgia_1_13580399.html",
-          "desc": "El Salón del Automóvil de París recupera el brillo gracias a la dura pugna entre las nuevas marcas chinas y la contraofensiva europea, que incluye el nuevo Citroën 2CV, el futuro Renault Espace, el renacido Peugeot 205 T16 de rallyes y los eléctricos urbanos de VW entre otros modelos Volkswagen se envuelve en la bandera europea y pide apoyo político para replicar el caso de éxito de España El centenario Salón del Automóvil de París vuelve a brillar después de haber estado en serio peligro de extinción. La dura pugna que se libra en el mercado automovilístico con la llegada de las nuevas marcas chinas ha espoleando a los fabricantes europeos a volver con fuerza al salón Mondial de l'Auto en un contraataque para mostrar su potencial. La receta de la contraofensiva occidental combina tres ingredientes: electrificación, diseño y nostalgia. El automóvil europeo mira con orgullo a su pasado para construir una nueva generación de vehículos con los que conquistar el futuro. El regreso conceptual del Citroën 2CV , la reinterpretación del Renault Espace, el homenaje de Peugeot a sus deportivos de rallyes y la nueva familia de eléctricos urbanos del Grupo Volkswagen son algunas de las propuestas que mejor representan este cambio de estrategia. Frente a ellas, una veintena de marcas chinas despliegan una oferta cada vez más amplia, desde pequeños coches eléctricos hasta grandes SUV electrificados y deportivos de potencias descomunales. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-T3Q68gBl1Mo-3009', 'youtube', 'T3Q68gBl1Mo', document.getElementById('yt-T3Q68gBl1Mo-3009')); }]); Citroën 2CV El contraste se aprecia desde las primeras novedades. Stellantis reivindica la memoria colectiva con un prototipo del Citroën 2CV, convertido en uno de los grandes reclamos de la muestra. La reinterpretación eléctrica de un modelo que simbolizó durante décadas la democratización del automóvil busca trasladar esa misma filosofía a una época en la que el precio se ha convertido en uno de los principales obstáculos para la electrificación. La nostalgia no es aquí un simple ejercicio de estilo: también sirve para recuperar una identidad reconocible y diferenciarse en un mercado donde las marcas chinas han ganado terreno gracias a una combinación de equipamiento, tecnología y precios competitivos. Renault E-Space Renault recurre a una estrategia similar con el E-Space Concept, un monovolumen de 4,70 metros que recupera el espíritu del primer Espace de 1984. Aquel modelo contribuyó a popularizar una nueva forma de entender el automóvil familiar y ahora inspira un prototipo electrificado que mira hacia una categoría prácticamente desplazada por el auge de los SUV. Además, este prototipo se podría convertir en uno de los nuevos modelos que se fabricarán en Palencia , donde se ha producido hasta hace poco el Espace, aunque la firma francesa ni confirma ni desmiente. La firma francesa también recupera el imaginario deportivo con el R8 Gordini Concept , una reinterpretación eléctrica de 270 caballos del modelo de los años sesenta, esta vez con carrocería coupé y propulsión trasera. Retorno de Peugeot 205 y Alpine A310 Peugeot, por su parte, juega con otra de las grandes leyendas de la automoción francesa. El prototipo E-T16 es un un homenaje a los 205 Turbo protagonistas de una época dorada de los rallyes. La marca del león busca así conectar su herencia deportiva con una nueva etapa de diseño y tecnología. Alpine también prepara el relevo eléctrico del A110, con una escultura, un chasis rodante y una mula de pruebas de su tercera generación, mientras que el prototipo A310 Vision recupera las formas de un deportivo de 1971. Eléctricos asequibles del grupo Volkswagen El Grupo Volkswagen ha convertido su nueva generación de coches eléctricos urbanos en uno de los argumentos centrales de su ofensiva. En París reúne por primera vez los cuatro modelos de producción de su Electric Urban Car Family: el Volkswagen ID. Polo, el CUPRA Raval, el Volkswagen ID. Cross y el Škoda Epiq. El grupo asegura que la familia acumula cerca de 150.000 pedidos, una cifra que refuerza su apuesta por los eléctricos de mayor volumen y pone de manifiesto la necesidad de ampliar la capacidad industrial para responder a la demanda. La clave reside en compartir tecnología sin uniformar los productos. Más del 80% de los componentes y tecnologías de estos cuatro modelos son comunes, una fórmula que permite repartir inversiones y reducir costes mientras cada marca conserva su propia personalidad. Las fábricas españolas de Martorell y Pamplona desempeñan un papel fundamental en este despliegue. El objetivo es demostrar que Europa puede desarrollar y fabricar eléctricos competitivos sin renunciar a su base industrial. La ofensiva también alcanza a segmentos superiores. Volkswagen presenta el ID. Tiguan, una profunda renovación de su SUV eléctrico, mientras que Audi estrena ante el público el A2 e-tron, su nuevo modelo eléctrico de acceso. Škoda amplía su gama con los SUV Epiq y Peaq, y Mercedes-Benz apuesta por un nuevo Clase C eléctrico y por el VLE, un gran monovolumen de hasta ocho plazas que se fabrica en Vitoria y anuncia hasta 713 kilómetros de autonomía. Nuevo Dacia Spring europeo La industria europea trata, además, de recuperar la iniciativa en el diseño. El nuevo DS Nº7, el Lancia Gamma y el futuro Tucson de Hyundai muestran que la electrificación no tiene por qué traducirse en una estética uniforme. En paralelo, Dacia renueva el nuevo Spring, su eléctrico de acceso, que abandona la fabricación china para trasladarse a Eslovenia. La localización industrial se convierte así en otro de los argumentos de la respuesta europea. China amplía su ofensiva La otra gran protagonista del salón es la industria china. Alrededor de 20 marcas del país asiático participan en esta edición , el doble que en 2024, con el objetivo de ampliar su presencia comercial en Europa y diversificar sus ventas ante la intensa competencia y la debilidad de la demanda doméstica. BYD, Chery, MG y Geely conviven con nuevos actores como Avatr, Denza, Aito y Leapmotor, que aprovechan la feria para dar a conocer productos y planes de expansión. Su ofensiva ya no se limita a los eléctricos asequibles, sino que se amplía a segmentos superiores y, especialmente, a los mercados premium y de lujo . BYD presenta el ATTO 8, un SUV eléctrico de siete plazas, y el Shark, su primer pick-up híbrido enchufable. Denza, su marca prémium, lleva a París el Z9GT, una berlina de más de cinco metros que anuncia una recarga del 10% al 97% en nueve minutos en su versión eléctrica, además de un deportivo de 1.604 caballos. Zeekr exhibe el 9X, un SUV híbrido enchufable de 897 caballos, mientras que Avatr propone berlinas y SUV eléctricos de lujo. La expansión tiene una dimensión industrial. Changan estudia acuerdos de fabricación en Europa y espera producir su primer vehículo en el continente a comienzos de 2027. BYD también analiza la posibilidad de levantar una fábrica en Francia por la que compite también España. La producción local aparece como una vía para sortear futuras restricciones comerciales y acercar estas marcas a sus clientes europeos. La batalla también se libra en Bruselas El pulso comercial ha llegado a las instituciones europeas. La feria abre sus puertas después de que Bruselas y Pekín avanzaran hacia un acuerdo para limitar las importaciones de híbridos chinos mediante un sistema de cupos anuales. La iniciativa se suma a los aranceles que la Unión Europea aplica desde octubre de 2024 a los eléctricos fabricados en China. La industria europea considera que estas medidas pueden ayudar a equilibrar la competencia, pero reclama una respuesta más amplia. El consejero delegado de Stellantis, Antonio Filosa, ha calificado el entendimiento como un hito, al tiempo que ha reclamado actuaciones sobre los costes energéticos y una mayor rapidez en las decisiones regulatorias. El máximo responsable de Renault, François Provost, ha advertido de que la avalancha de híbridos chinos no es sostenible y ha descrito el acuerdo como una alternativa preferible a una guerra comercial. Volkswagen ha llevado esta reivindicación al centro de su estrategia con la iniciativa 'For Europe', presentada por su consejero delegado, Oliver Blume. El grupo pide coordinar las decisiones empresariales y políticas para acelerar la transformación industrial, fomentar la producción europea y establecer condiciones de competencia equitativas. La reclamación llega mientras la multinacional aplica un profundo ajuste de sus estructuras y se enfrenta a una creciente presión sobre sus resultados. El presidente francés, Emmanuel Macron, ha anunciado también que Francia y Alemania están ultimando un acuerdo para reforzar la protección de la industria automovilística europea. La discusión sobre los requisitos de contenido local y las condiciones para acceder a ayudas y contratos públicos apunta a una nueva etapa en la política industrial comunitaria. La paradoja es que los fabricantes chinos también necesitan Europa. Con el mercado estadounidense prácticamente cerrado a sus vehículos y una demanda doméstica debilitada, la región se ha convertido en una prioridad para sus planes de crecimiento. La respuesta de algunos grupos pasa por establecer alianzas y fábricas en el continente, una estrategia que ya está alterando las relaciones tradicionales entre competidores.",
-          "source": "https://www.eldiario.es/rss/",
-          "fecha": "2026-10-13T04:00:16+00:00"
         }
       ]
     },
@@ -532,6 +532,27 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Cuota de Nvidia en China: el 34% según Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEdMbHFGLVNNQXQ1T3llSlcxQ25hOUtDdjQ3TjdYcFh5dEVWSXRaNEtiWEVKUU91eUVrc3F6aWZHV3lmdXZPUzdBOWZKMEF1akp4WW01dUo5TUszMUlMVWN0SWRXZjNCUXRqdlNLNFdvMUZiVTdNSk5BSnI5a2VLVFlsZU5WQTQ1YlhVUkNIOUZ1UEk?oc=5",
+          "desc": "Cuota de Nvidia en China: el 34% según Reuters NeoTeo",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T13:59:38+00:00"
+        },
+        {
+          "title": "Tardozzi: \"No es verdad que Márquez se ha hecho la Ducati a su medida; eso son habladurías de bar\"",
+          "link": "https://www.estadiodeportivo.com/motor/motogp/ducati-cara-por-marc-marquez-despues-las-acusaciones-interesadas-favoritismo-hacia-20261012-548469.html",
+          "desc": "El team manager de Ducati Lenovo, David Tardozzi, dejaba claro que lo que se habla sobre la moto de Marc Márquez no es cierto Marc Márquez salió con la moral por las nubes del circuito de Mandalika después de haber podido mantener la distancia con la que llegó el viernes en un lugar donde nunca había ganado y donde las Aprilia eran claramente superiores. El piloto de Ducati Lenovo ganó el Sprint del sábado contra pronóstico y aunque acabó sexto el domingo, vio cómo su gran rival en la lucha por el campeonato, Jorge Martín, sólo era tercero , lo que le permitía recuperar los puntos perdidos el sábado y el liderato del Mundial de MotoGP, pero no sacar la ventaja con la que habría contado antes de este gran premio. Eran tan superiores las Aprilia al resto que las cuatro primeras motos en meta el domingo fueron las de esa marca. El mayor de los hermanos Márquez, una vez más, fue el mejor de Ducati y está en sus manos salvar el año de la marca italiana. Con los dos equipos de Aprilia liderando el campeonato, sólo el triunfo del de Cervera en el Mundial de Pilotos evitaría el descalabro. Marc Márquez saca más de 100 puntos a Di Giannantonio, que es la segunda Ducati, en sexta posición. Y casi 200 a su compañero de equipo, un Pecco Bagnaia que en Lombok volvió a decir adiós antes de tiempo y suma decepción tan decepción. En Italia critican a Marc Márquez y a Ducati Hay tal diferencia entre Marc Márquez y Pecco Bagnaia que en Italia ya han empezado a acusar a Ducati de estar preparando la moto para el español, en detrimento del resto, ante la necesidad de sumar el título en el último año de esta reglamentación. Amenaza de sanción para Marc Márquez Ante esto, ha tenido que salir al paso el team manager de Ducati Lenovo, un Davide Tardozzi, que es defensor acérrimo de Marc Márquez, pero que también defiende a rajatabla las normas de Ducati de darles a todos los pilotos las mismas armas . \" Estoy totalmente en contra de quienes afirman que Marc Márquez ha orientado el desarrollo de la moto a su medida. No es cierto en absoluto . He visto lo que se ha aportado, lo que han decidido los demás pilotos, así que no es en absoluto cierto que Márquez se haya hecho la moto a su medida. Eso son habladurías de bar\", señalaba molesto en Moto.it el italiano. Tardozzi confirma la igualdad en Ducati Tardozzi dejaba claro que se ha tratado a todos por igual. \"Quien participa en el desarrollo de la moto sabe perfectamente qué se ha hecho para él y qué hemos intentado hacer para los demás. Por ejemplo, para Pecco Bagnaia, aunque al final no haya salido bien\", reconoce en referencia a los esfuerzos por adaptar la moto de Bagnaia lo más posible a su forma de pilotar. \"Siempre hemos tenido la posibilidad y la capacidad de desarrollar la moto para cada piloto. Es decir, no es que si la moto le va bien a Márquez, ahora sea la misma para todos. Por ejemplo, Pecco tiene un carenado diferente al de Marc y durante mucho tiempo ha utilizado una aerodinámica distinta en el basculante. Cada uno de nuestros pilotos oficiales, incluidos Diggia y Álex, tiene la posibilidad de elegir los componentes que prefiere. Nosotros no hacemos la moto para Marc Márquez, no es así\", añade Davide Tardozzi, tratando así de zanjar el tema. ¿De verdad tiene motivos Marc Márquez para estar contento? Aunque molesto con esas habladurías, Tardozzi sí estaba contento con el resultado de Indonesia . \"Si nos fijamos únicamente en el resultado, para nosotros es un éxito. El verdadero problema sigue siendo que Aprilia ha demostrado ser superior, aunque esperábamos que lo fuera un poco menos\", admite. \" Los próximos circuitos nos darán más información, especialmente Phillip Island, donde hay curvas muy rápidas que, en mi opinión, pueden favorecer a Aprilia cuando la moto alcanza su máximo ángulo de inclinación. Ya veremos . Si conseguimos defendernos allí, creo que el Mundial será manejable. Todavía quedan 185 puntos en juego y estamos a solo dos puntos\", avisa sobre lo que puede dar de sí el gran premio de la próxima semana.",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-13T13:40:31+00:00"
+        },
+        {
+          "title": "Así es HomeView, la última pantalla inteligente de Apple para controlar los hogares con su nueva IA",
+          "link": "https://elpais.com/tecnologia/2026-10-13/asi-es-homeview-la-ultima-pantalla-inteligente-de-apple-para-controlar-los-hogares-con-su-nueva-ia.html",
+          "desc": "El nuevo dispositivo, diseñado para que la renovada Siri pueda rivalizar con la Alexa de Amazon, no se venderá en la Unión Europea porque no cumple con la normativa comunitaria de competencia digital",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-10-13T13:29:35+00:00"
+        },
         {
           "title": "NVIDIA lanza en beta el Preset C de DLSS Frame Generation, hasta un 35 % más rápido en la RTX 5060",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWE9xcG01ZFo2dkpFRVkyX0xnd28wd3FZRGxYOHRvQU1QRUt4Nzk5bzJvY3ItTzFVMzRjMDk1MlNIc3Q5UnpwWmVlYlRpc1RXcTBqOWhHYVJKNnJyclV3Rng5dE1TRjN0cEotelg3ei0tQmkwTm4wOEpCbEJBNE9ZVHotZjh4WUY4bFkxeEJUUGFDNDA?oc=5",
@@ -552,13 +573,6 @@
           "desc": "Pronóstico del precio de las acciones de Nvidia: NVDA cae por cinco días consecutivos, ¿dónde está la próxima línea de defensa? TradingKey",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-13T13:12:51+00:00"
-        },
-        {
-          "title": "Así es HomeView, la última pantalla inteligente de Apple para controlar los hogares con su nueva IA",
-          "link": "https://elpais.com/tecnologia/2026-10-13/asi-es-homeview-la-ultima-pantalla-inteligente-de-apple-para-controlar-los-hogares-con-su-nueva-ia.html",
-          "desc": "El nuevo dispositivo, diseñado para que la renovada Siri pueda competir con la Alexa de Amazon, no se venderá en la Unión Europea",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-10-13T13:10:10+00:00"
         },
         {
           "title": "Bofetada sin manos de Joan Laporta al Real Madrid: \"El Barça practica el mejor fútbol del mundo y hay otros equipos que están muy bien, como el PSG o el Bayern de Múnich\"",
@@ -685,20 +699,6 @@
           "desc": "Investigadores de más de 30 países exigen desconectar de Internet a los sistemas capaces de ciberatacar objetivos y la reación de un organismo internacional que monitorice los fallos de seguridad OpenAI detectó los ciberataques de su IA pero decidió no apagarla para no retrasar sus planes comerciales Más de 400 investigadores en inteligencia artificial y ciberseguridad de una treintena de países han publicado este martes una carta abierta en la que reclaman “cambios inmediatos en las prácticas de desarrollo y despliegue de IA” para evitar que ponga en peligro la seguridad mundial. La misiva hace especial hincapié en que las multinacionales y laboratorios que desarrollan los modelos de frontera, especialmente aquellos denominados “agentes” , están cometiendo una “negligencia irresponsable” con sus “prácticas estándar de ciberseguridad”. La carta , firmada por especialistas de universidades y centros de investigación de todo el mundo y que sigue sumando ratificaciones, plantea tres exigencias a los gobiernos y las empresas tecnológicas. Entre ellas, destaca la petición de desconectar de Internet a los modelos de IA con capacidad de lanzar ciberataques, así como aislarlos en “sistemas de contención de alta seguridad”. Esta exigencia llega después de la salida a la luz de que empleados de OpenAI avisaron a la dirección de la empresa de que sus agentes estaban teniendo comportamientos peligrosos, pese a lo que la dirección de la empresa decidió no frenar los experimentos para no retrasar sus planes comerciales. Alertas que llegaron semanas antes del ciberataque masivo contra Hugging Face —una plataforma de desarrollo de IA que 1.200 agentes de OpenAI hackearon, intentando cumplir las tareas que les había encomendado la compañía— o contra webs oficiales del gobierno australiano . Anthropic, Google y Meta también han revelado incidentes similares. “Varias organizaciones han revelado fallos de seguridad de gran repercusión: sus modelos de IA eludieron entornos insuficientemente aislados para comprometer los sistemas de organizaciones externas”, recuerda la carta. “Sin cambios inmediatos en las prácticas de desarrollo e implementación de la IA, estos incidentes seguirán ocurriendo, y los futuros serán mucho más perjudiciales para nuestra infraestructura crítica expuesta”. Por ello, los firmantes, entre los que se encuentra la investigadora española Carmela Troncoso (directora científica del Instituto Max Planck para la Seguridad y la Privacidad, con sede en Alemania), solicitan la creación de un organismo internacional encargado de fijar los protocolos de seguridad necesarios para investigar IA avanzada. Esa entidad también debería ser “tener la obligación de registrar y hacer un seguimiento de los fallos de contención”, opinan los científicos. “Para aprender de los errores futuros —en los que no se logra el equilibrio adecuado y ocurren incidentes— necesitamos un mayor intercambio de información y transparencia sobre las fallas de contención en el futuro”, justifican. Opacidad Una capacidad que se relaciona directamente con su tercera petición: “Para garantizar que la investigación sobre seguridad y contención de la IA pueda aprender de los errores, los incidentes de seguridad relacionados con fallos de contención deben notificarse al organismo correspondiente y, posteriormente, hacerse públicos”. La carta destaca que la “transparencia es necesaria tanto para el aprendizaje como para la rendición de cuentas”. La crítica contra la opacidad en la que operan las multinacionales y laboratorios en el desarrollo de IA de frontera está cada vez más presente en la comunidad científica internacional. El panel de 40 expertos independientes creado por la ONU ya situó la “asimetría de información entre las empresas y la sociedad” como uno de los grandes problemas estructurales de esta tecnología . En su informe, los especialistas avisaron de que esta falta de transparencia evita que los gobiernos y los ciudadanos puedan evaluar correctamente sus riesgos.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-10-13T11:27:06+00:00"
-        },
-        {
-          "title": "Scaleway abrirá en Copenhague un centro de computación con tecnología de Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYjZLMEdmMnA5dFByTVFBWDNUVFlEYzF0bmJLVUtnQmdkRTJOdEtQSFd2SFVIYWZYU01ZU0UzNGFWRjJzWTlYeDFSdEV5bnBoRWUxT0pfOHE5TGV0SThYUFI0cnQ2ZmxoMGd4YWhSWUxwUDAzVE1CMGgxcXdGLWFLYzRjajBpTTN3cTlON2ZfOWladUZ4bE1lZWNTSk5tZlJDMTZVeElSUTdOX1JLMDRXTl9iaDRyYXVzb0pXeHk5Y2dHekpjWFhfa1NGaXFHdFU?oc=5",
-          "desc": "Scaleway abrirá en Copenhague un centro de computación con tecnología de Nvidia MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T11:19:42+00:00"
-        },
-        {
-          "title": "Save $1440 when you go for this 4K gaming rig with a massive 64GB of DDR5 RAM and a 4TB SSD",
-          "link": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd1440-when-you-go-for-this-4k-gaming-rig-with-a-massive-64gb-of-ddr5-ram-and-a-4tb-ssd-cyberpowerpc-gamer-supreme-also-includes-an-rtx-5070-ti-and-ryzen-9-9950x-cpu",
-          "desc": "Pick up a prebuilt desktop gaming and video editing PC with 64GB of memory and a large 4TB SSD and save $1440",
-          "source": "https://www.tomshardware.com/feeds.xml",
-          "fecha": "2026-10-13T11:18:35+00:00"
         }
       ]
     },
@@ -707,11 +707,11 @@
       "icono": "📈",
       "items": [
         {
-          "title": "Acciones de Fermi suben tras acuerdo de crédito con AMD en Texas - Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVV3QVQ5VWpsUk4zS2YwNW1EbEx2ZXdzUURxRFgzOElzbHh6VUVia1cwYnRuMjc2STFWN2JaRXFjOHlfMEY2dGd5SXdxQjA1M3BjZi1MZ3FhajNwX0RhZEI2Z2ctWTFxSDNyWXcwUjFKbjVHcElNU0xJVnUzVG9RSWhjLW5DWEpMalNXVURDV1hfczZqN29WaTNneVZ0akN6VFdnUFgyZXZzcGRVVklzUGFlOTdQUDJGOHlxcQ?oc=5",
-          "desc": "Acciones de Fermi suben tras acuerdo de crédito con AMD en Texas Investing.com México - Finanzas, Bolsa y Forex",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T12:55:27+00:00"
+          "title": "Los autónomos entran en campaña y piden a los partidos cuota cero para las nuevas altas y exención de IVA para los que menos facturen",
+          "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-autonomos-entran-campana-piden-los-partidos-cuota-cero-para-las-nuevas-altas-exencion-iva-para-los-que-menos-facturen_7048212_0.html",
+          "desc": "La patronal ATA plantea también bonificar los pagos a la Seguridad Social a los que menos ganan, introducir permisos de lactancia o facilitar la jubilación activa.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-13T15:05:13+02:00"
         },
         {
           "title": "Por qué han atacado los hutíes el aeropuerto de Riad y cómo consiguen burlar las defensas de Arabia Saudí",
@@ -723,14 +723,14 @@
         {
           "title": "Estopa anuncia nuevo disco y una gira con cuatro únicas fechas en España",
           "link": "https://www.eldiario.es/cultura/musica/estopa-anuncia-nuevo-disco-gira-cuatro-unicas-fechas-espana_1_13581266.html",
-          "desc": "Madrid, Barcelona, Sevilla y Valencia serán las cuatro paradas con las que los hermanos David y José Muñoz recorrerán el país en 2027, tras el lanzamiento de su nuevo álbum, 'La Maketa' Tatiana Tîbuleac: “Ser alcohólico no te va a hacer mejor escritor, periodista o pintor aunque se haya vendido lo contrario” Estopa ha anunciado que lanzará nuevo disco, La Maketa , y hará una gira de estadios en la que recorrerán cuatro ciudades españolas: Madrid, Barcelona, Valencia y Sevilla. La noticia ha sido comunicada por los propios David y Juan Muñoz en una rueda de prensa desde la Facultad de Geografía e Historia de la Universitat de Barcelona . Y lo han hecho cinco días antes del establecido como 'Día de la Estopidad', el 18 de octubre, en el que cada año los fans de la banda conmemoran el lanzamiento de su primer disco, Estopa , en 1999. El nuevo álbum, La Maketa , saldrá a la venta el 20 de noviembre, en el que han rescatado los temas de su maqueta de 1997 que nunca llegaron a editarse. Antes de que ninguna discográfica se fijara en ellos, compusieron más de treinta. Será un disco doble. El primero contendrá siete temas inéditos y tres canciones que no se llegarona grabar entonces. El segundo incluirá todas las maquetas, tanto las que grabaron con su minicadena en su casa con la ayuda de sus padres, que han reaparecido precisamente gracias a su ayuda, tras encontrar el máster original accidentalmente en su hogar. Junto estas estarán las versiones de las mismas que grabaron en un estudio de Sabadell, gracias al dinero que ganaron en un concurso de cantautores, y que terminaría siendo su trampolín. Entre estas sí las hay que han podido irse escuchando en sus sucesivos trabajos discográficos. El primer sencillo verá la luz este viernes 16 de octubre, Bicho raro , de la que han avanzado que fue una canción “matriz” de otros temas emblemáticos como Vino tinto y Tragicomedia . El grupo ha concluido la rueda de prensa interpretando precisamente este tema ante los alumnos de la Facultad, con unicamente voz y guitarra. “Pero me pongo tan malo cada vez que me roza tu pelo, así como un bicho raro, una especie nueva de insecto”, reza su estribillo. Contra las alianzas con bancos y casas de apuestas El tour arrancará el 12 de junio de 2027 en el estadio Ciutat de Vàlencia , seguirá el día 18 en el Lluís Companys de Barcelona, el 26 en La Cartuja de Sevilla y concluirá el 9 de julio en el Riyadh Air Metropolitano de Madrid. Las entradas saldrán a la venta el 17 de noviembre a las 22:22 horas en la web oficial del grupo. Aquellos que compren el disco, contarán con 24 horas más que el resto del público para hacerse con sus tickets. Para combatir con la tendencia reciente en la que para conseguir entradas para los conciertos ser cliente del banco Santander , gracias a sus alianzas con Universal Music, Live Nation, Los 40 y Mad Cool, se ha convertido prácticamente en un requisito; Estopa solamente va a permitir el acceso a la reventa a quienes previamente se hayan hecho con su álbum. “Nunca hemos hecho anuncios ni con bancos ni con casas de apuestas. Satisfyer bien, bancos y casas de apuestas; no”, han afirmado. Para el grupo, el privilegiar a los clientes de una compañía bancaria para poder ir a sus conciertos es “injusto, porque solo premias a los clientes de una marca. Queremos premiar a la gente a la que le gustamos”. “La universidad pública hace que la gente que no tiene recursos pueda estudiar”, ha reivindicado igualmente David Muñoz, aprovechando que la presentación la han llevado a cabo en el centro en el que ambos se formaron, “es el auténtico ascensor social”. El proyecto 'MKT' El grupo hizo la primera mención de que se traían algo entre manos el pasado 27 de septiembre, con un primer vídeo compartido en redes sociales, titulado Acto I , en el que un hombre vestido de negro, encapuchado con una máscara blanca, pintaba un grafiti en la pared con la 'E' de Estopa, en color rojo. En seguida entraba una música con una voz de fondo indicando “tic, tac” y la frase “algo está a punto de pasar”. El Acto II vio la luz el domingo 4 de octubre, con un supuesto trabajador de una tienda de electrodomésticos, tarareando Por la Raja de Tu Falda , uno de los mayores éxitos de Estopa, al tiempo que colgaba en la pared un póster, con el logo del grupo y, de nuevo el mensaje Algo está a punto de pasar, seguido de cuatro imágenes de cuatro estadios diferentes, los ubicados en Madrid, Barcelona, Sevilla y Valencia, dejando entrever que podrían estar preparando una gira de estadios con esas cuatro paradas. La última entrega llegó a finales de la semana pasada, el Acto III , en el que anunciaron que darían “todas las respuestas” este martes 13 de octubre. El vídeo incluía a David y José Muñoz , sentados en un bar tomando una cerveza. Allí una noticia de última hora terminaba acaparando todas las miras, la aparición de las pintadas con la E de Estopa, que merecía “una explicación”, que finalmente han revelado.",
+          "desc": "Madrid, Barcelona, Sevilla y Valencia serán las cuatro paradas con las que los hermanos David y José Muñoz recorrerán el país en 2027, tras el lanzamiento de su nuevo álbum, 'La Maketa' Tatiana Tîbuleac: “Ser alcohólico no te va a hacer mejor escritor, periodista o pintor aunque se haya vendido lo contrario” Estopa ha anunciado que lanzará nuevo disco, La Maketa , y hará una gira de estadios en la que recorrerán cuatro ciudades españolas: Madrid, Barcelona, Valencia y Sevilla. La noticia ha sido comunicada por los propios David y José Muñoz en una rueda de prensa desde la Facultad de Geografía e Historia de la Universitat de Barcelona . Y lo han hecho cinco días antes del establecido como 'Día de la Estopidad', el 18 de octubre, en el que cada año los fans de la banda conmemoran el lanzamiento de su primer disco, Estopa , en 1999. El nuevo álbum saldrá a la venta el 20 de noviembre, en el que han rescatado los temas de su maqueta de 1997 que nunca llegaron a editarse. Antes de que ninguna discográfica se fijara en ellos, compusieron más de treinta. Será un disco doble. El primero contendrá siete temas inéditos y tres canciones que no se llegaron a grabar entonces. El segundo incluirá todas las maquetas, tanto las que grabaron con su minicadena en su casa con la ayuda de sus padres, que han reaparecido precisamente gracias a su ayuda, tras encontrar el máster original accidentalmente en su hogar. Junto a estas estarán las versiones de las mismas que grabaron en un estudio de Sabadell, gracias al dinero que ganaron en un concurso de cantautores, y que terminaría siendo su trampolín. Entre estas sí las hay que han podido irse escuchando en sus sucesivos trabajos discográficos. El primer sencillo verá la luz este viernes 16 de octubre, Bicho raro , de la que han avanzado que fue una canción “matriz” de otros temas emblemáticos como Vino tinto y Tragicomedia . El grupo ha concluido la rueda de prensa interpretando precisamente este tema ante los alumnos de la Facultad, con únicamente voz y guitarra. “Pero me pongo tan malo cada vez que me roza tu pelo, así como un bicho raro, una especie nueva de insecto”, reza su estribillo. Contra las alianzas con bancos y casas de apuestas El tour arrancará el 12 de junio de 2027 en el estadio Ciutat de València , seguirá el día 18 en el Lluís Companys de Barcelona, el 26 en La Cartuja de Sevilla y concluirá el 9 de julio en el Riyadh Air Metropolitano de Madrid. Las entradas saldrán a la venta el 17 de noviembre a las 22:22 horas en la web oficial del grupo. Aquellos que compren el disco, contarán con 24 horas más que el resto del público para hacerse con sus tickets. Para combatir con la tendencia reciente en la que para conseguir entradas para los conciertos ser cliente del banco Santander , gracias a sus alianzas con Universal Music, Live Nation, Los 40 y Mad Cool, se ha convertido prácticamente en un requisito; Estopa solamente va a permitir el acceso a la reventa a quienes previamente se hayan hecho con su álbum. “Nunca hemos hecho anuncios ni con bancos ni con casas de apuestas. Satisfyer bien, bancos y casas de apuestas; no”, han afirmado. Para el grupo, el privilegiar a los clientes de una compañía bancaria para poder ir a sus conciertos es “injusto, porque solo premias a los clientes de una marca. Queremos premiar a la gente a la que le gustamos”. “La universidad pública hace que la gente que no tiene recursos pueda estudiar”, ha reivindicado igualmente David Muñoz, aprovechando que la presentación la han llevado a cabo en el centro en el que ambos se formaron, “es el auténtico ascensor social”. El proyecto 'MKT' El grupo hizo la primera mención de que se traían algo entre manos el pasado 27 de septiembre, con un primer vídeo compartido en redes sociales, titulado Acto I , en el que un hombre vestido de negro, encapuchado con una máscara blanca, pintaba un grafiti en la pared con la 'E' de Estopa, en color rojo. En seguida entraba una música con una voz de fondo indicando “tic, tac” y la frase “algo está a punto de pasar”. El Acto II vio la luz el domingo 4 de octubre, con un supuesto trabajador de una tienda de electrodomésticos, tarareando Por la Raja de Tu Falda , uno de los mayores éxitos de Estopa, al tiempo que colgaba en la pared un póster, con el logo del grupo y, de nuevo el mensaje “Algo está a punto de pasar”, seguido de cuatro imágenes de cuatro estadios diferentes, los ubicados en Madrid, Barcelona, Sevilla y Valencia, dejando entrever que podrían estar preparando una gira de estadios con esas cuatro paradas. La última entrega llegó a finales de la semana pasada, el Acto III , en el que anunciaron que darían “todas las respuestas” este martes 13 de octubre. El vídeo incluía a David y José Muñoz , sentados en un bar tomando una cerveza. Allí una noticia de última hora terminaba acaparando todas las miras, la aparición de las pintadas con la E de Estopa, que merecía “una explicación”, que finalmente han revelado.",
           "source": "https://www.eldiario.es/rss/",
           "fecha": "2026-10-13T11:07:10+00:00"
         },
         {
-          "title": "El sindicato mayoritario en El Corte Inglés pide una subida salarial del 18% en grandes almacenes",
+          "title": "Los sindicatos mayoritarios en la ‘patronal’ de El Corte Inglés e Ikea piden una subida salarial mínima del 16%",
           "link": "https://cincodias.elpais.com/companias/2026-10-13/el-sindicato-mayoritario-en-la-patronal-de-el-corte-ingles-e-ikea-pide-una-subida-salarial-del-18.html",
-          "desc": "Valorian exige ese incremento en tres años para ajustar los sueldos a la inflación “y a la realidad social del país”",
+          "desc": "Fetico y Valorian exigen ese incremento en tres años para ajustar los sueldos a la inflación “y a la realidad social del país”",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "fecha": "2026-10-13T11:00:38+00:00"
         },
@@ -880,6 +880,20 @@
       "nombre": "NVIDIA",
       "icono": "🎮",
       "items": [
+        {
+          "title": "Cuota de Nvidia en China: el 34% según Reuters",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEdMbHFGLVNNQXQ1T3llSlcxQ25hOUtDdjQ3TjdYcFh5dEVWSXRaNEtiWEVKUU91eUVrc3F6aWZHV3lmdXZPUzdBOWZKMEF1akp4WW01dUo5TUszMUlMVWN0SWRXZjNCUXRqdlNLNFdvMUZiVTdNSk5BSnI5a2VLVFlsZU5WQTQ1YlhVUkNIOUZ1UEk?oc=5",
+          "desc": "Cuota de Nvidia en China: el 34% según Reuters NeoTeo",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T13:59:38+00:00"
+        },
+        {
+          "title": "DLSS 5 duplicará su rendimiento el 16 de octubre y usará un 20 % menos de VRAM en 4K",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbUt5RjRMQ2dNbHFpRXRXOVpZNlJXakZHRng5MFBTRC1mWUYxRTlZdzgtdEREdnRpZ3ZaQTJ2NlpkQmV1YTBVMHRuclRuMnpOZ3h6SHlfUWxWb19CSm5Zcjc1Y25yTG1kWEVlRnNMckJ6QURLSzBLUlRDM1B6MHlRZmM0ajhWR2QtQXZkYy01Yw?oc=5",
+          "desc": "DLSS 5 duplicará su rendimiento el 16 de octubre y usará un 20 % menos de VRAM en 4K Hardware Premium",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T13:30:00+00:00"
+        },
         {
           "title": "NVIDIA lanza en beta el Preset C de DLSS Frame Generation, hasta un 35 % más rápido en la RTX 5060",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWE9xcG01ZFo2dkpFRVkyX0xnd28wd3FZRGxYOHRvQU1QRUt4Nzk5bzJvY3ItTzFVMzRjMDk1MlNIc3Q5UnpwWmVlYlRpc1RXcTBqOWhHYVJKNnJyclV3Rng5dE1TRjN0cEotelg3ei0tQmkwTm4wOEpCbEJBNE9ZVHotZjh4WUY4bFkxeEJUUGFDNDA?oc=5",
@@ -1033,20 +1047,6 @@
           "desc": "Ya puedes utilizar DLSS 3.7 en consolas con hardware AMD como Steam Deck y ROG Ally X gracias a HelixSR El Chapuzas Informático",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-13T08:50:10+00:00"
-        },
-        {
-          "title": "Consultorio de análisis técnico: UBS, Deutsche Bank, Solaria, Grifols, Repsol, Nvidia, bitcoin...",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaDNpREdxM3YtanFyT09pSDFvbG9HOHROOUtqOGhYRlRST3Nvdlgtb1Q1WFZ0UGpHN3BaQWlqOExJUldwYkZPTW12a1NUVnEzSTJtbFQwak5rM3g4TWRUcy1za3BSenlaODFRZW85OFF4T0tHMnZlZm13aTBhb2dob2g4SFR0OVFtakgtZlRhUVdNQTNUOFBsNnljZlJyU1VSbjM3c011ODY4d2dmS3FKYmx6aWV6Y2JPbjhrdlRmTWllV1hXXzI3VThZOUt5b0REVFFKOVZsbUIyejNNYjNUeEZHRHBEY0XSAewBQVVfeXFMUFNpNHJKT2VtTU8yeUFzSzJMR193RTAyV1FtWnU4aFlvLW1rS0daMnI4MW1Jejl2d1A3cTFxbHduRjQ0elZhQkJkVWM3c3JaRWtmbFdoZnQ1NHM1Nk1PNTVhcldQZjhSZGJ5MFEyUU5GNWhBSnRySjFpVmV1MjU2TnRzd1lNcUVRV3ZCRE9KZmFEbkE2Rkx3QW5nTEJZYm1LWkdHUTVRTVl4dVRWZWZQQmFKQmdvWWNBQXZUNEJ3SU0yZzU1c1FfdlExQ2ltSVI5VVdPdWx4cUhNMHQxLVE2SGpQQVhoWlJMZ1Z5TVU?oc=5",
-          "desc": "Consultorio de análisis técnico: UBS, Deutsche Bank, Solaria, Grifols, Repsol, Nvidia, bitcoin... Bolsamania",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T08:49:27+00:00"
-        },
-        {
-          "title": "NVIDIA parece haber dejado de fabricar las RTX 5090",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUzg5MV9JRjM3X0lpWjZCY1hib0JOYUVlcExETTRXbmRpTVJjX1FNU1U3WTZhMktZNmdJY2xYd2NRc1VIaVNLbG91d29zdExWMVJacC0tNm43WjFGZXB4ajROc2l4OVpHTFV0NE85S1daNnlaVnNYUnpYb01wcVpnVTEwYm10WkhPWjNEWGpYZjFDMjNGd095VnNmaEFibkxLaUZPOHdCUWp1NTItVHhCb19vY3RVLWtrSVlnVXpJUFU1VjA2SWYzd3ZBbU5MRllCeHVuSkhR?oc=5",
-          "desc": "NVIDIA parece haber dejado de fabricar las RTX 5090 Instant Gaming News",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T07:58:25+00:00"
         }
       ]
     },
@@ -1082,11 +1082,18 @@
       "icono": "🖥️",
       "items": [
         {
-          "title": "Acciones de Fermi suben tras acuerdo de crédito con AMD en Texas - Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVV3QVQ5VWpsUk4zS2YwNW1EbEx2ZXdzUURxRFgzOElzbHh6VUVia1cwYnRuMjc2STFWN2JaRXFjOHlfMEY2dGd5SXdxQjA1M3BjZi1MZ3FhajNwX0RhZEI2Z2ctWTFxSDNyWXcwUjFKbjVHcElNU0xJVnUzVG9RSWhjLW5DWEpMalNXVURDV1hfczZqN29WaTNneVZ0akN6VFdnUFgyZXZzcGRVVklzUGFlOTdQUDJGOHlxcQ?oc=5",
-          "desc": "Acciones de Fermi suben tras acuerdo de crédito con AMD en Texas Investing.com México - Finanzas, Bolsa y Forex",
+          "title": "Las acciones de Fermi se disparan gracias a un acuerdo de apoyo crediticio con AMD",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmFpbU51bTBzX3BDRWNjRUhTcC0tQjFvYV9HU0ZfMHg0eTRNcEtnZk16enRON1lNUnVXRngzNHVGNDhTSEdRM3NuVUZrRldLMEJfQlpKV1VHNXhrcmp5RWRJU050Y1N4WEgyanJIMXYyZjhrdlRNXzduekFlVXhOV3A0N1BnbDY0bF84SDdOM3VYZmZGX1Jn?oc=5",
+          "desc": "Las acciones de Fermi se disparan gracias a un acuerdo de apoyo crediticio con AMD Yahoo",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T12:55:27+00:00"
+          "fecha": "2026-10-13T13:22:11+00:00"
+        },
+        {
+          "title": "Acciones de Fermi suben tras acuerdo de crédito con AMD en Texas",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUVkMmlLR3hfQndLeWpjRExUT19xZXg3N1lYamd5T0xoS0Z1SXdaSEV0cXZ1LXpCNGU0VlRsR0RYLWFfb1RsRWNxZXVlNlZ4MDBPRW9DcVdWRUhuX1c1SGFNVFloeTlJZGhGU0NYcGRXX1BvNHFINy1KeGQ2c00tV0RKLUtCeHlVQnp0WUR0MngxR284RVk1eXVmR0t1S0E?oc=5",
+          "desc": "Acciones de Fermi suben tras acuerdo de crédito con AMD en Texas Yahoo Finanzas",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T13:22:11+00:00"
         },
         {
           "title": "Valor Mortis se apiadará un poco más de tu PC: el soulslike mejora sus especificaciones mínimas y recomendadas",
@@ -1094,20 +1101,6 @@
           "desc": "Valor Mortis, el soulslike napoleónico, se optimiza de cara a su lanzamiento para que sus elevados requisitos en PC ya no lo sean tanto. Valor Mortis aparece este 13 de octubre , un soulslike ambientado en la época napoleónica con un tono oscuro, sangriento e implacable. Está desarrollado por One More Level , autores de Ghostrunner , y coincidiendo con su lanzamiento nos da una noticia que alegrará a aquellos que vayan a jugarlo en PC. La desarrolladora polaca ha pulido el rendimiento y bajado las especificaciones mínimas y recomendadas de su nuevo juego. No eran pocos los jugadores que habían criticado las elevadas especificaciones, y de hecho en nuestro análisis comentamos la cuestión como uno de los elementos a mejorar. Valor Mortis mejora las especificaciones mínimas y recomendadas justo el día de su lanzamiento One More Level ha hecho públicos los nuevos requisitos mínimos y recomendados para jugar de la manera más satisfactoria a Valor Mortis en ordenadores. Básicamente hay una considerable optimización en el uso del procesador y en la tarjeta gráfica . A continuación podéis encontrarlas: Requisitos mínimos de Valor Mortis en PC Procesador: Ryzen 5 3600 / Core i5-10600K Memoria: 16 GB de RAM Gráficos: RX 5600 XT / GTX 1660Ti DirectX: Versión 12 Almacenamiento: 60 GB de espacio disponible *Recomendados para jugar a 1080p y 30 frames en calidad baja con escalado Requisitos recomendados de Valor Mortis en PC Procesador: Ryzen 7 5800X / Core i5-13400 Memoria: 16 GB de RAM Gráficos: RX 6800 / RTX 3070 DirectX: Versión 12 Almacenamiento: 60 GB de espacio disponible *Recomendados para jugar a 1440p y 60 frames en calidad media con escalado A pesar de la mejora, hay que señalar que las especificaciones siguen siendo algo elevadas , siendo probable que en One More Level sigan trabajando para mejorar la optimizacion. Valor Mortis es un juego al estilo Souls en primera persona que destaca por el uso de la espada, pero también por los disparos desde la distancia. El uso de poderes para prender fuego a los enemigos y hacer uso de un gancho en los escenarios propicia una jugabilidad distintiva que hemos valorado positivamente en nuestro análisis, el cual ya está disponible en Vandal .",
           "source": "https://vandal.elespanol.com/rss",
           "fecha": "2026-10-13T12:53:00+00:00"
-        },
-        {
-          "title": "Las acciones de Fermi se disparan gracias a un acuerdo de apoyo crediticio con AMD",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekowZFlxeWFTM25vQlFMQ2lYQkVPVDlwNVZ4RWFJcHBtQ0pCRGt2SWJYV21TNkVVSmZLYVBHeVJqYURKV2tSRmtoQm5GR2tsS2lNM0w2YW10WjhlT3V3Y0pCSXpoSjN1RTBtcldyV29LNmhmRUtYaXNSMjBHRXl1YVg0R0xxQmR2cDhjdS1RNlVQeFI5YXY5TzZqSFg5aHpCMF9oa1lSS2h0Z3VVVjhoUWVkc2lROUl1SVNCNnZHYlAwZnNHM3E2YS1PeTQ2TG1CMTVBQg?oc=5",
-          "desc": "Las acciones de Fermi se disparan gracias a un acuerdo de apoyo crediticio con AMD Investing.com España",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T12:52:00+00:00"
-        },
-        {
-          "title": "AMD suministrará sus procesadores gráficos a un superordenador de Scaleway en Suecia",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ1E1T2dhQ2xOenQ3WS13SVJNQXR3YUhsRjFzcmZhc0VDRTN5czlzMmdVRWswZUE4R3h6eTdMTk94bFotbWtDVmZuOUlybVkzRWdLTVd1Ym5tUlowSVR5eGRtbC1lSjA0aHpfZUlmY0dCMlZXVktZZXlKb3RhS3RpQnhGYTdjdEFKdHVwTTFsNFVack9UUWhNZzRjSklwM3l4UjEzNHphbmdxMHFpN25hRTg0bEFrTkc2MDQ0aXBsRHhxVlhBRXlYQXBWa1JRaGpkUkVJRlRn?oc=5",
-          "desc": "AMD suministrará sus procesadores gráficos a un superordenador de Scaleway en Suecia MarketScreener España",
-          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T12:44:35+00:00"
         },
         {
           "title": "La Lenovo Legion Go 2 se dispara de precio y ya cuesta más de 3100 euros, el doble que en su lanzamiento",
@@ -1241,6 +1234,13 @@
           "desc": "Wiwynn lleva los racks Vera Rubin NVL72 y AMD Helios a la Cumbre Global de OCP Unite.AI",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-12T19:29:24+00:00"
+        },
+        {
+          "title": "Meteomatics revoluciona el pronóstico meteorológico con las CPU AMD EPYC™",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RM25MVll0MmpoUkpCMHRGeFFhV2J6T3BhMG8zSEQtcnJhQUdiZDRMMUpUY1d0bmkwRl9xQnBmMmNSZ2UtN3VDMll4dU5uVWlnVG9INFRFUlpsTGFVZm1DWDBfRzZBY0paTy1fcEhnSQ?oc=5",
+          "desc": "Meteomatics revoluciona el pronóstico meteorológico con las CPU AMD EPYC™ AMD",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-12T18:02:13+00:00"
         },
         {
           "title": "Presentamos AMD Helion: cómputo para IA agéntica a escala de rack",
