@@ -1,70 +1,47 @@
 {
-  "generado": "2026-10-08T17:30:01.591132+00:00",
+  "generado": "2026-10-13T10:37:14.559583+00:00",
   "fuente": "laliga.com (oficial)",
-  "jornada": 8,
-  "jornada_nombre": "Jornada 8",
+  "jornada": 9,
+  "jornada_nombre": "Jornada 9",
   "partidos": [
     {
-      "id": "laliga-102324",
-      "slug": "temporada-2026-2027-laliga-ea-sports-malaga-cf-rcd-espanyol-de-barcelona-8",
-      "fecha": "2026-10-09T21:00:00+02:00",
+      "id": "laliga-102331",
+      "slug": "temporada-2026-2027-laliga-ea-sports-rc-deportivo-levante-ud-9",
+      "fecha": "2026-10-16T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA",
+        "DAZN EN ABIERTO"
+      ],
+      "local": {
+        "equipo": "RC Deportivo",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rc-deportivo.png"
+      },
+      "visitante": {
+        "equipo": "Levante UD",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/levante-ud.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102332",
+      "slug": "temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-atletico-de-madrid-9",
+      "fecha": "2026-10-17T14:00:00+02:00",
       "estado": "pre",
       "detalle": "",
       "canal": [
         "DAZN"
       ],
       "local": {
-        "equipo": "Málaga CF",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/malaga-cf.png"
-      },
-      "visitante": {
         "equipo": "RCD Espanyol de Barcelona",
         "once": [],
         "formacion": "",
         "logo": "logos/rcd-espanyol-de-barcelona.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102326",
-      "slug": "temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
-      "fecha": "2026-10-10T14:00:00+02:00",
-      "estado": "pre",
-      "detalle": "",
-      "canal": [
-        "DAZN",
-        "DAZN EN ABIERTO"
-      ],
-      "local": {
-        "equipo": "Rayo Vallecano",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/rayo-vallecano.png"
-      },
-      "visitante": {
-        "equipo": "Athletic Club",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/athletic-club.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102319",
-      "slug": "temporada-2026-2027-laliga-ea-sports-deportivo-alaves-atletico-de-madrid-8",
-      "fecha": "2026-10-10T16:15:00+02:00",
-      "estado": "pre",
-      "detalle": "",
-      "canal": [
-        "Movistar LALIGA"
-      ],
-      "local": {
-        "equipo": "Deportivo Alavés",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/deportivo-alaves.png"
       },
       "visitante": {
         "equipo": "Atlético de Madrid",
@@ -75,107 +52,36 @@
       "aplazado": false
     },
     {
-      "id": "laliga-102322",
-      "slug": "temporada-2026-2027-laliga-ea-sports-fc-barcelona-getafe-cf-8",
-      "fecha": "2026-10-10T18:30:00+02:00",
+      "id": "laliga-102338",
+      "slug": "temporada-2026-2027-laliga-ea-sports-villarreal-cf-elche-cf-9",
+      "fecha": "2026-10-17T16:15:00+02:00",
       "estado": "pre",
       "detalle": "",
       "canal": [
         "DAZN"
       ],
       "local": {
-        "equipo": "FC Barcelona",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/fc-barcelona.png"
-      },
-      "visitante": {
-        "equipo": "Getafe CF",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/getafe-cf.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102327",
-      "slug": "temporada-2026-2027-laliga-ea-sports-real-madrid-villarreal-cf-8",
-      "fecha": "2026-10-10T21:00:00+02:00",
-      "estado": "pre",
-      "detalle": "",
-      "canal": [
-        "Movistar LALIGA",
-        "Movistar Plus+",
-        "Orange Fútbol 1"
-      ],
-      "local": {
-        "equipo": "Real Madrid",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/real-madrid.png"
-      },
-      "visitante": {
         "equipo": "Villarreal CF",
         "once": [],
         "formacion": "",
         "logo": "logos/villarreal-cf.png"
       },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102321",
-      "slug": "temporada-2026-2027-laliga-ea-sports-elche-cf-rc-celta-8",
-      "fecha": "2026-10-11T14:00:00+02:00",
-      "estado": "pre",
-      "detalle": "",
-      "canal": [
-        "Movistar LALIGA"
-      ],
-      "local": {
+      "visitante": {
         "equipo": "Elche CF",
         "once": [],
         "formacion": "",
         "logo": "logos/elche-cf.png"
       },
-      "visitante": {
-        "equipo": "Celta",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/celta.png"
-      },
       "aplazado": false
     },
     {
-      "id": "laliga-102328",
-      "slug": "temporada-2026-2027-laliga-ea-sports-real-sociedad-rc-deportivo-8",
-      "fecha": "2026-10-11T16:15:00+02:00",
+      "id": "laliga-102329",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-betis-fc-barcelona-9",
+      "fecha": "2026-10-17T18:30:00+02:00",
       "estado": "pre",
       "detalle": "",
       "canal": [
         "DAZN"
-      ],
-      "local": {
-        "equipo": "Real Sociedad",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/real-sociedad.png"
-      },
-      "visitante": {
-        "equipo": "RC Deportivo",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/rc-deportivo.png"
-      },
-      "aplazado": false
-    },
-    {
-      "id": "laliga-102320",
-      "slug": "temporada-2026-2027-laliga-ea-sports-real-betis-ca-osasuna-8",
-      "fecha": "2026-10-11T18:30:00+02:00",
-      "estado": "pre",
-      "detalle": "",
-      "canal": [
-        "Movistar LALIGA"
       ],
       "local": {
         "equipo": "Real Betis",
@@ -184,56 +90,150 @@
         "logo": "logos/real-betis.png"
       },
       "visitante": {
-        "equipo": "CA Osasuna",
+        "equipo": "FC Barcelona",
         "once": [],
         "formacion": "",
-        "logo": "logos/ca-osasuna.png"
+        "logo": "logos/fc-barcelona.png"
       },
       "aplazado": false
     },
     {
-      "id": "laliga-102325",
-      "slug": "temporada-2026-2027-laliga-ea-sports-r-racing-club-valencia-cf-8",
-      "fecha": "2026-10-11T21:00:00+02:00",
+      "id": "laliga-102337",
+      "slug": "temporada-2026-2027-laliga-ea-sports-valencia-cf-athletic-club-9",
+      "fecha": "2026-10-17T21:00:00+02:00",
       "estado": "pre",
       "detalle": "",
       "canal": [
-        "DAZN"
+        "Movistar LALIGA",
+        "Movistar Plus+",
+        "Orange Fútbol 1"
       ],
       "local": {
-        "equipo": "R. Racing Club",
-        "once": [],
-        "formacion": "",
-        "logo": "logos/r-racing-club.png"
-      },
-      "visitante": {
         "equipo": "Valencia CF",
         "once": [],
         "formacion": "",
         "logo": "logos/valencia-cf.png"
       },
+      "visitante": {
+        "equipo": "Athletic Club",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/athletic-club.png"
+      },
       "aplazado": false
     },
     {
-      "id": "laliga-102323",
-      "slug": "temporada-2026-2027-laliga-ea-sports-levante-ud-sevilla-fc-8",
-      "fecha": "2026-10-12T21:00:00+02:00",
+      "id": "laliga-102335",
+      "slug": "temporada-2026-2027-laliga-ea-sports-ca-osasuna-r-racing-club-9",
+      "fecha": "2026-10-18T14:00:00+02:00",
       "estado": "pre",
       "detalle": "",
       "canal": [
         "Movistar LALIGA"
       ],
       "local": {
-        "equipo": "Levante UD",
+        "equipo": "CA Osasuna",
         "once": [],
         "formacion": "",
-        "logo": "logos/levante-ud.png"
+        "logo": "logos/ca-osasuna.png"
+      },
+      "visitante": {
+        "equipo": "R. Racing Club",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/r-racing-club.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102330",
+      "slug": "temporada-2026-2027-laliga-ea-sports-rc-celta-deportivo-alaves-9",
+      "fecha": "2026-10-18T16:15:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "Celta",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/celta.png"
+      },
+      "visitante": {
+        "equipo": "Deportivo Alavés",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/deportivo-alaves.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102334",
+      "slug": "temporada-2026-2027-laliga-ea-sports-malaga-cf-real-sociedad-9",
+      "fecha": "2026-10-18T18:30:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Málaga CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/malaga-cf.png"
+      },
+      "visitante": {
+        "equipo": "Real Sociedad",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-sociedad.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102336",
+      "slug": "temporada-2026-2027-laliga-ea-sports-real-madrid-sevilla-fc-9",
+      "fecha": "2026-10-18T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "Movistar LALIGA"
+      ],
+      "local": {
+        "equipo": "Real Madrid",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/real-madrid.png"
       },
       "visitante": {
         "equipo": "Sevilla FC",
         "once": [],
         "formacion": "",
         "logo": "logos/sevilla-fc.png"
+      },
+      "aplazado": false
+    },
+    {
+      "id": "laliga-102333",
+      "slug": "temporada-2026-2027-laliga-ea-sports-getafe-cf-rayo-vallecano-9",
+      "fecha": "2026-10-19T21:00:00+02:00",
+      "estado": "pre",
+      "detalle": "",
+      "canal": [
+        "DAZN"
+      ],
+      "local": {
+        "equipo": "Getafe CF",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/getafe-cf.png"
+      },
+      "visitante": {
+        "equipo": "Rayo Vallecano",
+        "once": [],
+        "formacion": "",
+        "logo": "logos/rayo-vallecano.png"
       },
       "aplazado": false
     }
