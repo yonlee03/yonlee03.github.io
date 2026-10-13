@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T20:00:07.791397+00:00",
+  "generado": "2026-10-13T20:30:03.546384+00:00",
   "fuentes": "20minutos, El Confidencial, El Mundo, El País, Fórmula 1, Hipertextual, Marca, RTVE, blogs.nvidia.com, eldiario.es, estadiodeportivo.com, muycomputer.com, news.google.com, tomshardware.com, vandal.elespanol.com",
   "errores": [
     "https://rss.elconfidencial.com/portada/ → ParseError"
@@ -15,7 +15,14 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXR3V2F0M3BLRWFxLW10blBGZ0c0TmZ2TDYtNlg5TDQzVVBvQlB0RFR0OEpnNXlLRzF6ZTYwcEhlVHJvb0xjeDR6OTByY1ZGNGJXUjYyeUkxZTVYOXkwRl9mQndydGM0Ukg4WVNheG5vZUdsNndTRUMtVEZrOHNBUjRhZ1QyYTA4YWJIc3o3WFA3OW42U284MGg2Q2hCZ9IBowFBVV95cUxOck5EU25vSV9pWnNQUWs0VnlEVFJIajZ2Y2d0cVQ1Y042dnd0N244QUhiaERfYk1aeGphSVk3WEc5ZHJ6U01iV052ZzRnaVM4TTJsa1BRMVlKV0tYbTFTVHRwcHhNZWZzbFFZOTdQV2diRVN0RXVnMHU5QzFqYW8xcWN0YUVJVUVfWnZfSEdMQy1EWkNuUk9SeVhKM0dfTFFhVnNR?oc=5",
           "desc": "Directo | La rueda de prensa de Luís Castro tras el Levante UD - Sevilla FC Superdeporte",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T19:56:17+00:00"
+          "fecha": "2026-10-13T20:26:20+00:00"
+        },
+        {
+          "title": "CELEBRADO EL XVIII TORNEO DE PÁDEL Y II DE TENIS DEL CLUB DE EMPRESAS",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzhVdEk4VXZHUDIzdHMySFNmd29MMTNkVk9rWE1LNTFLYjhZcHlDUmVyeTRWMG52VmtGaGY0WFp4RG5TOEV0QU9SdzdGcWxGdW5SUWlTYXhQZ0lydnZ4UWNKSVNGbTBHb3pHMmkwMUtZNF93TTY3Y3p3bjZtbW81VElQRVZkNlBhRy1CNkJiVl9HQTA?oc=5",
+          "desc": "CELEBRADO EL XVIII TORNEO DE PÁDEL Y II DE TENIS DEL CLUB DE EMPRESAS Sevilla FC",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T20:03:42+00:00"
         },
         {
           "title": "Ifeanyi Ndukwe, ‘el Ede’ del Levante, que pasó de villano a héroe ante el Sevilla",
@@ -23,6 +30,13 @@
           "desc": "Ifeanyi Ndukwe, ‘el Ede’ del Levante, que pasó de villano a héroe ante el Sevilla DXT Campeón",
           "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-13T19:19:14+00:00"
+        },
+        {
+          "title": "El Sevilla disputará la primera ronda de Copa del Rey en Alcalá de Henares",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2dzem80aEJNM3dGbGJSamNZMVdNb3M3ejBMc3VnRldubUtLRC1aMHEyeHNzQTBmUy1LYzM4QWROQkpROHlGMWQwWG9kZjFqZ0JES2p3a1lyV3FaU2NvV3dnZDhJb0pDMUhlR1A5b1BFdl8xZ2xhRG02Wmo4ZnRTaHQ5YjU?oc=5",
+          "desc": "El Sevilla disputará la primera ronda de Copa del Rey en Alcalá de Henares www.elsevillista.es",
+          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T19:15:00+00:00"
         },
         {
           "title": "Stassin vuelve a entrenar con el Sevilla y apunta al Santiago Bernabéu",
@@ -163,20 +177,6 @@
           "desc": "Programa número nueve de la cuarta temporada de 'La Prórroga de Estadio Deportivo', la apuesta audiovisual de ESTADIO Deportivo. En esta ocasión, con la participación de Rafa Cala y Pablo Casas. Programa número nueve de la cuarta temporada de 'La Prórroga de Estadio Deportivo', presentado por José Antonio Rivero y, en esta ocasión, con la participación de Rafa Cala y Pablo Casas como tertulianos. La goleada del Betis ante Osasuna y su buena racha, el empate del Sevilla en Valencia, la polémica de Isaac Romero y Vinicius o el regreso de la Champions, protagonistas del programa de esta semana, que en lugar del lunes se emite el martes, puesto que el 12 de octubre fue festivo por el Día de la Hispanidad. Comenzamos hablando del fin del parón de selecciones y la jornada 8 de LaLiga EA Sports, destacando el triunfo del Betis (5-2) ante Osasuna , con debut y gol de Morante incluido , y el tropiezo del Sevilla FC en Valencia ante el Levante. El cuadro de Luis García Plaza iba venciendo 0-2 y acabó empatando 3-3. Además, en cuanto a nombres propios, ponemos el foco en Isaac Romero y su expulsión en el Ciutat de Valencia y en Vinicius y su expulsión por tirar del pelo a un rival durante el partido contra el Villarreal. También charlamos sobre la vuelta de la Champions League, en la que Betis, Real Madrid y Barça buscarán su segundo triunfo consecutivo en la fase de liga, mientras que Atlético de Madrid y Villarreal intentarán pasar página de la derrota de la primera jornada ganando a Manchester United y Nápoles, respectivamente. Este programa es el número 155, al margen de la edición especial que realizamos de 'La Prórroga de Estadio Deportivo' durante el mundial de 2026 en Estados Unidos, México y Canadá, la cual acabó ganando la selección española, y el especial que hicimos por la Eurocopa de 2024. Recuerda también que puedes ver el programa en directo en el canal de YouTube de ESTADIO Deportivo , los lunes a las 13:00 horas. También emitimos en directo en nuestro canal de Twitch y en nuestro perfil de X (antiguo Twitter). Además, puedes escucharlo desde cualquier lugar y en diversas plataformas de podcast, concretamente en Spotify e iVoox, así como vernos cuando gustes en la web de ESTADIO Deportivo.",
           "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
           "fecha": "2026-10-13T10:56:00+00:00"
-        },
-        {
-          "title": "La letra pequeña del contrato de Zabiri, gran revelación  de LaLiga, con el Racing de Santander",
-          "link": "https://www.estadiodeportivo.com/futbol/racing-santander/letra-pequena-del-contrato-zabiri-gran-revelacion-laliga-con-racing-santander-20261013-548491.html",
-          "desc": "El delantero marroquí, que suma 7 goles, como Mbappé y Lamine Yamal, está cedido sin opción de compra en el conjunto cántabro, que ya se adelantó en verano al Marsella y el Venezia y al menos puede respirar tranquilo de cara al mercado de enero Lamine Yamal, Kylian Mbappé... y Yassir Zabiri. Los tres tienen en común que han anotado 7 goles en las 8 primeras jornadas de LaLiga , siguiendo la estela en el Trofeo Pichichi del imparable Raphinha , autor de 12 dianas. Sin duda, el joven delantero marroquí, de 21 años, es la gran revelación del campeonato. Un fichaje redondo para el Racing de Santander, que al menos tiene asegurada su continuidad hasta final de temporada , pues viendo su espectacular rendimiento no sería nada extraño que algún equipo más poderoso tratase de llevárselo en enero. El director deportivo del conjunto cántabro, Chema Aragón , anduvo listo en verano para hacerse con la cesión del ariete nacido en Marrakech, al que llevaba tiempo siguiendo. En concreto, desde que destacó en la Liga Revelaçao de Portugal con el equipo sub 23 del Famalicao, con el que hizo 5 goles en 6 encuentros en la 24/25. Ese mismo curso dio el salto al primer equipo, con el que firmó 7 tantos en 20 choques antes de que en el último mercado invernal el Rennes llegase con el talonario y pagase 10 millones de euros por su fichaje. Zabiri, la estrella del Mundial sub 20, y su relación con el Atlético de Madrid Tras Sergio Canales, el Racing de Santander cierra la llegada de Yassir Zabiri, estrella del Mundial sub 20 Convertido en estrella en el Mundial sub 20 Dicha apuesta tuvo como origen el protagonismo de Zabiri en el Mundial sub 20 celebrado unos meses antes, en el que se proclamó campeón con Marruecos y máximo goleador , apareciendo en la agenda del Sevilla FC entre otros . Ahí también fue seguido de cerca por Chema Aragón, pero el poderío económico del club francés declinó la balanza. Sin embargo, en la Ligue 1 no cuajó la pasada campaña. Apenas participó en seis partidos, todos ellos como suplente, y no vio portería . Por ello, se le buscó un préstamo, y ahí el Racing estuvo rápido para adelantarse al Olympique de Marsella y el Venezia , que proponían quedarse con una opción de compra. Zabiri posee una cláusula de rescisión en el Rennes superior a los 20 millones de euros, pero el el club francés no puede romper la cesión en el mercado de enero \"> En El Sardinero, en cambio, no disponen de esa posibilidad, por lo que será prácticamente imposible quedarse con el delantero norteafricano en propiedad, siendo su cláusula de rescisión superior a los 20 millones de euros . Pero según el diario As , tampoco existe la posibilidad de que el Rennes lo repesque a mitad de temporada , algo que sí se acordó la pasada campaña con el Athletic por Peio Canales y con el Feyenoord por el meta búlgano Plamen Andreev , que se fe en enero al Lech Poznan polaco ante la falta de minutos. Los números de Zabiri en el Racing de Santander La afición del Racing, por tanto, podrá seguir disfrutando de un jugador que comenzó el curso como suplente, pero se destapó con un 'hat trick' ante el Elche en la tercera jornada que le dio el primero triunfo a su equipo (3-2). También fue clave en la segunda y última victoria hasta la fecha, ante el Deportivo Alavés, al firmar un doblete (2-1). Y tras ver puerta en la goleada sufrida contra el FC Barcelona en en el Camp Nou (7-2), volvió a 'mojar' esta pasada jornada en el empate con el Valencia (2-2). El tercer jugador más eficaz de las grandes ligas de Europa En Francia se tiran de los pelos al ver su rendimiento. Pues, además, solo ha necesitado 17 disparos a portería, lo que arroja un elevado 41,2% de efectividad ante el arco contrario. Según los datos de Opta, el tercer jugador más eficaz de las cinco grandes ligas europeas que han marcado al menos cinco goles. Motivos de sobra para que el prestigioso diario L'Equipe le dedique un amplio reportaje y se pregunte los motivos por los que no llegó a triunfar en el Rennes, con el que sigue teniendo contrato hasta 2029. LaLiga se adapta mejor a sus cualidades: \"Me gusta mucho\" En este sentido, además de la competencia en ataque con Estéban Lepaul y Breel Embolo, el propio Zabiri ya dejó claro que LaLiga se adapta mejor a sus cualidades. \" En Francia hay muchos duelos, pero los jugadores no combinan demasiado entre ellos, y ese no es mi estilo. Me gusta mucho España, aquí los delanteros marcan muchos goles\", explicó a su llegada a Santander, cuando se marcó como objetivo la cifra de diez tantos. A este ritmo, no tardará en superarlo. Quiere más con Marruecos A nivel internacional, además, el ariete magrebí, que se formó en la Academia Mohammed VI y pasó también por el Union Touarga de su país, ya tuvo la oportunidad de debutar como internacional absoluto por Marruecos el pasado mes de mayo, en los amistosos previos al Mundial. Este último parón también fue convocado y se estrenó como titular ante Gabón , pero se quedó sin jugar en los otros dos choques programados haciendo méritos en el Racing para elevar su cuota de protagonismo con vistas a la Copa de África del próximo verano.",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-13T10:51:22+00:00"
-        },
-        {
-          "title": "Esto es lo que dice el acta tras las polémicas del Levante UD - Sevilla FC",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHlsTW92TTBkN0FPYWxFZThueEI3SW9hMkpTMDgwd05ORjVqX1dRRFZzS2Jzb0NmT3hYOHlmZ3ZqZi1ja2xHekh0QWF6enQ0NXF2YkdPenZzYk9TbmwxODNmQjJMTjhzZnNfSk9NNEZPZTdzY2VNZ2NSNUZUdEowUVdjNTVVdFVxd1pWX05fS0xaUG5YTWRLZ2V6djFoTnZpa0t0MtIBqgFBVV95cUxQYlk5UnNweVdtZTBnZTBZTXhGWFg2RlFoNHFGNDY4c3JhTkkwbmFQd1RTM2Z5QzRjSjBPNnVjLUZTczhjRXoyTjZaWjd0RkIwTmxESnF1aTVKRHYwSTFwN3pqN1JSMHZPZnVNRFpvVG1QWWpJOHJwdVFkeHNWdEliSEFnSVkweVZpbzMybWMzUmpZQWVnN1BoZFczSXZSZVB6YnNWUUFnQzFZQQ?oc=5",
-          "desc": "Esto es lo que dice el acta tras las polémicas del Levante UD - Sevilla FC Superdeporte",
-          "source": "https://news.google.com/rss/search?q=Sevilla+FC&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T10:42:50+00:00"
         }
       ]
     },
@@ -185,11 +185,32 @@
       "icono": "⚽",
       "items": [
         {
-          "title": "Atlético de Madrid - Manchester United, el partido de la Champions League en directo| El Atleti gana al medio tiempo gracias al gol tempranero de Barrios",
-          "link": "https://elpais.com/deportes/futbol/2026-10-13/atletico-de-madrid-manchester-united-el-partido-de-la-champions-league-en-directo.html",
-          "desc": "El conjunto rojiblanco busca su primera victoria en la competición continental después de haber comenzado su andadura con una derrota",
+          "title": "Galatasaray - Barcelona en directo | Adeyemi encarrila la victoria del Barça",
+          "link": "https://elpais.com/deportes/futbol/2026-10-13/galatasaray-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+          "desc": "Batrakov adelantó al equipo turco con algo de fortuna y el VAR anuló un gol a Yilmaz por fuera de juego | Cancelo igualó la contienda antes del descanso y Fermín y Gordon culminaron la remontada",
           "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-10-13T19:58:08+00:00"
+          "fecha": "2026-10-13T20:29:00+00:00"
+        },
+        {
+          "title": "Atlético de Madrid - Manchester United, el partido de la Champions League en directo| El Atleti conserva la ventaja gracias al gol de Barrios",
+          "link": "https://elpais.com/deportes/futbol/2026-10-13/atletico-de-madrid-manchester-united-el-partido-de-la-champions-league-en-directo.html",
+          "desc": "El conjunto inglés no logra romper el cerrojo rojiblanco, muy seguro atrás gracias a Oblak y Romero",
+          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+          "fecha": "2026-10-13T20:28:51+00:00"
+        },
+        {
+          "title": "Galatasaray 1-3 Barcelona en directo: Resultado del partido de la Jornada 2 de la Champions League en vivo online",
+          "link": "https://www.estadiodeportivo.com/futbol/champions-league/galatasaray-barcelona-directo-partido-jornada-champions-league-vivo-online-20261013-548500.html",
+          "desc": "En ESTADIO Deportivo estamos en directo desde dos horas antes del Galatasaray - Barcelona, correspondiente a la segunda jornada de la Champions League. Te contamos toda la previa, las alineaciones, la última hora de ambos equipos y, a partir del pitido inicial, el minuto a minuto El FC Barcelona afronta una nueva noche europea con una visita exigente al Galatasaray . El conjunto azulgrana se desplaza a Estambul para disputar la segunda jornada de la Champions League, en un encuentro en el que buscará prolongar las buenas sensaciones de su estreno y dar otro paso adelante en la máxima competición continental. Enfrente tendrá a un rival que necesita hacerse fuerte en casa para no complicar su camino en Europa. El ambiente del RAMS Park será uno de los grandes alicientes de un choque que promete intensidad desde el pitido inicial. La afición turca a costumbra a convertir las noches europeas en una auténtica prueba para los visitantes, por lo que el equipo de Hansi Flick tendrá que mantener la concentración y evitar errores que puedan dar alas a su adversario. El Barcelona tratará de imponer su estilo, dominar la posesión y encontrar espacios para hacer daño en el área rival. Lamine Yamal, estrella de España y del Barcelona, (19 años) : \"Voy yendo a clase y cada día me ponen unos deberes diferentes\" Lamine Yamal, estrella del Barcelona y de España: \"Vi a mi madre esforzarse para que yo pudiera jugar al fútbol y a mi padre recoger chatarra para que yo pudiera comer\" El Barcelona busca otro triunfo en la Champions League El conjunto azulgrana afronta esta segunda jornada con la ambición de consolidarse entre los equipos que aspiran a llegar lejos en el torneo. La exigencia de la fase liga obliga a sumar puntos desde el principio, especialmente en una competición en la que la regularidad puede marcar la diferencia a la hora de acceder directamente a las eliminatorias. Hansi Flick quiere que su equipo mantenga la personalidad que caracteriza su propuesta futbolística. La presión adelantada, la velocidad en la circulación y la capacidad para atacar los espacios serán algunas de las armas que intentará utilizar el Barcelona para superar al conjunto turco. Sin embargo, jugar lejos de casa siempre añade dificultades, especialmente ante un adversario que tratará de aprovechar cualquier pérdida para salir rápidamente al contragolpe. Uno de los nombres propios del encuentro será Lamine Yamal . El joven extremo representa una de las principales amenazas ofensivas del Barça gracias a su desequilibrio, su capacidad para superar rivales en el uno contra uno y su facilidad para generar ocasiones. Su actuación puede resultar determinante en un partido en el que encontrar soluciones en los últimos metros será fundamental. El Galatasaray quiere convertir su estadio en una fortaleza El equipo turco afronta el desafío con la intención de aprovechar el apoyo de su afición y plantar cara a uno de los grandes clubes del fútbol europeo. El Galatasaray sabe que n ecesitará competir con intensidad, cerrar los espacios y aprovechar sus oportunidades si quiere poner en dificultades al conjunto azulgrana. La presencia de Victor Osimhen añade peligro a su ataque. El delantero puede marcar diferencias por su potencia, sus movimientos dentro del área y su capacidad para aprovechar los centros y los balones al espacio. Por ello, la defensa barcelonista deberá prestar especial atención a sus desmarques y evitar que reciba en situaciones favorables. El encuentro también supondrá una prueba para medir la capacidad del Barcelona de gestionar los momentos de mayor presión. Si consigue controlar el ritmo y minimizar las pérdidas, tendrá opciones de llevar el partido a su terreno. Si el Galatasaray logra imponer la intensidad y conectar con sus delanteros, el choque puede complicarse para los visitantes. Bordalás se rinde al Barça y evita hablar de Carvajal: \"¿Carvajal? Entiendo la pregunta pero mi mente está en el partido contra el Barcelona\" Raphinha, prácticamente descartado para el Barcelona - Getafe",
+          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
+          "fecha": "2026-10-13T20:27:13+00:00"
+        },
+        {
+          "title": "Clasificación de la Champions League, en directo: el Barça se coloca primero de la fase liga",
+          "link": "https://www.marca.com/futbol/champions-league/2026/10/13/clasificacion-champions-league-directo-barca-coloca-primero-fase-liga.html",
+          "desc": "Todos los detalles sobre los equipos de la máxima competición europea",
+          "source": "https://www.marca.com/rss/futbol.xml",
+          "fecha": "2026-10-13T22:26:16+02:00"
         },
         {
           "title": "Alineaciones probables del Roma - Real Madrid, última hora en Champions",
@@ -197,20 +218,6 @@
           "desc": "Huijsen y Vinicius volverían al once de Mourinho en el Olímpico",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-10-13T21:57:24+02:00"
-        },
-        {
-          "title": "Galatasaray - Barcelona en directo | Cancelo iguala la contienda antes del descanso",
-          "link": "https://elpais.com/deportes/futbol/2026-10-13/galatasaray-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-          "desc": "Batrakov adelantó al equipo turco con algo de fortuna | El VAR anuló un gol a Yilmaz por fuera de juego",
-          "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
-          "fecha": "2026-10-13T19:57:01+00:00"
-        },
-        {
-          "title": "Galatasaray - Barcelona en directo: Resultado del partido de la Jornada 2 de la Champions League en vivo online",
-          "link": "https://www.estadiodeportivo.com/futbol/champions-league/galatasaray-barcelona-directo-partido-jornada-champions-league-vivo-online-20261013-548500.html",
-          "desc": "En ESTADIO Deportivo estamos en directo desde dos horas antes del Galatasaray - Barcelona, correspondiente a la segunda jornada de la Champions League. Te contamos toda la previa, las alineaciones, la última hora de ambos equipos y, a partir del pitido inicial, el minuto a minuto El FC Barcelona afronta una nueva noche europea con una visita exigente al Galatasaray . El conjunto azulgrana se desplaza a Estambul para disputar la segunda jornada de la Champions League, en un encuentro en el que buscará prolongar las buenas sensaciones de su estreno y dar otro paso adelante en la máxima competición continental. Enfrente tendrá a un rival que necesita hacerse fuerte en casa para no complicar su camino en Europa. El ambiente del RAMS Park será uno de los grandes alicientes de un choque que promete intensidad desde el pitido inicial. La afición turca a costumbra a convertir las noches europeas en una auténtica prueba para los visitantes, por lo que el equipo de Hansi Flick tendrá que mantener la concentración y evitar errores que puedan dar alas a su adversario. El Barcelona tratará de imponer su estilo, dominar la posesión y encontrar espacios para hacer daño en el área rival. Lamine Yamal, estrella de España y del Barcelona, (19 años) : \"Voy yendo a clase y cada día me ponen unos deberes diferentes\" Lamine Yamal, estrella del Barcelona y de España: \"Vi a mi madre esforzarse para que yo pudiera jugar al fútbol y a mi padre recoger chatarra para que yo pudiera comer\" El Barcelona busca otro triunfo en la Champions League El conjunto azulgrana afronta esta segunda jornada con la ambición de consolidarse entre los equipos que aspiran a llegar lejos en el torneo. La exigencia de la fase liga obliga a sumar puntos desde el principio, especialmente en una competición en la que la regularidad puede marcar la diferencia a la hora de acceder directamente a las eliminatorias. Hansi Flick quiere que su equipo mantenga la personalidad que caracteriza su propuesta futbolística. La presión adelantada, la velocidad en la circulación y la capacidad para atacar los espacios serán algunas de las armas que intentará utilizar el Barcelona para superar al conjunto turco. Sin embargo, jugar lejos de casa siempre añade dificultades, especialmente ante un adversario que tratará de aprovechar cualquier pérdida para salir rápidamente al contragolpe. Uno de los nombres propios del encuentro será Lamine Yamal . El joven extremo representa una de las principales amenazas ofensivas del Barça gracias a su desequilibrio, su capacidad para superar rivales en el uno contra uno y su facilidad para generar ocasiones. Su actuación puede resultar determinante en un partido en el que encontrar soluciones en los últimos metros será fundamental. El Galatasaray quiere convertir su estadio en una fortaleza El equipo turco afronta el desafío con la intención de aprovechar el apoyo de su afición y plantar cara a uno de los grandes clubes del fútbol europeo. El Galatasaray sabe que n ecesitará competir con intensidad, cerrar los espacios y aprovechar sus oportunidades si quiere poner en dificultades al conjunto azulgrana. La presencia de Victor Osimhen añade peligro a su ataque. El delantero puede marcar diferencias por su potencia, sus movimientos dentro del área y su capacidad para aprovechar los centros y los balones al espacio. Por ello, la defensa barcelonista deberá prestar especial atención a sus desmarques y evitar que reciba en situaciones favorables. El encuentro también supondrá una prueba para medir la capacidad del Barcelona de gestionar los momentos de mayor presión. Si consigue controlar el ritmo y minimizar las pérdidas, tendrá opciones de llevar el partido a su terreno. Si el Galatasaray logra imponer la intensidad y conectar con sus delanteros, el choque puede complicarse para los visitantes. Bordalás se rinde al Barça y evita hablar de Carvajal: \"¿Carvajal? Entiendo la pregunta pero mi mente está en el partido contra el Barcelona\" Raphinha, prácticamente descartado para el Barcelona - Getafe",
-          "source": "https://www.estadiodeportivo.com/sitemaps/rss.xml",
-          "fecha": "2026-10-13T19:56:37+00:00"
         },
         {
           "title": "Carlos Alcaraz anuncia que será padre por primera vez",
@@ -283,7 +290,7 @@
           "fecha": "2026-10-13T20:42:25+02:00"
         },
         {
-          "title": "Tres notables en el Atleti",
+          "title": "Un seguro de vida",
           "link": "https://www.marca.com/futbol/atletico/2026/10/13/atletico-manchester-united-valoracion-comentarios.html",
           "desc": "Analizamos la actuación de los jugadores del Atlético y de Simeone",
           "source": "https://www.marca.com/rss/portada.xml",
@@ -344,13 +351,6 @@
           "desc": "El jugador del Sabah lució numerosos agujeros en las medias en el duelo ante el Slavia",
           "source": "https://www.marca.com/rss/futbol.xml",
           "fecha": "2026-10-13T20:29:54+02:00"
-        },
-        {
-          "title": "El Atlético estrena las nuevas placas del Metropolitano",
-          "link": "https://www.marca.com/futbol/atletico/2026/10/13/atletico-estrena-nuevas-placas-metropolitan-video.html",
-          "desc": "",
-          "source": "https://www.marca.com/rss/portada.xml",
-          "fecha": "2026-10-13T20:25:40+02:00"
         }
       ]
     },
@@ -363,63 +363,63 @@
           "link": "https://www.formula1.com/en/latest/article/hills-a-lake-and-a-roller-coaster-inside-rwandas-plan-for-the-african-grand-prix.76LEZDItQYH362QElcHoY1",
           "desc": "Formula 1 will return to Africa in the early 2030s after Rwanda agreed a 10-year deal to host an African Grand Prix. President Paul Kagame, the country’s officials and the circuit’s designers explain what they are building – and why.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "PALMER: What really cost Hamilton a podium in Singapore?",
           "link": "https://www.formula1.com/en/latest/article/what-really-cost-lewis-hamilton-a-podium-in-singapore.4OsGotxiP08t92cvjeXO4y",
           "desc": "Former Renault F1 driver and F1 TV's expert analyst Jolyon Palmer delves into the detail of Hamilton's race under the Singapore lights.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "Who impressed our Power Rankings judges in Singapore?",
           "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-singapore-grand-prix.5QlX11s0CnF9CNnoa0H2O2",
           "desc": "Max Verstappen was in a class of his own in Singapore last weekend, as he finally claimed victory at the Marina Bay Street Circuit. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below...",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "Everything we know about F1’s all-new race in Rwanda",
           "link": "https://www.formula1.com/en/latest/article/everything-we-know-about-f1s-all-new-race-in-rwanda.3Mde3s9FqIOTbkzKs0Puwo",
           "desc": "Formula 1 is heading back to Africa after agreeing a 10-year deal to race in Rwanda in the early 2030s. To get you up to speed, here’s what we know...",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "F1 returns to Africa with 10-year deal to race in Rwanda",
           "link": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES",
           "desc": "Formula 1 has announced a landmark 10-year agreement to bring the sport back to the African continent, with the Formula 1 African Grand Prix, presented by Visit Rwanda, set to join the calendar in the early 2030s.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "When is the earliest Antonelli could win the title?",
           "link": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy",
           "desc": "As Kimi Antonelli continues to lead the standings, F1.com looks at the permutations for when the Mercedes driver could mathematically win the World Championship.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "Mekies hails ‘outstanding’ Verstappen in Red Bull resurgence",
           "link": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY",
           "desc": "Laurent Mekies has identified the important role Max Verstappen has played in Red Bull's 2026 turnaround.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "How Norris' radio offer supported Stella's team-first ethos",
           "link": "https://www.formula1.com/en/latest/article/how-norris-radio-offer-confirmed-that-stellas-team-interest-message-has-worked.7hsFO5Pn6GVkid4c8BYMYN",
           "desc": "After clashing with his team mate in the Singapore Sprint, Lando Norris put effort into proving that he could prioritise McLaren's interests.",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "Vote for Your Heineken® F1 Season Ticket Winner",
           "link": "https://www.formula1.com/en/latest/article/vote-for-your-heineken-r-f1-season-ticket-winner.6pVzBqxOb38IOC4E71ZQLl",
           "desc": "",
           "source": "https://www.formula1.com/en/latest/all.xml",
-          "fecha": "2026-10-13T20:00:07.791397+00:00"
+          "fecha": "2026-10-13T20:30:03.546384+00:00"
         },
         {
           "title": "Alineaciones Betis - Oporto: alineaciones probables de Real Betis y FC Porto en la jornada 2 de la UEFA Champions League",
@@ -532,6 +532,13 @@
       "nombre": "Tecnología",
       "icono": "💻",
       "items": [
+        {
+          "title": "Anatomía del nuevo Citroën 2CV: vuelve como eléctrico desde 15.000 euros y con versión furgoneta",
+          "link": "https://www.eldiario.es/motor/novedades/anatomia-nuevo-citroen-2cv-vuelve-electrico-15-000-euros-version-furgoneta_1_13583279.html",
+          "desc": "El icónico modelo de la marca francesa se convierte en la sensación del Salón del Automóvil, el mismo lugar donde nació en 1958 con la misma vocación de turismo popular El automóvil europeo contraataca a China con eléctricos cargados de diseño, tecnología y nostalgia El Citroën 2CV ha vuelto a convertirse en una de las estrellas del Salón del Automóvil de París . Casi ocho décadas después de su presentación en la muestra francesa, en 1948, el fabricante recupera el espíritu de uno de los automóviles más populares de la historia con el 2 CV Concept, un prototipo eléctrico que aspira a devolver el coche pequeño, sencillo y asequible al centro del mercado. La propuesta contempla un precio de partida de unos 15.000 euros y una futura versión de producción prevista para 2028. Junto a ella, Citroën ha presentado también una reinterpretación de la variante comercial 2 CV Fourgonnette, concebida para trasladar esa filosofía al ámbito profesional. El regreso del 2CV no consiste en reproducir literalmente el modelo original, sino en adaptar su receta a los desafíos actuales de la movilidad. El nuevo concepto apuesta por la electrificación, un tamaño contenido, soluciones prácticas y un diseño reconocible que combina las formas redondeadas del histórico automóvil con detalles contemporáneos. Con 3,76 metros de longitud, incluso es más corto que el modelo original, y su objetivo de peso ronda la tonelada, dos decisiones orientadas a contener el consumo, el tamaño de la batería y los costes. window.marfeel.cmd.push(['multimedia', function(multimedia) { multimedia.initializeItem('yt-T3Q68gBl1Mo-8009', 'youtube', 'T3Q68gBl1Mo', document.getElementById('yt-T3Q68gBl1Mo-8009')); }]); La propuesta se sitúa entre el pequeño Ami y el C3 dentro de la gama de Citroën y pretende responder a uno de los grandes obstáculos para la popularización del coche eléctrico: el precio. En un mercado en el que los vehículos han ganado tamaño, peso y sofisticación, la marca francesa reivindica una fórmula que prioriza lo esencial. El prototipo incorpora faros redondos, techo curvado, llantas de acero de 18 pulgadas y un interior diáfano, con asientos de inspiración clásica, una pantalla central de ocho pulgadas y soluciones de almacenamiento poco convencionales. La capota de tela enrollable y los guiños al pasado refuerzan su personalidad. Un coche con alma La reinvención alcanza también a la 2 CV Fourgonnette, la furgoneta que durante décadas acompañó a artesanos, pequeños comerciantes y repartidores. El nuevo concepto recupera esa vocación de herramienta de trabajo accesible, práctica e ingeniosa, pero la traslada a una visión contemporánea: propulsión eléctrica, diseño funcional y una identidad visual ligada al turismo del que deriva. “El 2 CV Fourgonnette no era solo una herramienta de trabajo. Formaba parte de la vida. Sencilla, ingeniosa, accesible, tenía sobre todo algo que pocos vehículos utilitarios tienen: un alma. Esa es la idea que revivimos hoy. Porque útil nunca debería significar banal”, señala Xavier Chardon, director general de Citroën y DS Automobiles. Sin embargo, la marca precisa que la Fourgonnette es, por ahora, un ejercicio de diseño y no anticipa un modelo de producción a corto plazo. Su presentación sirve para reivindicar la relación histórica de Citroën con los profesionales y demostrar que el concepto de vehículo comercial puede conservar personalidad sin renunciar a la funcionalidad.",
+          "source": "https://www.eldiario.es/rss/",
+          "fecha": "2026-10-13T20:00:30+00:00"
+        },
         {
           "title": "NVIDIA RTX Spark también sirve para jugar: soporte Día 1 para cientos de juegos y Anti-Cheats",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbU9LMDFTU0kybXFhSFVScURyaTRPRklPUGFxWmFkU1R4a1R3WDlxWVRaeS15RU1Xc3pEUTIyc2ZqTExmWjFaV2NWQmY3Y1p1T0RIcVRTeVFGbV8zRWI2Z3JLWER4WFA0S2tNTEVsZUt3TldxaFRzTHN6TmRpX0VOelMwOXQ2OEZvNHEyWDZ2MmN3N1k?oc=5",
@@ -666,6 +673,13 @@
           "fecha": "2026-10-13T17:35:42+00:00"
         },
         {
+          "title": "Un vídeo del cuerpo humano gana un concurso de Nikon, pero acaba perdiendo el premio por usar IA",
+          "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/video-cuerpo-humano-gana-concurso-nikon-acaba-perdiendo-premio-usar-inteligencia-artificial_7048211_0.html",
+          "desc": "Dicha grabación fue anunciada como la ganadora en septiembre, pero en redes sociales de repente empezaron a surgir las dudas.",
+          "source": "https://www.20minutos.es/rss/",
+          "fecha": "2026-10-13T19:30:00+02:00"
+        },
+        {
           "title": "Nvidia promete USD $2.000 millones para impulsar la IA en Europa",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGNBeHF4endMRmJOeXEtU0gyYmxSREIwSlg0bDUtdFIwOG4ybnI1YzdKQk5vb0ZJaEZBMnptSzNDcWZFbHNhLXBaOGVmeFJ4Y2xCMmxkVENpSGpvblV1WjJnNGt4MDJpXzdOV2ExS253SVZsb2lDWW1JZklrNmxJcWpGZXpWRE84UDVEWjFEaHJWRDZvdzNyQjBxaFVQcnJaUkpIaS1LUlRhVTdjcDBDSXhmdTE?oc=5",
           "desc": "Nvidia promete USD $2.000 millones para impulsar la IA en Europa DiarioBitcoin",
@@ -680,25 +694,11 @@
           "fecha": "2026-10-13T17:03:10+00:00"
         },
         {
-          "title": "Nuevas tarjetas gráficas: novedades de NVIDIA, AMD e Intel (2026)",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZlJ6anpLelRKdklrdjNRX2ZURUJsNERhdS1VWG1VN1ZOSTFrNWhnRV82eEhaQlBlb1U4REVpVWhtdnByeW12eFV6UXVEeWhzNzdMVmZCXzhYdGMwM3RMdmpBZVpKNjJ2N2E1WVZTUWtBQk5KeHJrcDJNaHBCTUN6UG1VY2tITU8yNFAzdjZOSXBCWFk?oc=5",
-          "desc": "Nuevas tarjetas gráficas: novedades de NVIDIA, AMD e Intel (2026) HP",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T16:59:11+00:00"
-        },
-        {
           "title": "Nvidia planea anunciar inversiones por 2.000 millones USD en Europa, según su consejero delegado Jensen Huang",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHdnV05kbEc2VTlLWWw4c3VtWF9TTTFIYzdIUnlINFJmMU9QRnMyaHRWa1dUal91VjZaam1TdS1YRWZRY2tGcGVJMlJEM0NOMFZxWDM2dV93eGE2RC1qVjhYVlFFVFF3SU1nblY5T3UtQ1ZqeXo1eWJkTFBoV0RlcXVFWTM4SlpGbW5FWk1Uem1raWFCWjAzZWlPdnBEbTZvdmFmWHFPb05zNHowLWg0N0ZHUHFTdzNIcjhpc2JGcTRRVmhZaGdzSTdjT2RQU3ZPbXN6MXR4bm9CTkw3MzBERlpHbnVXaUNLRVBn?oc=5",
           "desc": "Nvidia planea anunciar inversiones por 2.000 millones USD en Europa, según su consejero delegado Jensen Huang MarketScreener España",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-13T16:55:55+00:00"
-        },
-        {
-          "title": "4 acciones a considerar, 5 a evitar tras caída de semiconductores hoy: ¿y Nvidia? - Investing.com México",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmZub1ZLZlpyTmtFVU9USW5jWUl0bk9nMWRtV3gxWkI5UkttNXVjc0V2aGRJZ2h0d3Y4UkpPdlRYckYzS2w3NTdyaFFYVno4RFMzTEkwaUs1aGZrUEJhMUdqSV8zSVJvZ3JCQmU4MURjR3FDT1BKUkdraWRmVlhaY2laeElCUFc2Uzc4ajFkUVI3RVo3OWxjMGFUZmdiV1dZZ2tyU29OMmxkR1lDcTZDaWNBaFlBSUs2R3lEbHlUeUJ5MUVXdGFpUzdpQzB4Zw?oc=5",
-          "desc": "4 acciones a considerar, 5 a evitar tras caída de semiconductores hoy: ¿y Nvidia? Investing.com México - Finanzas, Bolsa y Forex",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T16:54:30+00:00"
         }
       ]
     },
@@ -1000,13 +1000,6 @@
           "fecha": "2026-10-13T17:03:10+00:00"
         },
         {
-          "title": "Nuevas tarjetas gráficas: novedades de NVIDIA, AMD e Intel (2026)",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZlJ6anpLelRKdklrdjNRX2ZURUJsNERhdS1VWG1VN1ZOSTFrNWhnRV82eEhaQlBlb1U4REVpVWhtdnByeW12eFV6UXVEeWhzNzdMVmZCXzhYdGMwM3RMdmpBZVpKNjJ2N2E1WVZTUWtBQk5KeHJrcDJNaHBCTUN6UG1VY2tITU8yNFAzdjZOSXBCWFk?oc=5",
-          "desc": "Nuevas tarjetas gráficas: novedades de NVIDIA, AMD e Intel (2026) HP",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T16:59:11+00:00"
-        },
-        {
           "title": "Nvidia planea anunciar inversiones por 2.000 millones USD en Europa, según su consejero delegado Jensen Huang",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHdnV05kbEc2VTlLWWw4c3VtWF9TTTFIYzdIUnlINFJmMU9QRnMyaHRWa1dUal91VjZaam1TdS1YRWZRY2tGcGVJMlJEM0NOMFZxWDM2dV93eGE2RC1qVjhYVlFFVFF3SU1nblY5T3UtQ1ZqeXo1eWJkTFBoV0RlcXVFWTM4SlpGbW5FWk1Uem1raWFCWjAzZWlPdnBEbTZvdmFmWHFPb05zNHowLWg0N0ZHUHFTdzNIcjhpc2JGcTRRVmhZaGdzSTdjT2RQU3ZPbXN6MXR4bm9CTkw3MzBERlpHbnVXaUNLRVBn?oc=5",
           "desc": "Nvidia planea anunciar inversiones por 2.000 millones USD en Europa, según su consejero delegado Jensen Huang MarketScreener España",
@@ -1046,7 +1039,14 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhTM1VtSV9JV2NJY1RIMTQ2Z19XUm5kTUhtZTc4a0drM1RjWkFOVzZ2QzNLQ0NwOUdQTy1DUWppUXNsU0s5Qlp6cFgtTTAzd2F2T3dYb3FVNDBfS0xQR2x5NHdNQUp4VHNQYmxndWt0ZWpWMFJZRlVaX3Z3RmdSOEVR?oc=5",
           "desc": "DLSS 5 se integrará en Hogwarts Legacy y Where Winds Meet este noviembre Noticias 3D",
           "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T15:48:36+00:00"
+          "fecha": "2026-10-13T16:00:25+00:00"
+        },
+        {
+          "title": "NVIDIA: DLSS 5 ya rinde el doble a la vez que su consumo de VRAM se reduce en un 20%",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWndwY21EbVRaTFFFeVFQblM1VGJVV3d1REVFY0M1Q2s3Q1ZVbl9DY2NfamhwaDBQNWtqWXhKajU1Zzc5Tmp5anpkTE90RE1IRFpueHRUVEdsQjBCSWJidHpkRmpXNEtlMDJCdHRobl9kNHI0bTRtN2NucVFOYnI2ZE9pRFE?oc=5",
+          "desc": "NVIDIA: DLSS 5 ya rinde el doble a la vez que su consumo de VRAM se reduce en un 20% Noticias 3D",
+          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T15:48:13+00:00"
         }
       ]
     },
@@ -1082,13 +1082,6 @@
       "icono": "🖥️",
       "items": [
         {
-          "title": "Nuevas tarjetas gráficas: novedades de NVIDIA, AMD e Intel (2026)",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZlJ6anpLelRKdklrdjNRX2ZURUJsNERhdS1VWG1VN1ZOSTFrNWhnRV82eEhaQlBlb1U4REVpVWhtdnByeW12eFV6UXVEeWhzNzdMVmZCXzhYdGMwM3RMdmpBZVpKNjJ2N2E1WVZTUWtBQk5KeHJrcDJNaHBCTUN6UG1VY2tITU8yNFAzdjZOSXBCWFk?oc=5",
-          "desc": "Nuevas tarjetas gráficas: novedades de NVIDIA, AMD e Intel (2026) HP",
-          "source": "https://news.google.com/rss/search?q=NVIDIA&hl=es&gl=ES&ceid=ES:es",
-          "fecha": "2026-10-13T16:59:11+00:00"
-        },
-        {
           "title": "AMD muestra EPYC Verano con 192 núcleos Zen 6c y memoria LPDDR5X para servidores de IA",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeS10Zk4wWXlCY2pNSFRMTmJ2WUI3V091NkZzQzQtemJjZElzbW1heWs2MjNDZTRWczYtbWZ0dTBwblczaVdxMHhseDFvVzRjZ0dTNHo3UzdMRzlJbXl3X2w2WnNpbVFPdkkyWjRWSktVRC1lMHE4QnBPSTQxSnBVd1FwcUFlZ0RZdW5SVXVlaGJaQVIxYlhOSGZJSUMtOWVIeUpHM3Z0cXFIVmYwS1BwNlBfcEZqdlNPUnpScA?oc=5",
           "desc": "AMD muestra EPYC Verano con 192 núcleos Zen 6c y memoria LPDDR5X para servidores de IA Fanáticos del Hardware",
@@ -1117,6 +1110,13 @@
           "fecha": "2026-10-13T14:31:00+00:00"
         },
         {
+          "title": "AMD lanza Ryzen AI Halo con 192 GB LPDDR5X y Ryzen AI Max+ PRO 495 para ejecutar IA local",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmtET0w2bEVOUFFnZ0hCVXJYLUtzRHlpNkEyeVJ4QnZMWjZVSFZiZ2tUaUNFRWNBQ2NqU085Qm9UeXJhQkRTaGFDYTRWQjJUVm0xOTNiSkZMUExieldwVHJUUmUzbkhTTGhrV1lMVFRONVowSUxhWGYyX1dfQ0ZwcDFyTWJxdzU0UUJJeXVvd3l1Z05DUVZhNWFQOVFKS2htUlBRMmd4YkhSWFFaUVIwX1p5VmdWVzJFaHhGeU1JNA?oc=5",
+          "desc": "AMD lanza Ryzen AI Halo con 192 GB LPDDR5X y Ryzen AI Max+ PRO 495 para ejecutar IA local Fanáticos del Hardware",
+          "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
+          "fecha": "2026-10-13T14:08:44+00:00"
+        },
+        {
           "title": "NVent y AMD colaboran en la refrigeración de la solución a escala de bastidor AMD Helios",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdi1vNFVmajJ5TmY5d1pQWUpHRGpNMFdOZHBNS2RjdHQ4V2UyNUd1azZPU3VQQVdrd09KdTNGenJHSWFrc25xZGZCSHB0X3ljWTFSTXJVcmp1LVRBcTlvUGIzeVRsbFphck1sS0pHRU4xMHhLeVN5X0w5cWRQNkNTNkRFTzcySGZLUFdFcE1ZbktlNHBPT2puZ3RiYXY2QzNKSk9DbFg3VFNOdmR6Q3dJVWZtYTUwM2VtT3VOUnN5WXVGU1hOTm52dWJTRkxoZUpTM19pUnZ1VlV4Sjd6?oc=5",
           "desc": "NVent y AMD colaboran en la refrigeración de la solución a escala de bastidor AMD Helios MarketScreener España",
@@ -1124,9 +1124,9 @@
           "fecha": "2026-10-13T14:05:59+00:00"
         },
         {
-          "title": "Scaleway construyendo supercomputadora AI con AMD en Suecia",
+          "title": "Scaleway está construyendo un superordenador de IA con tecnología AMD en Suecia.",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wTUxPOHJmZU1yU01MM1FWdTRJV3hBX2NHQzBIcUpfaEJvYWs3VGdCZVZKck85LW0zSGNCdnlGZmNaeEU4cDl5Q096UkFjU0gwWEt5QU1mLXNwbi1mWE1YcDRvVE1GR3ZMUmRSUEF4NVctZw?oc=5",
-          "desc": "Scaleway construyendo supercomputadora AI con AMD en Suecia Quartz",
+          "desc": "Scaleway está construyendo un superordenador de IA con tecnología AMD en Suecia. Quartz",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-13T14:05:42+00:00"
         },
@@ -1237,7 +1237,7 @@
         },
         {
           "title": "AMD RDNA 5 podría retrasarse hasta finales de 2027 y estrenar su arquitectura con la GPU AT2",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHgwbl9PaWc2Q0NXN2c4QnRBZGdrYWRqWUpjR2pJcHR6dWhVQVU0dmdQNEgxUVlZRjJiRUhYUmI0SVVVem9ueUtLalc1V2N2Z3l4VjFwZjdidEo0RWpaczZVT3BZaHNidWQxTnlaY04wTllPckJfME55MGhNcWFEVXlhdklJOFI2ZEh2c2VxdUtBQlF3R3dkN3R0RDVod1FFMzRuUC1UZWZldThyQzRoNnFBekZKaWt2WHpxT09YV0k3dmxY?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTldmREJtTGU0RmZCVkdPZXpOZjZhVF8yWER3TkloNXh0azdNVXJtdE92V3ZvNlotRkJIZUxBYUpfaEFSdG5ucXhTbHBrcU1IVURuVFMxNkx6aHhxUjVocGNtTEtLc0VTUEhLNnNUcW9GN01WeUo3bDVvVm12UmdUb2tqUTBEV0tmTXpXa3Bqc01xWjFzaW03MHd0RG1sNlotV2VfWmxZR1ZlU0Q5cmNqZjFRdi1sR2pRdFRaM2RURWtia2M?oc=5",
           "desc": "AMD RDNA 5 podría retrasarse hasta finales de 2027 y estrenar su arquitectura con la GPU AT2 Fanáticos del Hardware",
           "source": "https://news.google.com/rss/search?q=AMD&hl=es&gl=ES&ceid=ES:es",
           "fecha": "2026-10-13T07:10:02+00:00"
