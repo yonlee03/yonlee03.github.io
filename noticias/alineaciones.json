@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T11:00:01.178114+00:00",
+  "generado": "2026-10-13T11:30:01.687899+00:00",
   "fuente": "laliga.com (oficial)",
   "jornada": 9,
   "jornada_nombre": "Jornada 9",
@@ -11,8 +11,8 @@
       "estado": "pre",
       "detalle": "",
       "canal": [
-        "Movistar LALIGA",
-        "DAZN EN ABIERTO"
+        "DAZN EN ABIERTO",
+        "Movistar LALIGA"
       ],
       "local": {
         "equipo": "RC Deportivo",
